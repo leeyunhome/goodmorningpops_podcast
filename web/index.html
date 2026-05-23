@@ -80,7 +80,7 @@
       function makeCard(e) {
         const a = document.createElement("a");
         a.className = "card";
-        a.href = `play.html?id=${encodeURIComponent(e.id)}`;
+        a.href = `play.html?id=${encodeURIComponent(e.id)}&autoplay=1`;
         a.innerHTML = `
           <div class="top">
             <span>${e.date}</span>

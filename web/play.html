@@ -61,8 +61,7 @@
   <script src="app.js"></script>
   <script>
     (async () => {
-      const params = new URLSearchParams(location.search);
-      const id = params.get("id");
+      // DOM 참조
       const titleEl = document.getElementById("title");
       const dateRow = document.getElementById("date-row");
       const movieRow = document.getElementById("movie-row");
@@ -78,98 +77,190 @@
         setTimeout(() => loader.style.display = "none", 300);
       }
 
-      if (!id) {
-        scriptEl.innerHTML = '<div class="error">?id=... 쿼리가 필요합니다.</div>';
-        hideLoader();
-        return;
-      }
-
-      let ep;
-      try {
-        ep = await fetchJson(`data/${id}.json?v=${Date.now()}`);
-      } catch (e) {
-        scriptEl.innerHTML = `<div class="error">데이터 로드 실패: ${id}</div>`;
-        hideLoader();
-        return;
-      }
-
-      document.title = `${ep.title || ep.id} — GMP Screen English`;
-      pageTitle.textContent = ep.corner_label || "Player";
-      titleEl.textContent = ep.title || ep.id;
-      dateRow.textContent = `📅 ${ep.date}`;
-      if (ep.movie) { movieRow.style.display = ""; movieRow.textContent = `🎬 ${ep.movie}`; }
-      cornerRow.textContent = `🏷️ ${ep.corner_label}`;
-      durationRow.textContent = `⏱️ ${formatDuration(ep.duration_sec)}`;
-
-      if (ep.audio_url) {
-        audio.src = ep.audio_url;
-      } else {
-        scriptEl.innerHTML = '<div class="error">audio_url 누락 (Supabase 업로드 + build_player 재실행 필요).</div>';
-        hideLoader();
-        return;
-      }
-
-      // Render segments
-      scriptEl.innerHTML = "";
-      const segDivs = [];
-      ep.script.forEach((seg, i) => {
-        const div = document.createElement("div");
-        div.className = "segment";
-        div.dataset.start = seg.start;
-        div.dataset.end = seg.end;
-        div.innerHTML = `
-          <span class="time">${formatTime(seg.start)}</span>
-          <span class="text">${escape(seg.text)}</span>
-        `;
-        div.addEventListener("click", () => {
-          audio.currentTime = seg.start;
-          audio.play();
-        });
-        scriptEl.appendChild(div);
-        segDivs.push(div);
-      });
-
-      // Highlight active segment
+      // 상태
+      let currentEp = null;
+      let nextEp = null;
+      let prevEp = null;
+      let segDivs = [];
       let activeIdx = -1;
+      let allEpisodes = [];   // 날짜 오름차순 정렬
+
+      // 전체 회차 목록 (다음/이전 탐색용)
+      try {
+        const idx = await fetchJson(`data/index.json?v=${Date.now()}`);
+        allEpisodes = (idx.episodes || []).slice()
+          .sort((a, b) => a.date.localeCompare(b.date));
+      } catch (e) {
+        console.warn("index.json 로드 실패:", e);
+      }
+
+      function findNeighbors(epId) {
+        const i = allEpisodes.findIndex(e => e.id === epId);
+        return {
+          prev: i > 0 ? allEpisodes[i - 1] : null,
+          next: (i >= 0 && i + 1 < allEpisodes.length) ? allEpisodes[i + 1] : null,
+        };
+      }
+
+      // ====== MediaSession (백그라운드/잠금화면 컨트롤) ======
+      function setupMediaSession(ep) {
+        if (!('mediaSession' in navigator)) return;
+        navigator.mediaSession.metadata = new MediaMetadata({
+          title: ep.title || ep.id,
+          artist: 'GMP Screen English',
+          album: ep.movie || ep.corner_label || '조정현의 굿모닝 팝스',
+        });
+        navigator.mediaSession.setActionHandler('play', () => audio.play());
+        navigator.mediaSession.setActionHandler('pause', () => audio.pause());
+        navigator.mediaSession.setActionHandler('seekbackward', d => {
+          audio.currentTime = Math.max(0, audio.currentTime - ((d && d.seekOffset) || 10));
+        });
+        navigator.mediaSession.setActionHandler('seekforward', d => {
+          audio.currentTime += ((d && d.seekOffset) || 10);
+        });
+        try {
+          navigator.mediaSession.setActionHandler('seekto', d => {
+            if (d.fastSeek && 'fastSeek' in audio) audio.fastSeek(d.seekTime);
+            else audio.currentTime = d.seekTime;
+          });
+        } catch {}
+        navigator.mediaSession.setActionHandler('nexttrack',
+          nextEp ? () => loadEpisode(nextEp.id, true) : null);
+        navigator.mediaSession.setActionHandler('previoustrack',
+          prevEp ? () => loadEpisode(prevEp.id, true) : null);
+      }
+
+      // ====== 메타 + segment 렌더링 ======
+      function renderMeta(ep) {
+        document.title = `${ep.title || ep.id} — GMP Screen English`;
+        pageTitle.textContent = ep.corner_label || "Player";
+        titleEl.textContent = ep.title || ep.id;
+        dateRow.textContent = `📅 ${ep.date}`;
+        if (ep.movie) { movieRow.style.display = ""; movieRow.textContent = `🎬 ${ep.movie}`; }
+        else { movieRow.style.display = "none"; }
+        cornerRow.textContent = `🏷️ ${ep.corner_label}`;
+        durationRow.textContent = `⏱️ ${formatDuration(ep.duration_sec)}`;
+
+        // 다음 회차 힌트
+        const oldHint = document.getElementById("next-hint");
+        if (oldHint) oldHint.remove();
+        if (nextEp) {
+          const hint = document.createElement("div");
+          hint.id = "next-hint";
+          hint.className = "info-row";
+          hint.style.color = "var(--accent)";
+          hint.style.cursor = "pointer";
+          hint.title = "클릭해서 바로 이동";
+          hint.innerHTML = `▶ 다음: ${escape(nextEp.title || nextEp.id)} <span style="opacity:0.6">(${nextEp.date})</span>`;
+          hint.addEventListener("click", () => loadEpisode(nextEp.id, true));
+          durationRow.parentNode.insertBefore(hint, durationRow.nextSibling);
+        }
+      }
+
+      function renderSegments(script) {
+        scriptEl.innerHTML = "";
+        segDivs = [];
+        activeIdx = -1;
+        (script || []).forEach((seg) => {
+          const div = document.createElement("div");
+          div.className = "segment";
+          div.dataset.start = seg.start;
+          div.dataset.end = seg.end;
+          div.innerHTML = `
+            <span class="time">${formatTime(seg.start)}</span>
+            <span class="text">${escape(seg.text)}</span>
+          `;
+          div.addEventListener("click", () => {
+            audio.currentTime = seg.start;
+            audio.play();
+          });
+          scriptEl.appendChild(div);
+          segDivs.push(div);
+        });
+      }
+
+      // ====== 회차 로딩 (페이지 새로고침 없이 audio.src 교체) ======
+      async function loadEpisode(epId, autoplay) {
+        let ep;
+        try {
+          ep = await fetchJson(`data/${epId}.json?v=${Date.now()}`);
+        } catch (e) {
+          scriptEl.innerHTML = `<div class="error">데이터 로드 실패: ${epId}</div>`;
+          return;
+        }
+        currentEp = ep;
+        const nb = findNeighbors(ep.id);
+        prevEp = nb.prev;
+        nextEp = nb.next;
+
+        // URL 갱신 (페이지 이동 없이 history만)
+        const newUrl = new URL(location.href);
+        newUrl.searchParams.set("id", ep.id);
+        newUrl.searchParams.delete("autoplay");
+        history.replaceState({}, "", newUrl.toString());
+
+        renderMeta(ep);
+        renderSegments(ep.script);
+        setupMediaSession(ep);
+
+        if (ep.audio_url) {
+          audio.src = ep.audio_url;
+          if (autoplay) {
+            audio.play().catch(err => console.warn("autoplay blocked:", err));
+          }
+        } else {
+          scriptEl.innerHTML = '<div class="error">audio_url 누락 (Supabase 업로드 + build_player 재실행 필요).</div>';
+        }
+        // 스크롤 맨 위로
+        scriptEl.scrollTop = 0;
+      }
+
+      // ====== 자막 하이라이트 + 자동 스크롤 ======
       function highlight() {
+        if (!currentEp) return;
+        const script = currentEp.script || [];
         const t = audio.currentTime;
         let idx = -1;
-        for (let i = 0; i < ep.script.length; i++) {
-          if (t >= ep.script[i].start && t < ep.script[i].end) { idx = i; break; }
+        for (let i = 0; i < script.length; i++) {
+          if (t >= script[i].start && t < script[i].end) { idx = i; break; }
         }
         if (idx === activeIdx) return;
-        if (activeIdx >= 0) segDivs[activeIdx].classList.remove("active");
-        if (idx >= 0) {
+        if (activeIdx >= 0 && segDivs[activeIdx]) segDivs[activeIdx].classList.remove("active");
+        if (idx >= 0 && segDivs[idx]) {
           segDivs[idx].classList.add("active");
-          // Auto-scroll into view
           const r = segDivs[idx].getBoundingClientRect();
           const c = scriptEl.getBoundingClientRect();
           if (r.top < c.top || r.bottom > c.bottom) {
             segDivs[idx].scrollIntoView({ block: "center", behavior: "smooth" });
           }
         }
-        activeIdx = idx;
-
-        // Segment repeat mode
-        if (repeatMode === "segment" && activeIdx >= 0 && idx === -1) {
-          // Current segment ended, repeat it
-          audio.currentTime = ep.script[activeIdx].start;
+        // 구간 반복: 활성 segment 끝났는데 다음으로 안 넘어갔으면 되감기
+        if (repeatMode === "segment" && activeIdx >= 0 && idx === -1
+            && activeIdx < script.length - 1) {
+          audio.currentTime = script[activeIdx].start;
           audio.play();
+          return;
         }
+        activeIdx = idx;
       }
       audio.addEventListener("timeupdate", highlight);
 
-      // Full repeat
+      // ====== 회차 끝났을 때: 전체반복 > 자동 다음회차 > 정지 ======
       audio.addEventListener("ended", () => {
         if (repeatMode === "full") {
           audio.currentTime = 0;
           audio.play();
+          return;
+        }
+        if (autoNext && nextEp) {
+          loadEpisode(nextEp.id, true);
         }
       });
 
-      // Keyboard shortcuts
+      // ====== 키보드 단축키 ======
       document.addEventListener("keydown", (e) => {
         if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
+        const script = (currentEp && currentEp.script) || [];
         if (e.code === "Space") {
           e.preventDefault();
           if (audio.paused) audio.play(); else audio.pause();
@@ -181,19 +272,29 @@
           audio.currentTime = Math.max(0, audio.currentTime - 5);
         } else if (e.code === "ArrowDown") {
           e.preventDefault();
-          const next = ep.script.find(s => s.start > audio.currentTime + 0.1);
+          const next = script.find(s => s.start > audio.currentTime + 0.1);
           if (next) audio.currentTime = next.start;
         } else if (e.code === "ArrowUp") {
           e.preventDefault();
-          for (let i = ep.script.length - 1; i >= 0; i--) {
-            if (ep.script[i].start < audio.currentTime - 0.5) {
-              audio.currentTime = ep.script[i].start;
+          for (let i = script.length - 1; i >= 0; i--) {
+            if (script[i].start < audio.currentTime - 0.5) {
+              audio.currentTime = script[i].start;
               break;
             }
           }
         }
       });
 
+      // ====== 초기 로드 ======
+      const params = new URLSearchParams(location.search);
+      const initialId = params.get("id");
+      const initialAutoplay = params.get("autoplay") === "1";
+      if (!initialId) {
+        scriptEl.innerHTML = '<div class="error">?id=... 쿼리가 필요합니다.</div>';
+        hideLoader();
+        return;
+      }
+      await loadEpisode(initialId, initialAutoplay);
       hideLoader();
     })();
   </script>
