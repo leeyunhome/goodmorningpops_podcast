@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GMP Player</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site">
+    <a href="index.html" class="back">목록으로</a>
+    <h1 id="page-title">로딩 중...</h1>
+  </header>
+  <main>
+    <div class="player-wrap">
+      <aside class="player-meta">
+        <h2 id="title">—</h2>
+        <div class="info-row" id="date-row">—</div>
+        <div class="info-row" id="movie-row" style="display:none"></div>
+        <div class="info-row" id="corner-row"></div>
+        <div class="info-row" id="duration-row"></div>
+        <audio class="player" id="audio" controls preload="metadata"></audio>
+        <div class="info-row" style="margin-top:10px;font-size:12px">
+          단축키: <kbd>Space</kbd> 재생/일시정지 ·
+          <kbd>←</kbd>/<kbd>→</kbd> 5초 ·
+          <kbd>↑</kbd>/<kbd>↓</kbd> 이전/다음 segment
+        </div>
+      </aside>
+      <section class="script" id="script">
+        <div class="empty">로딩 중...</div>
+      </section>
+    </div>
+  </main>
+  <script src="app.js"></script>
+  <script>
+    (async () => {
+      const params = new URLSearchParams(location.search);
+      const id = params.get("id");
+      const titleEl = document.getElementById("title");
+      const dateRow = document.getElementById("date-row");
+      const movieRow = document.getElementById("movie-row");
+      const cornerRow = document.getElementById("corner-row");
+      const durationRow = document.getElementById("duration-row");
+      const audio = document.getElementById("audio");
+      const scriptEl = document.getElementById("script");
+      const pageTitle = document.getElementById("page-title");
+
+      if (!id) {
+        scriptEl.innerHTML = '<div class="error">?id=... 쿼리가 필요합니다.</div>';
+        return;
+      }
+
+      let ep;
+      try {
+        ep = await fetchJson(`data/${id}.json?v=${Date.now()}`);
+      } catch (e) {
+        scriptEl.innerHTML = `<div class="error">데이터 로드 실패: ${id}</div>`;
+        return;
+      }
+
+      document.title = `${ep.title || ep.id} — GMP`;
+      pageTitle.textContent = ep.corner_label || "Player";
+      titleEl.textContent = ep.title || ep.id;
+      dateRow.textContent = `📅 ${ep.date}`;
+      if (ep.movie) { movieRow.style.display = ""; movieRow.textContent = `🎬 ${ep.movie}`; }
+      cornerRow.textContent = `🏷 ${ep.corner_label}`;
+      durationRow.textContent = `⏱ ${formatDuration(ep.duration_sec)}`;
+
+      if (ep.audio_url) {
+        audio.src = ep.audio_url;
+      } else {
+        scriptEl.innerHTML = '<div class="error">audio_url 누락 (Supabase 업로드 + build_player 재실행 필요).</div>';
+      }
+
+      // segment 렌더
+      scriptEl.innerHTML = "";
+      const segDivs = [];
+      ep.script.forEach((seg, i) => {
+        const div = document.createElement("div");
+        div.className = "segment";
+        div.dataset.start = seg.start;
+        div.dataset.end = seg.end;
+        div.innerHTML = `
+          <span class="time">${formatTime(seg.start)}</span>
+          <span class="text">${escape(seg.text)}</span>
+        `;
+        div.addEventListener("click", () => {
+          audio.currentTime = seg.start;
+          audio.play();
+        });
+        scriptEl.appendChild(div);
+        segDivs.push(div);
+      });
+
+      let activeIdx = -1;
+      function highlight() {
+        const t = audio.currentTime;
+        let idx = -1;
+        for (let i = 0; i < ep.script.length; i++) {
+          if (t >= ep.script[i].start && t < ep.script[i].end) { idx = i; break; }
+        }
+        if (idx === activeIdx) return;
+        if (activeIdx >= 0) segDivs[activeIdx].classList.remove("active");
+        if (idx >= 0) {
+          segDivs[idx].classList.add("active");
+          // 화면 안에 보이도록
+          const r = segDivs[idx].getBoundingClientRect();
+          const c = scriptEl.getBoundingClientRect();
+          if (r.top < c.top || r.bottom > c.bottom) {
+            segDivs[idx].scrollIntoView({ block: "center", behavior: "smooth" });
+          }
+        }
+        activeIdx = idx;
+      }
+      audio.addEventListener("timeupdate", highlight);
+
+      // 단축키
+      document.addEventListener("keydown", (e) => {
+        if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
+        if (e.code === "Space") {
+          e.preventDefault();
+          if (audio.paused) audio.play(); else audio.pause();
+        } else if (e.code === "ArrowRight") {
+          audio.currentTime += 5;
+        } else if (e.code === "ArrowLeft") {
+          audio.currentTime = Math.max(0, audio.currentTime - 5);
+        } else if (e.code === "ArrowDown") {
+          const next = ep.script.find(s => s.start > audio.currentTime + 0.1);
+          if (next) audio.currentTime = next.start;
+        } else if (e.code === "ArrowUp") {
+          for (let i = ep.script.length - 1; i >= 0; i--) {
+            if (ep.script[i].start < audio.currentTime - 0.5) {
+              audio.currentTime = ep.script[i].start;
+              break;
+            }
+          }
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

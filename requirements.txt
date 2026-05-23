@@ -1,0 +1,24 @@
+faster-whisper>=1.0.3
+feedparser>=6.0.11
+requests>=2.32.0
+tqdm>=4.66.0
+# onnxruntime 1.26.0 broken Windows wheel; pinned to 1.19.2
+onnxruntime==1.19.2
+# ctranslate2 4.4.0 needs cuDNN 8; 4.7.2 silent-exits on Windows. 4.5.0 stable.
+ctranslate2==4.5.0
+# ctranslate2 4.x uses pkg_resources which setuptools 81+ removed.
+setuptools<81
+# Google Drive uploader (optional, used by upload_to_drive.py)
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+# TTS for text/PDF -> MP3 (optional, used by tts.py)
+edge-tts>=6.1.0
+pypdf>=4.0.0
+# OCR fallback for scanned PDFs (optional)
+# pip install pytesseract pdf2image
+# winget install UB-Mannheim.TesseractOCR
+# winget install oschwartz10612.Poppler
+# Supabase Storage uploader (used by upload_supabase.py, build_player.py)
+supabase>=2.0.0
+python-dotenv>=1.0.0

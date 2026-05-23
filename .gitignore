@@ -1,0 +1,44 @@
+# Secrets - NEVER commit these
+.env
+.env.*
+!.env.example
+credentials.json
+token.json
+*.key
+*.pem
+
+# Media + transcripts (copyright + size)
+audio/
+references/
+*.mp3
+*.wav
+*.m4a
+*.flac
+
+# Generated mappings / state
+supabase_urls.json
+movie_mapping.json
+
+# Build output (separate repo, do not commit here)
+temp_repo_podcast/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log

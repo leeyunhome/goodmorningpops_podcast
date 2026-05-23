@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GMP Screen English</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site">
+    <h1>GMP Screen English</h1>
+    <span class="sub">조정현의 굿모닝 팝스 · 코너별 스크립트</span>
+  </header>
+  <main>
+    <div class="toolbar">
+      <input type="search" id="q" placeholder="제목/표현/영화/날짜로 검색..." />
+      <select id="movie-filter">
+        <option value="">전체 영화</option>
+      </select>
+      <select id="sort">
+        <option value="date-desc">최신순</option>
+        <option value="date-asc">오래된순</option>
+      </select>
+    </div>
+    <div class="meta-line" id="meta">로딩 중...</div>
+    <div id="cards" class="cards"></div>
+  </main>
+  <script src="app.js"></script>
+  <script>
+    (async () => {
+      const cards = document.getElementById("cards");
+      const meta = document.getElementById("meta");
+      const q = document.getElementById("q");
+      const movieFilter = document.getElementById("movie-filter");
+      const sortSel = document.getElementById("sort");
+
+      let data;
+      try {
+        data = await fetchJson("data/index.json");
+      } catch (e) {
+        meta.textContent = "index.json 로드 실패 — build_player.py 실행했는지 확인.";
+        meta.classList.add("error");
+        return;
+      }
+      const all = data.episodes || [];
+
+      // 영화 필터 옵션 채우기
+      const movies = [...new Set(all.map(e => e.movie).filter(Boolean))].sort();
+      for (const m of movies) {
+        const opt = document.createElement("option");
+        opt.value = m; opt.textContent = m;
+        movieFilter.appendChild(opt);
+      }
+
+      function render() {
+        const term = q.value.trim().toLowerCase();
+        const movieSel = movieFilter.value;
+        const sortMode = sortSel.value;
+
+        let list = all.filter(e => {
+          if (movieSel && e.movie !== movieSel) return false;
+          if (!term) return true;
+          return [e.date, e.title, e.movie, e.corner_label]
+            .filter(Boolean).join(" ").toLowerCase().includes(term);
+        });
+        list.sort((a, b) => sortMode === "date-asc"
+          ? a.date.localeCompare(b.date)
+          : b.date.localeCompare(a.date));
+
+        cards.innerHTML = "";
+        if (list.length === 0) {
+          cards.innerHTML = '<div class="empty">결과 없음.</div>';
+        } else {
+          for (const e of list) cards.appendChild(makeCard(e));
+        }
+        meta.textContent = `${list.length} / ${all.length}편 · 갱신 ${data.generated_at}`;
+      }
+
+      function makeCard(e) {
+        const a = document.createElement("a");
+        a.className = "card";
+        a.href = `play.html?id=${encodeURIComponent(e.id)}`;
+        a.innerHTML = `
+          <div class="top">
+            <span>${e.date}</span>
+            <span>${e.corner_label || ""}</span>
+          </div>
+          <div class="title">${escape(e.title || e.id)}</div>
+          ${e.movie ? `<div class="movie">${escape(e.movie)}</div>` : ""}
+          <div class="duration">${formatDuration(e.duration_sec)}</div>
+        `;
+        return a;
+      }
+
+      q.addEventListener("input", render);
+      movieFilter.addEventListener("change", render);
+      sortSel.addEventListener("change", render);
+      render();
+    })();
+  </script>
+</body>
+</html>
