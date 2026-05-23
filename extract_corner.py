@@ -42,7 +42,7 @@ class Segment:
 
 
 CLOSING_TAIL_RE = re.compile(
-    r"여기까지|마무리|see\s*you|만나(?!세요)|만날\s*게요|볼게요|Bye",
+    r"여기까지|마무리|see\s*you|만나(?!세요)|만날\s*게요|(?<!\w)볼게요|Bye",
     re.IGNORECASE,
 )
 
@@ -56,7 +56,7 @@ CORNER_DEFS = {
         ],
         "welcome_patterns": [
             re.compile(
-                r"Chris|크리스|good\s*morning|굿모닝|welcome|웰컴|theater|시어터|타임|time|영화|movie",
+                r"Chris|크리스|good\s*morning|굿모닝|welcome|웰컴|theater|시어터|타임|time",
                 re.IGNORECASE,
             ),
         ],
@@ -93,7 +93,7 @@ CORNER_DEFS = {
             # 보조: Chris/크리스 게스트와의 작별 인사 (코너 종료 정형구)
             re.compile(
                 r"(?:Chris|크리스).{0,80}?"
-                r"(?:see\s*you|I'?ll\s*see\s*you|Bye|만나|만날\s*게요|볼게요)",
+                r"(?:see\s*you|I'?ll\s*see\s*you|Bye|만나|만날\s*게요|(?<!\w)볼게요)",
                 re.IGNORECASE | re.DOTALL,
             ),
             re.compile(
@@ -194,7 +194,10 @@ def find_end_segment(
     마커 멘트가 두세 segment에 걸쳐 끊겨 있어도 매칭되며,
     마지막 매칭 segment(=실제 "여기까지/마무리" 단어가 들어 있는 segment)를 반환.
     """
+    min_end_seconds = 600.0  # 최소 10분 이후에만 코너 종료를 감지하도록 안전 제한
     for i, seg in enumerate(segments):
+        if seg.start < min_end_seconds:
+            continue
         if seg.start > max_end_seconds:
             return None
         end_i = min(i + window, len(segments))
@@ -268,18 +271,21 @@ def find_start_segment(
             break
 
     if start_seg is not None:
-        # 클립 시작부를 찾은 경우, 역방향(최대 3분/180초 전)으로 거슬러 올라가며
-        # "스크린 잉글리쉬/Screen English" 등 오프닝을 언급하는 세그먼트가 있는지 확인
-        lookback_limit = start_seg.start - 180.0
+        # 클립 시작부를 찾은 경우, 역방향(최대 6분/360초 전)으로 거슬러 올라가며
+        # "스크린 잉글리쉬/Screen English" 등 오프닝이나 게스트 인사를 언급하는 세그먼트가 있는지 확인
+        lookback_limit = start_seg.start - 360.0
         earliest_intro_seg = start_seg
         
-        intro_keywords = re.compile(r"스크린\s*잉글리[쉬시]|Screen\s*English", re.IGNORECASE)
+        lookback_keywords = re.compile(
+            r"스크린\s*잉글리[쉬시]|Screen\s*English|Chris|크리스|good\s*morning|굿모닝|welcome|웰컴|theater|시어터|타임|time",
+            re.IGNORECASE
+        )
         for seg in reversed(segments):
             if seg.start < lookback_limit:
                 break
             if seg.start >= start_seg.start:
                 continue
-            if intro_keywords.search(seg.text):
+            if lookback_keywords.search(seg.text):
                 earliest_intro_seg = seg
                 
         if earliest_intro_seg != start_seg:
