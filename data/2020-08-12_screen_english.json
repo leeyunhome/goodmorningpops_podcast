@@ -1,0 +1,2212 @@
+{
+  "id": "2020-08-12_screen_english",
+  "date": "2020-08-12",
+  "corner": "screen_english",
+  "corner_label": "Screen English",
+  "title": "Beauty doesn_t last",
+  "movie": "",
+  "duration_sec": 649.92,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-12_screen_english.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 1.38,
+      "text": "스크린 잉글리쉬"
+    },
+    {
+      "start": 1.38,
+      "end": 23.0,
+      "text": "영화 속 명장면 명대사를 맛깔나게 요리해드립니다."
+    },
+    {
+      "start": 23.4,
+      "end": 24.92,
+      "text": "스크린 잉글리쉬 타임"
+    },
+    {
+      "start": 24.92,
+      "end": 27.14,
+      "text": "8월에 함께하고 있는 영화는"
+    },
+    {
+      "start": 27.14,
+      "end": 31.92,
+      "text": "David Sofierd의 Happy Family라는 책을 바탕으로 만들어진"
+    },
+    {
+      "start": 31.92,
+      "end": 33.26,
+      "text": "가족 애니메이션"
+    },
+    {
+      "start": 33.26,
+      "end": 34.92,
+      "text": "몬스터 패밀리"
+    },
+    {
+      "start": 34.92,
+      "end": 37.42,
+      "text": "와 굿모닝 크리스"
+    },
+    {
+      "start": 37.42,
+      "end": 37.96,
+      "text": "굿모닝"
+    },
+    {
+      "start": 37.96,
+      "end": 38.94,
+      "text": "굿모닝 로라"
+    },
+    {
+      "start": 38.94,
+      "end": 39.74,
+      "text": "반갑습니다"
+    },
+    {
+      "start": 39.74,
+      "end": 40.46,
+      "text": "굿모닝 여러분"
+    },
+    {
+      "start": 40.46,
+      "end": 41.36,
+      "text": "How are you doing?"
+    },
+    {
+      "start": 41.72,
+      "end": 43.24,
+      "text": "I'm doing so-so"
+    },
+    {
+      "start": 43.24,
+      "end": 43.9,
+      "text": "so-so?"
+    },
+    {
+      "start": 44.08,
+      "end": 44.58,
+      "text": "좋아요"
+    },
+    {
+      "start": 44.58,
+      "end": 45.56,
+      "text": "업그레이될게요"
+    },
+    {
+      "start": 45.56,
+      "end": 46.92,
+      "text": "I couldn't be better"
+    },
+    {
+      "start": 46.92,
+      "end": 49.24,
+      "text": "아 역시 포지티브한"
+    },
+    {
+      "start": 49.24,
+      "end": 50.42,
+      "text": "I couldn't be better"
+    },
+    {
+      "start": 50.42,
+      "end": 51.36,
+      "text": "그럼요 그럼요"
+    },
+    {
+      "start": 51.36,
+      "end": 53.8,
+      "text": "I'm doing the best I've ever done"
+    },
+    {
+      "start": 53.8,
+      "end": 56.16,
+      "text": "진짜 다정하신 분 많네요"
+    },
+    {
+      "start": 56.16,
+      "end": 57.44,
+      "text": "조금 얄미해 보일 수도 있죠"
+    },
+    {
+      "start": 57.44,
+      "end": 58.6,
+      "text": "네 그래요"
+    },
+    {
+      "start": 58.6,
+      "end": 60.58,
+      "text": "임혜지님께서요"
+    },
+    {
+      "start": 60.58,
+      "end": 63.0,
+      "text": "크리스님 정말 다정한 분 같아요"
+    },
+    {
+      "start": 63.0,
+      "end": 63.8,
+      "text": "이렇게 보내주셔가지고"
+    },
+    {
+      "start": 64.5,
+      "end": 65.52,
+      "text": "오 다정하다"
+    },
+    {
+      "start": 65.52,
+      "end": 65.8,
+      "text": "네"
+    },
+    {
+      "start": 65.8,
+      "end": 67.44,
+      "text": "Thanks for the compliment"
+    },
+    {
+      "start": 67.44,
+      "end": 69.6,
+      "text": "네 맞습니다 우리 크리스씨"
+    },
+    {
+      "start": 69.6,
+      "end": 70.5,
+      "text": "다정하신 분이죠?"
+    },
+    {
+      "start": 71.02,
+      "end": 72.72,
+      "text": "다정한 편이긴 해요"
+    },
+    {
+      "start": 72.72,
+      "end": 72.9,
+      "text": "네"
+    },
+    {
+      "start": 72.9,
+      "end": 75.08,
+      "text": "우리 저기 가족한테 물어봐야"
+    },
+    {
+      "start": 75.08,
+      "end": 76.82,
+      "text": "깨끗한 적은 대답 나오지만"
+    },
+    {
+      "start": 76.82,
+      "end": 78.24,
+      "text": "오 지난번에 여쭤보니까"
+    },
+    {
+      "start": 78.24,
+      "end": 79.8,
+      "text": "다정하신 분이라고 하시더라고요"
+    },
+    {
+      "start": 80.52,
+      "end": 81.5,
+      "text": "Who said that?"
+    },
+    {
+      "start": 81.64,
+      "end": 82.3,
+      "text": "Your wife?"
+    },
+    {
+      "start": 82.3,
+      "end": 82.88,
+      "text": "My wife?"
+    },
+    {
+      "start": 83.24,
+      "end": 83.6,
+      "text": "아"
+    },
+    {
+      "start": 83.6,
+      "end": 84.66,
+      "text": "She's so sweet"
+    },
+    {
+      "start": 84.66,
+      "end": 85.88,
+      "text": "Thank you"
+    },
+    {
+      "start": 85.88,
+      "end": 86.2,
+      "text": "네"
+    },
+    {
+      "start": 86.2,
+      "end": 88.12,
+      "text": "사랑이 가득 넘치는 시간입니다"
+    },
+    {
+      "start": 88.12,
+      "end": 88.54,
+      "text": "그쵸?"
+    },
+    {
+      "start": 89.04,
+      "end": 89.24,
+      "text": "자"
+    },
+    {
+      "start": 89.24,
+      "end": 91.38,
+      "text": "이 영화에 관련되어서요"
+    },
+    {
+      "start": 91.38,
+      "end": 92.7,
+      "text": "원작 제목이"
+    },
+    {
+      "start": 92.7,
+      "end": 94.52,
+      "text": "Happy Family이잖아요"
+    },
+    {
+      "start": 94.52,
+      "end": 95.08,
+      "text": "근데"
+    },
+    {
+      "start": 95.08,
+      "end": 96.0,
+      "text": "Unlike the title"
+    },
+    {
+      "start": 96.0,
+      "end": 96.98,
+      "text": "The family members"
+    },
+    {
+      "start": 96.98,
+      "end": 98.5,
+      "text": "looked unhappy"
+    },
+    {
+      "start": 98.5,
+      "end": 99.94,
+      "text": "Very unhappy"
+    },
+    {
+      "start": 99.94,
+      "end": 101.3,
+      "text": "A lot of trouble"
+    },
+    {
+      "start": 101.3,
+      "end": 102.94,
+      "text": "그런 거 보면은"
+    },
+    {
+      "start": 102.94,
+      "end": 103.12,
+      "text": "이제"
+    },
+    {
+      "start": 103.12,
+      "end": 105.02,
+      "text": "Happiness is not far away"
+    },
+    {
+      "start": 105.02,
+      "end": 106.58,
+      "text": "라는 표현을 우리가 종종 쓰지만"
+    },
+    {
+      "start": 106.58,
+      "end": 108.96,
+      "text": "Unhappiness도 마찬가지로"
+    },
+    {
+      "start": 108.96,
+      "end": 110.16,
+      "text": "Is also not far away"
+    },
+    {
+      "start": 110.16,
+      "end": 110.56,
+      "text": "Sure"
+    },
+    {
+      "start": 110.56,
+      "end": 112.18,
+      "text": "What's the difference between"
+    },
+    {
+      "start": 112.18,
+      "end": 113.76,
+      "text": "unhappiness and happiness?"
+    },
+    {
+      "start": 114.02,
+      "end": 116.36,
+      "text": "It's often very subjective"
+    },
+    {
+      "start": 116.36,
+      "end": 116.92,
+      "text": "Yeah"
+    },
+    {
+      "start": 116.92,
+      "end": 117.56,
+      "text": "So"
+    },
+    {
+      "start": 117.56,
+      "end": 118.42,
+      "text": "This family"
+    },
+    {
+      "start": 118.42,
+      "end": 120.04,
+      "text": "It can be unhappy one day"
+    },
+    {
+      "start": 120.04,
+      "end": 121.3,
+      "text": "And then the next day"
+    },
+    {
+      "start": 121.3,
+      "end": 122.14,
+      "text": "They may be happy"
+    },
+    {
+      "start": 122.14,
+      "end": 122.5,
+      "text": "Yeah"
+    },
+    {
+      "start": 122.5,
+      "end": 123.74,
+      "text": "It all depends on"
+    },
+    {
+      "start": 123.74,
+      "end": 124.06,
+      "text": "You know"
+    },
+    {
+      "start": 124.06,
+      "end": 124.74,
+      "text": "Their mood"
+    },
+    {
+      "start": 124.74,
+      "end": 125.96,
+      "text": "Circumstances"
+    },
+    {
+      "start": 125.96,
+      "end": 126.86,
+      "text": "맞아요"
+    },
+    {
+      "start": 126.86,
+      "end": 127.66,
+      "text": "그냥"
+    },
+    {
+      "start": 127.66,
+      "end": 129.04,
+      "text": "They're just normal people"
+    },
+    {
+      "start": 129.04,
+      "end": 129.28,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 129.34,
+      "end": 132.5,
+      "text": "우리처럼 그냥 보통의 일반적인 사람들입니다"
+    },
+    {
+      "start": 132.5,
+      "end": 133.1,
+      "text": "그래서"
+    },
+    {
+      "start": 133.1,
+      "end": 136.36,
+      "text": "그들이 삶을 어떻게 사는지 보면은"
+    },
+    {
+      "start": 136.36,
+      "end": 138.52,
+      "text": "They're all hard working people"
+    },
+    {
+      "start": 138.52,
+      "end": 138.78,
+      "text": "Yeah"
+    },
+    {
+      "start": 138.78,
+      "end": 141.46,
+      "text": "That's why we can identify with these characters"
+    },
+    {
+      "start": 141.46,
+      "end": 141.8,
+      "text": "Yeah"
+    },
+    {
+      "start": 141.8,
+      "end": 142.7,
+      "text": "They're monsters"
+    },
+    {
+      "start": 142.7,
+      "end": 143.28,
+      "text": "Yeah"
+    },
+    {
+      "start": 143.28,
+      "end": 145.04,
+      "text": "But they're just your average"
+    },
+    {
+      "start": 145.04,
+      "end": 147.6,
+      "text": "Mom, dad, brother, sister"
+    },
+    {
+      "start": 147.6,
+      "end": 148.08,
+      "text": "맞아요"
+    },
+    {
+      "start": 148.08,
+      "end": 149.48,
+      "text": "They all have their own problems"
+    },
+    {
+      "start": 149.48,
+      "end": 152.44,
+      "text": "But they need to work them out together"
+    },
+    {
+      "start": 152.44,
+      "end": 152.9,
+      "text": "Yeah"
+    },
+    {
+      "start": 152.9,
+      "end": 154.16,
+      "text": "And love each other"
+    },
+    {
+      "start": 154.16,
+      "end": 154.68,
+      "text": "맞아요"
+    },
+    {
+      "start": 154.68,
+      "end": 155.24,
+      "text": "We'll see"
+    },
+    {
+      "start": 155.24,
+      "end": 156.82,
+      "text": "Right now they're not so happy"
+    },
+    {
+      "start": 156.82,
+      "end": 158.4,
+      "text": "Not happy at all"
+    },
+    {
+      "start": 158.4,
+      "end": 160.02,
+      "text": "We'll see what happens"
+    },
+    {
+      "start": 160.02,
+      "end": 160.48,
+      "text": "Yeah"
+    },
+    {
+      "start": 160.48,
+      "end": 161.64,
+      "text": "기대가 됩니다"
+    },
+    {
+      "start": 161.64,
+      "end": 163.24,
+      "text": "어쨌든"
+    },
+    {
+      "start": 163.24,
+      "end": 164.68,
+      "text": "행복과 불행은"
+    },
+    {
+      "start": 164.68,
+      "end": 165.9,
+      "text": "한 끗 차이다라는"
+    },
+    {
+      "start": 165.9,
+      "end": 166.52,
+      "text": "메시지를"
+    },
+    {
+      "start": 166.52,
+      "end": 167.92,
+      "text": "말씀을 먼저 드리면서"
+    },
+    {
+      "start": 167.92,
+      "end": 169.54,
+      "text": "오늘 내용 듣고 오겠습니다"
+    },
+    {
+      "start": 169.54,
+      "end": 171.13,
+      "text": "Faye"
+    },
+    {
+      "start": 171.13,
+      "end": 172.75,
+      "text": "We will find the witch"
+    },
+    {
+      "start": 172.75,
+      "end": 173.51,
+      "text": "I promise"
+    },
+    {
+      "start": 173.51,
+      "end": 175.25,
+      "text": "It's not just that"
+    },
+    {
+      "start": 175.25,
+      "end": 177.51,
+      "text": "Finally a boy thought I was pretty"
+    },
+    {
+      "start": 177.51,
+      "end": 180.2,
+      "text": "And now he can't even look at me"
+    },
+    {
+      "start": 180.2,
+      "end": 182.0,
+      "text": "Beauty doesn't last"
+    },
+    {
+      "start": 182.0,
+      "end": 185.1,
+      "text": "It doesn't matter what anyone else thinks, Faye"
+    },
+    {
+      "start": 185.1,
+      "end": 187.58,
+      "text": "You have to know yourself"
+    },
+    {
+      "start": 187.58,
+      "end": 189.0,
+      "text": "How special you are"
+    },
+    {
+      "start": 189.0,
+      "end": 191.38,
+      "text": "You don't need other people to tell you"
+    },
+    {
+      "start": 191.38,
+      "end": 195.62,
+      "text": "지금 버스 안에 있는 그런 소리가 들리는 것 같아요"
+    },
+    {
+      "start": 195.62,
+      "end": 201.66,
+      "text": "지금 엠마 가족들을 몬스터로 변하게 하게 한 마녀 바바야가가요"
+    },
+    {
+      "start": 201.66,
+      "end": 203.22,
+      "text": "바바야가"
+    },
+    {
+      "start": 203.22,
+      "end": 205.52,
+      "text": "바바야가가 그렇게 마술을 걸었잖아요"
+    },
+    {
+      "start": 205.52,
+      "end": 206.06,
+      "text": "Yes"
+    },
+    {
+      "start": 206.06,
+      "end": 209.42,
+      "text": "She has fled to London"
+    },
+    {
+      "start": 209.42,
+      "end": 210.62,
+      "text": "She ran away"
+    },
+    {
+      "start": 210.62,
+      "end": 211.84,
+      "text": "She fled"
+    },
+    {
+      "start": 211.84,
+      "end": 213.4,
+      "text": "She ran away"
+    },
+    {
+      "start": 213.4,
+      "end": 216.44,
+      "text": "Apparently she has a little gem"
+    },
+    {
+      "start": 216.44,
+      "end": 219.64,
+      "text": "And it's the source of her magic power"
+    },
+    {
+      "start": 219.64,
+      "end": 221.68,
+      "text": "And it ran out of battery"
+    },
+    {
+      "start": 221.68,
+      "end": 223.92,
+      "text": "Battery 없지만 충전이 필요해요"
+    },
+    {
+      "start": 223.92,
+      "end": 225.08,
+      "text": "귀여웠어요 근데"
+    },
+    {
+      "start": 225.08,
+      "end": 226.32,
+      "text": "It needs to be recharged"
+    },
+    {
+      "start": 226.32,
+      "end": 228.06,
+      "text": "So she has to go to London"
+    },
+    {
+      "start": 228.06,
+      "end": 229.94,
+      "text": "To the London Eye"
+    },
+    {
+      "start": 229.94,
+      "end": 231.42,
+      "text": "Do you know the London Eye?"
+    },
+    {
+      "start": 231.42,
+      "end": 233.88,
+      "text": "Oh, 이거 Thames 강변에 있는 거잖아요"
+    },
+    {
+      "start": 233.88,
+      "end": 235.32,
+      "text": "Yes, the Thames River"
+    },
+    {
+      "start": 235.32,
+      "end": 235.72,
+      "text": "Yeah"
+    },
+    {
+      "start": 235.72,
+      "end": 237.68,
+      "text": "It's a very famous Ferris wheel"
+    },
+    {
+      "start": 237.68,
+      "end": 238.18,
+      "text": "Yeah"
+    },
+    {
+      "start": 238.18,
+      "end": 239.14,
+      "text": "That you can see"
+    },
+    {
+      "start": 239.14,
+      "end": 240.42,
+      "text": "If you go on this Ferris wheel"
+    },
+    {
+      "start": 240.42,
+      "end": 241.9,
+      "text": "You can see all of London"
+    },
+    {
+      "start": 241.9,
+      "end": 243.92,
+      "text": "Wow, 너무 멋있을 것 같아요"
+    },
+    {
+      "start": 243.92,
+      "end": 248.78,
+      "text": "이 높이가 한 135m 정도 되는 그런 회전 관람차라고 하는데"
+    },
+    {
+      "start": 248.78,
+      "end": 250.66,
+      "text": "It used to be the highest point"
+    },
+    {
+      "start": 250.66,
+      "end": 251.18,
+      "text": "Yeah"
+    },
+    {
+      "start": 251.18,
+      "end": 251.96,
+      "text": "In London"
+    },
+    {
+      "start": 251.96,
+      "end": 252.58,
+      "text": "Not anymore?"
+    },
+    {
+      "start": 252.76,
+      "end": 253.42,
+      "text": "Not anymore"
+    },
+    {
+      "start": 253.42,
+      "end": 255.7,
+      "text": "It got beat by some building"
+    },
+    {
+      "start": 255.7,
+      "end": 256.2,
+      "text": "Yeah, yeah"
+    },
+    {
+      "start": 256.2,
+      "end": 257.64,
+      "text": "But it used to be the highest point"
+    },
+    {
+      "start": 257.64,
+      "end": 258.08,
+      "text": "Oh"
+    },
+    {
+      "start": 258.08,
+      "end": 259.38,
+      "text": "And many tourists"
+    },
+    {
+      "start": 259.38,
+      "end": 261.6,
+      "text": "I think it's still the most popular tourist"
+    },
+    {
+      "start": 261.6,
+      "end": 261.9,
+      "text": "Yeah, sure"
+    },
+    {
+      "start": 261.9,
+      "end": 262.22,
+      "text": "Sure"
+    },
+    {
+      "start": 262.22,
+      "end": 262.9,
+      "text": "Destination"
+    },
+    {
+      "start": 262.9,
+      "end": 263.32,
+      "text": "Yeah"
+    },
+    {
+      "start": 263.32,
+      "end": 264.66,
+      "text": "Or attraction in London"
+    },
+    {
+      "start": 264.66,
+      "end": 269.76,
+      "text": "아, 영국에 가면 꼭 봐야 되는 그런 상징적인 장소이기도 합니다"
+    },
+    {
+      "start": 269.76,
+      "end": 271.76,
+      "text": "단어들을 좀 살펴볼까요?"
+    },
+    {
+      "start": 272.38,
+      "end": 274.16,
+      "text": "Beauty doesn't last"
+    },
+    {
+      "start": 274.16,
+      "end": 275.22,
+      "text": "That's a sentence"
+    },
+    {
+      "start": 275.22,
+      "end": 277.18,
+      "text": "아, 이거 완전 중요한 이야기네요"
+    },
+    {
+      "start": 277.18,
+      "end": 279.94,
+      "text": "That is a good lesson from mother to daughter"
+    },
+    {
+      "start": 279.94,
+      "end": 280.28,
+      "text": "Yeah"
+    },
+    {
+      "start": 280.28,
+      "end": 281.38,
+      "text": "Beauty doesn't last"
+    },
+    {
+      "start": 281.38,
+      "end": 283.54,
+      "text": "외모는 한순간이야"
+    },
+    {
+      "start": 283.54,
+      "end": 284.48,
+      "text": "라는 거예요"
+    },
+    {
+      "start": 284.48,
+      "end": 285.38,
+      "text": "한순간이야"
+    },
+    {
+      "start": 285.38,
+      "end": 288.48,
+      "text": "외모 오래 못 가라는 이야기입니다"
+    },
+    {
+      "start": 288.48,
+      "end": 289.28,
+      "text": "아, 번열은 왜 그래요?"
+    },
+    {
+      "start": 289.44,
+      "end": 289.86,
+      "text": "아, 그래요?"
+    },
+    {
+      "start": 290.1,
+      "end": 291.16,
+      "text": "너무 감정이입이 됐나?"
+    },
+    {
+      "start": 291.26,
+      "end": 292.5,
+      "text": "외모는 한방이야"
+    },
+    {
+      "start": 292.5,
+      "end": 293.04,
+      "text": "따라"
+    },
+    {
+      "start": 293.04,
+      "end": 295.56,
+      "text": "어머, 그리스씨 버전이 더 좋은데요?"
+    },
+    {
+      "start": 295.88,
+      "end": 296.64,
+      "text": "한방이야"
+    },
+    {
+      "start": 296.64,
+      "end": 297.86,
+      "text": "Anyway"
+    },
+    {
+      "start": 297.86,
+      "end": 299.4,
+      "text": "It's a good lesson"
+    },
+    {
+      "start": 299.4,
+      "end": 299.64,
+      "text": "Yeah"
+    },
+    {
+      "start": 299.64,
+      "end": 300.64,
+      "text": "In a good way"
+    },
+    {
+      "start": 300.64,
+      "end": 300.86,
+      "text": "Yeah"
+    },
+    {
+      "start": 300.86,
+      "end": 301.52,
+      "text": "좋은 뜻으로"
+    },
+    {
+      "start": 301.52,
+      "end": 303.52,
+      "text": "Doesn't matter"
+    },
+    {
+      "start": 303.52,
+      "end": 304.72,
+      "text": "Doesn't matter"
+    },
+    {
+      "start": 304.72,
+      "end": 306.44,
+      "text": "이라는 것은 중요치 않아"
+    },
+    {
+      "start": 306.44,
+      "end": 310.8,
+      "text": "상관없어라는 맥락에서 활용을 하실 수가 있는 동사 구문입니다"
+    },
+    {
+      "start": 310.8,
+      "end": 313.38,
+      "text": "How special you are"
+    },
+    {
+      "start": 313.38,
+      "end": 315.22,
+      "text": "Oh, I'm already touched"
+    },
+    {
+      "start": 315.22,
+      "end": 316.62,
+      "text": "By these expressions"
+    },
+    {
+      "start": 316.62,
+      "end": 318.46,
+      "text": "It's a great thing to say to your kids"
+    },
+    {
+      "start": 318.46,
+      "end": 319.8,
+      "text": "To encourage them"
+    },
+    {
+      "start": 319.8,
+      "end": 321.02,
+      "text": "When they're feeling down"
+    },
+    {
+      "start": 321.02,
+      "end": 321.32,
+      "text": "Yeah"
+    },
+    {
+      "start": 321.32,
+      "end": 322.92,
+      "text": "How special you are"
+    },
+    {
+      "start": 322.92,
+      "end": 324.88,
+      "text": "네가 얼마나 특별한지"
+    },
+    {
+      "start": 324.88,
+      "end": 326.64,
+      "text": "이렇게 해석을 하실 수가 있잖아요"
+    },
+    {
+      "start": 326.64,
+      "end": 328.4,
+      "text": "지금 엄마가"
+    },
+    {
+      "start": 328.4,
+      "end": 328.96,
+      "text": "이 페이"
+    },
+    {
+      "start": 328.96,
+      "end": 330.0,
+      "text": "딸에게 하는"
+    },
+    {
+      "start": 330.0,
+      "end": 331.2,
+      "text": "그런 문장 중에서"
+    },
+    {
+      "start": 331.2,
+      "end": 332.26,
+      "text": "이렇게 들으실 수 있는"
+    },
+    {
+      "start": 332.26,
+      "end": 333.32,
+      "text": "핵심적인 표현들"
+    },
+    {
+      "start": 333.32,
+      "end": 334.2,
+      "text": "알려드렸습니다"
+    },
+    {
+      "start": 334.2,
+      "end": 335.9,
+      "text": "이 내용 다시 한번 들어보시죠"
+    },
+    {
+      "start": 335.9,
+      "end": 337.1,
+      "text": "Faye"
+    },
+    {
+      "start": 337.1,
+      "end": 338.72,
+      "text": "We will find the witch"
+    },
+    {
+      "start": 338.72,
+      "end": 339.48,
+      "text": "I promise"
+    },
+    {
+      "start": 339.48,
+      "end": 341.2,
+      "text": "It's not just that"
+    },
+    {
+      "start": 341.2,
+      "end": 343.46,
+      "text": "Finally a boy thought I was pretty"
+    },
+    {
+      "start": 343.46,
+      "end": 346.16,
+      "text": "And now he can't even look at me"
+    },
+    {
+      "start": 346.16,
+      "end": 347.98,
+      "text": "Beauty doesn't last"
+    },
+    {
+      "start": 347.98,
+      "end": 350.7,
+      "text": "It doesn't matter what anyone else thinks"
+    },
+    {
+      "start": 350.7,
+      "end": 353.56,
+      "text": "You have to know yourself"
+    },
+    {
+      "start": 353.56,
+      "end": 354.98,
+      "text": "How special you are"
+    },
+    {
+      "start": 354.98,
+      "end": 357.38,
+      "text": "You don't need other people to tell you"
+    },
+    {
+      "start": 357.38,
+      "end": 358.79,
+      "text": "Wow"
+    },
+    {
+      "start": 358.79,
+      "end": 361.99,
+      "text": "정말 엄마의 진심 어린 그런 조언이 들렸어요"
+    },
+    {
+      "start": 361.99,
+      "end": 362.89,
+      "text": "Yeah, so"
+    },
+    {
+      "start": 362.89,
+      "end": 364.33,
+      "text": "Faye got rejected"
+    },
+    {
+      "start": 364.33,
+      "end": 365.85,
+      "text": "By that boy"
+    },
+    {
+      "start": 365.85,
+      "end": 367.39,
+      "text": "That superficial boy"
+    },
+    {
+      "start": 367.39,
+      "end": 367.89,
+      "text": "Jason"
+    },
+    {
+      "start": 367.89,
+      "end": 369.75,
+      "text": "And she's feeling down"
+    },
+    {
+      "start": 369.75,
+      "end": 371.09,
+      "text": "And her mom is"
+    },
+    {
+      "start": 371.09,
+      "end": 371.59,
+      "text": "You know"
+    },
+    {
+      "start": 371.59,
+      "end": 372.55,
+      "text": "Cheering her up"
+    },
+    {
+      "start": 372.55,
+      "end": 374.09,
+      "text": "Doing her job"
+    },
+    {
+      "start": 374.09,
+      "end": 375.23,
+      "text": "As a good mom"
+    },
+    {
+      "start": 375.23,
+      "end": 375.61,
+      "text": "Yeah"
+    },
+    {
+      "start": 375.61,
+      "end": 377.63,
+      "text": "It's not easy to raise children"
+    },
+    {
+      "start": 377.63,
+      "end": 378.45,
+      "text": "No"
+    },
+    {
+      "start": 378.45,
+      "end": 379.39,
+      "text": "No"
+    },
+    {
+      "start": 379.39,
+      "end": 379.89,
+      "text": "No"
+    },
+    {
+      "start": 379.89,
+      "end": 381.15,
+      "text": "진짜 어렵죠"
+    },
+    {
+      "start": 381.15,
+      "end": 384.53,
+      "text": "자 어떤 내용이었는지 한번 살펴볼게요"
+    },
+    {
+      "start": 384.53,
+      "end": 385.93,
+      "text": "Faye"
+    },
+    {
+      "start": 385.93,
+      "end": 388.15,
+      "text": "We will find the witch"
+    },
+    {
+      "start": 388.15,
+      "end": 389.31,
+      "text": "I promise"
+    },
+    {
+      "start": 389.31,
+      "end": 390.69,
+      "text": "Faye야"
+    },
+    {
+      "start": 390.69,
+      "end": 392.27,
+      "text": "We will find the witch"
+    },
+    {
+      "start": 392.27,
+      "end": 395.11,
+      "text": "우리는 그 마녀를 찾을 거야"
+    },
+    {
+      "start": 395.11,
+      "end": 396.21,
+      "text": "I promise"
+    },
+    {
+      "start": 396.21,
+      "end": 397.65,
+      "text": "내가 약속해"
+    },
+    {
+      "start": 397.65,
+      "end": 398.53,
+      "text": "Yeah"
+    },
+    {
+      "start": 398.53,
+      "end": 401.55,
+      "text": "She wants to get rid of her mummy costume"
+    },
+    {
+      "start": 401.55,
+      "end": 402.69,
+      "text": "It's not a costume"
+    },
+    {
+      "start": 402.69,
+      "end": 404.17,
+      "text": "She can't wait"
+    },
+    {
+      "start": 404.17,
+      "end": 406.65,
+      "text": "To turn back into a human being"
+    },
+    {
+      "start": 406.65,
+      "end": 407.01,
+      "text": "Yeah"
+    },
+    {
+      "start": 407.01,
+      "end": 409.76,
+      "text": "It's not just that"
+    },
+    {
+      "start": 409.76,
+      "end": 410.1,
+      "text": "네"
+    },
+    {
+      "start": 410.1,
+      "end": 410.66,
+      "text": "그랬더니"
+    },
+    {
+      "start": 410.66,
+      "end": 412.9,
+      "text": "Faye가 대답하는 문장이었어요"
+    },
+    {
+      "start": 412.9,
+      "end": 414.34,
+      "text": "It's not just that"
+    },
+    {
+      "start": 414.34,
+      "end": 416.32,
+      "text": "그것 때문이 아니에요"
+    },
+    {
+      "start": 416.32,
+      "end": 416.72,
+      "text": "Oh"
+    },
+    {
+      "start": 416.72,
+      "end": 417.9,
+      "text": "Then what is it?"
+    },
+    {
+      "start": 418.14,
+      "end": 420.48,
+      "text": "이제 진실 이야기를 하려나 봅니다"
+    },
+    {
+      "start": 420.48,
+      "end": 421.6,
+      "text": "Finally"
+    },
+    {
+      "start": 421.6,
+      "end": 423.8,
+      "text": "A boy thought I was pretty"
+    },
+    {
+      "start": 423.8,
+      "end": 426.82,
+      "text": "And now he can't even look at me"
+    },
+    {
+      "start": 426.82,
+      "end": 429.42,
+      "text": "굉장히 예민한 그러한 이야기를"
+    },
+    {
+      "start": 429.42,
+      "end": 431.32,
+      "text": "엄마에게 드디어 터놓고 있어요"
+    },
+    {
+      "start": 431.32,
+      "end": 432.6,
+      "text": "It's good that she's talking"
+    },
+    {
+      "start": 432.6,
+      "end": 432.98,
+      "text": "Yeah"
+    },
+    {
+      "start": 432.98,
+      "end": 433.92,
+      "text": "She's being honest"
+    },
+    {
+      "start": 433.92,
+      "end": 434.3,
+      "text": "Yeah"
+    },
+    {
+      "start": 434.3,
+      "end": 435.32,
+      "text": "Finally"
+    },
+    {
+      "start": 435.32,
+      "end": 436.72,
+      "text": "드디어 마침내"
+    },
+    {
+      "start": 436.72,
+      "end": 439.26,
+      "text": "A boy thought I was pretty"
+    },
+    {
+      "start": 439.26,
+      "end": 442.6,
+      "text": "어떤 한 소년이 내가 예쁘다고 생각을 했는데"
+    },
+    {
+      "start": 442.6,
+      "end": 445.48,
+      "text": "And now he can't even look at me"
+    },
+    {
+      "start": 445.48,
+      "end": 446.24,
+      "text": "해석되시죠"
+    },
+    {
+      "start": 446.24,
+      "end": 449.6,
+      "text": "지금은 심지어 그가 날 쳐다보지도 않는단 말이에요"
+    },
+    {
+      "start": 449.6,
+      "end": 451.58,
+      "text": "걱정마요"
+    },
+    {
+      "start": 451.58,
+      "end": 453.62,
+      "text": "You learned a good lesson"
+    },
+    {
+      "start": 453.62,
+      "end": 455.2,
+      "text": "얼마나 가식적인지"
+    },
+    {
+      "start": 455.2,
+      "end": 455.64,
+      "text": "저 남자"
+    },
+    {
+      "start": 455.64,
+      "end": 456.5,
+      "text": "저념이"
+    },
+    {
+      "start": 456.5,
+      "end": 458.18,
+      "text": "Run away"
+    },
+    {
+      "start": 458.18,
+      "end": 458.5,
+      "text": "Yeah"
+    },
+    {
+      "start": 458.5,
+      "end": 461.0,
+      "text": "Beauty doesn't last"
+    },
+    {
+      "start": 461.0,
+      "end": 461.5,
+      "text": "Yeah"
+    },
+    {
+      "start": 461.5,
+      "end": 462.04,
+      "text": "엄마"
+    },
+    {
+      "start": 462.04,
+      "end": 464.56,
+      "text": "엄마가 이렇게 또 조언을 시작합니다"
+    },
+    {
+      "start": 464.56,
+      "end": 466.88,
+      "text": "Beauty doesn't last"
+    },
+    {
+      "start": 466.88,
+      "end": 469.72,
+      "text": "여기서의 beauty는 그러니까 means appearance"
+    },
+    {
+      "start": 469.72,
+      "end": 471.02,
+      "text": "그렇게 생각하면 더 좋겠죠"
+    },
+    {
+      "start": 471.02,
+      "end": 471.52,
+      "text": "Yeah"
+    },
+    {
+      "start": 471.52,
+      "end": 473.82,
+      "text": "외모적인 아름다움을 이야기를 하는 거죠"
+    },
+    {
+      "start": 473.82,
+      "end": 475.12,
+      "text": "We all get old"
+    },
+    {
+      "start": 475.12,
+      "end": 476.26,
+      "text": "We all age"
+    },
+    {
+      "start": 476.26,
+      "end": 478.52,
+      "text": "Even if we don't turn into monsters"
+    },
+    {
+      "start": 478.52,
+      "end": 479.78,
+      "text": "We get wrinkles"
+    },
+    {
+      "start": 479.78,
+      "end": 480.74,
+      "text": "You know"
+    },
+    {
+      "start": 480.74,
+      "end": 482.08,
+      "text": "Things don't work so well"
+    },
+    {
+      "start": 482.08,
+      "end": 483.78,
+      "text": "Our body doesn't work that well"
+    },
+    {
+      "start": 483.78,
+      "end": 484.06,
+      "text": "Yeah"
+    },
+    {
+      "start": 484.06,
+      "end": 485.06,
+      "text": "As we age"
+    },
+    {
+      "start": 485.06,
+      "end": 485.64,
+      "text": "Yeah"
+    },
+    {
+      "start": 485.64,
+      "end": 488.76,
+      "text": "아름다움이라는 건 그렇게 오래 가지는 못해"
+    },
+    {
+      "start": 488.76,
+      "end": 490.62,
+      "text": "외모는 한순간이야"
+    },
+    {
+      "start": 490.62,
+      "end": 494.61,
+      "text": "It doesn't matter what anyone else thinks, Faye"
+    },
+    {
+      "start": 494.61,
+      "end": 495.85,
+      "text": "It doesn't matter"
+    },
+    {
+      "start": 495.85,
+      "end": 497.29,
+      "text": "중요하지 않아"
+    },
+    {
+      "start": 497.29,
+      "end": 498.17,
+      "text": "It doesn't matter"
+    },
+    {
+      "start": 498.17,
+      "end": 501.11,
+      "text": "What anyone else thinks, Faye"
+    },
+    {
+      "start": 501.11,
+      "end": 502.29,
+      "text": "라고 하는 부분까지"
+    },
+    {
+      "start": 502.29,
+      "end": 503.31,
+      "text": "I love this sentence"
+    },
+    {
+      "start": 503.31,
+      "end": 503.65,
+      "text": "Yeah"
+    },
+    {
+      "start": 503.65,
+      "end": 505.47,
+      "text": "I heard this a lot from my mother"
+    },
+    {
+      "start": 505.47,
+      "end": 506.07,
+      "text": "Oh"
+    },
+    {
+      "start": 506.07,
+      "end": 507.03,
+      "text": "When you know"
+    },
+    {
+      "start": 507.03,
+      "end": 507.91,
+      "text": "When I was picked on"
+    },
+    {
+      "start": 507.91,
+      "end": 509.09,
+      "text": "When I was bullied"
+    },
+    {
+      "start": 509.09,
+      "end": 511.35,
+      "text": "He called me ugly"
+    },
+    {
+      "start": 511.35,
+      "end": 513.39,
+      "text": "Or he called me something"
+    },
+    {
+      "start": 513.39,
+      "end": 515.13,
+      "text": "It wasn't ugly"
+    },
+    {
+      "start": 515.13,
+      "end": 515.85,
+      "text": "I was white"
+    },
+    {
+      "start": 515.85,
+      "end": 517.13,
+      "text": "I was really really white"
+    },
+    {
+      "start": 517.13,
+      "end": 518.91,
+      "text": "So someone called me Casper"
+    },
+    {
+      "start": 518.91,
+      "end": 519.83,
+      "text": "Casper"
+    },
+    {
+      "start": 519.83,
+      "end": 520.47,
+      "text": "You know the ghost"
+    },
+    {
+      "start": 520.47,
+      "end": 520.73,
+      "text": "Yeah"
+    },
+    {
+      "start": 520.73,
+      "end": 522.11,
+      "text": "The famous ghost"
+    },
+    {
+      "start": 522.11,
+      "end": 522.37,
+      "text": "Yeah"
+    },
+    {
+      "start": 522.37,
+      "end": 523.45,
+      "text": "Who is super white"
+    },
+    {
+      "start": 523.45,
+      "end": 524.89,
+      "text": "Oh, 저 되게 좋아했는데"
+    },
+    {
+      "start": 524.89,
+      "end": 525.73,
+      "text": "그 캐릭터"
+    },
+    {
+      "start": 525.73,
+      "end": 526.69,
+      "text": "아, 저도 좋아하는데"
+    },
+    {
+      "start": 526.69,
+      "end": 526.97,
+      "text": "Yeah"
+    },
+    {
+      "start": 526.97,
+      "end": 528.43,
+      "text": "그래도 별명으로 그렇게 붙이면"
+    },
+    {
+      "start": 528.43,
+      "end": 529.43,
+      "text": "좀 그렇겠다, 그쵸?"
+    },
+    {
+      "start": 529.49,
+      "end": 529.67,
+      "text": "네"
+    },
+    {
+      "start": 529.67,
+      "end": 530.51,
+      "text": "특히 캘리포니아 사람은"
+    },
+    {
+      "start": 530.51,
+      "end": 531.51,
+      "text": "조금 태닝돼야"
+    },
+    {
+      "start": 531.51,
+      "end": 533.27,
+      "text": "조금 더 인정받는"
+    },
+    {
+      "start": 533.27,
+      "end": 534.43,
+      "text": "그런 분위기더라고요"
+    },
+    {
+      "start": 534.43,
+      "end": 535.79,
+      "text": "지금은 모르겠지만"
+    },
+    {
+      "start": 535.79,
+      "end": 536.37,
+      "text": "그때는"
+    },
+    {
+      "start": 536.37,
+      "end": 537.47,
+      "text": "어머나 세상에"
+    },
+    {
+      "start": 537.47,
+      "end": 538.11,
+      "text": "Casper"
+    },
+    {
+      "start": 538.11,
+      "end": 538.63,
+      "text": "Yeah"
+    },
+    {
+      "start": 538.63,
+      "end": 539.19,
+      "text": "어쨌든"
+    },
+    {
+      "start": 539.19,
+      "end": 541.57,
+      "text": "It doesn't matter what anyone else thinks"
+    },
+    {
+      "start": 541.57,
+      "end": 542.37,
+      "text": "라는 문장이"
+    },
+    {
+      "start": 542.37,
+      "end": 544.57,
+      "text": "아주 가슴을 턱 치는"
+    },
+    {
+      "start": 544.57,
+      "end": 545.67,
+      "text": "그런 문장이었는데"
+    },
+    {
+      "start": 545.67,
+      "end": 547.87,
+      "text": "남들이 어떻게 생각하는 건"
+    },
+    {
+      "start": 547.87,
+      "end": 549.33,
+      "text": "상관이 없어, Faye"
+    },
+    {
+      "start": 549.33,
+      "end": 550.43,
+      "text": "라는 거예요"
+    },
+    {
+      "start": 550.43,
+      "end": 552.43,
+      "text": "You have to know yourself"
+    },
+    {
+      "start": 552.43,
+      "end": 554.39,
+      "text": "How special you are"
+    },
+    {
+      "start": 554.39,
+      "end": 555.91,
+      "text": "You have to know yourself"
+    },
+    {
+      "start": 555.91,
+      "end": 557.31,
+      "text": "How special you are"
+    },
+    {
+      "start": 557.31,
+      "end": 558.73,
+      "text": "너는 네가"
+    },
+    {
+      "start": 558.73,
+      "end": 560.47,
+      "text": "아주 특별하다는 걸"
+    },
+    {
+      "start": 560.47,
+      "end": 561.35,
+      "text": "알아야 해"
+    },
+    {
+      "start": 561.35,
+      "end": 561.91,
+      "text": "라는 겁니다"
+    },
+    {
+      "start": 561.91,
+      "end": 562.89,
+      "text": "You don't need"
+    },
+    {
+      "start": 562.89,
+      "end": 564.49,
+      "text": "other people to tell you"
+    },
+    {
+      "start": 564.49,
+      "end": 566.07,
+      "text": "You don't need other people"
+    },
+    {
+      "start": 566.07,
+      "end": 567.35,
+      "text": "다른 사람이 필요 없대요"
+    },
+    {
+      "start": 567.35,
+      "end": 568.23,
+      "text": "To tell you"
+    },
+    {
+      "start": 568.23,
+      "end": 570.15,
+      "text": "너에게 말해줄 필요가 없다는 거죠"
+    },
+    {
+      "start": 570.15,
+      "end": 571.29,
+      "text": "다른 사람이 너에게"
+    },
+    {
+      "start": 571.29,
+      "end": 572.35,
+      "text": "말해줄 필요가 없다"
+    },
+    {
+      "start": 572.35,
+      "end": 574.17,
+      "text": "아, 그런 생각입니다"
+    },
+    {
+      "start": 574.17,
+      "end": 575.39,
+      "text": "I need people to tell me"
+    },
+    {
+      "start": 575.39,
+      "end": 576.77,
+      "text": "Come on, you're special"
+    },
+    {
+      "start": 576.77,
+      "end": 577.45,
+      "text": "You're special"
+    },
+    {
+      "start": 577.45,
+      "end": 578.61,
+      "text": "말 들어요"
+    },
+    {
+      "start": 578.61,
+      "end": 579.15,
+      "text": "그럼요"
+    },
+    {
+      "start": 579.15,
+      "end": 579.85,
+      "text": "기분도 좋아요"
+    },
+    {
+      "start": 579.85,
+      "end": 581.67,
+      "text": "우리 청취자 여러분들께서"
+    },
+    {
+      "start": 581.67,
+      "end": 582.37,
+      "text": "크리스 씨에게"
+    },
+    {
+      "start": 582.37,
+      "end": 583.19,
+      "text": "응원의 메시지를"
+    },
+    {
+      "start": 583.19,
+      "end": 584.13,
+      "text": "남겨주시는 것처럼"
+    },
+    {
+      "start": 584.13,
+      "end": 586.29,
+      "text": "그런 긍정적인 이야기는"
+    },
+    {
+      "start": 586.29,
+      "end": 587.25,
+      "text": "들을수록 좋지만"
+    },
+    {
+      "start": 587.25,
+      "end": 589.09,
+      "text": "안 좋은 이야기를 들은"
+    },
+    {
+      "start": 589.09,
+      "end": 589.71,
+      "text": "Faye에게는"
+    },
+    {
+      "start": 589.71,
+      "end": 590.25,
+      "text": "엄마가 이렇게"
+    },
+    {
+      "start": 590.25,
+      "end": 591.57,
+      "text": "조언을 해줄 수밖에 없죠"
+    },
+    {
+      "start": 591.57,
+      "end": 592.99,
+      "text": "엄마 해주니까"
+    },
+    {
+      "start": 592.99,
+      "end": 593.81,
+      "text": "괜찮아요"
+    },
+    {
+      "start": 593.81,
+      "end": 595.75,
+      "text": "If her mom didn't say this"
+    },
+    {
+      "start": 595.75,
+      "end": 597.41,
+      "text": "things would not be so good"
+    },
+    {
+      "start": 597.41,
+      "end": 597.91,
+      "text": "맞아요"
+    },
+    {
+      "start": 597.91,
+      "end": 598.83,
+      "text": "자, 이 내용"
+    },
+    {
+      "start": 598.83,
+      "end": 600.29,
+      "text": "마지막으로 한 번 더 들어볼게요"
+    },
+    {
+      "start": 600.29,
+      "end": 603.65,
+      "text": "Faye, we will find the witch"
+    },
+    {
+      "start": 603.65,
+      "end": 604.41,
+      "text": "I promise"
+    },
+    {
+      "start": 604.41,
+      "end": 606.13,
+      "text": "It's not just that"
+    },
+    {
+      "start": 606.13,
+      "end": 607.73,
+      "text": "Finally a boy thought"
+    },
+    {
+      "start": 607.73,
+      "end": 608.41,
+      "text": "I was pretty"
+    },
+    {
+      "start": 608.41,
+      "end": 610.51,
+      "text": "and now he can't even"
+    },
+    {
+      "start": 610.51,
+      "end": 611.13,
+      "text": "look at me"
+    },
+    {
+      "start": 611.13,
+      "end": 612.93,
+      "text": "Beauty doesn't last"
+    },
+    {
+      "start": 612.93,
+      "end": 614.49,
+      "text": "It doesn't matter"
+    },
+    {
+      "start": 614.49,
+      "end": 615.97,
+      "text": "what anyone else thinks, Faye"
+    },
+    {
+      "start": 615.97,
+      "end": 618.47,
+      "text": "You have to know yourself"
+    },
+    {
+      "start": 618.47,
+      "end": 619.95,
+      "text": "how special you are"
+    },
+    {
+      "start": 619.95,
+      "end": 621.63,
+      "text": "You don't need other people"
+    },
+    {
+      "start": 621.63,
+      "end": 622.29,
+      "text": "to tell you"
+    },
+    {
+      "start": 622.29,
+      "end": 625.08,
+      "text": "Emma's teaching us"
+    },
+    {
+      "start": 625.08,
+      "end": 625.92,
+      "text": "that the inside"
+    },
+    {
+      "start": 625.92,
+      "end": 627.04,
+      "text": "is more important"
+    },
+    {
+      "start": 627.04,
+      "end": 628.14,
+      "text": "That's a valuable"
+    },
+    {
+      "start": 628.14,
+      "end": 629.02,
+      "text": "life lesson"
+    },
+    {
+      "start": 629.02,
+      "end": 629.32,
+      "text": "Yeah"
+    },
+    {
+      "start": 629.32,
+      "end": 630.06,
+      "text": "How do you teach"
+    },
+    {
+      "start": 630.06,
+      "end": 630.72,
+      "text": "your kids that?"
+    },
+    {
+      "start": 631.06,
+      "end": 632.92,
+      "text": "It's what's on inside"
+    },
+    {
+      "start": 632.92,
+      "end": 633.8,
+      "text": "that matters"
+    },
+    {
+      "start": 633.8,
+      "end": 635.0,
+      "text": "not what's on"
+    },
+    {
+      "start": 635.0,
+      "end": 635.96,
+      "text": "the outside"
+    },
+    {
+      "start": 635.96,
+      "end": 636.44,
+      "text": "맞아요"
+    },
+    {
+      "start": 636.44,
+      "end": 638.12,
+      "text": "내면이 아름다워야 한다"
+    },
+    {
+      "start": 638.12,
+      "end": 639.3,
+      "text": "라는 교훈을"
+    },
+    {
+      "start": 639.3,
+      "end": 640.44,
+      "text": "또 알게 해줍니다"
+    },
+    {
+      "start": 640.44,
+      "end": 642.16,
+      "text": "계속 얘기해줘야 되겠다"
+    },
+    {
+      "start": 642.16,
+      "end": 642.7,
+      "text": "그럼요"
+    },
+    {
+      "start": 642.7,
+      "end": 643.46,
+      "text": "You need to hear this"
+    },
+    {
+      "start": 643.46,
+      "end": 644.36,
+      "text": "over and over and over"
+    },
+    {
+      "start": 644.36,
+      "end": 645.64,
+      "text": "중요합니다"
+    },
+    {
+      "start": 645.64,
+      "end": 647.0,
+      "text": "자, 오늘 이렇게"
+    },
+    {
+      "start": 647.0,
+      "end": 648.0,
+      "text": "가슴이 따뜻해지는"
+    },
+    {
+      "start": 648.0,
+      "end": 648.88,
+      "text": "Screen English는"
+    },
+    {
+      "start": 648.88,
+      "end": 649.92,
+      "text": "여기에서 마무리하였고요"
+    }
+  ]
+}
