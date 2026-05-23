@@ -40,3 +40,47 @@ function escape(s) {
     .replace(/"/g, "&quot;")
     .replace(/'/g, "&#39;");
 }
+
+// 재생 속도 변경
+function changeSpeed(delta) {
+  const audio = document.getElementById("audio");
+  if (!audio) return;
+  let rate = Math.round((audio.playbackRate + delta) * 10) / 10;
+  rate = Math.max(0.5, Math.min(2.0, rate));
+  audio.playbackRate = rate;
+  const disp = document.getElementById("speed-display");
+  if (disp) disp.textContent = rate.toFixed(1) + "x";
+}
+
+// 구간 반복 토글
+let repeatMode = "off"; // "off" | "segment" | "full"
+function toggleRepeat() {
+  const btn = document.getElementById("repeat-btn");
+  if (!btn) return;
+  if (repeatMode === "off") {
+    repeatMode = "segment";
+    btn.classList.add("active");
+    btn.textContent = "🔁 구간";
+  } else if (repeatMode === "segment") {
+    repeatMode = "full";
+    btn.classList.remove("active");
+    btn.style.background = "#a855f7";
+    btn.style.color = "#fff";
+    btn.textContent = "🔁 전체";
+  } else {
+    repeatMode = "off";
+    btn.classList.remove("active");
+    btn.style.background = "";
+    btn.style.color = "";
+    btn.textContent = "🔁 반복";
+  }
+}
+
+// 연속 재생 토글
+let autoNext = true;
+function toggleAutoNext() {
+  const btn = document.getElementById("auto-next-btn");
+  if (!btn) return;
+  autoNext = !autoNext;
+  btn.classList.toggle("active", autoNext);
+}
