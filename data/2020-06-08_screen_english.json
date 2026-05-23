@@ -5,493 +5,2138 @@
   "corner_label": "Screen English",
   "title": "It_s something he can_t control",
   "movie": "",
-  "duration_sec": 287.02,
+  "duration_sec": 848.77,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-08_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 2.52,
-      "text": "오늘 스크린 잉글리시도 기대합니다"
-    },
-    {
-      "start": 2.52,
-      "end": 3.94,
-      "text": "PS"
-    },
-    {
-      "start": 3.94,
-      "end": 4.64,
-      "text": "추신"
-    },
-    {
-      "start": 4.64,
-      "end": 6.36,
-      "text": "이것만은 잊지 마세요"
-    },
-    {
-      "start": 6.36,
-      "end": 9.92,
-      "text": "많은 사람들이 당신을 지켜주고 있다는 걸"
-    },
-    {
-      "start": 9.92,
-      "end": 13.68,
-      "text": "당신도 다른 사람의 버팀목이 되고 있다는 거요"
-    },
-    {
-      "start": 13.68,
-      "end": 19.72,
-      "text": "월요일을 시작하면서 감동이 백배입니다"
-    },
-    {
-      "start": 19.72,
-      "end": 21.14,
-      "text": "박인식님"
-    },
-    {
-      "start": 21.14,
-      "end": 24.34,
-      "text": "많은 사람들이 당신을 지켜주고 있다"
-    },
-    {
-      "start": 24.34,
-      "end": 28.14,
-      "text": "당신도 다른 사람의 버팀목이 되고 있다"
-    },
-    {
-      "start": 28.14,
-      "end": 30.42,
-      "text": "여운이 굉장히 깊네요"
-    },
-    {
-      "start": 30.42,
-      "end": 31.56,
-      "text": "감사합니다"
-    },
-    {
-      "start": 31.56,
-      "end": 38.28,
-      "text": "박인식님은 왠지 글 쓰는 직업을 갖고 계실지도 모르겠다라는 생각이 듭니다"
-    },
-    {
-      "start": 38.28,
-      "end": 40.16,
-      "text": "오늘도 힘내세요"
-    },
-    {
-      "start": 40.16,
-      "end": 41.52,
-      "text": "저도 힘낼게요"
-    },
-    {
-      "start": 41.52,
-      "end": 44.56,
-      "text": "전화 영어 3개월 이용권 보내드리겠습니다"
-    },
-    {
-      "start": 44.56,
-      "end": 47.54,
-      "text": "7108님"
-    },
-    {
-      "start": 47.54,
-      "end": 49.52,
-      "text": "필라테스 강사입니다"
-    },
-    {
-      "start": 49.52,
-      "end": 52.64,
-      "text": "첫 수업이 7시라서 출근 중이에요"
-    },
-    {
-      "start": 52.64,
-      "end": 55.44,
-      "text": "캐나다 국적의 회원님이 계셔서"
-    },
-    {
-      "start": 55.44,
-      "end": 58.68,
-      "text": "본의 아니게 굿모닝 팝스 더 열심히 듣고 있답니다"
-    },
-    {
-      "start": 58.68,
-      "end": 59.58,
-      "text": "웃음 웃음"
-    },
-    {
-      "start": 59.58,
-      "end": 62.32,
-      "text": "어머 7108님"
-    },
-    {
-      "start": 62.32,
-      "end": 65.54,
-      "text": "저도 필라테스를 꾸준히는 하고 있는데"
-    },
-    {
-      "start": 65.54,
-      "end": 68.76,
-      "text": "아직 외국인 회원은 못 만났어요"
-    },
-    {
-      "start": 68.76,
-      "end": 73.76,
-      "text": "필히 영어 문장을 꼭 말해야 되는 그런 환경이 되셨군요"
-    },
-    {
-      "start": 73.76,
-      "end": 76.28,
-      "text": "아주 좋은 기회가 될 것 같아요"
-    },
-    {
-      "start": 76.28,
-      "end": 78.6,
-      "text": "7108님"
-    },
-    {
-      "start": 78.6,
-      "end": 81.98,
+      "end": 3.38,
       "text": "굿모닝 팝스의 그 위력을 알려주시기를 바랍니다"
     },
     {
-      "start": 81.98,
-      "end": 84.3,
+      "start": 3.38,
+      "end": 5.7,
       "text": "벌써부터 자랑스럽네요"
     },
     {
-      "start": 84.3,
-      "end": 87.48,
+      "start": 5.7,
+      "end": 8.88,
       "text": "월간 굿모닝 팝스 3개월 구독권 보내드릴게요"
     },
     {
-      "start": 87.48,
-      "end": 90.52,
+      "start": 8.88,
+      "end": 11.92,
       "text": "굿모닝 팝스의 사연 보내고 싶은 분들은"
     },
     {
-      "start": 90.52,
-      "end": 93.34,
+      "start": 11.92,
+      "end": 14.74,
       "text": "공식 홈페이지 청취자 게시판에 남겨주세요"
     },
     {
-      "start": 93.34,
-      "end": 96.18,
+      "start": 14.74,
+      "end": 17.58,
       "text": "입맛을 돋우는 펄미처럼"
     },
     {
-      "start": 96.18,
-      "end": 98.68,
+      "start": 17.58,
+      "end": 20.08,
       "text": "잃어버린 의혹을 소환하는"
     },
     {
-      "start": 98.68,
-      "end": 101.36,
+      "start": 20.08,
+      "end": 22.76,
       "text": "GMP 커피 알람 이벤트"
     },
     {
-      "start": 101.36,
-      "end": 107.36,
+      "start": 22.76,
+      "end": 28.76,
       "text": "요즘 들어 부쩍 열정이 시들시들해져서"
     },
     {
-      "start": 107.36,
-      "end": 110.18,
+      "start": 28.76,
+      "end": 31.58,
       "text": "일찍 일어나기 힘들다는 분들이 많이 계시더라고요"
     },
     {
-      "start": 110.18,
-      "end": 112.44,
+      "start": 31.58,
+      "end": 33.84,
       "text": "내일 아침 6시"
     },
     {
-      "start": 112.44,
-      "end": 115.16,
+      "start": 33.84,
+      "end": 36.56,
       "text": "커피 모바일 쿠폰 보내드리면서"
     },
     {
-      "start": 115.16,
-      "end": 116.68,
+      "start": 36.56,
+      "end": 38.08,
       "text": "깨워드릴게요"
     },
     {
-      "start": 116.68,
-      "end": 119.12,
+      "start": 38.08,
+      "end": 40.52,
       "text": "총 10분을 뽑을 거고요"
     },
     {
-      "start": 119.12,
-      "end": 122.48,
+      "start": 40.52,
+      "end": 43.88,
       "text": "그러니까 지금 바로 신청 메시지 보내주세요"
     },
     {
-      "start": 122.48,
-      "end": 126.0,
+      "start": 43.88,
+      "end": 47.4,
       "text": "단문 50원과 장문 100원에 추가 요금이 부과되는"
     },
     {
-      "start": 126.0,
-      "end": 128.64,
+      "start": 47.4,
+      "end": 50.04,
       "text": "KBS KOOL FM 문자샵 8910"
     },
     {
-      "start": 128.64,
-      "end": 132.88,
+      "start": 50.04,
+      "end": 54.28,
       "text": "아니면 KBS 2라디오 문자샵 1061로 보내주시거나"
     },
     {
-      "start": 132.88,
-      "end": 137.54,
+      "start": 54.28,
+      "end": 58.94,
       "text": "무료 KBS 어플리케이션 콩 또는 마이케이로 참여하실 수도 있습니다"
     },
     {
-      "start": 137.54,
-      "end": 200.74,
+      "start": 58.94,
+      "end": 122.14,
       "text": "6월에 함께하고 있는 영화는"
     },
     {
-      "start": 200.74,
-      "end": 204.24,
+      "start": 122.14,
+      "end": 125.64,
       "text": "전기가 없었던 1890년대 후반"
     },
     {
-      "start": 204.24,
-      "end": 207.14,
+      "start": 125.64,
+      "end": 128.54,
       "text": "전기 표준 송전 방식을 두고"
     },
     {
-      "start": 207.14,
-      "end": 211.2,
+      "start": 128.54,
+      "end": 132.6,
       "text": "에디슨과 테슬라가 벌인 역사적인 전류 전쟁을 그린 영화죠"
     },
     {
-      "start": 211.2,
-      "end": 213.2,
+      "start": 132.6,
+      "end": 134.6,
       "text": "The current war"
     },
     {
-      "start": 213.2,
-      "end": 215.1,
+      "start": 134.6,
+      "end": 136.5,
       "text": "Wow, Chris, good morning"
     },
     {
-      "start": 215.1,
-      "end": 217.04,
+      "start": 136.5,
+      "end": 138.44,
       "text": "Good morning, Laura"
     },
     {
-      "start": 217.04,
-      "end": 218.52,
+      "start": 138.44,
+      "end": 139.92,
       "text": "Hello, everyone"
     },
     {
-      "start": 218.52,
-      "end": 221.6,
+      "start": 139.92,
+      "end": 143.0,
       "text": "You know, there's a pleasant message for you"
     },
     {
-      "start": 222.16,
-      "end": 223.2,
+      "start": 143.56,
+      "end": 144.6,
       "text": "A pleasant message"
     },
     {
-      "start": 223.2,
-      "end": 225.28,
+      "start": 144.6,
+      "end": 146.68,
       "text": "Yeah, 아주 기쁜 메시지가 있어요"
     },
     {
-      "start": 225.28,
-      "end": 227.44,
+      "start": 146.68,
+      "end": 148.84,
       "text": "That's good, better than an unpleasant message"
     },
     {
-      "start": 227.44,
-      "end": 229.42,
+      "start": 148.84,
+      "end": 150.82,
       "text": "Sure, 읽어드릴까요?"
     },
     {
-      "start": 229.68,
-      "end": 230.5,
+      "start": 151.08,
+      "end": 151.9,
       "text": "I've loved that"
     },
     {
-      "start": 230.5,
-      "end": 232.34,
+      "start": 151.9,
+      "end": 153.74,
       "text": "I really want to see all the messages"
     },
     {
-      "start": 232.34,
-      "end": 232.84,
+      "start": 153.74,
+      "end": 154.24,
       "text": "Oh, really?"
     },
     {
-      "start": 232.84,
-      "end": 233.64,
+      "start": 154.24,
+      "end": 155.04,
       "text": "But I can't"
     },
     {
-      "start": 233.64,
-      "end": 235.0,
+      "start": 155.04,
+      "end": 156.4,
       "text": "답답할 때가 많아요"
     },
     {
-      "start": 235.0,
-      "end": 236.06,
+      "start": 156.4,
+      "end": 157.46,
       "text": "보려고 하는데"
     },
     {
-      "start": 236.06,
-      "end": 236.58,
+      "start": 157.46,
+      "end": 157.98,
       "text": "알겠어요"
     },
     {
-      "start": 236.58,
-      "end": 237.24,
+      "start": 157.98,
+      "end": 158.64,
       "text": "안 보이니까"
     },
     {
-      "start": 237.24,
-      "end": 238.88,
+      "start": 158.64,
+      "end": 160.28,
       "text": "허락받고 읽어드리는 겁니다"
     },
     {
-      "start": 238.88,
-      "end": 241.1,
+      "start": 160.28,
+      "end": 162.5,
       "text": "자, 오재현 님께서요"
     },
     {
-      "start": 241.1,
-      "end": 243.4,
+      "start": 162.5,
+      "end": 164.8,
       "text": "3월부터 열심히 듣고 있습니다"
     },
     {
-      "start": 243.4,
-      "end": 246.12,
+      "start": 164.8,
+      "end": 167.52,
       "text": "크리스 님과 정현 님의 시너지가 좋네요"
     },
     {
-      "start": 246.12,
-      "end": 247.74,
+      "start": 167.52,
+      "end": 169.14,
       "text": "오늘 하루도 잘 보내세요"
     },
     {
-      "start": 247.74,
-      "end": 248.48,
+      "start": 169.14,
+      "end": 169.88,
       "text": "하트!"
     },
     {
-      "start": 248.94,
-      "end": 249.9,
+      "start": 170.34,
+      "end": 171.3,
       "text": "이렇게 보내주셨어요"
     },
     {
-      "start": 249.9,
-      "end": 252.76,
+      "start": 171.3,
+      "end": 174.16,
       "text": "She likes our Kemi"
     },
     {
-      "start": 252.76,
-      "end": 254.88,
+      "start": 174.16,
+      "end": 176.28,
       "text": "Yeah, that's true, right?"
     },
     {
-      "start": 255.04,
-      "end": 255.3,
+      "start": 176.44,
+      "end": 176.7,
       "text": "Yeah"
     },
     {
-      "start": 255.3,
-      "end": 257.9,
+      "start": 176.7,
+      "end": 179.3,
       "text": "우리 시너지 진짜 좋은 것 같아요"
     },
     {
-      "start": 257.9,
-      "end": 260.8,
+      "start": 179.3,
+      "end": 182.2,
       "text": "So, it's so nice to be with you always"
     },
     {
-      "start": 260.8,
-      "end": 261.88,
+      "start": 182.2,
+      "end": 183.28,
       "text": "Ah, you agree?"
     },
     {
-      "start": 262.14,
-      "end": 262.36,
+      "start": 183.54,
+      "end": 183.76,
       "text": "Yeah"
     },
     {
-      "start": 262.36,
-      "end": 263.0,
+      "start": 183.76,
+      "end": 184.4,
       "text": "I agree"
     },
     {
-      "start": 263.0,
-      "end": 264.88,
+      "start": 184.4,
+      "end": 186.28,
       "text": "You bring out the best in me"
     },
     {
-      "start": 264.88,
-      "end": 268.86,
+      "start": 186.28,
+      "end": 190.26,
       "text": "You have a charm, a certain charm about you"
     },
     {
-      "start": 268.86,
-      "end": 270.6,
+      "start": 190.26,
+      "end": 192.0,
       "text": "어머, 뭐야 이거"
     },
     {
-      "start": 270.6,
-      "end": 271.44,
+      "start": 192.0,
+      "end": 192.84,
       "text": "크리스 칭찬인데"
     },
     {
-      "start": 271.44,
-      "end": 272.86,
+      "start": 192.84,
+      "end": 194.26,
       "text": "내 칭찬으로 돌아오는 것 같은"
     },
     {
-      "start": 272.86,
-      "end": 274.2,
+      "start": 194.26,
+      "end": 195.6,
       "text": "이런 훈훈한 인사였어요"
     },
     {
-      "start": 274.2,
-      "end": 275.76,
+      "start": 195.6,
+      "end": 197.16,
       "text": "MC 역할 잘하고 있단 말이죠"
     },
     {
-      "start": 275.76,
-      "end": 276.78,
+      "start": 197.16,
+      "end": 198.18,
       "text": "너무 고마워요"
     },
     {
-      "start": 276.78,
-      "end": 278.66,
+      "start": 198.18,
+      "end": 200.06,
       "text": "게스트의 그 매력적인 점을"
     },
     {
-      "start": 278.66,
-      "end": 279.12,
+      "start": 200.06,
+      "end": 200.52,
       "text": "어머, 어머, 어머"
     },
     {
-      "start": 279.12,
-      "end": 281.46,
+      "start": 200.52,
+      "end": 202.86,
       "text": "이렇게 적절히 꺼내는 그런"
     },
     {
-      "start": 281.46,
-      "end": 283.38,
+      "start": 202.86,
+      "end": 204.78,
       "text": "어머, 여러분 오늘 크리스 씨를 위한"
     },
     {
-      "start": 283.38,
-      "end": 284.7,
+      "start": 204.78,
+      "end": 206.1,
       "text": "칭찬 많이 부탁드립니다"
     },
     {
-      "start": 284.7,
-      "end": 287.02,
+      "start": 206.1,
+      "end": 208.42,
       "text": "자, 이제 본격적으로 시작을 해볼게요"
+    },
+    {
+      "start": 208.42,
+      "end": 210.6,
+      "text": "에디슨이라고 하면"
+    },
+    {
+      "start": 210.6,
+      "end": 213.34,
+      "text": "일단 발명왕이라는 이미지가"
+    },
+    {
+      "start": 213.34,
+      "end": 214.12,
+      "text": "되게 강하거든요"
+    },
+    {
+      "start": 214.12,
+      "end": 214.76,
+      "text": "근데"
+    },
+    {
+      "start": 214.76,
+      "end": 215.78,
+      "text": "Throughout this movie"
+    },
+    {
+      "start": 215.78,
+      "end": 217.96,
+      "text": "I could see his personal aspect"
+    },
+    {
+      "start": 217.96,
+      "end": 219.1,
+      "text": "such as his family"
+    },
+    {
+      "start": 219.1,
+      "end": 221.74,
+      "text": "and specifically about his wife"
+    },
+    {
+      "start": 221.74,
+      "end": 222.62,
+      "text": "Yes"
+    },
+    {
+      "start": 222.62,
+      "end": 226.4,
+      "text": "His wife is in the first half of the movie"
+    },
+    {
+      "start": 226.4,
+      "end": 227.5,
+      "text": "the beginning of the movie"
+    },
+    {
+      "start": 227.5,
+      "end": 227.86,
+      "text": "Yeah"
+    },
+    {
+      "start": 227.86,
+      "end": 229.82,
+      "text": "This beautiful, nice lady"
+    },
+    {
+      "start": 229.82,
+      "end": 230.32,
+      "text": "Yeah, sure"
+    },
+    {
+      "start": 230.32,
+      "end": 233.58,
+      "text": "Actually, she was an employee of Edison"
+    },
+    {
+      "start": 233.58,
+      "end": 234.08,
+      "text": "Really?"
+    },
+    {
+      "start": 234.16,
+      "end": 235.22,
+      "text": "She worked for him"
+    },
+    {
+      "start": 235.22,
+      "end": 237.1,
+      "text": "in one of his workshops"
+    },
+    {
+      "start": 237.1,
+      "end": 237.8,
+      "text": "Wow"
+    },
+    {
+      "start": 237.8,
+      "end": 239.04,
+      "text": "So, imagine that"
+    },
+    {
+      "start": 239.04,
+      "end": 240.2,
+      "text": "They worked together"
+    },
+    {
+      "start": 240.2,
+      "end": 242.06,
+      "text": "The boss, the big boss"
+    },
+    {
+      "start": 242.06,
+      "end": 243.3,
+      "text": "and an employee"
+    },
+    {
+      "start": 243.3,
+      "end": 246.84,
+      "text": "우와, 이거 거의 드라마에서 나올 법한 스토리 아닌가요?"
+    },
+    {
+      "start": 247.02,
+      "end": 247.28,
+      "text": "Yes"
+    },
+    {
+      "start": 247.28,
+      "end": 248.96,
+      "text": "Yes, the big famous inventor"
+    },
+    {
+      "start": 248.96,
+      "end": 249.64,
+      "text": "Yeah"
+    },
+    {
+      "start": 249.64,
+      "end": 250.74,
+      "text": "And his employee"
+    },
+    {
+      "start": 250.74,
+      "end": 252.06,
+      "text": "Oh, 그래요"
+    },
+    {
+      "start": 252.06,
+      "end": 253.34,
+      "text": "They fell in love"
+    },
+    {
+      "start": 253.34,
+      "end": 255.68,
+      "text": "She was only 16 years old"
+    },
+    {
+      "start": 255.68,
+      "end": 256.68,
+      "text": "Mary"
+    },
+    {
+      "start": 256.68,
+      "end": 257.22,
+      "text": "Really?"
+    },
+    {
+      "start": 257.46,
+      "end": 257.76,
+      "text": "Yes"
+    },
+    {
+      "start": 257.76,
+      "end": 258.8,
+      "text": "Oh my gosh"
+    },
+    {
+      "start": 258.8,
+      "end": 259.82,
+      "text": "So, basically"
+    },
+    {
+      "start": 259.82,
+      "end": 261.46,
+      "text": "고등학생 정도"
+    },
+    {
+      "start": 261.46,
+      "end": 261.96,
+      "text": "어머, 어머"
+    },
+    {
+      "start": 261.96,
+      "end": 264.32,
+      "text": "소녀 시절에 그럼 결혼을 한 거예요?"
+    },
+    {
+      "start": 264.7,
+      "end": 264.96,
+      "text": "Yes"
+    },
+    {
+      "start": 264.96,
+      "end": 266.36,
+      "text": "Back then"
+    },
+    {
+      "start": 266.36,
+      "end": 266.38,
+      "text": "Back then"
+    },
+    {
+      "start": 266.38,
+      "end": 266.8,
+      "text": "Back this"
+    },
+    {
+      "start": 266.8,
+      "end": 267.4,
+      "text": "Take"
+    },
+    {
+      "start": 267.4,
+      "end": 268.94,
+      "text": "참고로"
+    },
+    {
+      "start": 268.94,
+      "end": 269.26,
+      "text": "그래요, 그래요"
+    },
+    {
+      "start": 269.26,
+      "end": 270.9,
+      "text": "This is back in the 1800s"
+    },
+    {
+      "start": 270.9,
+      "end": 273.06,
+      "text": "People got married way earlier"
+    },
+    {
+      "start": 273.06,
+      "end": 273.4,
+      "text": "Yeah"
+    },
+    {
+      "start": 273.4,
+      "end": 274.22,
+      "text": "Than they do today"
+    },
+    {
+      "start": 274.22,
+      "end": 274.64,
+      "text": "Yeah"
+    },
+    {
+      "start": 274.64,
+      "end": 278.14,
+      "text": "And as long as her parents were okay with it"
+    },
+    {
+      "start": 278.14,
+      "end": 278.42,
+      "text": "Yeah"
+    },
+    {
+      "start": 278.42,
+      "end": 280.24,
+      "text": "I guess it was legal back then"
+    },
+    {
+      "start": 280.24,
+      "end": 280.58,
+      "text": "맞아요"
+    },
+    {
+      "start": 280.58,
+      "end": 285.6,
+      "text": "우리나라도 과거의 과거에는 진짜 어린 나이에들 결혼을 많이 하셨잖아요"
+    },
+    {
+      "start": 285.6,
+      "end": 288.28,
+      "text": "그것과 같은 맥락이라고 이해하면 괜찮습니다"
+    },
+    {
+      "start": 288.28,
+      "end": 290.26,
+      "text": "He was 24"
+    },
+    {
+      "start": 290.26,
+      "end": 290.8,
+      "text": "Yeah"
+    },
+    {
+      "start": 290.8,
+      "end": 292.3,
+      "text": "So, 8 years older than her"
+    },
+    {
+      "start": 292.3,
+      "end": 294.66,
+      "text": "And they had 3 kids"
+    },
+    {
+      "start": 294.66,
+      "end": 294.96,
+      "text": "Yeah"
+    },
+    {
+      "start": 294.96,
+      "end": 299.84,
+      "text": "And she had, you know, she had a lot of trouble"
+    },
+    {
+      "start": 299.84,
+      "end": 303.06,
+      "text": "With her husband being a workaholic"
+    },
+    {
+      "start": 303.06,
+      "end": 304.7,
+      "text": "And always working"
+    },
+    {
+      "start": 304.7,
+      "end": 305.38,
+      "text": "As I mentioned"
+    },
+    {
+      "start": 305.38,
+      "end": 305.44,
+      "text": "I see"
+    },
+    {
+      "start": 305.44,
+      "end": 306.04,
+      "text": "I understand"
+    },
+    {
+      "start": 306.04,
+      "end": 306.44,
+      "text": "Yeah"
+    },
+    {
+      "start": 306.44,
+      "end": 308.4,
+      "text": "But they raised their kids well"
+    },
+    {
+      "start": 308.4,
+      "end": 310.76,
+      "text": "And it seemed like they had happy moments"
+    },
+    {
+      "start": 310.76,
+      "end": 311.16,
+      "text": "Yeah"
+    },
+    {
+      "start": 311.16,
+      "end": 314.08,
+      "text": "It was just that he was always working in his factory"
+    },
+    {
+      "start": 314.08,
+      "end": 315.5,
+      "text": "All the time"
+    },
+    {
+      "start": 315.5,
+      "end": 316.38,
+      "text": "Okay"
+    },
+    {
+      "start": 316.38,
+      "end": 321.0,
+      "text": "에디슨이 근데 결혼을 한 번 한 게 아니라는 이야기를 들었거든요"
+    },
+    {
+      "start": 321.0,
+      "end": 321.74,
+      "text": "That's true"
+    },
+    {
+      "start": 321.74,
+      "end": 324.2,
+      "text": "Yeah, she, as you can see in the movie"
+    },
+    {
+      "start": 324.2,
+      "end": 325.44,
+      "text": "She passed away"
+    },
+    {
+      "start": 325.44,
+      "end": 325.74,
+      "text": "Yeah"
+    },
+    {
+      "start": 325.74,
+      "end": 326.78,
+      "text": "Early on"
+    },
+    {
+      "start": 326.78,
+      "end": 328.58,
+      "text": "And he got remarried"
+    },
+    {
+      "start": 328.58,
+      "end": 330.84,
+      "text": "To a 20-year-old"
+    },
+    {
+      "start": 330.84,
+      "end": 331.92,
+      "text": "So, a little older"
+    },
+    {
+      "start": 331.92,
+      "end": 334.4,
+      "text": "But he was 39 at that time"
+    },
+    {
+      "start": 334.4,
+      "end": 337.24,
+      "text": "So, a 19-year age difference"
+    },
+    {
+      "start": 337.24,
+      "end": 339.74,
+      "text": "Wow, 정말 도둑놈이라고"
+    },
+    {
+      "start": 339.74,
+      "end": 340.44,
+      "text": "그 만큼"
+    },
+    {
+      "start": 340.44,
+      "end": 342.36,
+      "text": "욕심쟁이 우흐흐 탈락을 했는데"
+    },
+    {
+      "start": 342.36,
+      "end": 344.22,
+      "text": "욕심쟁이예요"
+    },
+    {
+      "start": 344.22,
+      "end": 344.52,
+      "text": "Yeah"
+    },
+    {
+      "start": 344.52,
+      "end": 347.96,
+      "text": "And they also had 3 children together"
+    },
+    {
+      "start": 347.96,
+      "end": 350.24,
+      "text": "So, 3 from his first marriage"
+    },
+    {
+      "start": 350.24,
+      "end": 351.28,
+      "text": "3 from his second marriage"
+    },
+    {
+      "start": 351.28,
+      "end": 353.08,
+      "text": "Yeah, 6 children total"
+    },
+    {
+      "start": 353.08,
+      "end": 354.02,
+      "text": "That means a lot of kids"
+    },
+    {
+      "start": 354.02,
+      "end": 354.38,
+      "text": "Yeah"
+    },
+    {
+      "start": 354.38,
+      "end": 357.2,
+      "text": "Wow, 이런 information에도"
+    },
+    {
+      "start": 357.2,
+      "end": 359.5,
+      "text": "우리가 또 귀를 기울일 수가 있는 기회였습니다"
+    },
+    {
+      "start": 359.5,
+      "end": 361.66,
+      "text": "그러면 오늘 장면 듣고 올게요"
+    },
+    {
+      "start": 361.66,
+      "end": 364.32,
+      "text": "I've tried to find a way to stop his brain"
+    },
+    {
+      "start": 364.32,
+      "end": 365.74,
+      "text": "But it just runs and runs"
+    },
+    {
+      "start": 365.74,
+      "end": 368.14,
+      "text": "It's something he can't control"
+    },
+    {
+      "start": 368.14,
+      "end": 370.58,
+      "text": "All I can do is bring him back to center"
+    },
+    {
+      "start": 370.58,
+      "end": 373.9,
+      "text": "I've heard Mr. Edison call the worst husband in America"
+    },
+    {
+      "start": 373.9,
+      "end": 377.06,
+      "text": "On account of him sleeping in his lab on your wedding night"
+    },
+    {
+      "start": 377.06,
+      "end": 378.46,
+      "text": "I've heard the story myself"
+    },
+    {
+      "start": 378.46,
+      "end": 381.48,
+      "text": "Oh, that story"
+    },
+    {
+      "start": 381.48,
+      "end": 382.06,
+      "text": "Yeah"
+    },
+    {
+      "start": 382.06,
+      "end": 383.4,
+      "text": "What a story"
+    },
+    {
+      "start": 383.4,
+      "end": 384.96,
+      "text": "I hope that's not true"
+    },
+    {
+      "start": 384.96,
+      "end": 387.88,
+      "text": "Oh, 근데 왠지 진짜일 것 같은 예감입니다"
+    },
+    {
+      "start": 387.88,
+      "end": 388.2,
+      "text": "그쵸?"
+    },
+    {
+      "start": 388.2,
+      "end": 391.82,
+      "text": "A reporter is interviewing his wife, Mary, right?"
+    },
+    {
+      "start": 391.98,
+      "end": 392.78,
+      "text": "Yes, they're sitting"
+    },
+    {
+      "start": 392.78,
+      "end": 394.36,
+      "text": "They're having a cup of tea"
+    },
+    {
+      "start": 394.36,
+      "end": 394.76,
+      "text": "Yeah"
+    },
+    {
+      "start": 394.76,
+      "end": 396.44,
+      "text": "And she's interviewing him"
+    },
+    {
+      "start": 396.44,
+      "end": 396.8,
+      "text": "Yeah"
+    },
+    {
+      "start": 396.8,
+      "end": 398.88,
+      "text": "About her famous inventor husband"
+    },
+    {
+      "start": 398.88,
+      "end": 399.26,
+      "text": "Yeah"
+    },
+    {
+      "start": 399.26,
+      "end": 400.66,
+      "text": "The good and the bad"
+    },
+    {
+      "start": 400.66,
+      "end": 401.2,
+      "text": "그쵸"
+    },
+    {
+      "start": 401.2,
+      "end": 404.66,
+      "text": "에디슨이 너무 과하게 빠져 있으니까"
+    },
+    {
+      "start": 404.66,
+      "end": 407.4,
+      "text": "아무래도 가정에는 소홀할 수밖에 없는"
+    },
+    {
+      "start": 407.4,
+      "end": 409.24,
+      "text": "그런 양면성을 지닐 수밖에 없죠"
+    },
+    {
+      "start": 409.24,
+      "end": 412.84,
+      "text": "어떤 단어들이 들렸는지 살펴볼까요?"
+    },
+    {
+      "start": 414.06,
+      "end": 416.12,
+      "text": "Runs and runs"
+    },
+    {
+      "start": 416.12,
+      "end": 417.98,
+      "text": "아, runs and runs"
+    },
+    {
+      "start": 417.98,
+      "end": 421.34,
+      "text": "원형으로 먼저 떠올리면 run and run이 되겠죠"
+    },
+    {
+      "start": 421.34,
+      "end": 424.32,
+      "text": "근데 여기에서는 이제 runs and runs라고 들리실 건데"
+    },
+    {
+      "start": 424.32,
+      "end": 426.26,
+      "text": "끊임없이 계속되다"
+    },
+    {
+      "start": 426.26,
+      "end": 429.16,
+      "text": "끊임없이 달리다라고 해석하실 수가 있겠죠"
+    },
+    {
+      "start": 429.16,
+      "end": 429.6,
+      "text": "Yeah"
+    },
+    {
+      "start": 429.6,
+      "end": 433.3,
+      "text": "I ran and ran and ran and ran until I collapsed"
+    },
+    {
+      "start": 433.3,
+      "end": 435.16,
+      "text": "그럼 계속 달리는 거죠"
+    },
+    {
+      "start": 435.16,
+      "end": 437.66,
+      "text": "아, 과거형으로도 이렇게 바꿔서"
+    },
+    {
+      "start": 437.66,
+      "end": 441.14,
+      "text": "계속적으로 뭔가 달렸다라는 의미를 전달하실 수가 있어요"
+    },
+    {
+      "start": 441.14,
+      "end": 443.12,
+      "text": "Yeah, here it's not running physically"
+    },
+    {
+      "start": 443.12,
+      "end": 444.48,
+      "text": "It's his brain"
+    },
+    {
+      "start": 444.48,
+      "end": 444.92,
+      "text": "Yeah"
+    },
+    {
+      "start": 444.92,
+      "end": 446.04,
+      "text": "It doesn't stop"
+    },
+    {
+      "start": 446.04,
+      "end": 450.4,
+      "text": "아, 그러니까 우리가 육체적으로 달리는 것만 상상하실 것이 아니라"
+    },
+    {
+      "start": 450.4,
+      "end": 453.54,
+      "text": "뭔가 뇌를 쓰거나 어떤 일을 추진하거나"
+    },
+    {
+      "start": 453.54,
+      "end": 456.2,
+      "text": "이런 상황들이 또 가능하다는 거죠"
+    },
+    {
+      "start": 456.2,
+      "end": 457.84,
+      "text": "Can't control"
+    },
+    {
+      "start": 457.84,
+      "end": 461.0,
+      "text": "네, can't control 이라는 것도 들리실 거예요"
+    },
+    {
+      "start": 461.0,
+      "end": 464.18,
+      "text": "Control 할 수 없다 라고 해석이 되죠"
+    },
+    {
+      "start": 464.18,
+      "end": 465.0,
+      "text": "아, 할 수 없다"
+    },
+    {
+      "start": 465.0,
+      "end": 466.66,
+      "text": "It's just him"
+    },
+    {
+      "start": 466.66,
+      "end": 467.98,
+      "text": "He's been himself"
+    },
+    {
+      "start": 467.98,
+      "end": 468.34,
+      "text": "Yeah"
+    },
+    {
+      "start": 468.34,
+      "end": 469.74,
+      "text": "He can't stop his brain"
+    },
+    {
+      "start": 469.74,
+      "end": 470.14,
+      "text": "Yeah"
+    },
+    {
+      "start": 470.14,
+      "end": 471.18,
+      "text": "He can't control it"
+    },
+    {
+      "start": 471.18,
+      "end": 471.6,
+      "text": "Yeah"
+    },
+    {
+      "start": 471.6,
+      "end": 473.64,
+      "text": "The worst"
+    },
+    {
+      "start": 473.64,
+      "end": 474.56,
+      "text": "Oh my gosh"
+    },
+    {
+      "start": 474.56,
+      "end": 476.76,
+      "text": "The worst husband"
+    },
+    {
+      "start": 476.76,
+      "end": 479.12,
+      "text": "누구를 지칭한 표현일까요?"
+    },
+    {
+      "start": 479.74,
+      "end": 481.34,
+      "text": "당연히 에디슨이 아닐까요?"
+    },
+    {
+      "start": 481.52,
+      "end": 483.76,
+      "text": "The worst husband이라고 들렸어요"
+    },
+    {
+      "start": 483.76,
+      "end": 485.4,
+      "text": "I get nervous just reading this"
+    },
+    {
+      "start": 485.4,
+      "end": 485.74,
+      "text": "Yeah"
+    },
+    {
+      "start": 485.74,
+      "end": 486.98,
+      "text": "The worst husband"
+    },
+    {
+      "start": 486.98,
+      "end": 489.08,
+      "text": "Nobody wants to be called the worst husband"
+    },
+    {
+      "start": 489.08,
+      "end": 489.46,
+      "text": "부르게요"
+    },
+    {
+      "start": 489.46,
+      "end": 492.14,
+      "text": "I think you are one of the best husbands in the world"
+    },
+    {
+      "start": 492.14,
+      "end": 493.22,
+      "text": "I don't think so"
+    },
+    {
+      "start": 493.22,
+      "end": 494.06,
+      "text": "Wow"
+    },
+    {
+      "start": 494.06,
+      "end": 495.4,
+      "text": "겸손하시겠네요"
+    },
+    {
+      "start": 495.4,
+      "end": 496.82,
+      "text": "Thank you very much"
+    },
+    {
+      "start": 496.82,
+      "end": 497.2,
+      "text": "Yeah"
+    },
+    {
+      "start": 497.2,
+      "end": 498.7,
+      "text": "I'll take it"
+    },
+    {
+      "start": 498.7,
+      "end": 499.44,
+      "text": "I'll take it"
+    },
+    {
+      "start": 499.44,
+      "end": 499.7,
+      "text": "All right"
+    },
+    {
+      "start": 499.7,
+      "end": 502.8,
+      "text": "Worst라는 것은 bad의 최상급이잖아요"
+    },
+    {
+      "start": 502.8,
+      "end": 507.58,
+      "text": "그래서 가장 안 좋은, 가장 나쁜 남편이라는 구문이 되겠습니다"
+    },
+    {
+      "start": 507.58,
+      "end": 510.6,
+      "text": "자 그러면 내용 집중하시고 한 번 더 들어보시죠"
+    },
+    {
+      "start": 510.6,
+      "end": 512.97,
+      "text": "I've tried to find a way to stop his brain"
+    },
+    {
+      "start": 512.97,
+      "end": 514.37,
+      "text": "But it just runs and runs"
+    },
+    {
+      "start": 514.37,
+      "end": 516.8,
+      "text": "It's something he can't control"
+    },
+    {
+      "start": 516.8,
+      "end": 519.22,
+      "text": "All I can do is bring him back to center"
+    },
+    {
+      "start": 519.22,
+      "end": 522.56,
+      "text": "I've heard Mr. Edison call the worst husband in America"
+    },
+    {
+      "start": 522.56,
+      "end": 525.7,
+      "text": "On account of him sleeping in his lab on your wedding night"
+    },
+    {
+      "start": 525.7,
+      "end": 527.1,
+      "text": "I've heard the story myself"
+    },
+    {
+      "start": 527.1,
+      "end": 530.8,
+      "text": "The conversation sounds sincere here"
+    },
+    {
+      "start": 530.8,
+      "end": 531.66,
+      "text": "Very sincere"
+    },
+    {
+      "start": 531.66,
+      "end": 533.5,
+      "text": "굉장히 진솔하지 않습니까?"
+    },
+    {
+      "start": 533.5,
+      "end": 538.34,
+      "text": "She's not just saying flattering things about her great famous husband"
+    },
+    {
+      "start": 538.34,
+      "end": 539.56,
+      "text": "Oh he's the best"
+    },
+    {
+      "start": 539.56,
+      "end": 541.0,
+      "text": "He's so brilliant"
+    },
+    {
+      "start": 541.0,
+      "end": 543.06,
+      "text": "She's giving the truth"
+    },
+    {
+      "start": 543.06,
+      "end": 543.44,
+      "text": "Yeah"
+    },
+    {
+      "start": 543.44,
+      "end": 545.5,
+      "text": "She's telling the hard facts"
+    },
+    {
+      "start": 545.5,
+      "end": 548.02,
+      "text": "날씨란다"
+    },
+    {
+      "start": 548.02,
+      "end": 549.16,
+      "text": "날씨란이"
+    },
+    {
+      "start": 549.16,
+      "end": 554.66,
+      "text": "나이가 꽤 어린 편에 속해 있었을 텐데도 불구하고"
+    },
+    {
+      "start": 554.66,
+      "end": 558.52,
+      "text": "굉장히 대화를 진솔하게 잘 이어가고 있는 모습이었습니다"
+    },
+    {
+      "start": 558.52,
+      "end": 559.08,
+      "text": "I like it"
+    },
+    {
+      "start": 559.08,
+      "end": 559.5,
+      "text": "I like it"
+    },
+    {
+      "start": 559.5,
+      "end": 559.8,
+      "text": "Yeah"
+    },
+    {
+      "start": 559.8,
+      "end": 561.04,
+      "text": "내용 한 번 알아볼까요?"
+    },
+    {
+      "start": 561.92,
+      "end": 564.72,
+      "text": "I've tried to find a way to stop his brain"
+    },
+    {
+      "start": 564.72,
+      "end": 565.0,
+      "text": "네"
+    },
+    {
+      "start": 565.0,
+      "end": 566.84,
+      "text": "지금 메리가 하는 말이었어요"
+    },
+    {
+      "start": 566.84,
+      "end": 570.5,
+      "text": "I've tried to find a way to stop his brain"
+    },
+    {
+      "start": 570.5,
+      "end": 571.7,
+      "text": "Stop brain, stop"
+    },
+    {
+      "start": 571.7,
+      "end": 573.04,
+      "text": "Stop working"
+    },
+    {
+      "start": 573.04,
+      "end": 578.18,
+      "text": "저도 그의 brain을, 그의 머리를 좀 stop"
+    },
+    {
+      "start": 578.18,
+      "end": 579.92,
+      "text": "할 수 있는 방법을"
+    },
+    {
+      "start": 579.92,
+      "end": 581.06,
+      "text": "I've tried to find"
+    },
+    {
+      "start": 581.06,
+      "end": 582.8,
+      "text": "찾으려고 해봤어요"
+    },
+    {
+      "start": 582.8,
+      "end": 583.4,
+      "text": "라는 거예요"
+    },
+    {
+      "start": 583.4,
+      "end": 584.36,
+      "text": "It doesn't work"
+    },
+    {
+      "start": 584.36,
+      "end": 585.9,
+      "text": "Can you distract him with something?"
+    },
+    {
+      "start": 586.08,
+      "end": 587.76,
+      "text": "I made your favorite meal"
+    },
+    {
+      "start": 587.76,
+      "end": 588.34,
+      "text": "Come here"
+    },
+    {
+      "start": 588.34,
+      "end": 590.42,
+      "text": "Oh your kids want to play with you"
+    },
+    {
+      "start": 590.42,
+      "end": 592.16,
+      "text": "I guess nothing works"
+    },
+    {
+      "start": 592.16,
+      "end": 592.86,
+      "text": "Right"
+    },
+    {
+      "start": 592.86,
+      "end": 595.98,
+      "text": "But it just runs and runs"
+    },
+    {
+      "start": 595.98,
+      "end": 596.68,
+      "text": "네"
+    },
+    {
+      "start": 596.68,
+      "end": 598.54,
+      "text": "여기에서 딱 그 표현이 들렸습니다"
+    },
+    {
+      "start": 598.54,
+      "end": 600.32,
+      "text": "Runs and runs"
+    },
+    {
+      "start": 600.32,
+      "end": 600.8,
+      "text": "라고요"
+    },
+    {
+      "start": 600.8,
+      "end": 601.02,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 601.24,
+      "end": 601.46,
+      "text": "그래서"
+    },
+    {
+      "start": 601.46,
+      "end": 604.48,
+      "text": "But it just runs and runs"
+    },
+    {
+      "start": 604.48,
+      "end": 608.12,
+      "text": "하지만 그냥 계속 돌아가는 거죠"
+    },
+    {
+      "start": 608.12,
+      "end": 610.5,
+      "text": "계속 쉬지 않고 가는 거죠"
+    },
+    {
+      "start": 610.5,
+      "end": 612.16,
+      "text": "That's what he's famous for"
+    },
+    {
+      "start": 612.16,
+      "end": 612.52,
+      "text": "Yeah"
+    },
+    {
+      "start": 612.52,
+      "end": 615.04,
+      "text": "He does not stop thinking"
+    },
+    {
+      "start": 615.04,
+      "end": 616.56,
+      "text": "Does not stop working"
+    },
+    {
+      "start": 616.56,
+      "end": 616.78,
+      "text": "맞아요"
+    },
+    {
+      "start": 616.78,
+      "end": 619.6,
+      "text": "His brain keeps running and running and running"
+    },
+    {
+      "start": 619.6,
+      "end": 620.0,
+      "text": "Right"
+    },
+    {
+      "start": 620.0,
+      "end": 623.0,
+      "text": "It's something he can't control"
+    },
+    {
+      "start": 623.0,
+      "end": 623.62,
+      "text": "네"
+    },
+    {
+      "start": 623.62,
+      "end": 627.1,
+      "text": "남편인 에디슨의 상태에 대해서 이렇게 묘사를 하고 있는 거예요"
+    },
+    {
+      "start": 627.1,
+      "end": 628.14,
+      "text": "It's something"
+    },
+    {
+      "start": 628.14,
+      "end": 629.32,
+      "text": "뭔가인데"
+    },
+    {
+      "start": 629.32,
+      "end": 631.1,
+      "text": "He can't control"
+    },
+    {
+      "start": 631.1,
+      "end": 632.42,
+      "text": "이다라는 거거든요"
+    },
+    {
+      "start": 632.42,
+      "end": 635.58,
+      "text": "그러니까 그가 컨트롤을 할 수 없는 뭔가예요"
+    },
+    {
+      "start": 635.58,
+      "end": 638.42,
+      "text": "자기 자신도 조절을 할 수 없는 건가 봐요"
+    },
+    {
+      "start": 638.42,
+      "end": 639.44,
+      "text": "라고 이야기합니다"
+    },
+    {
+      "start": 639.44,
+      "end": 641.54,
+      "text": "This is typical of a genius"
+    },
+    {
+      "start": 641.54,
+      "end": 642.2,
+      "text": "Right?"
+    },
+    {
+      "start": 642.44,
+      "end": 645.0,
+      "text": "They can't control their quirks"
+    },
+    {
+      "start": 645.0,
+      "end": 646.72,
+      "text": "Their eccentricities"
+    },
+    {
+      "start": 646.72,
+      "end": 647.1,
+      "text": "Yeah"
+    },
+    {
+      "start": 647.1,
+      "end": 648.26,
+      "text": "eccentricities"
+    },
+    {
+      "start": 648.26,
+      "end": 648.7,
+      "text": "그래요"
+    },
+    {
+      "start": 648.7,
+      "end": 656.04,
+      "text": "참 이 천재 혹은 뭐 괴짜들하고 같이 지낸다라는 것이 그렇게 쉽지만은 않을 겁니다"
+    },
+    {
+      "start": 656.04,
+      "end": 659.36,
+      "text": "All I can do is bring him back to center"
+    },
+    {
+      "start": 659.36,
+      "end": 661.68,
+      "text": "All I can do is"
+    },
+    {
+      "start": 661.68,
+      "end": 664.36,
+      "text": "내가 할 수 있는 모든 것은 무엇이었냐면"
+    },
+    {
+      "start": 664.36,
+      "end": 666.56,
+      "text": "It's bring him back to center"
+    },
+    {
+      "start": 666.56,
+      "end": 667.3,
+      "text": "라고 했거든요"
+    },
+    {
+      "start": 667.3,
+      "end": 669.38,
+      "text": "She is a wise wife"
+    },
+    {
+      "start": 669.38,
+      "end": 670.48,
+      "text": "Very wise"
+    },
+    {
+      "start": 670.48,
+      "end": 674.92,
+      "text": "중심으로 그를 bring back 하려고 하는 것일 뿐이었어요"
+    },
+    {
+      "start": 674.92,
+      "end": 675.54,
+      "text": "라는 거거든요"
+    },
+    {
+      "start": 675.54,
+      "end": 679.92,
+      "text": "그를 중심으로 돌아오게끔 하는 것 뿐이었어요"
+    },
+    {
+      "start": 679.92,
+      "end": 680.74,
+      "text": "Yeah"
+    },
+    {
+      "start": 680.74,
+      "end": 682.6,
+      "text": "It reminds me of my wife"
+    },
+    {
+      "start": 682.6,
+      "end": 684.68,
+      "text": "When I'm doing something crazy"
+    },
+    {
+      "start": 684.68,
+      "end": 686.44,
+      "text": "Or just going on the edge"
+    },
+    {
+      "start": 686.44,
+      "end": 687.04,
+      "text": "What kind of crazy things"
+    },
+    {
+      "start": 687.04,
+      "end": 687.56,
+      "text": "Yeah"
+    },
+    {
+      "start": 687.56,
+      "end": 690.2,
+      "text": "약간 그 극단적인 거 하려고"
+    },
+    {
+      "start": 690.2,
+      "end": 691.36,
+      "text": "그 참에"
+    },
+    {
+      "start": 691.36,
+      "end": 692.96,
+      "text": "She always grabs me"
+    },
+    {
+      "start": 692.96,
+      "end": 694.64,
+      "text": "And brings me back to center"
+    },
+    {
+      "start": 694.64,
+      "end": 696.24,
+      "text": "중심을 잡아주는 역할"
+    },
+    {
+      "start": 696.24,
+      "end": 698.02,
+      "text": "Wise wife 맞네요"
+    },
+    {
+      "start": 698.02,
+      "end": 698.98,
+      "text": "Very wise"
+    },
+    {
+      "start": 698.98,
+      "end": 699.98,
+      "text": "Edison's wife"
+    },
+    {
+      "start": 699.98,
+      "end": 700.42,
+      "text": "Yeah"
+    },
+    {
+      "start": 700.42,
+      "end": 701.26,
+      "text": "Very very wise"
+    },
+    {
+      "start": 701.26,
+      "end": 702.36,
+      "text": "He married well"
+    },
+    {
+      "start": 702.36,
+      "end": 703.6,
+      "text": "Oh right"
+    },
+    {
+      "start": 703.6,
+      "end": 705.44,
+      "text": "The reporter"
+    },
+    {
+      "start": 705.44,
+      "end": 705.8,
+      "text": "Yeah"
+    },
+    {
+      "start": 705.8,
+      "end": 711.64,
+      "text": "I've heard Mr. Edison called the worst husband in America"
+    },
+    {
+      "start": 711.64,
+      "end": 715.8,
+      "text": "On account of him sleeping in his lab on your wedding night"
+    },
+    {
+      "start": 715.8,
+      "end": 716.4,
+      "text": "Yeah"
+    },
+    {
+      "start": 716.4,
+      "end": 718.34,
+      "text": "여기까지가 한 문장인 거죠"
+    },
+    {
+      "start": 718.34,
+      "end": 720.68,
+      "text": "그래서 지금 기자가 하는 말이었는데"
+    },
+    {
+      "start": 720.68,
+      "end": 722.32,
+      "text": "I've heard"
+    },
+    {
+      "start": 722.32,
+      "end": 723.58,
+      "text": "저는 들었어요"
+    },
+    {
+      "start": 723.58,
+      "end": 728.5,
+      "text": "Mr. Edison이 called the worst husband in America"
+    },
+    {
+      "start": 728.5,
+      "end": 732.34,
+      "text": "미국에서 가장 최악의 남편이라고 불리우는 것을 들었어요"
+    },
+    {
+      "start": 732.34,
+      "end": 733.0,
+      "text": "라는 거예요"
+    },
+    {
+      "start": 733.0,
+      "end": 733.02,
+      "text": "라는 거예요"
+    },
+    {
+      "start": 733.02,
+      "end": 733.84,
+      "text": "그 다음에"
+    },
+    {
+      "start": 733.84,
+      "end": 738.18,
+      "text": "On account of him sleeping in his lab on your wedding night"
+    },
+    {
+      "start": 738.18,
+      "end": 739.12,
+      "text": "이거 해석되세요?"
+    },
+    {
+      "start": 739.62,
+      "end": 739.76,
+      "text": "네"
+    },
+    {
+      "start": 739.76,
+      "end": 741.54,
+      "text": "On account of 라는 것은"
+    },
+    {
+      "start": 741.54,
+      "end": 743.9,
+      "text": "뭐 뭐 때문에 이 정도로 해석할 수가 있잖아요"
+    },
+    {
+      "start": 743.9,
+      "end": 744.22,
+      "text": "Yeah"
+    },
+    {
+      "start": 744.22,
+      "end": 745.38,
+      "text": "Some people said"
+    },
+    {
+      "start": 745.38,
+      "end": 747.62,
+      "text": "According to some people"
+    },
+    {
+      "start": 747.62,
+      "end": 748.5,
+      "text": "Yeah"
+    },
+    {
+      "start": 748.5,
+      "end": 752.9,
+      "text": "그래서 그가 심지어 wedding night에도"
+    },
+    {
+      "start": 752.9,
+      "end": 754.64,
+      "text": "그러니까 결혼 첫날 밤에도"
+    },
+    {
+      "start": 754.64,
+      "end": 757.98,
+      "text": "Sleeping in his lab 했기 때문에"
+    },
+    {
+      "start": 757.98,
+      "end": 761.26,
+      "text": "미국에서 최악의 남편이라고 불리우는 것을 들었다는 겁니다"
+    },
+    {
+      "start": 761.26,
+      "end": 762.14,
+      "text": "He did what?"
+    },
+    {
+      "start": 762.78,
+      "end": 763.66,
+      "text": "He did what?"
+    },
+    {
+      "start": 763.9,
+      "end": 765.08,
+      "text": "Yeah, I think that's true"
+    },
+    {
+      "start": 765.08,
+      "end": 767.26,
+      "text": "진짜 사실일 것 같아요, 그죠?"
+    },
+    {
+      "start": 767.38,
+      "end": 767.9,
+      "text": "No way"
+    },
+    {
+      "start": 767.9,
+      "end": 769.98,
+      "text": "He worked in a lab on his wedding day"
+    },
+    {
+      "start": 769.98,
+      "end": 770.68,
+      "text": "I think about it"
+    },
+    {
+      "start": 770.68,
+      "end": 771.72,
+      "text": "You got married"
+    },
+    {
+      "start": 771.72,
+      "end": 774.24,
+      "text": "Usually weddings are happy events"
+    },
+    {
+      "start": 774.24,
+      "end": 775.9,
+      "text": "All your friends and family come"
+    },
+    {
+      "start": 775.9,
+      "end": 777.2,
+      "text": "It's long"
+    },
+    {
+      "start": 777.2,
+      "end": 778.26,
+      "text": "You finish"
+    },
+    {
+      "start": 778.26,
+      "end": 779.54,
+      "text": "You go on a honeymoon"
+    },
+    {
+      "start": 779.54,
+      "end": 780.16,
+      "text": "Yeah"
+    },
+    {
+      "start": 780.16,
+      "end": 782.4,
+      "text": "Or at least you sleep in the same house"
+    },
+    {
+      "start": 782.4,
+      "end": 784.64,
+      "text": "He spent the night at work"
+    },
+    {
+      "start": 784.64,
+      "end": 786.58,
+      "text": "In his lab"
+    },
+    {
+      "start": 786.58,
+      "end": 787.44,
+      "text": "Oh my gosh"
+    },
+    {
+      "start": 787.44,
+      "end": 789.3,
+      "text": "I think it's just a rumor"
+    },
+    {
+      "start": 789.3,
+      "end": 790.78,
+      "text": "아, 소문이길 바래요"
+    },
+    {
+      "start": 790.78,
+      "end": 791.38,
+      "text": "아, 진짜요?"
+    },
+    {
+      "start": 791.5,
+      "end": 793.48,
+      "text": "아, 왠지 사실일 것 같은 예감이 들긴 하는데"
+    },
+    {
+      "start": 793.48,
+      "end": 797.38,
+      "text": "I've heard the story myself"
+    },
+    {
+      "start": 797.38,
+      "end": 800.0,
+      "text": "자, 이제 메리가 또 진솔하게 이렇게 얘기합니다"
+    },
+    {
+      "start": 800.0,
+      "end": 803.1,
+      "text": "이거 제치인지 사실이라는 걸 인정하는지 모르겠네요"
+    },
+    {
+      "start": 803.1,
+      "end": 803.6,
+      "text": "맞아요"
+    },
+    {
+      "start": 803.6,
+      "end": 805.88,
+      "text": "두 가지의 의미가 다 포함이 되어 있는 것 같아요"
+    },
+    {
+      "start": 805.88,
+      "end": 807.5,
+      "text": "I've heard the story myself"
+    },
+    {
+      "start": 807.5,
+      "end": 809.82,
+      "text": "그 얘기 저도 들었어요"
+    },
+    {
+      "start": 809.82,
+      "end": 810.58,
+      "text": "라는 거예요"
+    },
+    {
+      "start": 810.58,
+      "end": 811.5,
+      "text": "Really?"
+    },
+    {
+      "start": 811.5,
+      "end": 811.98,
+      "text": "From who?"
+    },
+    {
+      "start": 812.78,
+      "end": 816.56,
+      "text": "자, 오늘 메리하고 리포터 간의 대화였는데요"
+    },
+    {
+      "start": 816.56,
+      "end": 818.78,
+      "text": "이거 한 번 더 들어보도록 하겠습니다"
+    },
+    {
+      "start": 818.78,
+      "end": 821.33,
+      "text": "I've tried to find a way to stop his brain"
+    },
+    {
+      "start": 821.33,
+      "end": 822.73,
+      "text": "but it just runs and runs"
+    },
+    {
+      "start": 822.73,
+      "end": 825.15,
+      "text": "It's something he can't control"
+    },
+    {
+      "start": 825.15,
+      "end": 827.6,
+      "text": "All I can do is bring him back to center"
+    },
+    {
+      "start": 827.6,
+      "end": 830.92,
+      "text": "I've heard Mr. Edison called the worst husband in America"
+    },
+    {
+      "start": 830.92,
+      "end": 834.06,
+      "text": "on account of him sleeping in his lab on your wedding night"
+    },
+    {
+      "start": 834.06,
+      "end": 835.46,
+      "text": "I've heard the story myself"
+    },
+    {
+      "start": 835.46,
+      "end": 841.71,
+      "text": "네, 오늘 아주 현명한 와이프인 메리의 이야기에 좀 집중을 많이 해봤어요"
+    },
+    {
+      "start": 841.71,
+      "end": 842.65,
+      "text": "Respect to 메리"
+    },
+    {
+      "start": 842.65,
+      "end": 845.37,
+      "text": "She brings Edison back to center"
+    },
+    {
+      "start": 845.37,
+      "end": 845.87,
+      "text": "Yeah"
+    },
+    {
+      "start": 845.87,
+      "end": 848.77,
+      "text": "자, 오늘 스크린 잉글리쉬는 여기까지고요"
     }
   ]
 }
