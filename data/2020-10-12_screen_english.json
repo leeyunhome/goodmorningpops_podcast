@@ -1,0 +1,2412 @@
+{
+  "id": "2020-10-12_screen_english",
+  "date": "2020-10-12",
+  "corner": "screen_english",
+  "corner_label": "Screen English",
+  "title": "We_ll need to break the law",
+  "movie": "",
+  "duration_sec": 660.43,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-12_screen_english.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 13.38,
+      "text": "Screen English"
+    },
+    {
+      "start": 13.38,
+      "end": 34.15,
+      "text": "Morning Theater Screen English Time"
+    },
+    {
+      "start": 34.15,
+      "end": 36.27,
+      "text": "10월에 함께하고 있는 영화는"
+    },
+    {
+      "start": 36.27,
+      "end": 38.15,
+      "text": "Mark Munden 감독"
+    },
+    {
+      "start": 38.15,
+      "end": 39.77,
+      "text": "Dixie Egericks"
+    },
+    {
+      "start": 39.77,
+      "end": 40.67,
+      "text": "Colin Firth"
+    },
+    {
+      "start": 40.67,
+      "end": 41.87,
+      "text": "Julie Walters"
+    },
+    {
+      "start": 41.87,
+      "end": 44.49,
+      "text": "The Secret Garden"
+    },
+    {
+      "start": 44.49,
+      "end": 46.39,
+      "text": "네 오셨어요 오셨어요"
+    },
+    {
+      "start": 46.39,
+      "end": 47.17,
+      "text": "그린스 씨"
+    },
+    {
+      "start": 47.17,
+      "end": 47.79,
+      "text": "왔어요"
+    },
+    {
+      "start": 47.79,
+      "end": 49.49,
+      "text": "네 왔어요 반갑습니다"
+    },
+    {
+      "start": 49.49,
+      "end": 50.37,
+      "text": "네 반갑습니다"
+    },
+    {
+      "start": 50.37,
+      "end": 51.29,
+      "text": "Good morning"
+    },
+    {
+      "start": 51.29,
+      "end": 53.23,
+      "text": "네 아침이 밝았습니다"
+    },
+    {
+      "start": 53.23,
+      "end": 56.05,
+      "text": "우리 이 영화의 내용에 대해서요"
+    },
+    {
+      "start": 56.05,
+      "end": 57.11,
+      "text": "또 다뤄봐야 되는데"
+    },
+    {
+      "start": 57.11,
+      "end": 59.45,
+      "text": "주연 배우들 중에서"
+    },
+    {
+      "start": 59.45,
+      "end": 62.89,
+      "text": "어쩌면 우리 청취자분들 중에도"
+    },
+    {
+      "start": 62.89,
+      "end": 65.65,
+      "text": "아주 많이 궁금해하실 인물이"
+    },
+    {
+      "start": 65.65,
+      "end": 66.71,
+      "text": "한 명이 있을 거예요"
+    },
+    {
+      "start": 66.71,
+      "end": 67.29,
+      "text": "아무래도"
+    },
+    {
+      "start": 67.29,
+      "end": 69.67,
+      "text": "I think I know who you're talking about"
+    },
+    {
+      "start": 69.67,
+      "end": 71.21,
+      "text": "진짜요 누굴까요"
+    },
+    {
+      "start": 71.21,
+      "end": 73.39,
+      "text": "Mr. Firth"
+    },
+    {
+      "start": 73.39,
+      "end": 74.31,
+      "text": "네 그렇겠죠"
+    },
+    {
+      "start": 74.31,
+      "end": 75.07,
+      "text": "네 네"
+    },
+    {
+      "start": 75.07,
+      "end": 75.89,
+      "text": "Colin Firth"
+    },
+    {
+      "start": 75.89,
+      "end": 77.13,
+      "text": "가 아닐까 싶습니다"
+    },
+    {
+      "start": 77.13,
+      "end": 80.01,
+      "text": "He played a role of Mary's uncle here right?"
+    },
+    {
+      "start": 80.73,
+      "end": 81.73,
+      "text": "Yes yes"
+    },
+    {
+      "start": 81.73,
+      "end": 85.05,
+      "text": "여기에서 Mary의 이모부의 역할을 맡았는데"
+    },
+    {
+      "start": 85.05,
+      "end": 85.63,
+      "text": "The uncle"
+    },
+    {
+      "start": 85.63,
+      "end": 86.45,
+      "text": "네 맞아요"
+    },
+    {
+      "start": 86.45,
+      "end": 87.27,
+      "text": "The crazy uncle"
+    },
+    {
+      "start": 87.27,
+      "end": 88.79,
+      "text": "crazy합니까"
+    },
+    {
+      "start": 88.79,
+      "end": 90.29,
+      "text": "안타깝네요"
+    },
+    {
+      "start": 90.29,
+      "end": 91.59,
+      "text": "He's a little eccentric"
+    },
+    {
+      "start": 91.59,
+      "end": 92.93,
+      "text": "but hey"
+    },
+    {
+      "start": 92.93,
+      "end": 94.47,
+      "text": "he has a really sad"
+    },
+    {
+      "start": 94.47,
+      "end": 95.39,
+      "text": "personal story"
+    },
+    {
+      "start": 95.39,
+      "end": 95.79,
+      "text": "맞아요"
+    },
+    {
+      "start": 95.79,
+      "end": 97.03,
+      "text": "알면 알수록"
+    },
+    {
+      "start": 97.03,
+      "end": 98.73,
+      "text": "약간 감성적으로"
+    },
+    {
+      "start": 98.73,
+      "end": 100.39,
+      "text": "좀 동감이 되는 부분도"
+    },
+    {
+      "start": 100.39,
+      "end": 101.37,
+      "text": "생기더라고요"
+    },
+    {
+      "start": 101.37,
+      "end": 102.09,
+      "text": "Anyway"
+    },
+    {
+      "start": 102.09,
+      "end": 102.93,
+      "text": "especially I like"
+    },
+    {
+      "start": 102.93,
+      "end": 104.11,
+      "text": "his acting as role"
+    },
+    {
+      "start": 104.11,
+      "end": 105.29,
+      "text": "in Kingsman"
+    },
+    {
+      "start": 105.29,
+      "end": 105.73,
+      "text": "Oh"
+    },
+    {
+      "start": 105.73,
+      "end": 105.75,
+      "text": "Oh"
+    },
+    {
+      "start": 105.75,
+      "end": 107.29,
+      "text": "Yeah"
+    },
+    {
+      "start": 107.29,
+      "end": 108.47,
+      "text": "그 영화 속에서"
+    },
+    {
+      "start": 108.47,
+      "end": 109.47,
+      "text": "이 사람의 역할을"
+    },
+    {
+      "start": 109.47,
+      "end": 111.21,
+      "text": "정말 좋아했었거든요"
+    },
+    {
+      "start": 111.21,
+      "end": 113.27,
+      "text": "He was a smart gentleman"
+    },
+    {
+      "start": 113.27,
+      "end": 114.25,
+      "text": "in the movie"
+    },
+    {
+      "start": 114.25,
+      "end": 115.65,
+      "text": "Was he handsome"
+    },
+    {
+      "start": 115.65,
+      "end": 116.53,
+      "text": "and smart"
+    },
+    {
+      "start": 116.53,
+      "end": 117.49,
+      "text": "and sophisticated"
+    },
+    {
+      "start": 117.49,
+      "end": 119.81,
+      "text": "I can tell you really liked him"
+    },
+    {
+      "start": 119.81,
+      "end": 120.97,
+      "text": "from your expression"
+    },
+    {
+      "start": 120.97,
+      "end": 121.47,
+      "text": "Yeah"
+    },
+    {
+      "start": 121.47,
+      "end": 122.61,
+      "text": "your current expression"
+    },
+    {
+      "start": 122.61,
+      "end": 123.17,
+      "text": "Definitely"
+    },
+    {
+      "start": 123.17,
+      "end": 124.25,
+      "text": "I liked him"
+    },
+    {
+      "start": 124.25,
+      "end": 125.91,
+      "text": "He won an academy award"
+    },
+    {
+      "start": 125.91,
+      "end": 127.37,
+      "text": "for best actor"
+    },
+    {
+      "start": 127.37,
+      "end": 127.75,
+      "text": "Oh"
+    },
+    {
+      "start": 127.75,
+      "end": 128.99,
+      "text": "In 2011"
+    },
+    {
+      "start": 128.99,
+      "end": 129.77,
+      "text": "I think"
+    },
+    {
+      "start": 129.77,
+      "end": 131.69,
+      "text": "For a great movie called"
+    },
+    {
+      "start": 131.69,
+      "end": 133.31,
+      "text": "The King's Speech"
+    },
+    {
+      "start": 133.31,
+      "end": 134.51,
+      "text": "한국말로 하면"
+    },
+    {
+      "start": 134.51,
+      "end": 135.23,
+      "text": "King's Speech"
+    },
+    {
+      "start": 135.23,
+      "end": 136.91,
+      "text": "He played the king"
+    },
+    {
+      "start": 136.91,
+      "end": 137.23,
+      "text": "맞아요"
+    },
+    {
+      "start": 137.23,
+      "end": 138.91,
+      "text": "And he had a speech impediment"
+    },
+    {
+      "start": 138.91,
+      "end": 139.29,
+      "text": "네"
+    },
+    {
+      "start": 139.29,
+      "end": 140.73,
+      "text": "But he went"
+    },
+    {
+      "start": 140.73,
+      "end": 142.93,
+      "text": "He had intensive speech training"
+    },
+    {
+      "start": 142.93,
+      "end": 143.43,
+      "text": "Uh huh"
+    },
+    {
+      "start": 143.43,
+      "end": 145.51,
+      "text": "And he restored his confidence"
+    },
+    {
+      "start": 145.51,
+      "end": 146.03,
+      "text": "Yeah"
+    },
+    {
+      "start": 146.03,
+      "end": 147.69,
+      "text": "So he could speak in front of the people"
+    },
+    {
+      "start": 147.69,
+      "end": 148.01,
+      "text": "Yeah"
+    },
+    {
+      "start": 148.01,
+      "end": 149.45,
+      "text": "His acting was incredible"
+    },
+    {
+      "start": 149.45,
+      "end": 150.65,
+      "text": "기억납니다"
+    },
+    {
+      "start": 150.65,
+      "end": 152.47,
+      "text": "He's a very familiar face"
+    },
+    {
+      "start": 152.47,
+      "end": 154.03,
+      "text": "to many moviegoers"
+    },
+    {
+      "start": 154.03,
+      "end": 155.23,
+      "text": "All over the world"
+    },
+    {
+      "start": 155.23,
+      "end": 156.53,
+      "text": "Love Actually"
+    },
+    {
+      "start": 156.53,
+      "end": 157.29,
+      "text": "맞아요"
+    },
+    {
+      "start": 157.29,
+      "end": 158.73,
+      "text": "You know that one?"
+    },
+    {
+      "start": 158.87,
+      "end": 159.09,
+      "text": "네"
+    },
+    {
+      "start": 159.09,
+      "end": 161.11,
+      "text": "또 브리지트 존스의 일기"
+    },
+    {
+      "start": 161.11,
+      "end": 162.03,
+      "text": "이것도 있잖아요"
+    },
+    {
+      "start": 162.03,
+      "end": 162.53,
+      "text": "그쵸"
+    },
+    {
+      "start": 162.53,
+      "end": 163.45,
+      "text": "Shakespeare in Love"
+    },
+    {
+      "start": 163.45,
+      "end": 163.89,
+      "text": "맞아요"
+    },
+    {
+      "start": 163.89,
+      "end": 165.29,
+      "text": "He played in many"
+    },
+    {
+      "start": 165.29,
+      "end": 166.81,
+      "text": "many great great films"
+    },
+    {
+      "start": 166.81,
+      "end": 167.57,
+      "text": "그렇습니다"
+    },
+    {
+      "start": 167.57,
+      "end": 169.25,
+      "text": "영화 속 모습뿐만 아니라"
+    },
+    {
+      "start": 169.25,
+      "end": 170.35,
+      "text": "이 콜림퍼스는요"
+    },
+    {
+      "start": 170.35,
+      "end": 171.49,
+      "text": "실제로도"
+    },
+    {
+      "start": 171.49,
+      "end": 173.67,
+      "text": "참 멋진 인품을 가진 사람인 거라고"
+    },
+    {
+      "start": 173.67,
+      "end": 174.75,
+      "text": "저는 생각을 하거든요"
+    },
+    {
+      "start": 174.75,
+      "end": 175.05,
+      "text": "Oh"
+    },
+    {
+      "start": 175.05,
+      "end": 175.31,
+      "text": "Yeah"
+    },
+    {
+      "start": 175.31,
+      "end": 177.19,
+      "text": "I heard that he's a"
+    },
+    {
+      "start": 177.19,
+      "end": 179.05,
+      "text": "member of Survival International"
+    },
+    {
+      "start": 179.05,
+      "end": 179.75,
+      "text": "그리고"
+    },
+    {
+      "start": 179.75,
+      "end": 181.57,
+      "text": "또 원주민"
+    },
+    {
+      "start": 181.57,
+      "end": 182.45,
+      "text": "부족민들의"
+    },
+    {
+      "start": 182.45,
+      "end": 183.03,
+      "text": "rights"
+    },
+    {
+      "start": 183.03,
+      "end": 184.21,
+      "text": "권리를 위해서"
+    },
+    {
+      "start": 184.21,
+      "end": 186.75,
+      "text": "또 망명 신청자들을 위해서"
+    },
+    {
+      "start": 186.75,
+      "end": 188.55,
+      "text": "또 난민의 권리라든지"
+    },
+    {
+      "start": 188.55,
+      "end": 190.53,
+      "text": "아니면 환경 문제에 대해서도"
+    },
+    {
+      "start": 190.53,
+      "end": 191.47,
+      "text": "아주 꾸준히"
+    },
+    {
+      "start": 191.47,
+      "end": 192.83,
+      "text": "캠페인을 해온 사람이래요"
+    },
+    {
+      "start": 192.83,
+      "end": 194.99,
+      "text": "Yeah he's interested in many social issues"
+    },
+    {
+      "start": 194.99,
+      "end": 197.85,
+      "text": "He actually comes from a very academic family"
+    },
+    {
+      "start": 197.85,
+      "end": 198.43,
+      "text": "Oh really?"
+    },
+    {
+      "start": 198.65,
+      "end": 200.99,
+      "text": "Yeah both his parents were in academics"
+    },
+    {
+      "start": 200.99,
+      "end": 203.75,
+      "text": "His mom was a religion lecturer"
+    },
+    {
+      "start": 203.75,
+      "end": 204.97,
+      "text": "at a university"
+    },
+    {
+      "start": 204.97,
+      "end": 207.57,
+      "text": "and his father lectured on history"
+    },
+    {
+      "start": 207.57,
+      "end": 209.09,
+      "text": "at another university"
+    },
+    {
+      "start": 209.09,
+      "end": 210.55,
+      "text": "So he grew up"
+    },
+    {
+      "start": 210.55,
+      "end": 210.57,
+      "text": "So he grew up"
+    },
+    {
+      "start": 210.57,
+      "end": 212.19,
+      "text": "with a very academic"
+    },
+    {
+      "start": 212.19,
+      "end": 212.97,
+      "text": "environment"
+    },
+    {
+      "start": 212.97,
+      "end": 214.91,
+      "text": "And he also"
+    },
+    {
+      "start": 214.91,
+      "end": 215.99,
+      "text": "co-authored"
+    },
+    {
+      "start": 215.99,
+      "end": 217.03,
+      "text": "a scientific paper"
+    },
+    {
+      "start": 217.03,
+      "end": 217.57,
+      "text": "himself"
+    },
+    {
+      "start": 217.57,
+      "end": 218.37,
+      "text": "Oh my gosh"
+    },
+    {
+      "start": 218.37,
+      "end": 219.33,
+      "text": "About the differences"
+    },
+    {
+      "start": 219.33,
+      "end": 220.57,
+      "text": "in brain structure"
+    },
+    {
+      "start": 220.57,
+      "end": 221.91,
+      "text": "between people"
+    },
+    {
+      "start": 221.91,
+      "end": 222.85,
+      "text": "of different"
+    },
+    {
+      "start": 222.85,
+      "end": 223.47,
+      "text": "political"
+    },
+    {
+      "start": 223.47,
+      "end": 224.55,
+      "text": "orientations"
+    },
+    {
+      "start": 224.55,
+      "end": 225.65,
+      "text": "우와 주제가"
+    },
+    {
+      "start": 225.65,
+      "end": 226.79,
+      "text": "아주 흥미롭지 않습니까"
+    },
+    {
+      "start": 226.79,
+      "end": 227.83,
+      "text": "I didn't know that"
+    },
+    {
+      "start": 227.83,
+      "end": 228.95,
+      "text": "people with different"
+    },
+    {
+      "start": 228.95,
+      "end": 229.77,
+      "text": "political views"
+    },
+    {
+      "start": 229.77,
+      "end": 231.25,
+      "text": "have different brain structures"
+    },
+    {
+      "start": 231.25,
+      "end": 233.05,
+      "text": "I wonder what the results were"
+    },
+    {
+      "start": 233.05,
+      "end": 234.51,
+      "text": "너무 궁금합니다"
+    },
+    {
+      "start": 234.51,
+      "end": 236.21,
+      "text": "아주 interesting한 그런 주제로"
+    },
+    {
+      "start": 236.21,
+      "end": 238.77,
+      "text": "스스로 재미있는 논문을 쓴 거예요"
+    },
+    {
+      "start": 238.77,
+      "end": 240.23,
+      "text": "살짝 설명을 드리면"
+    },
+    {
+      "start": 240.23,
+      "end": 242.81,
+      "text": "정치적으로 다른 성향을 가진 사람들"
+    },
+    {
+      "start": 242.81,
+      "end": 244.35,
+      "text": "사이의 뇌구조에 대해서"
+    },
+    {
+      "start": 244.35,
+      "end": 246.05,
+      "text": "차이점을 연구도 하고"
+    },
+    {
+      "start": 246.05,
+      "end": 248.37,
+      "text": "또 공동저술까지 했다고 합니다"
+    },
+    {
+      "start": 248.37,
+      "end": 248.93,
+      "text": "Wow"
+    },
+    {
+      "start": 248.93,
+      "end": 250.43,
+      "text": "He's really smart"
+    },
+    {
+      "start": 250.43,
+      "end": 252.11,
+      "text": "He's a man of many many interests"
+    },
+    {
+      "start": 252.11,
+      "end": 253.17,
+      "text": "and talents"
+    },
+    {
+      "start": 253.17,
+      "end": 253.43,
+      "text": "네"
+    },
+    {
+      "start": 253.43,
+      "end": 255.35,
+      "text": "하면 알수록 아주 매력적인"
+    },
+    {
+      "start": 255.35,
+      "end": 256.19,
+      "text": "그입니다"
+    },
+    {
+      "start": 256.19,
+      "end": 258.25,
+      "text": "오늘 장면 듣고 올게요"
+    },
+    {
+      "start": 259.43,
+      "end": 260.95,
+      "text": "This place has nothing to teach you"
+    },
+    {
+      "start": 260.95,
+      "end": 262.73,
+      "text": "I want to play out of doors"
+    },
+    {
+      "start": 262.73,
+      "end": 264.65,
+      "text": "It's too hot to do so in India"
+    },
+    {
+      "start": 264.65,
+      "end": 266.01,
+      "text": "I'm obliged by law"
+    },
+    {
+      "start": 266.01,
+      "end": 266.81,
+      "text": "to have you taught"
+    },
+    {
+      "start": 266.81,
+      "end": 268.01,
+      "text": "And we'll need to break the law"
+    },
+    {
+      "start": 268.01,
+      "end": 268.55,
+      "text": "won't we"
+    },
+    {
+      "start": 268.55,
+      "end": 270.28,
+      "text": "Mrs. Medlock says"
+    },
+    {
+      "start": 270.28,
+      "end": 271.5,
+      "text": "she sees your mother in you"
+    },
+    {
+      "start": 271.5,
+      "end": 272.84,
+      "text": "I'm not so sure"
+    },
+    {
+      "start": 272.84,
+      "end": 274.93,
+      "text": "Oh finally"
+    },
+    {
+      "start": 274.93,
+      "end": 276.67,
+      "text": "we can hear his voice"
+    },
+    {
+      "start": 276.67,
+      "end": 277.31,
+      "text": "Finally"
+    },
+    {
+      "start": 277.31,
+      "end": 279.07,
+      "text": "I mean he's the owner"
+    },
+    {
+      "start": 279.07,
+      "end": 280.43,
+      "text": "of the house after all"
+    },
+    {
+      "start": 280.43,
+      "end": 281.95,
+      "text": "Where's the 집주인?"
+    },
+    {
+      "start": 282.61,
+      "end": 283.59,
+      "text": "Where's my uncle?"
+    },
+    {
+      "start": 284.11,
+      "end": 285.35,
+      "text": "드디어 만났습니다"
+    },
+    {
+      "start": 285.35,
+      "end": 286.35,
+      "text": "우리 메리 가요"
+    },
+    {
+      "start": 286.35,
+      "end": 287.21,
+      "text": "That's about time"
+    },
+    {
+      "start": 287.21,
+      "end": 287.63,
+      "text": "네"
+    },
+    {
+      "start": 287.63,
+      "end": 288.61,
+      "text": "근데 his voice"
+    },
+    {
+      "start": 288.61,
+      "end": 289.65,
+      "text": "was rather cold"
+    },
+    {
+      "start": 289.65,
+      "end": 290.29,
+      "text": "wasn't it?"
+    },
+    {
+      "start": 290.33,
+      "end": 290.93,
+      "text": "Very cold"
+    },
+    {
+      "start": 290.93,
+      "end": 293.27,
+      "text": "그리고 집안 분위기처럼"
+    },
+    {
+      "start": 293.27,
+      "end": 293.85,
+      "text": "아무래도"
+    },
+    {
+      "start": 293.85,
+      "end": 295.77,
+      "text": "이 집주인의 목소리가"
+    },
+    {
+      "start": 295.77,
+      "end": 296.55,
+      "text": "차갑고"
+    },
+    {
+      "start": 296.55,
+      "end": 297.89,
+      "text": "어두웠던 게 아닌가"
+    },
+    {
+      "start": 297.89,
+      "end": 298.61,
+      "text": "싶은데요"
+    },
+    {
+      "start": 298.61,
+      "end": 300.29,
+      "text": "이게 또 메리가요"
+    },
+    {
+      "start": 300.29,
+      "end": 301.83,
+      "text": "집에 도착하자마자"
+    },
+    {
+      "start": 301.83,
+      "end": 303.17,
+      "text": "이 모부를 만난 게 아니라"
+    },
+    {
+      "start": 303.17,
+      "end": 304.71,
+      "text": "며칠이 지나서"
+    },
+    {
+      "start": 304.71,
+      "end": 305.25,
+      "text": "만난 것도"
+    },
+    {
+      "start": 305.25,
+      "end": 306.39,
+      "text": "아주 이례적인 것 같아요"
+    },
+    {
+      "start": 306.39,
+      "end": 306.73,
+      "text": "Yeah"
+    },
+    {
+      "start": 306.73,
+      "end": 308.31,
+      "text": "She's been alone in her room"
+    },
+    {
+      "start": 308.31,
+      "end": 309.11,
+      "text": "bored"
+    },
+    {
+      "start": 309.11,
+      "end": 311.03,
+      "text": "wandering this big house"
+    },
+    {
+      "start": 311.03,
+      "end": 311.91,
+      "text": "scary house"
+    },
+    {
+      "start": 311.91,
+      "end": 313.05,
+      "text": "finally she meets"
+    },
+    {
+      "start": 313.05,
+      "end": 313.97,
+      "text": "the man of the house"
+    },
+    {
+      "start": 313.97,
+      "end": 314.93,
+      "text": "her uncle"
+    },
+    {
+      "start": 314.93,
+      "end": 317.47,
+      "text": "and it's not such a great"
+    },
+    {
+      "start": 317.47,
+      "end": 318.33,
+      "text": "first impression"
+    },
+    {
+      "start": 318.33,
+      "end": 318.87,
+      "text": "맞아요"
+    },
+    {
+      "start": 318.87,
+      "end": 319.31,
+      "text": "Yeah"
+    },
+    {
+      "start": 319.31,
+      "end": 320.35,
+      "text": "Just like his servant"
+    },
+    {
+      "start": 320.35,
+      "end": 321.61,
+      "text": "Mrs. Medlock"
+    },
+    {
+      "start": 321.61,
+      "end": 322.19,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 322.65,
+      "end": 323.43,
+      "text": "I think the book"
+    },
+    {
+      "start": 323.43,
+      "end": 324.27,
+      "text": "is a little different"
+    },
+    {
+      "start": 324.27,
+      "end": 325.19,
+      "text": "The servants"
+    },
+    {
+      "start": 325.19,
+      "end": 326.53,
+      "text": "are a little warmer"
+    },
+    {
+      "start": 326.53,
+      "end": 327.61,
+      "text": "and a little"
+    },
+    {
+      "start": 327.61,
+      "end": 328.61,
+      "text": "more caring"
+    },
+    {
+      "start": 328.61,
+      "end": 329.07,
+      "text": "towards"
+    },
+    {
+      "start": 329.07,
+      "end": 329.49,
+      "text": "Mary"
+    },
+    {
+      "start": 329.49,
+      "end": 330.85,
+      "text": "but this is a movie"
+    },
+    {
+      "start": 330.85,
+      "end": 332.11,
+      "text": "We need stronger"
+    },
+    {
+      "start": 332.11,
+      "end": 333.23,
+      "text": "characters"
+    },
+    {
+      "start": 333.23,
+      "end": 334.61,
+      "text": "mean characters"
+    },
+    {
+      "start": 334.61,
+      "end": 335.95,
+      "text": "네 원작 소설하고"
+    },
+    {
+      "start": 335.95,
+      "end": 336.61,
+      "text": "영화에"
+    },
+    {
+      "start": 336.61,
+      "end": 337.85,
+      "text": "이런 살짝의 차이가"
+    },
+    {
+      "start": 337.85,
+      "end": 338.63,
+      "text": "있다는 것도"
+    },
+    {
+      "start": 338.63,
+      "end": 339.41,
+      "text": "알면"
+    },
+    {
+      "start": 339.41,
+      "end": 340.69,
+      "text": "참 재미있는 것 같아요"
+    },
+    {
+      "start": 340.69,
+      "end": 341.69,
+      "text": "그럼 일단"
+    },
+    {
+      "start": 341.69,
+      "end": 343.07,
+      "text": "표현들을 좀 알아볼까요?"
+    },
+    {
+      "start": 343.87,
+      "end": 345.83,
+      "text": "Play out of doors"
+    },
+    {
+      "start": 345.83,
+      "end": 347.65,
+      "text": "Play out doors"
+    },
+    {
+      "start": 347.65,
+      "end": 348.75,
+      "text": "많이 많이 들어봤는데"
+    },
+    {
+      "start": 348.75,
+      "end": 349.25,
+      "text": "그러게요"
+    },
+    {
+      "start": 349.25,
+      "end": 350.27,
+      "text": "이거 구문은"
+    },
+    {
+      "start": 350.27,
+      "end": 350.97,
+      "text": "약간 어색하게"
+    },
+    {
+      "start": 350.97,
+      "end": 351.73,
+      "text": "느껴졌었어요"
+    },
+    {
+      "start": 351.73,
+      "end": 352.99,
+      "text": "Let's play out doors"
+    },
+    {
+      "start": 352.99,
+      "end": 355.13,
+      "text": "Hey let's go play outside"
+    },
+    {
+      "start": 355.13,
+      "end": 356.55,
+      "text": "이렇게 표현 많이 하는데"
+    },
+    {
+      "start": 356.55,
+      "end": 357.67,
+      "text": "네 근데 여기서는"
+    },
+    {
+      "start": 357.67,
+      "end": 359.35,
+      "text": "play out of doors"
+    },
+    {
+      "start": 359.35,
+      "end": 360.83,
+      "text": "라고 들으시게 됩니다"
+    },
+    {
+      "start": 360.83,
+      "end": 362.19,
+      "text": "밖에서 놀다"
+    },
+    {
+      "start": 362.19,
+      "end": 363.49,
+      "text": "라는 동일한 표현이죠"
+    },
+    {
+      "start": 363.49,
+      "end": 366.73,
+      "text": "I'm obliged by law"
+    },
+    {
+      "start": 366.73,
+      "end": 367.51,
+      "text": "네 요거"
+    },
+    {
+      "start": 367.51,
+      "end": 369.27,
+      "text": "obliged라는 철자"
+    },
+    {
+      "start": 369.27,
+      "end": 370.41,
+      "text": "궁금하실 것 같은데요"
+    },
+    {
+      "start": 370.41,
+      "end": 371.39,
+      "text": "Obliged"
+    },
+    {
+      "start": 371.39,
+      "end": 371.93,
+      "text": "please"
+    },
+    {
+      "start": 371.93,
+      "end": 375.59,
+      "text": "O-B-L-I-G-E-D"
+    },
+    {
+      "start": 375.59,
+      "end": 376.83,
+      "text": "라고 PP형으로"
+    },
+    {
+      "start": 376.83,
+      "end": 377.69,
+      "text": "들리게 됩니다"
+    },
+    {
+      "start": 377.69,
+      "end": 378.17,
+      "text": "그래서"
+    },
+    {
+      "start": 378.17,
+      "end": 380.95,
+      "text": "I'm obliged by law"
+    },
+    {
+      "start": 380.95,
+      "end": 382.09,
+      "text": "나는 법적으로"
+    },
+    {
+      "start": 382.09,
+      "end": 383.19,
+      "text": "의무가 있다"
+    },
+    {
+      "start": 383.19,
+      "end": 384.47,
+      "text": "라는 문장인 거예요"
+    },
+    {
+      "start": 384.47,
+      "end": 385.85,
+      "text": "I'm obligated"
+    },
+    {
+      "start": 385.85,
+      "end": 387.09,
+      "text": "이렇게 많이 씁니다"
+    },
+    {
+      "start": 387.09,
+      "end": 387.41,
+      "text": "맞아요"
+    },
+    {
+      "start": 387.41,
+      "end": 389.47,
+      "text": "뭔가 의무감이 있는 거죠"
+    },
+    {
+      "start": 389.47,
+      "end": 390.47,
+      "text": "It's an obligation"
+    },
+    {
+      "start": 390.47,
+      "end": 391.83,
+      "text": "I'm required"
+    },
+    {
+      "start": 391.83,
+      "end": 392.89,
+      "text": "by law"
+    },
+    {
+      "start": 392.89,
+      "end": 393.79,
+      "text": "제일 흔하게"
+    },
+    {
+      "start": 393.79,
+      "end": 394.19,
+      "text": "되는 건"
+    },
+    {
+      "start": 394.19,
+      "end": 395.09,
+      "text": "네네"
+    },
+    {
+      "start": 395.09,
+      "end": 396.59,
+      "text": "Break the law"
+    },
+    {
+      "start": 396.59,
+      "end": 398.73,
+      "text": "법을 위반하다"
+    },
+    {
+      "start": 398.73,
+      "end": 400.07,
+      "text": "라는 동사 구문도"
+    },
+    {
+      "start": 400.07,
+      "end": 401.05,
+      "text": "들으실 수가 있는데"
+    },
+    {
+      "start": 401.05,
+      "end": 402.75,
+      "text": "violate the law"
+    },
+    {
+      "start": 402.75,
+      "end": 404.11,
+      "text": "이렇게 대체할 수도 있겠죠"
+    },
+    {
+      "start": 404.11,
+      "end": 405.21,
+      "text": "Don't break the law"
+    },
+    {
+      "start": 405.21,
+      "end": 406.41,
+      "text": "Follow the law"
+    },
+    {
+      "start": 406.41,
+      "end": 407.01,
+      "text": "그럼요"
+    },
+    {
+      "start": 407.01,
+      "end": 408.73,
+      "text": "내용 다시 한번 들어보겠습니다"
+    },
+    {
+      "start": 408.73,
+      "end": 411.55,
+      "text": "This place has nothing to teach you"
+    },
+    {
+      "start": 411.55,
+      "end": 413.35,
+      "text": "I want to play out of doors"
+    },
+    {
+      "start": 413.35,
+      "end": 415.25,
+      "text": "It's too hot to do so in India"
+    },
+    {
+      "start": 415.25,
+      "end": 416.61,
+      "text": "I'm obliged by law"
+    },
+    {
+      "start": 416.61,
+      "end": 417.41,
+      "text": "to have you taught"
+    },
+    {
+      "start": 417.41,
+      "end": 418.61,
+      "text": "And we'll need to break the law"
+    },
+    {
+      "start": 418.61,
+      "end": 419.17,
+      "text": "won't we"
+    },
+    {
+      "start": 419.17,
+      "end": 420.88,
+      "text": "Mrs. Medlock says"
+    },
+    {
+      "start": 420.88,
+      "end": 422.1,
+      "text": "she sees your mother in you"
+    },
+    {
+      "start": 422.1,
+      "end": 423.44,
+      "text": "I'm not so sure"
+    },
+    {
+      "start": 423.44,
+      "end": 427.94,
+      "text": "It was like an unexpected conversation"
+    },
+    {
+      "start": 427.94,
+      "end": 430.56,
+      "text": "between 이모부하고 조카의 대화가"
+    },
+    {
+      "start": 430.56,
+      "end": 432.22,
+      "text": "이게 웬일입니까"
+    },
+    {
+      "start": 432.22,
+      "end": 435.58,
+      "text": "애정이 전혀 안 느껴지지 않았습니까"
+    },
+    {
+      "start": 435.58,
+      "end": 436.26,
+      "text": "Oh hi"
+    },
+    {
+      "start": 436.26,
+      "end": 437.38,
+      "text": "That's my niece"
+    },
+    {
+      "start": 437.38,
+      "end": 440.08,
+      "text": "I've been wanting to meet you for so long"
+    },
+    {
+      "start": 440.08,
+      "end": 442.96,
+      "text": "그게 대부분 자연스러운 현상인데"
+    },
+    {
+      "start": 442.96,
+      "end": 444.92,
+      "text": "지금 이 둘의 사이에서는"
+    },
+    {
+      "start": 444.92,
+      "end": 446.36,
+      "text": "전혀 애정이 느껴지질 않아요"
+    },
+    {
+      "start": 446.36,
+      "end": 447.96,
+      "text": "아 뭐 가족끼리 그럴 수도 있어요"
+    },
+    {
+      "start": 447.96,
+      "end": 448.4,
+      "text": "그래요"
+    },
+    {
+      "start": 448.4,
+      "end": 448.74,
+      "text": "Yeah"
+    },
+    {
+      "start": 448.74,
+      "end": 449.56,
+      "text": "뭐 오랜만에"
+    },
+    {
+      "start": 449.56,
+      "end": 450.58,
+      "text": "추석 만났는데"
+    },
+    {
+      "start": 450.58,
+      "end": 451.66,
+      "text": "너무 어색한 건가"
+    },
+    {
+      "start": 451.66,
+      "end": 454.66,
+      "text": "And he, you know"
+    },
+    {
+      "start": 454.66,
+      "end": 455.3,
+      "text": "he's grumpy"
+    },
+    {
+      "start": 455.3,
+      "end": 456.82,
+      "text": "He's a grumpy old man"
+    },
+    {
+      "start": 456.82,
+      "end": 457.52,
+      "text": "Yeah, that's why"
+    },
+    {
+      "start": 457.52,
+      "end": 458.68,
+      "text": "He doesn't want little kids"
+    },
+    {
+      "start": 458.68,
+      "end": 459.92,
+      "text": "running around his house"
+    },
+    {
+      "start": 459.92,
+      "end": 461.5,
+      "text": "And we'll learn more about"
+    },
+    {
+      "start": 461.5,
+      "end": 462.52,
+      "text": "his personal story"
+    },
+    {
+      "start": 462.52,
+      "end": 462.98,
+      "text": "Alright"
+    },
+    {
+      "start": 462.98,
+      "end": 464.14,
+      "text": "He has some scars"
+    },
+    {
+      "start": 464.14,
+      "end": 465.22,
+      "text": "좋아요"
+    },
+    {
+      "start": 465.22,
+      "end": 466.48,
+      "text": "그러면 이 내용 한번"
+    },
+    {
+      "start": 466.48,
+      "end": 467.58,
+      "text": "알아보도록 하겠습니다"
+    },
+    {
+      "start": 467.58,
+      "end": 471.33,
+      "text": "This place has nothing to teach you"
+    },
+    {
+      "start": 471.33,
+      "end": 473.45,
+      "text": "This place"
+    },
+    {
+      "start": 473.45,
+      "end": 474.33,
+      "text": "이곳은"
+    },
+    {
+      "start": 474.33,
+      "end": 476.83,
+      "text": "has nothing to teach you"
+    },
+    {
+      "start": 476.83,
+      "end": 477.95,
+      "text": "네가 배울 게 없어"
+    },
+    {
+      "start": 477.95,
+      "end": 479.53,
+      "text": "라는 문장으로 시작합니다"
+    },
+    {
+      "start": 479.53,
+      "end": 480.67,
+      "text": "Then why did you come here?"
+    },
+    {
+      "start": 481.11,
+      "end": 482.85,
+      "text": "You agreed to take her in"
+    },
+    {
+      "start": 482.85,
+      "end": 483.29,
+      "text": "어머"
+    },
+    {
+      "start": 483.29,
+      "end": 484.75,
+      "text": "이곳에서 네가 배울 거는"
+    },
+    {
+      "start": 484.75,
+      "end": 486.17,
+      "text": "아무것도 없단다"
+    },
+    {
+      "start": 486.17,
+      "end": 487.29,
+      "text": "라는 첫 마디였어요"
+    },
+    {
+      "start": 487.29,
+      "end": 490.13,
+      "text": "I want to play out of doors"
+    },
+    {
+      "start": 490.13,
+      "end": 492.01,
+      "text": "Mary가 이렇게 이야기한 거죠"
+    },
+    {
+      "start": 492.01,
+      "end": 494.63,
+      "text": "저는 밖에 나가서 놀고 싶어요"
+    },
+    {
+      "start": 494.63,
+      "end": 497.61,
+      "text": "If I have nothing to learn in the house"
+    },
+    {
+      "start": 497.61,
+      "end": 499.25,
+      "text": "Why not go outside?"
+    },
+    {
+      "start": 499.43,
+      "end": 499.89,
+      "text": "Good idea"
+    },
+    {
+      "start": 499.89,
+      "end": 500.69,
+      "text": "Good idea"
+    },
+    {
+      "start": 500.69,
+      "end": 504.53,
+      "text": "It was too hot to do so in India"
+    },
+    {
+      "start": 504.53,
+      "end": 505.75,
+      "text": "아 그래요"
+    },
+    {
+      "start": 505.75,
+      "end": 507.39,
+      "text": "인도에 있을 때"
+    },
+    {
+      "start": 507.39,
+      "end": 509.65,
+      "text": "밖에 잘 못 나갔나봐요"
+    },
+    {
+      "start": 509.65,
+      "end": 510.45,
+      "text": "India is really"
+    },
+    {
+      "start": 510.45,
+      "end": 511.15,
+      "text": "Have you been to India?"
+    },
+    {
+      "start": 511.95,
+      "end": 513.03,
+      "text": "Near India"
+    },
+    {
+      "start": 513.03,
+      "end": 513.57,
+      "text": "Where?"
+    },
+    {
+      "start": 513.75,
+      "end": 514.19,
+      "text": "Nepal"
+    },
+    {
+      "start": 514.19,
+      "end": 515.87,
+      "text": "Oh, that's really close"
+    },
+    {
+      "start": 515.87,
+      "end": 516.25,
+      "text": "네"
+    },
+    {
+      "start": 516.25,
+      "end": 517.99,
+      "text": "그래서 네팔도 되게 더웠거든요"
+    },
+    {
+      "start": 517.99,
+      "end": 518.87,
+      "text": "습하고"
+    },
+    {
+      "start": 518.87,
+      "end": 520.75,
+      "text": "인도도 마찬가지였겠죠"
+    },
+    {
+      "start": 520.75,
+      "end": 521.63,
+      "text": "I went to India"
+    },
+    {
+      "start": 521.63,
+      "end": 521.65,
+      "text": "I went to India"
+    },
+    {
+      "start": 521.65,
+      "end": 522.61,
+      "text": "one time"
+    },
+    {
+      "start": 522.61,
+      "end": 523.83,
+      "text": "while my wife"
+    },
+    {
+      "start": 523.83,
+      "end": 524.41,
+      "text": "was pregnant"
+    },
+    {
+      "start": 524.41,
+      "end": 525.39,
+      "text": "with our first daughter"
+    },
+    {
+      "start": 525.39,
+      "end": 525.77,
+      "text": "Yeah"
+    },
+    {
+      "start": 525.77,
+      "end": 527.21,
+      "text": "I will regret that"
+    },
+    {
+      "start": 527.21,
+      "end": 528.09,
+      "text": "for the rest of my life"
+    },
+    {
+      "start": 528.09,
+      "end": 530.13,
+      "text": "But it was the hottest place"
+    },
+    {
+      "start": 530.13,
+      "end": 530.51,
+      "text": "ever"
+    },
+    {
+      "start": 530.51,
+      "end": 531.33,
+      "text": "I kept sweating"
+    },
+    {
+      "start": 531.33,
+      "end": 532.01,
+      "text": "아 그래요?"
+    },
+    {
+      "start": 532.17,
+      "end": 533.07,
+      "text": "많이 힘드셨구나"
+    },
+    {
+      "start": 533.07,
+      "end": 534.09,
+      "text": "I'm not used to heat"
+    },
+    {
+      "start": 534.09,
+      "end": 534.55,
+      "text": "아 그래요?"
+    },
+    {
+      "start": 534.55,
+      "end": 535.29,
+      "text": "I'm more of a"
+    },
+    {
+      "start": 535.29,
+      "end": 536.93,
+      "text": "다시 가라고 하면 가시겠어요?"
+    },
+    {
+      "start": 537.65,
+      "end": 538.15,
+      "text": "그럼요"
+    },
+    {
+      "start": 538.15,
+      "end": 540.33,
+      "text": "그때 친한 친구 있어가지고"
+    },
+    {
+      "start": 540.33,
+      "end": 542.31,
+      "text": "This time I would take my family"
+    },
+    {
+      "start": 542.31,
+      "end": 543.87,
+      "text": "She's kind of upset"
+    },
+    {
+      "start": 543.87,
+      "end": 544.55,
+      "text": "because I went"
+    },
+    {
+      "start": 544.55,
+      "end": 546.01,
+      "text": "while she was"
+    },
+    {
+      "start": 546.01,
+      "end": 546.85,
+      "text": "alone"
+    },
+    {
+      "start": 546.85,
+      "end": 547.83,
+      "text": "while she was pregnant"
+    },
+    {
+      "start": 547.83,
+      "end": 549.69,
+      "text": "But she gave me permission"
+    },
+    {
+      "start": 549.69,
+      "end": 551.23,
+      "text": "다 끝나고 나서"
+    },
+    {
+      "start": 551.23,
+      "end": 552.01,
+      "text": "왜 갔느냐"
+    },
+    {
+      "start": 552.01,
+      "end": 553.87,
+      "text": "그게 정말 허락이었을까요?"
+    },
+    {
+      "start": 554.79,
+      "end": 555.79,
+      "text": "이제 들이켜보니까"
+    },
+    {
+      "start": 555.79,
+      "end": 556.93,
+      "text": "아니었을 것 같아요"
+    },
+    {
+      "start": 556.93,
+      "end": 557.25,
+      "text": "네"
+    },
+    {
+      "start": 557.25,
+      "end": 558.09,
+      "text": "어쨌든"
+    },
+    {
+      "start": 558.09,
+      "end": 561.43,
+      "text": "It was too hot to do so in India"
+    },
+    {
+      "start": 561.43,
+      "end": 563.15,
+      "text": "라는 문장을 들으셨었는데"
+    },
+    {
+      "start": 563.15,
+      "end": 566.71,
+      "text": "인도에서는 그렇게 나가서 놀기가"
+    },
+    {
+      "start": 566.71,
+      "end": 567.91,
+      "text": "너무 더웠어요"
+    },
+    {
+      "start": 567.91,
+      "end": 568.99,
+      "text": "그러니까 그렇게 해서"
+    },
+    {
+      "start": 568.99,
+      "end": 570.99,
+      "text": "못 놀았다라는 이야기를 하고 있습니다"
+    },
+    {
+      "start": 570.99,
+      "end": 573.47,
+      "text": "I'm obliged by law"
+    },
+    {
+      "start": 573.47,
+      "end": 574.77,
+      "text": "to have you taught"
+    },
+    {
+      "start": 574.77,
+      "end": 575.13,
+      "text": "네"
+    },
+    {
+      "start": 575.13,
+      "end": 577.41,
+      "text": "이 문장은 조금 문법적으로도"
+    },
+    {
+      "start": 577.41,
+      "end": 579.15,
+      "text": "어려운 것들이 섞여 있는데요"
+    },
+    {
+      "start": 579.15,
+      "end": 580.21,
+      "text": "Very advanced"
+    },
+    {
+      "start": 580.21,
+      "end": 581.69,
+      "text": "일단은"
+    },
+    {
+      "start": 581.69,
+      "end": 583.61,
+      "text": "I'm obliged by law"
+    },
+    {
+      "start": 583.61,
+      "end": 584.49,
+      "text": "라는 부분은"
+    },
+    {
+      "start": 584.49,
+      "end": 585.63,
+      "text": "딱 해석이 되실 거예요"
+    },
+    {
+      "start": 585.63,
+      "end": 585.95,
+      "text": "그죠?"
+    },
+    {
+      "start": 586.05,
+      "end": 586.91,
+      "text": "나는 법적으로"
+    },
+    {
+      "start": 586.91,
+      "end": 588.11,
+      "text": "의무가 있어"
+    },
+    {
+      "start": 588.11,
+      "end": 589.17,
+      "text": "라는 문장이고"
+    },
+    {
+      "start": 589.17,
+      "end": 590.65,
+      "text": "그 뒤에 이어지는 부분이"
+    },
+    {
+      "start": 590.65,
+      "end": 592.23,
+      "text": "to have you taught"
+    },
+    {
+      "start": 592.23,
+      "end": 592.89,
+      "text": "라고 있으니까"
+    },
+    {
+      "start": 592.89,
+      "end": 594.71,
+      "text": "이 have가 여기서는"
+    },
+    {
+      "start": 594.71,
+      "end": 595.81,
+      "text": "사역동사잖아요"
+    },
+    {
+      "start": 595.81,
+      "end": 597.03,
+      "text": "causative verb"
+    },
+    {
+      "start": 597.03,
+      "end": 597.45,
+      "text": "그래서"
+    },
+    {
+      "start": 597.45,
+      "end": 598.47,
+      "text": "you taught"
+    },
+    {
+      "start": 598.47,
+      "end": 600.95,
+      "text": "네가 교육받도록 시킬"
+    },
+    {
+      "start": 600.95,
+      "end": 602.71,
+      "text": "법적인 의무가 있다"
+    },
+    {
+      "start": 602.71,
+      "end": 603.69,
+      "text": "라는 해석이 됩니다"
+    },
+    {
+      "start": 603.69,
+      "end": 605.93,
+      "text": "I'm not going to teach you myself"
+    },
+    {
+      "start": 605.93,
+      "end": 608.21,
+      "text": "I'm going to get a professional teacher"
+    },
+    {
+      "start": 608.21,
+      "end": 609.91,
+      "text": "to teach you"
+    },
+    {
+      "start": 609.91,
+      "end": 611.35,
+      "text": "I'm going to have you taught"
+    },
+    {
+      "start": 611.35,
+      "end": 611.65,
+      "text": "Yeah"
+    },
+    {
+      "start": 611.65,
+      "end": 615.53,
+      "text": "Then we'll need to break the law"
+    },
+    {
+      "start": 615.53,
+      "end": 616.43,
+      "text": "won't we?"
+    },
+    {
+      "start": 616.83,
+      "end": 617.37,
+      "text": "역시"
+    },
+    {
+      "start": 617.37,
+      "end": 619.39,
+      "text": "발상의 전환을 하는"
+    },
+    {
+      "start": 619.39,
+      "end": 619.91,
+      "text": "Mary였습니다"
+    },
+    {
+      "start": 619.91,
+      "end": 620.37,
+      "text": "그죠?"
+    },
+    {
+      "start": 620.45,
+      "end": 621.83,
+      "text": "She's a little rascal"
+    },
+    {
+      "start": 621.83,
+      "end": 622.33,
+      "text": "Yeah"
+    },
+    {
+      "start": 622.33,
+      "end": 623.87,
+      "text": "Then we'll need to"
+    },
+    {
+      "start": 623.87,
+      "end": 624.61,
+      "text": "break the law"
+    },
+    {
+      "start": 624.61,
+      "end": 625.25,
+      "text": "won't we?"
+    },
+    {
+      "start": 625.25,
+      "end": 625.97,
+      "text": "라고 했어요"
+    },
+    {
+      "start": 625.97,
+      "end": 627.09,
+      "text": "First"
+    },
+    {
+      "start": 627.09,
+      "end": 627.79,
+      "text": "초면인데"
+    },
+    {
+      "start": 627.79,
+      "end": 629.09,
+      "text": "First time they met"
+    },
+    {
+      "start": 629.09,
+      "end": 630.25,
+      "text": "Let's break the law"
+    },
+    {
+      "start": 630.25,
+      "end": 630.55,
+      "text": "uncle"
+    },
+    {
+      "start": 630.55,
+      "end": 631.55,
+      "text": "Come on"
+    },
+    {
+      "start": 631.55,
+      "end": 633.15,
+      "text": "되게 귀여운 소녀가"
+    },
+    {
+      "start": 633.15,
+      "end": 633.97,
+      "text": "맞는 것 같습니다"
+    },
+    {
+      "start": 633.97,
+      "end": 635.33,
+      "text": "그러면요 우리"
+    },
+    {
+      "start": 635.33,
+      "end": 636.71,
+      "text": "법을 어기면 되는 거"
+    },
+    {
+      "start": 636.71,
+      "end": 637.17,
+      "text": "아닌가요?"
+    },
+    {
+      "start": 637.53,
+      "end": 638.43,
+      "text": "라고 질문하는 거예요"
+    },
+    {
+      "start": 638.43,
+      "end": 639.47,
+      "text": "It sounds like a typical"
+    },
+    {
+      "start": 639.47,
+      "end": 640.25,
+      "text": "kid's question"
+    },
+    {
+      "start": 640.25,
+      "end": 640.53,
+      "text": "Yeah"
+    },
+    {
+      "start": 640.53,
+      "end": 641.21,
+      "text": "Come on"
+    },
+    {
+      "start": 641.21,
+      "end": 641.85,
+      "text": "uncle"
+    },
+    {
+      "start": 641.85,
+      "end": 643.69,
+      "text": "Mrs."
+    },
+    {
+      "start": 643.69,
+      "end": 644.41,
+      "text": "Medlock"
+    },
+    {
+      "start": 644.41,
+      "end": 645.09,
+      "text": "says"
+    },
+    {
+      "start": 645.09,
+      "end": 645.93,
+      "text": "she sees"
+    },
+    {
+      "start": 645.93,
+      "end": 646.53,
+      "text": "your mother"
+    },
+    {
+      "start": 646.53,
+      "end": 647.11,
+      "text": "in you"
+    },
+    {
+      "start": 647.11,
+      "end": 649.09,
+      "text": "I'm not so sure"
+    },
+    {
+      "start": 649.09,
+      "end": 649.37,
+      "text": "오"
+    },
+    {
+      "start": 649.37,
+      "end": 651.51,
+      "text": "Medlock 부인이"
+    },
+    {
+      "start": 651.51,
+      "end": 652.79,
+      "text": "말하던데"
+    },
+    {
+      "start": 652.79,
+      "end": 653.33,
+      "text": "네가"
+    },
+    {
+      "start": 653.33,
+      "end": 654.85,
+      "text": "너의 엄마를"
+    },
+    {
+      "start": 654.85,
+      "end": 655.87,
+      "text": "많이 닮았다고"
+    },
+    {
+      "start": 655.87,
+      "end": 656.45,
+      "text": "하더구나"
+    },
+    {
+      "start": 656.45,
+      "end": 657.35,
+      "text": "이렇게 말을"
+    },
+    {
+      "start": 657.35,
+      "end": 657.87,
+      "text": "많이 해요"
+    },
+    {
+      "start": 657.87,
+      "end": 658.49,
+      "text": "오"
+    },
+    {
+      "start": 658.49,
+      "end": 659.19,
+      "text": "Hey Chris"
+    },
+    {
+      "start": 659.19,
+      "end": 660.43,
+      "text": "I see your"
+    }
+  ]
+}
