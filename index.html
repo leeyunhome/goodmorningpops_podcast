@@ -3,19 +3,20 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>GMP Screen English</title>
+  <title>GMP Screen English — 굿모닝 팝스 스크립트 플레이어</title>
+  <meta name="description" content="KBS 조정현의 굿모닝 팝스 Screen English 코너. MP3 오디오와 실시간 자막 싱크로 영어를 학습하세요." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="site">
     <h1>GMP Screen English</h1>
-    <span class="sub">조정현의 굿모닝 팝스 · 코너별 스크립트</span>
+    <span class="sub">조정현의 굿모닝 팝스 · Screen English 코너 스크립트</span>
   </header>
   <main>
     <div class="toolbar">
-      <input type="search" id="q" placeholder="제목/표현/영화/날짜로 검색..." />
+      <input type="search" id="q" placeholder="제목, 표현, 영화, 날짜로 검색..." />
       <select id="movie-filter">
-        <option value="">전체 영화</option>
+        <option value="">🎬 전체 영화</option>
       </select>
       <select id="sort">
         <option value="date-desc">최신순</option>
@@ -86,7 +87,7 @@
             <span>${e.corner_label || ""}</span>
           </div>
           <div class="title">${escape(e.title || e.id)}</div>
-          ${e.movie ? `<div class="movie">${escape(e.movie)}</div>` : ""}
+          ${e.movie ? `<div class="movie">🎬 ${escape(e.movie)}</div>` : ""}
           <div class="duration">${formatDuration(e.duration_sec)}</div>
         `;
         return a;
