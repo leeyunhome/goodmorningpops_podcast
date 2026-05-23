@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-23T23:11:39",
-  "count": 19,
+  "generated_at": "2026-05-23T23:13:22",
+  "count": 20,
   "episodes": [
+    {
+      "id": "2020-07-02_screen_english",
+      "date": "2020-07-02",
+      "corner": "screen_english",
+      "corner_label": "Screen English",
+      "title": "No stomach for a fight",
+      "movie": "",
+      "duration_sec": 745.8,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-02_screen_english.mp3"
+    },
     {
       "id": "2020-07-01_screen_english",
       "date": "2020-07-01",
