@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-23T22:47:24",
-  "count": 5,
+  "generated_at": "2026-05-23T22:48:58",
+  "count": 6,
   "episodes": [
+    {
+      "id": "2020-06-09_screen_english",
+      "date": "2020-06-09",
+      "corner": "screen_english",
+      "corner_label": "Screen English",
+      "title": "The court upheld his patent",
+      "movie": "",
+      "duration_sec": 881.97,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-09_screen_english.mp3"
+    },
     {
       "id": "2020-06-08_screen_english",
       "date": "2020-06-08",
