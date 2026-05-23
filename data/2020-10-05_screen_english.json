@@ -1,0 +1,2292 @@
+{
+  "id": "2020-10-05_screen_english",
+  "date": "2020-10-05",
+  "corner": "screen_english",
+  "corner_label": "Screen English",
+  "title": "First things first",
+  "movie": "",
+  "duration_sec": 877.99,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-05_screen_english.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 14.0,
+      "text": "스크린 잉글리쉬"
+    },
+    {
+      "start": 14.0,
+      "end": 34.89,
+      "text": "이 모닝 극장 스크린 잉글리쉬 타임"
+    },
+    {
+      "start": 34.89,
+      "end": 36.93,
+      "text": "10월에 함께하고 있는 영화는"
+    },
+    {
+      "start": 36.93,
+      "end": 39.01,
+      "text": "마크 먼든 감독"
+    },
+    {
+      "start": 39.01,
+      "end": 41.01,
+      "text": "딕시 에저릭스"
+    },
+    {
+      "start": 41.01,
+      "end": 41.95,
+      "text": "콜린 퍼스"
+    },
+    {
+      "start": 41.95,
+      "end": 43.23,
+      "text": "줄리 월터스"
+    },
+    {
+      "start": 43.23,
+      "end": 43.95,
+      "text": "주연의"
+    },
+    {
+      "start": 43.95,
+      "end": 45.95,
+      "text": "The Secret Garden"
+    },
+    {
+      "start": 45.95,
+      "end": 46.23,
+      "text": "네!"
+    },
+    {
+      "start": 46.89,
+      "end": 47.39,
+      "text": "아!"
+    },
+    {
+      "start": 47.47,
+      "end": 48.85,
+      "text": "이름이 너무 어려워요."
+    },
+    {
+      "start": 49.03,
+      "end": 50.63,
+      "text": "I like your attitude."
+    },
+    {
+      "start": 50.89,
+      "end": 52.33,
+      "text": "진짜 열심히 하고 있어요."
+    },
+    {
+      "start": 52.43,
+      "end": 52.63,
+      "text": "그죠?"
+    },
+    {
+      "start": 52.73,
+      "end": 53.91,
+      "text": "You did it with a smile."
+    },
+    {
+      "start": 54.07,
+      "end": 54.51,
+      "text": "아!"
+    },
+    {
+      "start": 54.67,
+      "end": 55.21,
+      "text": "보셨어요?"
+    },
+    {
+      "start": 55.33,
+      "end": 55.67,
+      "text": "Yes."
+    },
+    {
+      "start": 55.75,
+      "end": 57.29,
+      "text": "아유 참 감사합니다."
+    },
+    {
+      "start": 57.31,
+      "end": 59.07,
+      "text": "웃으면서 보기 좋았어요."
+    },
+    {
+      "start": 59.23,
+      "end": 59.87,
+      "text": "아 진짜요?"
+    },
+    {
+      "start": 59.87,
+      "end": 62.13,
+      "text": "아 이게 이름이 너무 어렵다 보니까"
+    },
+    {
+      "start": 62.13,
+      "end": 63.71,
+      "text": "웃음이 저절로 나오더라고요."
+    },
+    {
+      "start": 64.13,
+      "end": 64.93,
+      "text": "Good morning everyone!"
+    },
+    {
+      "start": 65.09,
+      "end": 65.49,
+      "text": "Yeah!"
+    },
+    {
+      "start": 65.73,
+      "end": 66.65,
+      "text": "Good morning입니다!"
+    },
+    {
+      "start": 66.89,
+      "end": 69.21,
+      "text": "우리 10월 둘째 주가 시작이 되었는데요."
+    },
+    {
+      "start": 69.37,
+      "end": 69.61,
+      "text": "Yeah."
+    },
+    {
+      "start": 69.85,
+      "end": 70.19,
+      "text": "Oh!"
+    },
+    {
+      "start": 70.27,
+      "end": 71.39,
+      "text": "Did you have a good holiday?"
+    },
+    {
+      "start": 71.87,
+      "end": 73.69,
+      "text": "I had a lovely holiday."
+    },
+    {
+      "start": 73.95,
+      "end": 74.71,
+      "text": "Chuseok."
+    },
+    {
+      "start": 74.85,
+      "end": 76.31,
+      "text": "It was amazing."
+    },
+    {
+      "start": 76.59,
+      "end": 78.47,
+      "text": "It was quiet at first."
+    },
+    {
+      "start": 78.55,
+      "end": 79.07,
+      "text": "Oh really?"
+    },
+    {
+      "start": 79.19,
+      "end": 81.47,
+      "text": "I was at home with just my family."
+    },
+    {
+      "start": 81.59,
+      "end": 81.89,
+      "text": "Yeah."
+    },
+    {
+      "start": 82.11,
+      "end": 82.75,
+      "text": "Hanging out."
+    },
+    {
+      "start": 82.89,
+      "end": 84.61,
+      "text": "Making some chuseok food."
+    },
+    {
+      "start": 84.77,
+      "end": 86.17,
+      "text": "Like 동태jeon."
+    },
+    {
+      "start": 86.51,
+      "end": 87.75,
+      "text": "Sounds so yummy."
+    },
+    {
+      "start": 87.85,
+      "end": 89.77,
+      "text": "It was not that great."
+    },
+    {
+      "start": 89.87,
+      "end": 92.01,
+      "text": "It kind of burnt it a little bit."
+    },
+    {
+      "start": 92.11,
+      "end": 92.57,
+      "text": "Oh really?"
+    },
+    {
+      "start": 92.99,
+      "end": 93.49,
+      "text": "But yeah."
+    },
+    {
+      "start": 93.49,
+      "end": 94.55,
+      "text": "살짝 탄 게 맛있어요."
+    },
+    {
+      "start": 94.99,
+      "end": 95.55,
+      "text": "저도 그래요."
+    },
+    {
+      "start": 95.63,
+      "end": 95.89,
+      "text": "그죠?"
+    },
+    {
+      "start": 96.05,
+      "end": 96.19,
+      "text": "Yeah."
+    },
+    {
+      "start": 96.37,
+      "end": 99.63,
+      "text": "저도 약간 일부러 약간 탄 부분이 있는 게 먼저 손이 가더라고요."
+    },
+    {
+      "start": 99.79,
+      "end": 100.73,
+      "text": "That's the same as me."
+    },
+    {
+      "start": 100.85,
+      "end": 101.91,
+      "text": "And then they tell me,"
+    },
+    {
+      "start": 101.95,
+      "end": 102.23,
+      "text": "Hey!"
+    },
+    {
+      "start": 102.31,
+      "end": 103.37,
+      "text": "You're going to get cancer."
+    },
+    {
+      "start": 103.71,
+      "end": 104.61,
+      "text": "Stop eating that."
+    },
+    {
+      "start": 104.75,
+      "end": 105.57,
+      "text": "아유 진짜요 맛있는데."
+    },
+    {
+      "start": 105.85,
+      "end": 106.33,
+      "text": "그러게."
+    },
+    {
+      "start": 106.51,
+      "end": 107.35,
+      "text": "이게 볶음밥."
+    },
+    {
+      "start": 107.49,
+      "end": 108.53,
+      "text": "살짝 타기 직전."
+    },
+    {
+      "start": 108.61,
+      "end": 108.99,
+      "text": "어머 어머."
+    },
+    {
+      "start": 109.11,
+      "end": 109.71,
+      "text": "눌려서."
+    },
+    {
+      "start": 110.01,
+      "end": 110.67,
+      "text": "아 그럼요."
+    },
+    {
+      "start": 110.71,
+      "end": 111.63,
+      "text": "진짜 맛있잖아요."
+    },
+    {
+      "start": 111.75,
+      "end": 112.47,
+      "text": "빠작 빠작하게."
+    },
+    {
+      "start": 112.59,
+      "end": 113.39,
+      "text": "그냥 긁어먹어요."
+    },
+    {
+      "start": 113.41,
+      "end": 113.73,
+      "text": "맞아요."
+    },
+    {
+      "start": 113.77,
+      "end": 114.19,
+      "text": "숟가락으로."
+    },
+    {
+      "start": 114.23,
+      "end": 114.57,
+      "text": "어머 어머."
+    },
+    {
+      "start": 114.63,
+      "end": 114.97,
+      "text": "좋아요."
+    },
+    {
+      "start": 115.21,
+      "end": 115.35,
+      "text": "어머."
+    },
+    {
+      "start": 115.69,
+      "end": 116.91,
+      "text": "우리 크리스 씨 한국인입니다."
+    },
+    {
+      "start": 116.91,
+      "end": 117.21,
+      "text": "그죠?"
+    },
+    {
+      "start": 117.69,
+      "end": 118.33,
+      "text": "That's the best."
+    },
+    {
+      "start": 118.49,
+      "end": 119.07,
+      "text": "Best part."
+    },
+    {
+      "start": 119.07,
+      "end": 119.71,
+      "text": "Come on."
+    },
+    {
+      "start": 119.91,
+      "end": 122.61,
+      "text": "우리 영화의 내용으로 또 쏙 들어가 볼까요?"
+    },
+    {
+      "start": 123.11,
+      "end": 123.39,
+      "text": "Okay."
+    },
+    {
+      "start": 123.49,
+      "end": 127.23,
+      "text": "우리 영화에서의 주인공 메리 역할을 맡은 사람이 바로"
+    },
+    {
+      "start": 127.23,
+      "end": 129.53,
+      "text": "Dixie Egericks."
+    },
+    {
+      "start": 130.13,
+      "end": 131.23,
+      "text": "What a name."
+    },
+    {
+      "start": 131.35,
+      "end": 133.03,
+      "text": "It's hard to pronounce her name."
+    },
+    {
+      "start": 133.13,
+      "end": 133.53,
+      "text": "Dixie."
+    },
+    {
+      "start": 133.63,
+      "end": 134.33,
+      "text": "That's a nice name."
+    },
+    {
+      "start": 134.71,
+      "end": 135.91,
+      "text": "Dixie Egericks."
+    },
+    {
+      "start": 136.01,
+      "end": 137.31,
+      "text": "The last name is difficult."
+    },
+    {
+      "start": 137.43,
+      "end": 137.61,
+      "text": "Yeah."
+    },
+    {
+      "start": 137.99,
+      "end": 138.51,
+      "text": "Egericks."
+    },
+    {
+      "start": 138.69,
+      "end": 139.15,
+      "text": "Egericks."
+    },
+    {
+      "start": 139.45,
+      "end": 141.33,
+      "text": "Anyway, she's a main character here."
+    },
+    {
+      "start": 141.73,
+      "end": 141.97,
+      "text": "Yeah."
+    },
+    {
+      "start": 141.97,
+      "end": 143.03,
+      "text": "She's the main girl."
+    },
+    {
+      "start": 143.15,
+      "end": 143.41,
+      "text": "Yeah."
+    },
+    {
+      "start": 143.53,
+      "end": 144.31,
+      "text": "In the secret garden."
+    },
+    {
+      "start": 144.47,
+      "end": 144.75,
+      "text": "Yeah."
+    },
+    {
+      "start": 144.75,
+      "end": 147.93,
+      "text": "She's very curious and very sassy."
+    },
+    {
+      "start": 148.13,
+      "end": 150.49,
+      "text": "She doesn't like listening to adults."
+    },
+    {
+      "start": 150.59,
+      "end": 150.87,
+      "text": "맞아요."
+    },
+    {
+      "start": 151.23,
+      "end": 155.21,
+      "text": "아주 당돌하고 아주 성깔이 있다라는 생각이 듭니다."
+    },
+    {
+      "start": 156.21,
+      "end": 156.89,
+      "text": "2005년생이래요."
+    },
+    {
+      "start": 157.13,
+      "end": 157.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 157.45,
+      "end": 158.33,
+      "text": "She's very young."
+    },
+    {
+      "start": 158.45,
+      "end": 158.69,
+      "text": "Yeah."
+    },
+    {
+      "start": 158.79,
+      "end": 162.25,
+      "text": "근데 어떻게 그렇게 expressed emotions so deeply through her eyes?"
+    },
+    {
+      "start": 162.25,
+      "end": 166.63,
+      "text": "I think she has some nice natural emotions."
+    },
+    {
+      "start": 166.87,
+      "end": 167.05,
+      "text": "Yeah."
+    },
+    {
+      "start": 167.21,
+      "end": 169.01,
+      "text": "And she's been trained very well."
+    },
+    {
+      "start": 169.11,
+      "end": 169.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 169.57,
+      "end": 171.07,
+      "text": "She's a professional actress."
+    },
+    {
+      "start": 171.21,
+      "end": 171.39,
+      "text": "Yeah."
+    },
+    {
+      "start": 171.45,
+      "end": 172.07,
+      "text": "I think so too."
+    },
+    {
+      "start": 172.47,
+      "end": 176.11,
+      "text": "나중에 크면 꽤 대단하겠다라는 생각도 들더라고요."
+    },
+    {
+      "start": 176.47,
+      "end": 183.07,
+      "text": "Just to get this role, the main role in this movie, she had an audition and she beat over"
+    },
+    {
+      "start": 183.07,
+      "end": 186.63,
+      "text": "1,000 young actors to get this role."
+    },
+    {
+      "start": 186.79,
+      "end": 188.31,
+      "text": "엄청난 경쟁률을."
+    },
+    {
+      "start": 188.33,
+      "end": 189.83,
+      "text": "Really stiff competition."
+    },
+    {
+      "start": 189.83,
+      "end": 190.31,
+      "text": "Yeah."
+    },
+    {
+      "start": 190.77,
+      "end": 192.05,
+      "text": "대단한 배우입니다."
+    },
+    {
+      "start": 192.07,
+      "end": 192.81,
+      "text": "Very talented."
+    },
+    {
+      "start": 193.01,
+      "end": 193.15,
+      "text": "Yeah."
+    },
+    {
+      "start": 193.45,
+      "end": 197.17,
+      "text": "Well, to begin with, please tell me a little bit more about Dixie."
+    },
+    {
+      "start": 197.49,
+      "end": 198.39,
+      "text": "A little bit more, please."
+    },
+    {
+      "start": 198.49,
+      "end": 199.15,
+      "text": "More about Dixie."
+    },
+    {
+      "start": 199.23,
+      "end": 199.43,
+      "text": "Yeah."
+    },
+    {
+      "start": 199.55,
+      "end": 199.69,
+      "text": "Yeah."
+    },
+    {
+      "start": 199.85,
+      "end": 201.67,
+      "text": "Well, she was born in England, the UK."
+    },
+    {
+      "start": 202.11,
+      "end": 208.71,
+      "text": "She learned to walk the high wire at 11 years old for a role in a movie."
+    },
+    {
+      "start": 209.15,
+      "end": 211.63,
+      "text": "So she's a lady of many talents."
+    },
+    {
+      "start": 212.43,
+      "end": 213.67,
+      "text": "And she has been..."
+    },
+    {
+      "start": 213.67,
+      "end": 215.73,
+      "text": "The television series에서도 나왔다면서요?"
+    },
+    {
+      "start": 215.73,
+      "end": 216.17,
+      "text": "Yeah."
+    },
+    {
+      "start": 216.31,
+      "end": 218.03,
+      "text": "She's been in a television series called Genius."
+    },
+    {
+      "start": 218.03,
+      "end": 220.83,
+      "text": "Genius and Patrick Melrose."
+    },
+    {
+      "start": 221.15,
+      "end": 221.27,
+      "text": "Wow."
+    },
+    {
+      "start": 221.49,
+      "end": 223.45,
+      "text": "I think it's really good to see the movie as well."
+    },
+    {
+      "start": 223.61,
+      "end": 224.01,
+      "text": "왠지."
+    },
+    {
+      "start": 224.25,
+      "end": 224.73,
+      "text": "Genius."
+    },
+    {
+      "start": 225.51,
+      "end": 226.69,
+      "text": "She's very precocious."
+    },
+    {
+      "start": 226.93,
+      "end": 227.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 227.47,
+      "end": 230.07,
+      "text": "She's very intelligent and sassy at the same time."
+    },
+    {
+      "start": 230.13,
+      "end": 230.37,
+      "text": "Yeah."
+    },
+    {
+      "start": 230.45,
+      "end": 231.45,
+      "text": "So I kind of like her."
+    },
+    {
+      "start": 231.53,
+      "end": 232.55,
+      "text": "And I'm born in a male."
+    },
+    {
+      "start": 232.69,
+      "end": 232.87,
+      "text": "Yeah."
+    },
+    {
+      "start": 232.95,
+      "end": 233.25,
+      "text": "I do."
+    },
+    {
+      "start": 233.33,
+      "end": 236.93,
+      "text": "And remember the first scene we remember last week."
+    },
+    {
+      "start": 236.93,
+      "end": 241.39,
+      "text": "And there was also a woman who was born in a woman who was born at the same time."
+    },
+    {
+      "start": 241.39,
+      "end": 241.87,
+      "text": "Right."
+    },
+    {
+      "start": 241.93,
+      "end": 242.15,
+      "text": "And there was also a woman who was born at the same time."
+    },
+    {
+      "start": 242.15,
+      "end": 243.15,
+      "text": "And there was also a woman who was born at the same time."
+    },
+    {
+      "start": 243.15,
+      "end": 243.47,
+      "text": "And there was also a woman who was born at the same time."
+    },
+    {
+      "start": 243.47,
+      "end": 244.15,
+      "text": "And there was also a woman who was born at the same time."
+    },
+    {
+      "start": 244.15,
+      "end": 244.55,
+      "text": "Yeah."
+    },
+    {
+      "start": 244.99,
+      "end": 248.03,
+      "text": "She plays the kind of scary 아줌마."
+    },
+    {
+      "start": 248.23,
+      "end": 248.69,
+      "text": "Right?"
+    },
+    {
+      "start": 248.93,
+      "end": 249.23,
+      "text": "Yeah."
+    },
+    {
+      "start": 249.45,
+      "end": 249.75,
+      "text": "Yeah."
+    },
+    {
+      "start": 249.91,
+      "end": 251.75,
+      "text": "I know she's so famous, isn't she?"
+    },
+    {
+      "start": 251.85,
+      "end": 252.75,
+      "text": "She's really famous."
+    },
+    {
+      "start": 252.97,
+      "end": 254.69,
+      "text": "I know her from many movies."
+    },
+    {
+      "start": 254.93,
+      "end": 256.01,
+      "text": "Billy Elliot."
+    },
+    {
+      "start": 256.81,
+      "end": 257.67,
+      "text": "Mama Mia."
+    },
+    {
+      "start": 258.67,
+      "end": 259.47,
+      "text": "Paddington."
+    },
+    {
+      "start": 259.63,
+      "end": 263.65,
+      "text": "We did Paddington on GMP a long time ago."
+    },
+    {
+      "start": 263.65,
+      "end": 265.85,
+      "text": "Mary Poppins Returns."
+    },
+    {
+      "start": 265.87,
+      "end": 266.65,
+      "text": "I like that movie."
+    },
+    {
+      "start": 266.87,
+      "end": 267.53,
+      "text": "You like that one?"
+    },
+    {
+      "start": 267.61,
+      "end": 267.97,
+      "text": "Yeah."
+    },
+    {
+      "start": 268.41,
+      "end": 270.25,
+      "text": "Those titles sound so familiar."
+    },
+    {
+      "start": 270.63,
+      "end": 272.63,
+      "text": "She was also in the Harry Potter series."
+    },
+    {
+      "start": 273.05,
+      "end": 276.11,
+      "text": "She played a witch, a mom, a witch."
+    },
+    {
+      "start": 276.23,
+      "end": 276.25,
+      "text": "Wow."
+    },
+    {
+      "start": 276.41,
+      "end": 279.27,
+      "text": "정말 유명한 작품들의 이름들이 들리셨잖아요."
+    },
+    {
+      "start": 279.49,
+      "end": 281.85,
+      "text": "그만큼 대단한 배우입니다."
+    },
+    {
+      "start": 281.97,
+      "end": 282.11,
+      "text": "그죠?"
+    },
+    {
+      "start": 282.29,
+      "end": 283.95,
+      "text": "오늘 장면 듣고 올게요."
+    },
+    {
+      "start": 285.1,
+      "end": 289.52,
+      "text": "First things first, we are fully electric."
+    },
+    {
+      "start": 290.24,
+      "end": 291.88,
+      "text": "That doesn't mean electric always works."
+    },
+    {
+      "start": 291.88,
+      "end": 296.42,
+      "text": "So, if you're needing a lavatory in the night, you take a lamp."
+    },
+    {
+      "start": 297.02,
+      "end": 300.56,
+      "text": "Secondly, Mr. Craven is a widower and on his own."
+    },
+    {
+      "start": 300.8,
+      "end": 303.38,
+      "text": "He's promised to have someone to tend to you soon enough."
+    },
+    {
+      "start": 303.8,
+      "end": 307.52,
+      "text": "But until then, don't be expecting there'll be people to talk to."
+    },
+    {
+      "start": 307.86,
+      "end": 308.56,
+      "text": "Because they won't."
+    },
+    {
+      "start": 309.68,
+      "end": 310.06,
+      "text": "Oh."
+    },
+    {
+      "start": 310.38,
+      "end": 311.94,
+      "text": "Very curt."
+    },
+    {
+      "start": 312.1,
+      "end": 312.74,
+      "text": "Oh, Motel."
+    },
+    {
+      "start": 313.58,
+      "end": 318.14,
+      "text": "Anyway, finally, our Mary arrived at her uncle's mansion."
+    },
+    {
+      "start": 318.14,
+      "end": 322.4,
+      "text": "Finally, all the way to the UK from India."
+    },
+    {
+      "start": 322.56,
+      "end": 322.8,
+      "text": "Yeah."
+    },
+    {
+      "start": 323.54,
+      "end": 328.9,
+      "text": "그리고 저택이 엄청 커서 멋있기도 했지만, it looks so dark."
+    },
+    {
+      "start": 329.28,
+      "end": 330.52,
+      "text": "It's, yeah, gloomy."
+    },
+    {
+      "start": 330.68,
+      "end": 334.0,
+      "text": "네, 또 되게 비밀이 정말 많을 것 같은 그런 느낌이었어요."
+    },
+    {
+      "start": 334.02,
+      "end": 334.74,
+      "text": "It looks haunted."
+    },
+    {
+      "start": 335.02,
+      "end": 336.24,
+      "text": "I would not go in there."
+    },
+    {
+      "start": 336.42,
+      "end": 337.04,
+      "text": "Me either."
+    },
+    {
+      "start": 337.18,
+      "end": 338.1,
+      "text": "I like the size."
+    },
+    {
+      "start": 338.24,
+      "end": 340.72,
+      "text": "And the front yard is amazing."
+    },
+    {
+      "start": 340.94,
+      "end": 342.52,
+      "text": "A huge piece of land."
+    },
+    {
+      "start": 342.52,
+      "end": 345.52,
+      "text": "아, 뭐, 크리스 씨 미국 집이야 뭐 훨씬 좋잖아요."
+    },
+    {
+      "start": 345.68,
+      "end": 346.22,
+      "text": "아, 봤어요?"
+    },
+    {
+      "start": 346.3,
+      "end": 346.64,
+      "text": "그쵸?"
+    },
+    {
+      "start": 346.66,
+      "end": 348.16,
+      "text": "Yeah, 저 우리도 땅 나름 있어요."
+    },
+    {
+      "start": 348.82,
+      "end": 350.98,
+      "text": "But this land was really nice."
+    },
+    {
+      "start": 351.5,
+      "end": 354.42,
+      "text": "And she can explore and have fun."
+    },
+    {
+      "start": 354.58,
+      "end": 354.74,
+      "text": "Yeah."
+    },
+    {
+      "start": 354.88,
+      "end": 356.8,
+      "text": "But the house, as you said, is kind of dark."
+    },
+    {
+      "start": 356.92,
+      "end": 357.26,
+      "text": "맞아요."
+    },
+    {
+      "start": 357.4,
+      "end": 360.94,
+      "text": "And this lady, this servant, she's kind of cold."
+    },
+    {
+      "start": 361.08,
+      "end": 361.4,
+      "text": "Yeah."
+    },
+    {
+      "start": 361.52,
+      "end": 362.5,
+      "text": "She's not very welcoming."
+    },
+    {
+      "start": 362.86,
+      "end": 364.94,
+      "text": "So, I don't know if they're going to get along."
+    },
+    {
+      "start": 365.12,
+      "end": 365.52,
+      "text": "Right."
+    },
+    {
+      "start": 365.52,
+      "end": 368.52,
+      "text": "And especially her way of speaking was very coercive."
+    },
+    {
+      "start": 369.56,
+      "end": 370.42,
+      "text": "Oh, very, yeah."
+    },
+    {
+      "start": 370.46,
+      "end": 371.92,
+      "text": "Yeah, strong and coercive."
+    },
+    {
+      "start": 371.92,
+      "end": 377.02,
+      "text": "She's demanding, strict, stay in your room, don't go anywhere."
+    },
+    {
+      "start": 377.74,
+      "end": 383.34,
+      "text": "Come on, she's been, her parents died, she's just a little orphan, she needs love."
+    },
+    {
+      "start": 384.56,
+      "end": 384.74,
+      "text": "좋아요."
+    },
+    {
+      "start": 384.9,
+      "end": 387.18,
+      "text": "어떤 표현들이 들렸는지 먼저 알아볼게요?"
+    },
+    {
+      "start": 387.91,
+      "end": 389.37,
+      "text": "First things first."
+    },
+    {
+      "start": 389.55,
+      "end": 391.09,
+      "text": "This is a very common one."
+    },
+    {
+      "start": 391.09,
+      "end": 391.59,
+      "text": "아, 그래요?"
+    },
+    {
+      "start": 391.77,
+      "end": 396.99,
+      "text": "이거 소위 우리가 텍스 메시지 같은 거 보낼 때는 FTF 이렇게도 많이 쓰잖아요."
+    },
+    {
+      "start": 397.05,
+      "end": 397.41,
+      "text": "아, 그래요?"
+    },
+    {
+      "start": 397.75,
+      "end": 398.41,
+      "text": "저는 진짜 아픈."
+    },
+    {
+      "start": 398.41,
+      "end": 398.89,
+      "text": "아닌가요?"
+    },
+    {
+      "start": 399.61,
+      "end": 400.97,
+      "text": "아, 저는 약간 신세대 아니라서."
+    },
+    {
+      "start": 400.99,
+      "end": 401.49,
+      "text": "아, 그래요?"
+    },
+    {
+      "start": 401.49,
+      "end": 404.73,
+      "text": "요즘에 조금 신세대 노력을 하고 있습니다."
+    },
+    {
+      "start": 404.93,
+      "end": 405.39,
+      "text": "아, really?"
+    },
+    {
+      "start": 405.51,
+      "end": 405.73,
+      "text": "네."
+    },
+    {
+      "start": 406.13,
+      "end": 407.53,
+      "text": "First things first."
+    },
+    {
+      "start": 407.69,
+      "end": 410.41,
+      "text": "라고 해서 가장 중요한 것부터 먼저 하자."
+    },
+    {
+      "start": 410.59,
+      "end": 413.87,
+      "text": "혹은 우선이라는 의미로 생각하시면 되는 표현입니다."
+    },
+    {
+      "start": 414.05,
+      "end": 419.43,
+      "text": "Yeah, in the morning, when your kids are doing something that they're not supposed to be doing,"
+    },
+    {
+      "start": 420.09,
+      "end": 421.13,
+      "text": "first things first."
+    },
+    {
+      "start": 421.35,
+      "end": 424.51,
+      "text": "brush your teeth, get dressed, get ready for school."
+    },
+    {
+      "start": 424.51,
+      "end": 424.77,
+      "text": "That's important."
+    },
+    {
+      "start": 424.77,
+      "end": 426.73,
+      "text": "Yeah, it's such a common phrase."
+    },
+    {
+      "start": 426.73,
+      "end": 426.93,
+      "text": "Yeah."
+    },
+    {
+      "start": 427.21,
+      "end": 427.57,
+      "text": "Come on."
+    },
+    {
+      "start": 427.63,
+      "end": 428.41,
+      "text": "할 건 해야지."
+    },
+    {
+      "start": 428.53,
+      "end": 428.77,
+      "text": "맞아요."
+    },
+    {
+      "start": 430.77,
+      "end": 431.29,
+      "text": "lavatory."
+    },
+    {
+      "start": 431.55,
+      "end": 437.69,
+      "text": "Yeah, lavatory라고 해서 L-A-V-A-T-O-R-Y라는 철자고요."
+    },
+    {
+      "start": 437.85,
+      "end": 438.99,
+      "text": "Very British word."
+    },
+    {
+      "start": 439.09,
+      "end": 441.01,
+      "text": "Yeah, it's commonly used in British English."
+    },
+    {
+      "start": 441.01,
+      "end": 445.65,
+      "text": "I only heard it from a British man or a woman and also on the airplane."
+    },
+    {
+      "start": 445.81,
+      "end": 446.11,
+      "text": "Yeah."
+    },
+    {
+      "start": 446.67,
+      "end": 447.37,
+      "text": "The airplane, right?"
+    },
+    {
+      "start": 447.47,
+      "end": 447.85,
+      "text": "맞아요."
+    },
+    {
+      "start": 448.29,
+      "end": 452.47,
+      "text": "특히 에어플레인에 이렇게 부착이 되어 있는 거 보신 분들도 계실 겁니다."
+    },
+    {
+      "start": 453.01,
+      "end": 459.01,
+      "text": "그러니까 화장실 혹은 변기를 뜻하는 용어라는 건데 주로 영국식에서 많이 쓰이죠."
+    },
+    {
+      "start": 459.01,
+      "end": 460.99,
+      "text": "Yeah, we just say restroom."
+    },
+    {
+      "start": 461.13,
+      "end": 461.43,
+      "text": "Yeah."
+    },
+    {
+      "start": 461.81,
+      "end": 462.37,
+      "text": "Bathroom."
+    },
+    {
+      "start": 464.09,
+      "end": 464.57,
+      "text": "Widower."
+    },
+    {
+      "start": 464.91,
+      "end": 468.51,
+      "text": "네, Widow라는 단어의 E-R이 붙어있는 형태거든요."
+    },
+    {
+      "start": 468.65,
+      "end": 471.07,
+      "text": "W-I-D-O-W-E-R."
+    },
+    {
+      "start": 471.21,
+      "end": 472.97,
+      "text": "Oh, I've heard Widow a lot."
+    },
+    {
+      "start": 473.25,
+      "end": 474.95,
+      "text": "Widow is more common than Widower."
+    },
+    {
+      "start": 475.19,
+      "end": 481.77,
+      "text": "I think that's because, let's see, men live shorter, or women live longer than men usually,"
+    },
+    {
+      "start": 481.97,
+      "end": 482.95,
+      "text": "on average."
+    },
+    {
+      "start": 483.39,
+      "end": 487.89,
+      "text": "So many times the husband passes away before the wife."
+    },
+    {
+      "start": 487.89,
+      "end": 489.75,
+      "text": "But Widower is the man."
+    },
+    {
+      "start": 489.93,
+      "end": 493.99,
+      "text": "So his wife died, and he is left living all alone."
+    },
+    {
+      "start": 494.23,
+      "end": 496.99,
+      "text": "지금 크리스 씨가 영어로 너무 잘 설명을 해주셨잖아요."
+    },
+    {
+      "start": 497.45,
+      "end": 501.01,
+      "text": "Widow는 미망인 혹은 과부를 뜻하는 단어인데,"
+    },
+    {
+      "start": 501.19,
+      "end": 506.01,
+      "text": "Widower이라고 하면 홀아버지를 생각하시면 됩니다."
+    },
+    {
+      "start": 506.21,
+      "end": 508.17,
+      "text": "혹은 Single Father이라고도 표현할 수 있겠죠."
+    },
+    {
+      "start": 508.45,
+      "end": 509.21,
+      "text": "If they have kids."
+    },
+    {
+      "start": 509.25,
+      "end": 509.43,
+      "text": "그렇죠."
+    },
+    {
+      "start": 509.69,
+      "end": 510.67,
+      "text": "But you don't have to have kids."
+    },
+    {
+      "start": 510.67,
+      "end": 511.65,
+      "text": "아, 그러면 맞아요."
+    },
+    {
+      "start": 512.31,
+      "end": 514.99,
+      "text": "아이들이 있다면 Single Father이라고 하실 수 있고,"
+    },
+    {
+      "start": 514.99,
+      "end": 520.09,
+      "text": "아이들이 없이 그냥 혼자가 된, 차별을 한 남편이 있다면"
+    },
+    {
+      "start": 520.09,
+      "end": 521.99,
+      "text": "Widower이라고 표현을 할 수가 있겠죠."
+    },
+    {
+      "start": 522.09,
+      "end": 522.23,
+      "text": "네."
+    },
+    {
+      "start": 522.37,
+      "end": 524.41,
+      "text": "그리고 Single Father 사람들이 오해할 수 있어요."
+    },
+    {
+      "start": 524.59,
+      "end": 527.97,
+      "text": "이혼했구나, 아니면 그런 아이 안학생에 대해서 아이를 낳았구나."
+    },
+    {
+      "start": 527.97,
+      "end": 528.29,
+      "text": "네."
+    },
+    {
+      "start": 528.87,
+      "end": 530.23,
+      "text": "좋은 설명까지."
+    },
+    {
+      "start": 530.35,
+      "end": 530.73,
+      "text": "감사합니다."
+    },
+    {
+      "start": 530.73,
+      "end": 532.67,
+      "text": "이 내용 다시 한 번 들어보겠습니다."
+    },
+    {
+      "start": 532.73,
+      "end": 538.22,
+      "text": "First thing's first, we are fully electric."
+    },
+    {
+      "start": 538.98,
+      "end": 540.6,
+      "text": "That doesn't mean electric is always works."
+    },
+    {
+      "start": 541.02,
+      "end": 545.12,
+      "text": "So if you're needing a lavatory in the night, you take a lamp."
+    },
+    {
+      "start": 545.72,
+      "end": 549.26,
+      "text": "Secondly, Mr. Kravin is a widower and on his own."
+    },
+    {
+      "start": 549.52,
+      "end": 552.08,
+      "text": "He's promised to love someone to tend to you soon enough."
+    },
+    {
+      "start": 552.84,
+      "end": 556.22,
+      "text": "But until then, don't be expecting there'll be people to talk to."
+    },
+    {
+      "start": 556.6,
+      "end": 557.28,
+      "text": "Because they won't."
+    },
+    {
+      "start": 557.28,
+      "end": 560.36,
+      "text": "Oh, 저는 이거 첫 마디를 딱 듣고요."
+    },
+    {
+      "start": 560.48,
+      "end": 563.7,
+      "text": "이 저택에 대해서 막 bragging 하는 줄 알았어요."
+    },
+    {
+      "start": 563.98,
+      "end": 565.28,
+      "text": "Hey, check out this house."
+    },
+    {
+      "start": 565.46,
+      "end": 566.44,
+      "text": "It's so big."
+    },
+    {
+      "start": 566.56,
+      "end": 568.8,
+      "text": "Yeah, 전기 들어와 이건 줄 알았는데"
+    },
+    {
+      "start": 568.8,
+      "end": 571.78,
+      "text": "그게 she was just explaining the truth, right?"
+    },
+    {
+      "start": 571.86,
+      "end": 572.24,
+      "text": "Yes."
+    },
+    {
+      "start": 572.24,
+      "end": 576.2,
+      "text": "시설이 작동이 지금 잘 안 된다라는 말을 합니다."
+    },
+    {
+      "start": 576.5,
+      "end": 578.8,
+      "text": "In reality, the house is only big."
+    },
+    {
+      "start": 578.84,
+      "end": 579.22,
+      "text": "그렇죠."
+    },
+    {
+      "start": 579.46,
+      "end": 579.96,
+      "text": "That's all."
+    },
+    {
+      "start": 580.36,
+      "end": 580.88,
+      "text": "Nothing else."
+    },
+    {
+      "start": 580.98,
+      "end": 582.5,
+      "text": "네, 자세한 내용 살펴볼게요."
+    },
+    {
+      "start": 583.24,
+      "end": 584.34,
+      "text": "First things first,"
+    },
+    {
+      "start": 584.34,
+      "end": 585.6,
+      "text": "네, 배우셨죠?"
+    },
+    {
+      "start": 585.86,
+      "end": 587.82,
+      "text": "We are fully electric."
+    },
+    {
+      "start": 588.06,
+      "end": 590.16,
+      "text": "아, first things first."
+    },
+    {
+      "start": 590.68,
+      "end": 592.9,
+      "text": "가장 중요한 것부터 말해줄게."
+    },
+    {
+      "start": 593.28,
+      "end": 594.86,
+      "text": "We are fully electric."
+    },
+    {
+      "start": 595.18,
+      "end": 599.28,
+      "text": "우리는 전체적으로 다 전기 설비가 되어 있어."
+    },
+    {
+      "start": 599.42,
+      "end": 602.44,
+      "text": "I guess that is a good thing way back then."
+    },
+    {
+      "start": 602.5,
+      "end": 602.8,
+      "text": "맞아요."
+    },
+    {
+      "start": 602.94,
+      "end": 606.64,
+      "text": "Maybe some people used gas to heat or light their houses."
+    },
+    {
+      "start": 606.8,
+      "end": 607.72,
+      "text": "Or candles."
+    },
+    {
+      "start": 608.22,
+      "end": 610.2,
+      "text": "But this house is modern and advanced."
+    },
+    {
+      "start": 610.24,
+      "end": 610.5,
+      "text": "그렇죠."
+    },
+    {
+      "start": 610.68,
+      "end": 611.56,
+      "text": "Fully electric."
+    },
+    {
+      "start": 611.56,
+      "end": 613.12,
+      "text": "진짜 부자가 맞나 봐요, 그렇죠?"
+    },
+    {
+      "start": 613.26,
+      "end": 613.76,
+      "text": "맞나 봐요."
+    },
+    {
+      "start": 614.34,
+      "end": 618.1,
+      "text": "And that doesn't mean the electric always works."
+    },
+    {
+      "start": 618.44,
+      "end": 622.2,
+      "text": "아, 근데 이 부분 이야기하면서 진짜 전기가 딱 꺼집니다."
+    },
+    {
+      "start": 622.34,
+      "end": 622.9,
+      "text": "아, 반전."
+    },
+    {
+      "start": 623.22,
+      "end": 626.32,
+      "text": "네, and that doesn't mean the electric always works."
+    },
+    {
+      "start": 626.98,
+      "end": 632.18,
+      "text": "그리고 그게 꼭 항상 작동하는 것은 아니라는 것을 의미하지."
+    },
+    {
+      "start": 632.44,
+      "end": 633.24,
+      "text": "이라는 말이었어요."
+    },
+    {
+      "start": 633.26,
+      "end": 633.94,
+      "text": "Black out."
+    },
+    {
+      "start": 634.04,
+      "end": 634.54,
+      "text": "아하."
+    },
+    {
+      "start": 634.66,
+      "end": 635.2,
+      "text": "Uh-oh."
+    },
+    {
+      "start": 635.36,
+      "end": 636.14,
+      "text": "정전됐어요."
+    },
+    {
+      "start": 636.14,
+      "end": 641.82,
+      "text": "So, if you're needing the laboratory in the night, you take a lamp."
+    },
+    {
+      "start": 641.82,
+      "end": 646.96,
+      "text": "아, 여기도 좀 명령조로 이야기를 하다 보니까 되게 무섭게 느껴진 문장이었거든요."
+    },
+    {
+      "start": 646.96,
+      "end": 648.14,
+      "text": "Yeah, the way she speaks."
+    },
+    {
+      "start": 648.14,
+      "end": 648.42,
+      "text": "Oh."
+    },
+    {
+      "start": 648.56,
+      "end": 650.32,
+      "text": "It's like she's in the army."
+    },
+    {
+      "start": 650.46,
+      "end": 650.72,
+      "text": "Oh."
+    },
+    {
+      "start": 650.72,
+      "end": 652.48,
+      "text": "And she's speaking to her subordinate."
+    },
+    {
+      "start": 652.72,
+      "end": 653.06,
+      "text": "맞아요."
+    },
+    {
+      "start": 653.08,
+      "end": 653.92,
+      "text": "Do this, do that."
+    },
+    {
+      "start": 654.0,
+      "end": 655.96,
+      "text": "아주 냉혈인간 같은 느낌이었습니다."
+    },
+    {
+      "start": 656.5,
+      "end": 659.02,
+      "text": "So, if you're needing the laboratory in the night,"
+    },
+    {
+      "start": 659.54,
+      "end": 662.98,
+      "text": "그래서 말인데, 네가 밤에 화장실이 가고 싶다면,"
+    },
+    {
+      "start": 663.52,
+      "end": 664.56,
+      "text": "you take a lamp."
+    },
+    {
+      "start": 664.72,
+      "end": 665.36,
+      "text": "라고 합니다."
+    },
+    {
+      "start": 665.5,
+      "end": 666.24,
+      "text": "You take a lamp."
+    },
+    {
+      "start": 666.24,
+      "end": 668.6,
+      "text": "어, 여기에서 뭐, you should take a lamp도 아니고."
+    },
+    {
+      "start": 668.86,
+      "end": 670.0,
+      "text": "Hey, you can use the lamp."
+    },
+    {
+      "start": 670.08,
+      "end": 670.94,
+      "text": "It's right over there."
+    },
+    {
+      "start": 670.96,
+      "end": 671.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 671.4,
+      "end": 673.48,
+      "text": "If you need to go to the bathroom in the middle of the night."
+    },
+    {
+      "start": 673.56,
+      "end": 673.8,
+      "text": "맞아."
+    },
+    {
+      "start": 674.08,
+      "end": 676.3,
+      "text": "이렇게 친절하게 이야기해 줄 수도 있는데,"
+    },
+    {
+      "start": 676.58,
+      "end": 681.02,
+      "text": "그렇지 않고 막 subject in you까지 붙여가지고 명령조로 이야기하니까 더 무서웠어요."
+    },
+    {
+      "start": 681.04,
+      "end": 681.64,
+      "text": "Lurao."
+    },
+    {
+      "start": 681.66,
+      "end": 682.86,
+      "text": "와, you take a lamp."
+    },
+    {
+      "start": 683.26,
+      "end": 685.08,
+      "text": "램프를 가지고 가라는 겁니다."
+    },
+    {
+      "start": 685.74,
+      "end": 689.96,
+      "text": "Secondly, Mr. Craven is a widower and on his own."
+    },
+    {
+      "start": 689.96,
+      "end": 693.04,
+      "text": "아하, secondly 라고 해서 두 번째로,"
+    },
+    {
+      "start": 693.54,
+      "end": 695.68,
+      "text": "이제 중요한 것부터 이야기를 하면서,"
+    },
+    {
+      "start": 695.68,
+      "end": 697.06,
+      "text": "이제 두 번째 거 이야기합니다."
+    },
+    {
+      "start": 697.52,
+      "end": 698.46,
+      "text": "Mr. Craven."
+    },
+    {
+      "start": 698.98,
+      "end": 702.62,
+      "text": "Craven 씨는 is a widower and on his own."
+    },
+    {
+      "start": 703.0,
+      "end": 705.9,
+      "text": "아, 지금 혼자 지내고 계셔."
+    },
+    {
+      "start": 706.16,
+      "end": 708.14,
+      "text": "부인과 사별해서 지금 혼자 계셔."
+    },
+    {
+      "start": 708.32,
+      "end": 709.04,
+      "text": "라는 이야기죠."
+    },
+    {
+      "start": 709.12,
+      "end": 709.72,
+      "text": "On his own."
+    },
+    {
+      "start": 710.16,
+      "end": 710.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 710.5,
+      "end": 711.82,
+      "text": "I was on my own last weekend."
+    },
+    {
+      "start": 712.02,
+      "end": 712.48,
+      "text": "아하."
+    },
+    {
+      "start": 712.56,
+      "end": 713.28,
+      "text": "My wife left."
+    },
+    {
+      "start": 713.54,
+      "end": 714.82,
+      "text": "She went on vacation."
+    },
+    {
+      "start": 715.02,
+      "end": 717.62,
+      "text": "아, so you took care of your children?"
+    },
+    {
+      "start": 717.62,
+      "end": 718.18,
+      "text": "Yes."
+    },
+    {
+      "start": 718.44,
+      "end": 721.22,
+      "text": "For the first time, for 48 hours."
+    },
+    {
+      "start": 721.4,
+      "end": 723.16,
+      "text": "I've never done that before."
+    },
+    {
+      "start": 723.62,
+      "end": 723.76,
+      "text": "그래요?"
+    },
+    {
+      "start": 723.76,
+      "end": 725.88,
+      "text": "그래서 오늘 약간 슬림해 보이는데요."
+    },
+    {
+      "start": 726.06,
+      "end": 728.08,
+      "text": "Oh, I lost some weight."
+    },
+    {
+      "start": 728.82,
+      "end": 729.54,
+      "text": "아, 진짜요?"
+    },
+    {
+      "start": 729.54,
+      "end": 730.26,
+      "text": "Because of that?"
+    },
+    {
+      "start": 730.44,
+      "end": 731.76,
+      "text": "열심히 뛰어다녔어요."
+    },
+    {
+      "start": 731.78,
+      "end": 732.12,
+      "text": "그래요."
+    },
+    {
+      "start": 732.32,
+      "end": 733.06,
+      "text": "Good for you."
+    },
+    {
+      "start": 733.5,
+      "end": 734.16,
+      "text": "Thank you."
+    },
+    {
+      "start": 735.26,
+      "end": 739.14,
+      "text": "He's promised he'll have someone to tend to you soon enough."
+    },
+    {
+      "start": 739.6,
+      "end": 740.86,
+      "text": "He's promised."
+    },
+    {
+      "start": 741.14,
+      "end": 742.24,
+      "text": "그가 약속하셨어."
+    },
+    {
+      "start": 742.38,
+      "end": 744.62,
+      "text": "그는 당연히 Mr. Craven이 되겠죠."
+    },
+    {
+      "start": 744.62,
+      "end": 749.44,
+      "text": "그 사람이 he'll have someone to tend to you soon enough."
+    },
+    {
+      "start": 749.5,
+      "end": 750.16,
+      "text": "Tend to you."
+    },
+    {
+      "start": 750.28,
+      "end": 750.46,
+      "text": "네."
+    },
+    {
+      "start": 750.62,
+      "end": 751.5,
+      "text": "Very sophisticated."
+    },
+    {
+      "start": 751.9,
+      "end": 756.5,
+      "text": "이거 tend라는 동사에 대해서 기본적으로 알고 있는 의미는 우리가 뭔가요?"
+    },
+    {
+      "start": 756.56,
+      "end": 758.46,
+      "text": "주로 뭐뭐하는 경향이 있다."
+    },
+    {
+      "start": 758.74,
+      "end": 759.6,
+      "text": "이런 거 많이 쓰잖아요."
+    },
+    {
+      "start": 759.88,
+      "end": 760.52,
+      "text": "근데 여기서는"
+    },
+    {
+      "start": 760.52,
+      "end": 761.2,
+      "text": "Tendency."
+    },
+    {
+      "start": 761.2,
+      "end": 763.78,
+      "text": "어, 근데 여기서는 완전 다른 의미예요."
+    },
+    {
+      "start": 764.0,
+      "end": 765.64,
+      "text": "보살피다 라는 의미입니다."
+    },
+    {
+      "start": 765.76,
+      "end": 767.62,
+      "text": "Usually you tend to a garden."
+    },
+    {
+      "start": 767.76,
+      "end": 768.26,
+      "text": "어허."
+    },
+    {
+      "start": 768.28,
+      "end": 769.14,
+      "text": "You tend to something."
+    },
+    {
+      "start": 769.2,
+      "end": 770.02,
+      "text": "You take care of something."
+    },
+    {
+      "start": 770.1,
+      "end": 770.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 770.48,
+      "end": 773.18,
+      "text": "But here it means to take care of the kid."
+    },
+    {
+      "start": 773.3,
+      "end": 773.66,
+      "text": "아."
+    },
+    {
+      "start": 774.02,
+      "end": 774.26,
+      "text": "Yeah."
+    },
+    {
+      "start": 774.38,
+      "end": 775.62,
+      "text": "He can't take care of you now."
+    },
+    {
+      "start": 775.68,
+      "end": 775.92,
+      "text": "맞아."
+    },
+    {
+      "start": 775.92,
+      "end": 777.98,
+      "text": "He'll find someone to take care of you."
+    },
+    {
+      "start": 778.04,
+      "end": 779.14,
+      "text": "이해가 쏙쏙 되시죠."
+    },
+    {
+      "start": 779.5,
+      "end": 784.7,
+      "text": "너의 삼촌이 이제 곧 너를 보살필 누군가를 데리고 오실 거야."
+    },
+    {
+      "start": 784.7,
+      "end": 785.48,
+      "text": "라는 거예요."
+    },
+    {
+      "start": 786.02,
+      "end": 791.02,
+      "text": "But until then, don't be expecting there'll be people to talk to."
+    },
+    {
+      "start": 791.44,
+      "end": 792.66,
+      "text": "Because there won't."
+    },
+    {
+      "start": 793.58,
+      "end": 797.44,
+      "text": "제가 중간에 막 이렇게 반응을 보였거든요."
+    },
+    {
+      "start": 797.46,
+      "end": 798.4,
+      "text": "아주 살살 맞아서."
+    },
+    {
+      "start": 798.54,
+      "end": 800.14,
+      "text": "너무 살살 맞는 거 아닌가요?"
+    },
+    {
+      "start": 800.16,
+      "end": 800.62,
+      "text": "냉정."
+    },
+    {
+      "start": 800.8,
+      "end": 800.98,
+      "text": "그렇죠."
+    },
+    {
+      "start": 801.4,
+      "end": 804.1,
+      "text": "But until then, 하지만 그때까지는"
+    },
+    {
+      "start": 804.1,
+      "end": 807.24,
+      "text": "don't be expecting, 기대도 하지 마."
+    },
+    {
+      "start": 807.8,
+      "end": 809.84,
+      "text": "There'll be people to talk to."
+    },
+    {
+      "start": 809.84,
+      "end": 813.42,
+      "text": "너하고 말할 사람들이 있을 거라고 기대도 마."
+    },
+    {
+      "start": 813.42,
+      "end": 815.24,
+      "text": "Because there won't."
+    },
+    {
+      "start": 816.18,
+      "end": 818.08,
+      "text": "왜냐하면 아무도 없을 거니까."
+    },
+    {
+      "start": 818.36,
+      "end": 818.88,
+      "text": "라는 겁니다."
+    },
+    {
+      "start": 819.04,
+      "end": 821.28,
+      "text": "There's nobody to talk to in this huge house."
+    },
+    {
+      "start": 821.58,
+      "end": 823.3,
+      "text": "Nobody lives in this huge house."
+    },
+    {
+      "start": 823.4,
+      "end": 825.12,
+      "text": "어머나, 이게 몇 일일까요?"
+    },
+    {
+      "start": 825.22,
+      "end": 825.62,
+      "text": "Come on."
+    },
+    {
+      "start": 825.72,
+      "end": 826.62,
+      "text": "How many rooms are there?"
+    },
+    {
+      "start": 826.8,
+      "end": 827.02,
+      "text": "맞아."
+    },
+    {
+      "start": 827.14,
+      "end": 828.06,
+      "text": "반이 몇 갠데."
+    },
+    {
+      "start": 828.22,
+      "end": 828.94,
+      "text": "사람이 이렇게 없어."
+    },
+    {
+      "start": 829.7,
+      "end": 831.58,
+      "text": "자, 이 내용 한 번 더 들어보시죠."
+    },
+    {
+      "start": 832.58,
+      "end": 836.94,
+      "text": "First things first, we are fully electric."
+    },
+    {
+      "start": 837.64,
+      "end": 839.32,
+      "text": "That doesn't mean an electric always works."
+    },
+    {
+      "start": 839.32,
+      "end": 842.7,
+      "text": "So, if you're needing the lavatory in the night,"
+    },
+    {
+      "start": 842.7,
+      "end": 843.86,
+      "text": "you take a lamp."
+    },
+    {
+      "start": 844.46,
+      "end": 848.0,
+      "text": "Secondly, Mr. Craven is a widower and on his own."
+    },
+    {
+      "start": 848.24,
+      "end": 850.8,
+      "text": "He's promised to have someone to tend to you soon enough."
+    },
+    {
+      "start": 851.28,
+      "end": 854.96,
+      "text": "But until then, don't be expecting there'll be people to talk to."
+    },
+    {
+      "start": 855.3,
+      "end": 856.0,
+      "text": "Because they won't."
+    },
+    {
+      "start": 857.13,
+      "end": 859.15,
+      "text": "네, 우리 Mrs. Medlock 부인은요."
+    },
+    {
+      "start": 859.19,
+      "end": 861.01,
+      "text": "She doesn't even feel sorry for a kid."
+    },
+    {
+      "start": 861.29,
+      "end": 861.63,
+      "text": "Yeah."
+    },
+    {
+      "start": 862.07,
+      "end": 862.35,
+      "text": "Yeah."
+    },
+    {
+      "start": 862.49,
+      "end": 863.83,
+      "text": "She loves her parents."
+    },
+    {
+      "start": 864.45,
+      "end": 866.01,
+      "text": "And she's just alone."
+    },
+    {
+      "start": 866.35,
+      "end": 869.21,
+      "text": "Show some sympathy for her situation."
+    },
+    {
+      "start": 869.21,
+      "end": 870.77,
+      "text": "가엾지도 않나봐요, 그죠?"
+    },
+    {
+      "start": 870.93,
+      "end": 872.75,
+      "text": "Maybe she has some troubles herself."
+    },
+    {
+      "start": 872.95,
+      "end": 874.25,
+      "text": "아, 그럴 수도 있겠네요, 그죠?"
+    },
+    {
+      "start": 874.41,
+      "end": 875.51,
+      "text": "다 상황이 있을 거니까."
+    },
+    {
+      "start": 876.05,
+      "end": 877.99,
+      "text": "네, 오늘 Screen English는 여기까지고요."
+    }
+  ]
+}
