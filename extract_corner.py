@@ -50,20 +50,30 @@ CLOSING_TAIL_RE = re.compile(
 CORNER_DEFS = {
     "screen_english": {
         "label": "Screen English",
+        # === INTRO 마커 (진짜 코너 시작점 감지용) ===
+        "intro_patterns": [
+            re.compile(r"스크린\s*잉글리[쉬시]|Screen\s*English", re.IGNORECASE),
+        ],
+        "welcome_patterns": [
+            re.compile(
+                r"Chris|크리스|good\s*morning|굿모닝|welcome|웰컴|theater|시어터|타임|time|영화|movie",
+                re.IGNORECASE,
+            ),
+        ],
         # === START 마커 ===
         # 진행자가 영화 장면을 처음 들려주기 직전에 쓰는 정형구.
         # "오늘 준비된 장면 듣고 오겠습니다" 류. 이 구절이 등장하는 segment의 시작을 코너 시작으로.
         "start_patterns": [
             re.compile(
-                r"오늘[^.\n]{0,20}장면[^.\n]{0,20}(?:듣고\s*오|들어\s*보)",
+                r"오늘[^.\n]{0,20}장면[^.\n]{0,20}(?:듣고\s*[오올와온]|들어\s*[보봐])",
                 re.IGNORECASE | re.DOTALL,
             ),
             re.compile(
-                r"준비[된한]\s*장면[^.\n]{0,20}(?:듣고\s*오|들어\s*보)",
+                r"준비[된한]\s*장면[^.\n]{0,20}(?:듣고\s*[오올와온]|들어\s*[보봐])",
                 re.IGNORECASE | re.DOTALL,
             ),
             re.compile(
-                r"장면\s*(?:듣고\s*오|들어\s*보겠|한\s*번\s*들어)",
+                r"장면\s*(?:듣고\s*[오올와온]|들어\s*[보봐]겠|한\s*번\s*들어)",
                 re.IGNORECASE | re.DOTALL,
             ),
             re.compile(
@@ -206,26 +216,77 @@ def find_start_segment(
     patterns: list[re.Pattern],
     max_start_seconds: float,
     window: int = 4,
-) -> Segment | None:
-    """슬라이딩 윈도우로 시작 마커("오늘 준비된 장면 듣고 오" 등) 검출.
-
-    end 검출과 동일한 윈도우 방식. 매칭되면 윈도우에서 가장 먼저
-    "장면|듣고|들어" 키워드가 등장하는 segment를 반환.
+    intro_patterns: list[re.Pattern] = None,
+    welcome_patterns: list[re.Pattern] = None,
+) -> tuple[Segment | None, str]:
+    """다단계(오프닝 시그니처 -> 고도화된 클립 마커 -> 역방향 탐색) 탐색으로 시작 세그먼트를 찾는다.
+    
+    반환값: (Segment, 감지_방식_문자열)
     """
-    start_tail = re.compile(r"장면|듣고|들어\s*보", re.IGNORECASE)
+    # ----------------------------------------------------
+    # 단계 1: 코너 시그니처 오프닝 검출 (Pass 1)
+    # ----------------------------------------------------
+    # 1.5분(90초) ~ max_start_seconds 사이를 대상으로 시그니처 멘트 검색
+    min_search = 90.0
+    if intro_patterns and welcome_patterns:
+        for i, seg in enumerate(segments):
+            if seg.start < min_search:
+                continue
+            if seg.start > max_start_seconds:
+                break
+            
+            end_i = min(i + window, len(segments))
+            combined = " ".join(segments[j].text for j in range(i, end_i))
+            
+            # 코너명 시그니처와 게스트 웰컴/인트로 관련 키워드가 한 윈도우 내에 함께 존재할 때
+            if any(p.search(combined) for p in intro_patterns) and any(p.search(combined) for p in welcome_patterns):
+                name_re = re.compile(r"스크린|잉글리|Screen|English", re.IGNORECASE)
+                for j in range(i, end_i):
+                    if name_re.search(segments[j].text):
+                        return segments[j], "시그니처(인트로)"
+                return seg, "시그니처(인트로)"
+
+    # ----------------------------------------------------
+    # 단계 2: 영화 클립 시작 마커 검출 (Pass 2) + 역방향 오프닝 매핑
+    # ----------------------------------------------------
+    start_seg = None
+    start_tail = re.compile(r"장면|듣고|들어\s*[보봐]", re.IGNORECASE)
+    
     for i, seg in enumerate(segments):
         if seg.start > max_start_seconds:
-            return None
+            break
         end_i = min(i + window, len(segments))
         combined = " ".join(segments[j].text for j in range(i, end_i))
-        if not any(p.search(combined) for p in patterns):
-            continue
-        # 윈도우 내에서 "장면|듣고|들어보" 가 처음 나오는 segment 반환
-        for j in range(i, end_i):
-            if start_tail.search(segments[j].text):
-                return segments[j]
-        return seg
-    return None
+        if any(p.search(combined) for p in patterns):
+            # 윈도우 내에서 키워드가 처음 나오는 세그먼트 반환
+            for j in range(i, end_i):
+                if start_tail.search(segments[j].text):
+                    start_seg = segments[j]
+                    break
+            if start_seg is None:
+                start_seg = seg
+            break
+
+    if start_seg is not None:
+        # 클립 시작부를 찾은 경우, 역방향(최대 3분/180초 전)으로 거슬러 올라가며
+        # "스크린 잉글리쉬/Screen English" 등 오프닝을 언급하는 세그먼트가 있는지 확인
+        lookback_limit = start_seg.start - 180.0
+        earliest_intro_seg = start_seg
+        
+        intro_keywords = re.compile(r"스크린\s*잉글리[쉬시]|Screen\s*English", re.IGNORECASE)
+        for seg in reversed(segments):
+            if seg.start < lookback_limit:
+                break
+            if seg.start >= start_seg.start:
+                continue
+            if intro_keywords.search(seg.text):
+                earliest_intro_seg = seg
+                
+        if earliest_intro_seg != start_seg:
+            return earliest_intro_seg, f"클립마커(역방향-seg#{start_seg.index})"
+        return start_seg, "클립마커"
+
+    return None, "없음"
 
 
 def find_start_seconds_fallback(
@@ -452,15 +513,17 @@ def process_one(
         start_info = "수동"
     else:
         # 1순위: START 마커 검출 ("오늘 준비된 장면 듣고 오" 류)
-        start_seg = find_start_segment(
+        start_seg, start_method = find_start_segment(
             segments,
             corner.get("start_patterns", []),
             corner.get("start_max_minutes", 12) * 60,
             window=corner.get("start_window_segments", 4),
-        ) if corner.get("start_patterns") else None
+            intro_patterns=corner.get("intro_patterns"),
+            welcome_patterns=corner.get("welcome_patterns"),
+        ) if corner.get("start_patterns") else (None, "없음")
         if start_seg is not None:
             start_s = start_seg.start
-            start_info = f"마커(seg#{start_seg.index} @ {seconds_to_hms(start_seg.start)})"
+            start_info = f"{start_method}(seg#{start_seg.index} @ {seconds_to_hms(start_seg.start)})"
         else:
             # 폴백 (커버리지 우선): 인트로 스킵 후 첫 segment
             start_s = find_start_seconds_fallback(

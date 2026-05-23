@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:36:13",
+  "generated_at": "2026-05-23T22:41:47",
   "count": 4,
   "episodes": [
     {
@@ -19,7 +19,7 @@
       "corner_label": "Screen English",
       "title": "He looks for needles in haystacks",
       "movie": "",
-      "duration_sec": 1000.34,
+      "duration_sec": 768.44,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-03_screen_english.mp3"
     },
     {
@@ -29,7 +29,7 @@
       "corner_label": "Screen English",
       "title": "I_m gonna light it up",
       "movie": "",
-      "duration_sec": 1142.43,
+      "duration_sec": 858.34,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-02_screen_english.mp3"
     },
     {
@@ -39,7 +39,7 @@
       "corner_label": "Screen English",
       "title": "I_m grateful for the offer",
       "movie": "",
-      "duration_sec": 709.4,
+      "duration_sec": 884.98,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-01_screen_english.mp3"
     }
   ]

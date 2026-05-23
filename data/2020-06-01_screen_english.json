@@ -5,1632 +5,2077 @@
   "corner_label": "Screen English",
   "title": "I_m grateful for the offer",
   "movie": "",
-  "duration_sec": 709.4,
+  "duration_sec": 884.98,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-01_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 2.22,
+      "end": 13.31,
+      "text": "Screen English"
+    },
+    {
+      "start": 13.31,
+      "end": 32.12,
+      "text": "Good Morning Theater"
+    },
+    {
+      "start": 32.12,
+      "end": 34.2,
+      "text": "Screen English Time"
+    },
+    {
+      "start": 34.2,
+      "end": 36.72,
+      "text": "6월에 함께할 새 영화는"
+    },
+    {
+      "start": 36.72,
+      "end": 39.94,
+      "text": "Alfonso Gomez Rejon 감독"
+    },
+    {
+      "start": 39.94,
+      "end": 42.44,
+      "text": "Benedict Cumberbatch 주연의"
+    },
+    {
+      "start": 42.44,
+      "end": 44.88,
+      "text": "The Current War"
+    },
+    {
+      "start": 44.88,
+      "end": 45.36,
+      "text": "Wow!"
+    },
+    {
+      "start": 46.16,
+      "end": 47.4,
+      "text": "Chris, good morning!"
+    },
+    {
+      "start": 47.84,
+      "end": 48.88,
+      "text": "Good morning, everyone!"
+    },
+    {
+      "start": 49.2,
+      "end": 49.92,
+      "text": "Top of the morning!"
+    },
+    {
+      "start": 50.18,
+      "end": 52.28,
+      "text": "Yeah, welcome to Happy GMP!"
+    },
+    {
+      "start": 52.86,
+      "end": 54.02,
+      "text": "Welcome to Happy June,"
+    },
+    {
+      "start": 54.1,
+      "end": 54.98,
+      "text": "a brand new month."
+    },
+    {
+      "start": 55.12,
+      "end": 56.48,
+      "text": "벌써 6월이에요!"
+    },
+    {
+      "start": 56.96,
+      "end": 58.16,
+      "text": "Yes, it's already,"
+    },
+    {
+      "start": 58.54,
+      "end": 59.12,
+      "text": "let's see,"
+    },
+    {
+      "start": 59.26,
+      "end": 59.94,
+      "text": "almost halfway."
+    },
+    {
+      "start": 60.22,
+      "end": 62.78,
+      "text": "We're almost halfway through 2020."
+    },
+    {
+      "start": 62.78,
+      "end": 67.04,
+      "text": "2020년에 거의 절반을 달려가고 있습니다, 그렇죠?"
+    },
+    {
+      "start": 68.04,
+      "end": 69.22,
+      "text": "이제 6월을 맞이해서"
+    },
+    {
+      "start": 69.22,
+      "end": 72.0,
+      "text": "The new movie in June is Current War."
+    },
+    {
+      "start": 72.3,
+      "end": 73.46,
+      "text": "Yeah, The Current War."
+    },
+    {
+      "start": 73.62,
+      "end": 73.94,
+      "text": "Yeah."
+    },
+    {
+      "start": 74.1,
+      "end": 75.82,
+      "text": "When I saw the name of this movie,"
+    },
+    {
+      "start": 76.3,
+      "end": 77.38,
+      "text": "The Current War,"
+    },
+    {
+      "start": 77.5,
+      "end": 79.52,
+      "text": "I thought it was a 전쟁 영화."
+    },
+    {
+      "start": 79.86,
+      "end": 81.38,
+      "text": "I thought it was a war movie"
+    },
+    {
+      "start": 81.38,
+      "end": 85.88,
+      "text": "about an actual war with guns and bombs."
+    },
+    {
+      "start": 86.56,
+      "end": 89.1,
+      "text": "But it's not that kind of movie."
+    },
+    {
+      "start": 89.46,
+      "end": 91.7,
+      "text": "제목이 war이라는 단어가 있어서"
+    },
+    {
+      "start": 91.7,
+      "end": 93.54,
+      "text": "많은 분들이 전쟁 영화인가?"
+    },
+    {
+      "start": 93.82,
+      "end": 94.86,
+      "text": "이렇게 생각하실 텐데"
+    },
+    {
+      "start": 94.86,
+      "end": 97.92,
+      "text": "이게 좀 다른 의미의 전쟁이라는 거죠."
+    },
+    {
+      "start": 98.42,
+      "end": 99.14,
+      "text": "여기에서 특히"
+    },
+    {
+      "start": 99.14,
+      "end": 101.82,
+      "text": "그 word current has many meanings."
+    },
+    {
+      "start": 102.0,
+      "end": 102.44,
+      "text": "Yeah, current."
+    },
+    {
+      "start": 102.76,
+      "end": 103.96,
+      "text": "Current events."
+    },
+    {
+      "start": 104.12,
+      "end": 105.64,
+      "text": "어, 무슨 의미일까요?"
+    },
+    {
+      "start": 106.46,
+      "end": 107.96,
+      "text": "현재의 라는 의미가 되겠죠."
+    },
+    {
+      "start": 107.96,
+      "end": 108.18,
+      "text": "Current."
+    },
+    {
+      "start": 108.4,
+      "end": 109.5,
+      "text": "Are you currently single?"
+    },
+    {
+      "start": 109.8,
+      "end": 111.52,
+      "text": "너 여전히 솔로야?"
+    },
+    {
+      "start": 111.64,
+      "end": 112.64,
+      "text": "이렇게 질문할 때도"
+    },
+    {
+      "start": 112.64,
+      "end": 114.92,
+      "text": "그 current라는 형용사를 만들 수가 있고요."
+    },
+    {
+      "start": 114.92,
+      "end": 118.14,
+      "text": "어, 통용되는 이라는 의미로도 가능하고"
+    },
+    {
+      "start": 118.14,
+      "end": 120.58,
+      "text": "근데 이번 영화에서는"
+    },
+    {
+      "start": 120.58,
+      "end": 121.7,
+      "text": "A different current."
+    },
+    {
+      "start": 121.84,
+      "end": 122.04,
+      "text": "Yeah."
+    },
+    {
+      "start": 122.22,
+      "end": 124.2,
+      "text": "A very, very, very different current."
+    },
+    {
+      "start": 124.32,
+      "end": 126.28,
+      "text": "So can you guess what it means in this movie?"
+    },
+    {
+      "start": 126.76,
+      "end": 128.76,
+      "text": "It has to do with electricity."
+    },
+    {
+      "start": 129.0,
+      "end": 129.46,
+      "text": "Yeah."
+    },
+    {
+      "start": 129.92,
+      "end": 131.08,
+      "text": "Electrical current."
+    },
+    {
+      "start": 131.08,
+      "end": 131.92,
+      "text": "그쵸?"
+    },
+    {
+      "start": 132.14,
+      "end": 132.86,
+      "text": "감이 오시죠?"
+    },
+    {
+      "start": 133.12,
+      "end": 135.46,
+      "text": "네, 전류에 해당하는 내용입니다."
+    },
+    {
+      "start": 136.24,
+      "end": 138.24,
+      "text": "어, 특히 에디슨이라든지"
+    },
+    {
+      "start": 138.24,
+      "end": 139.96,
+      "text": "테슬라, 웨스팅하우스"
+    },
+    {
+      "start": 139.96,
+      "end": 141.12,
+      "text": "이런 이름들이 나오거든요."
+    },
+    {
+      "start": 141.7,
+      "end": 142.8,
+      "text": "딱 듣자마자"
+    },
+    {
+      "start": 142.8,
+      "end": 143.96,
+      "text": "Wow, the big names"
+    },
+    {
+      "start": 143.96,
+      "end": 144.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 144.62,
+      "end": 145.5,
+      "text": "in electricity."
+    },
+    {
+      "start": 145.72,
+      "end": 146.24,
+      "text": "Yeah, geniuses."
+    },
+    {
+      "start": 147.24,
+      "end": 147.44,
+      "text": "그쵸?"
+    },
+    {
+      "start": 147.44,
+      "end": 148.82,
+      "text": "Personally, 에디슨"
+    },
+    {
+      "start": 148.82,
+      "end": 150.14,
+      "text": "is the most famous."
+    },
+    {
+      "start": 150.5,
+      "end": 151.72,
+      "text": "Everybody's heard of 에디슨."
+    },
+    {
+      "start": 151.78,
+      "end": 152.38,
+      "text": "Yeah, sure."
+    },
+    {
+      "start": 152.48,
+      "end": 153.3,
+      "text": "And 테슬라, too."
+    },
+    {
+      "start": 153.46,
+      "end": 153.72,
+      "text": "Yeah."
+    },
+    {
+      "start": 153.96,
+      "end": 154.86,
+      "text": "Because of the cars."
+    },
+    {
+      "start": 154.88,
+      "end": 155.12,
+      "text": "Yeah."
+    },
+    {
+      "start": 155.32,
+      "end": 156.1,
+      "text": "I've heard of 테슬라."
+    },
+    {
+      "start": 156.24,
+      "end": 156.68,
+      "text": "맞아요."
+    },
+    {
+      "start": 157.04,
+      "end": 158.94,
+      "text": "People are not so familiar"
+    },
+    {
+      "start": 158.94,
+      "end": 160.34,
+      "text": "with the third man."
+    },
+    {
+      "start": 160.42,
+      "end": 160.7,
+      "text": "맞아요."
+    },
+    {
+      "start": 160.88,
+      "end": 162.56,
+      "text": "But I learned a lot about him"
+    },
+    {
+      "start": 162.56,
+      "end": 163.14,
+      "text": "in this movie."
+    },
+    {
+      "start": 163.32,
+      "end": 163.52,
+      "text": "Yeah."
+    },
+    {
+      "start": 163.52,
+      "end": 164.38,
+      "text": "You know, again,"
+    },
+    {
+      "start": 164.5,
+      "end": 167.18,
+      "text": "it's a story based on historical facts."
+    },
+    {
+      "start": 167.4,
+      "end": 168.1,
+      "text": "It's a true story."
+    },
+    {
+      "start": 168.26,
+      "end": 170.36,
+      "text": "Yeah, so it'll be more exciting."
+    },
+    {
+      "start": 170.62,
+      "end": 170.9,
+      "text": "그쵸?"
+    },
+    {
+      "start": 171.02,
+      "end": 172.88,
+      "text": "It was really, really intense."
+    },
+    {
+      "start": 173.08,
+      "end": 175.58,
+      "text": "더욱더 흥미진진할 것 같은데요."
+    },
+    {
+      "start": 175.58,
+      "end": 177.8,
       "text": "오늘 준비된 장면 듣고 오겠습니다."
     },
     {
-      "start": 3.54,
-      "end": 5.72,
+      "start": 179.12,
+      "end": 181.3,
       "text": "My men tell me you're turning down five million dollars."
     },
     {
-      "start": 5.84,
-      "end": 7.46,
+      "start": 181.42,
+      "end": 183.04,
       "text": "I'm grateful for the offer, Mr. President."
     },
     {
-      "start": 7.64,
-      "end": 9.6,
+      "start": 183.22,
+      "end": 185.18,
       "text": "But it's the type of science hereafter"
     },
     {
-      "start": 9.6,
-      "end": 10.96,
+      "start": 185.18,
+      "end": 186.54,
       "text": "that I find objectionable."
     },
     {
-      "start": 11.06,
-      "end": 12.1,
+      "start": 186.64,
+      "end": 187.68,
       "text": "There's always money and guns."
     },
     {
-      "start": 12.22,
-      "end": 13.64,
+      "start": 187.8,
+      "end": 189.22,
       "text": "One device I shall never build"
     },
     {
-      "start": 13.64,
-      "end": 15.54,
+      "start": 189.22,
+      "end": 191.12,
       "text": "is that which takes the life of another man."
     },
     {
-      "start": 15.64,
-      "end": 16.4,
+      "start": 191.22,
+      "end": 191.98,
       "text": "It's barbaric."
     },
     {
-      "start": 17.77,
-      "end": 18.21,
+      "start": 193.35,
+      "end": 193.79,
       "text": "Wow."
     },
     {
-      "start": 19.29,
-      "end": 20.81,
+      "start": 194.87,
+      "end": 196.39,
       "text": "Did you like this conversation?"
     },
     {
-      "start": 21.11,
-      "end": 24.29,
+      "start": 196.69,
+      "end": 199.87,
       "text": "아, 갑자기 우리 주디 영화하고"
     },
     {
-      "start": 24.29,
-      "end": 26.71,
+      "start": 199.87,
+      "end": 202.29,
       "text": "완전 바뀐 그런 분위기였어요."
     },
     {
-      "start": 26.79,
-      "end": 28.21,
+      "start": 202.37,
+      "end": 203.79,
       "text": "It's completely..."
     },
     {
-      "start": 28.21,
-      "end": 28.51,
+      "start": 203.79,
+      "end": 204.09,
       "text": "Yeah."
     },
     {
-      "start": 28.65,
-      "end": 30.29,
+      "start": 204.23,
+      "end": 205.87,
       "text": "They're both based on true stories."
     },
     {
-      "start": 30.29,
-      "end": 30.69,
+      "start": 205.87,
+      "end": 206.27,
       "text": "Yeah."
     },
     {
-      "start": 30.89,
-      "end": 32.35,
+      "start": 206.47,
+      "end": 207.93,
       "text": "Just a very different genre."
     },
     {
-      "start": 32.49,
-      "end": 32.87,
+      "start": 208.07,
+      "end": 208.45,
       "text": "Yeah."
     },
     {
-      "start": 33.11,
-      "end": 34.91,
+      "start": 208.69,
+      "end": 210.49,
       "text": "완전 장르의 대반전입니다."
     },
     {
-      "start": 35.15,
-      "end": 37.19,
+      "start": 210.73,
+      "end": 212.77,
       "text": "마음의 준비를 좀 톡톡히 하셔야 되겠어요."
     },
     {
-      "start": 38.65,
-      "end": 40.57,
+      "start": 214.23,
+      "end": 216.15,
       "text": "전기보급망 발명한 사람이 누구예요?"
     },
     {
-      "start": 40.65,
-      "end": 42.09,
+      "start": 216.23,
+      "end": 217.67,
       "text": "바로 에디슨이잖아요."
     },
     {
-      "start": 42.49,
-      "end": 44.27,
+      "start": 218.07,
+      "end": 219.85,
       "text": "그래서 지금 이 에디슨이"
     },
     {
-      "start": 44.27,
-      "end": 46.05,
+      "start": 219.85,
+      "end": 221.63,
       "text": "he's been recruiting investors"
     },
     {
-      "start": 46.05,
-      "end": 48.29,
+      "start": 221.63,
+      "end": 223.87,
       "text": "to popularize electricity"
     },
     {
-      "start": 48.29,
-      "end": 50.13,
+      "start": 223.87,
+      "end": 225.71,
       "text": "throughout the United States."
     },
     {
-      "start": 50.31,
-      "end": 50.53,
+      "start": 225.89,
+      "end": 226.11,
       "text": "Yeah."
     },
     {
-      "start": 50.75,
-      "end": 51.77,
+      "start": 226.33,
+      "end": 227.35,
       "text": "He needs money."
     },
     {
-      "start": 52.03,
-      "end": 52.33,
+      "start": 227.61,
+      "end": 227.91,
       "text": "Yeah."
     },
     {
-      "start": 52.43,
-      "end": 53.61,
+      "start": 228.01,
+      "end": 229.19,
       "text": "He has wonderful ideas."
     },
     {
-      "start": 53.79,
-      "end": 54.01,
+      "start": 229.37,
+      "end": 229.59,
       "text": "Yeah."
     },
     {
-      "start": 54.19,
-      "end": 54.81,
+      "start": 229.77,
+      "end": 230.39,
       "text": "He's a genius."
     },
     {
-      "start": 55.09,
-      "end": 55.33,
+      "start": 230.67,
+      "end": 230.91,
       "text": "Yeah."
     },
     {
-      "start": 55.59,
-      "end": 56.53,
+      "start": 231.17,
+      "end": 232.11,
       "text": "But he needs money"
     },
     {
-      "start": 56.53,
-      "end": 58.69,
+      "start": 232.11,
+      "end": 234.27,
       "text": "to make these ideas come to life."
     },
     {
-      "start": 58.73,
-      "end": 59.21,
+      "start": 234.31,
+      "end": 234.79,
       "text": "Right."
     },
     {
-      "start": 59.21,
-      "end": 61.41,
+      "start": 234.79,
+      "end": 236.99,
       "text": "그래서 지금 가족들하고 같이"
     },
     {
-      "start": 61.41,
-      "end": 63.47,
+      "start": 236.99,
+      "end": 239.05,
       "text": "백악관에 와 있는 상황이고"
     },
     {
-      "start": 63.47,
-      "end": 65.61,
+      "start": 239.05,
+      "end": 241.19,
       "text": "여기에서 대통령과"
     },
     {
-      "start": 65.61,
-      "end": 69.11,
+      "start": 241.19,
+      "end": 244.69,
       "text": "그리고 존 피어슨 모건이라는 사람을 만나게 돼요."
     },
     {
-      "start": 69.11,
-      "end": 72.31,
+      "start": 244.69,
+      "end": 247.89,
       "text": "근데 여기서 이 JP Morgan이라는 사람은"
     },
     {
-      "start": 72.31,
-      "end": 75.31,
+      "start": 247.89,
+      "end": 250.89,
       "text": "was an American financier and banker이에요."
     },
     {
-      "start": 75.41,
-      "end": 78.39,
+      "start": 250.99,
+      "end": 253.97,
       "text": "JP Morgan, any American who hears that name"
     },
     {
-      "start": 78.39,
-      "end": 83.43,
+      "start": 253.97,
+      "end": 259.01,
       "text": "thinks automatically of Morgan Stanley, huge bank."
     },
     {
-      "start": 83.63,
-      "end": 85.05,
+      "start": 259.21,
+      "end": 260.63,
       "text": "So famous, right?"
     },
     {
-      "start": 85.09,
-      "end": 86.45,
+      "start": 260.67,
+      "end": 262.03,
       "text": "A very big name in banking."
     },
     {
-      "start": 86.45,
-      "end": 87.91,
+      "start": 262.03,
+      "end": 263.49,
       "text": "그래서 그 당시에도"
     },
     {
-      "start": 87.91,
-      "end": 89.99,
+      "start": 263.49,
+      "end": 265.57,
       "text": "he has a tremendous amount of money."
     },
     {
-      "start": 90.11,
-      "end": 92.49,
+      "start": 265.69,
+      "end": 268.07,
       "text": "돈을 정말 많이 가지고 있는 사람이기 때문에"
     },
     {
-      "start": 92.49,
-      "end": 92.81,
+      "start": 268.07,
+      "end": 268.39,
       "text": "Yeah."
     },
     {
-      "start": 92.89,
-      "end": 93.49,
+      "start": 268.47,
+      "end": 269.07,
       "text": "Plenty of money."
     },
     {
-      "start": 93.59,
-      "end": 95.87,
+      "start": 269.17,
+      "end": 271.45,
       "text": "이 사람이 큰 돈을 제안을 합니다."
     },
     {
-      "start": 96.11,
-      "end": 96.61,
+      "start": 271.69,
+      "end": 272.19,
       "text": "누구한테요?"
     },
     {
-      "start": 96.85,
-      "end": 97.67,
+      "start": 272.43,
+      "end": 273.25,
       "text": "에디슨한테요."
     },
     {
-      "start": 97.97,
-      "end": 101.07,
+      "start": 273.55,
+      "end": 276.65,
       "text": "그래서 군수품 제작을 의뢰를 했는데"
     },
     {
-      "start": 101.07,
-      "end": 103.11,
+      "start": 276.65,
+      "end": 278.69,
       "text": "과연 우리 에디슨은"
     },
     {
-      "start": 103.11,
-      "end": 104.41,
+      "start": 278.69,
+      "end": 279.99,
       "text": "그쵸, 거절하게 됩니다."
     },
     {
-      "start": 104.65,
-      "end": 106.25,
+      "start": 280.23,
+      "end": 281.83,
       "text": "He's a man of conviction."
     },
     {
-      "start": 106.65,
-      "end": 106.75,
+      "start": 282.23,
+      "end": 282.33,
       "text": "Yeah."
     },
     {
-      "start": 107.11,
-      "end": 109.23,
+      "start": 282.69,
+      "end": 284.81,
       "text": "He does not want to create anything"
     },
     {
-      "start": 109.23,
-      "end": 113.17,
+      "start": 284.81,
+      "end": 288.75,
       "text": "that will hurt or kill another human being."
     },
     {
-      "start": 113.33,
-      "end": 113.49,
+      "start": 288.91,
+      "end": 289.07,
       "text": "Yeah."
     },
     {
-      "start": 113.57,
-      "end": 115.47,
+      "start": 289.15,
+      "end": 291.05,
       "text": "Sort of military supplies, right?"
     },
     {
-      "start": 115.65,
-      "end": 115.81,
+      "start": 291.23,
+      "end": 291.39,
       "text": "Yeah."
     },
     {
-      "start": 115.93,
-      "end": 116.37,
+      "start": 291.51,
+      "end": 291.95,
       "text": "Guns."
     },
     {
-      "start": 116.71,
-      "end": 117.91,
+      "start": 292.29,
+      "end": 293.49,
       "text": "Sure, guns can make money."
     },
     {
-      "start": 118.13,
-      "end": 120.29,
+      "start": 293.71,
+      "end": 295.87,
       "text": "But 에디슨 has values."
     },
     {
-      "start": 120.61,
-      "end": 122.11,
+      "start": 296.19,
+      "end": 297.69,
       "text": "And he doesn't want to create something"
     },
     {
-      "start": 122.11,
-      "end": 123.31,
+      "start": 297.69,
+      "end": 298.89,
       "text": "that will take another life."
     },
     {
-      "start": 123.55,
-      "end": 124.89,
+      "start": 299.13,
+      "end": 300.47,
       "text": "이 대화 속에서는"
     },
     {
-      "start": 124.89,
-      "end": 126.33,
+      "start": 300.47,
+      "end": 301.91,
       "text": "굉장히 멋있게 느껴지는"
     },
     {
-      "start": 126.33,
-      "end": 127.55,
+      "start": 301.91,
+      "end": 303.13,
       "text": "그런 내용들이 들렸는데요."
     },
     {
-      "start": 127.99,
-      "end": 129.57,
+      "start": 303.57,
+      "end": 305.15,
       "text": "세 가지 표현들을 미리 알아볼까요?"
     },
     {
-      "start": 130.13,
-      "end": 130.85,
+      "start": 305.71,
+      "end": 306.43,
       "text": "Turning down."
     },
     {
-      "start": 131.21,
-      "end": 132.31,
+      "start": 306.79,
+      "end": 307.89,
       "text": "Turning down."
     },
     {
-      "start": 132.31,
-      "end": 132.71,
+      "start": 307.89,
+      "end": 308.29,
       "text": "네."
     },
     {
-      "start": 132.87,
-      "end": 134.71,
+      "start": 308.45,
+      "end": 310.29,
       "text": "Turn down이라는 그 원형,"
     },
     {
-      "start": 134.91,
-      "end": 136.41,
+      "start": 310.49,
+      "end": 311.99,
       "text": "표현을 생각하실 수 있는데"
     },
     {
-      "start": 136.41,
-      "end": 138.39,
+      "start": 311.99,
+      "end": 313.97,
       "text": "거절하다 이거잖아요."
     },
     {
-      "start": 138.39,
-      "end": 139.55,
+      "start": 313.97,
+      "end": 315.13,
       "text": "그래서 turning down,"
     },
     {
-      "start": 139.85,
-      "end": 141.61,
+      "start": 315.43,
+      "end": 317.19,
       "text": "거절하는 이라는 의미입니다."
     },
     {
-      "start": 141.67,
-      "end": 145.21,
+      "start": 317.25,
+      "end": 320.79,
       "text": "I'm sorry, but I'm going to have to turn down your offer."
     },
     {
-      "start": 145.39,
-      "end": 146.95,
+      "start": 320.97,
+      "end": 322.53,
       "text": "굉장히 폴라이트하게"
     },
     {
-      "start": 146.95,
-      "end": 149.21,
+      "start": 322.53,
+      "end": 324.79,
       "text": "거절을 하는 방법을 알려주셨어요."
     },
     {
-      "start": 149.31,
-      "end": 150.43,
+      "start": 324.89,
+      "end": 326.01,
       "text": "I know it's a lot of money,"
     },
     {
-      "start": 150.81,
-      "end": 151.93,
+      "start": 326.39,
+      "end": 327.51,
       "text": "but you know what?"
     },
     {
-      "start": 151.97,
-      "end": 153.29,
+      "start": 327.55,
+      "end": 328.87,
       "text": "I'm just not feeling it."
     },
     {
-      "start": 153.41,
-      "end": 156.93,
+      "start": 328.99,
+      "end": 332.51,
       "text": "It's just not my style to do something like that."
     },
     {
-      "start": 157.03,
-      "end": 159.09,
+      "start": 332.61,
+      "end": 334.67,
       "text": "이렇게 부연 설명까지 하면"
     },
     {
-      "start": 159.09,
-      "end": 162.41,
+      "start": 334.67,
+      "end": 337.99,
       "text": "아주 매너 있게 거절을 하실 수가 있겠네요."
     },
     {
-      "start": 162.87,
-      "end": 164.27,
+      "start": 338.45,
+      "end": 339.85,
       "text": "Grateful for."
     },
     {
-      "start": 164.41,
-      "end": 164.55,
+      "start": 339.99,
+      "end": 340.13,
       "text": "네."
     },
     {
-      "start": 164.63,
-      "end": 167.19,
+      "start": 340.21,
+      "end": 342.77,
       "text": "두 번째 표현은 grateful for 이라는 건데"
     },
     {
-      "start": 167.19,
-      "end": 170.41,
+      "start": 342.77,
+      "end": 345.99,
       "text": "감사하게 생각하는 이라는 의미입니다."
     },
     {
-      "start": 170.49,
-      "end": 173.81,
+      "start": 346.07,
+      "end": 349.39,
       "text": "I'm so grateful for your lovely voice every morning."
     },
     {
-      "start": 174.45,
-      "end": 176.43,
+      "start": 350.03,
+      "end": 352.01,
       "text": "진짜, is it a true story?"
     },
     {
-      "start": 177.07,
-      "end": 180.45,
+      "start": 352.65,
+      "end": 356.03,
       "text": "Many, many countless listeners are saying that."
     },
     {
-      "start": 180.45,
-      "end": 184.79,
+      "start": 356.03,
+      "end": 360.37,
       "text": "굉장히 기분이 좋아지는 이런 훈훈한 덕담 감사합니다."
     },
     {
-      "start": 185.87,
-      "end": 186.75,
+      "start": 361.45,
+      "end": 362.33,
       "text": "Grateful for."
     },
     {
-      "start": 186.91,
-      "end": 187.01,
+      "start": 362.49,
+      "end": 362.59,
       "text": "Yeah."
     },
     {
-      "start": 187.17,
-      "end": 189.67,
+      "start": 362.75,
+      "end": 365.25,
       "text": "A very, very good way to compliment other people."
     },
     {
-      "start": 189.75,
-      "end": 192.41,
+      "start": 365.33,
+      "end": 367.99,
       "text": "칭찬할 때 이렇게 써먹으시면 좋을 것 같아요."
     },
     {
-      "start": 193.07,
-      "end": 195.17,
+      "start": 368.65,
+      "end": 370.75,
       "text": "And objectionable."
     },
     {
-      "start": 195.43,
-      "end": 198.29,
+      "start": 371.01,
+      "end": 373.87,
       "text": "Oh, objectionable이라고 들리셨는데."
     },
     {
-      "start": 198.31,
-      "end": 199.37,
+      "start": 373.89,
+      "end": 374.95,
       "text": "That's a long word."
     },
     {
-      "start": 199.37,
-      "end": 206.11,
+      "start": 374.95,
+      "end": 381.69,
       "text": "왜냐하면 object, objection, objectionable 이렇게 딱딱딱 듣게 되잖아요."
     },
     {
-      "start": 206.37,
-      "end": 209.85,
+      "start": 381.95,
+      "end": 385.43,
       "text": "And object도 스펠링 똑같아도 의미가 다른 게 있어요."
     },
     {
-      "start": 209.91,
-      "end": 210.55,
+      "start": 385.49,
+      "end": 386.13,
       "text": "네, 맞아요."
     },
     {
-      "start": 210.63,
-      "end": 214.67,
+      "start": 386.21,
+      "end": 390.25,
       "text": "Object, 물건, object, object."
     },
     {
-      "start": 214.67,
-      "end": 221.89,
+      "start": 390.25,
+      "end": 397.47,
       "text": "반대하는 거에서 명사와 형용사 어미까지 붙었잖아요."
     },
     {
-      "start": 221.89,
-      "end": 226.97,
+      "start": 397.47,
+      "end": 402.55,
       "text": "그러니까 무례한, 불쾌한 이라는 의미로 해석을 하시면 됩니다."
     },
     {
-      "start": 227.09,
-      "end": 228.09,
+      "start": 402.67,
+      "end": 403.67,
       "text": "Objectionable."
     },
     {
-      "start": 228.29,
-      "end": 228.41,
+      "start": 403.87,
+      "end": 403.99,
       "text": "그렇죠?"
     },
     {
-      "start": 228.63,
-      "end": 229.85,
+      "start": 404.21,
+      "end": 405.43,
       "text": "That's objectionable."
     },
     {
-      "start": 230.23,
-      "end": 231.75,
+      "start": 405.81,
+      "end": 407.33,
       "text": "To make guns?"
     },
     {
-      "start": 231.97,
-      "end": 233.99,
+      "start": 407.55,
+      "end": 409.57,
       "text": "That's, I find that objectionable."
     },
     {
-      "start": 233.99,
-      "end": 235.57,
+      "start": 409.57,
+      "end": 411.15,
       "text": "Oh, 군수품을 만들으라고요?"
     },
     {
-      "start": 235.67,
-      "end": 238.35,
+      "start": 411.25,
+      "end": 413.93,
       "text": "그거는 매우 나에게 불쾌하군요."
     },
     {
-      "start": 238.63,
-      "end": 242.37,
+      "start": 414.21,
+      "end": 417.95,
       "text": "이런 식으로 거절의 의사를 전달할 때 좀 더 첨가가 될 수 있겠죠."
     },
     {
-      "start": 242.89,
-      "end": 244.37,
+      "start": 418.47,
+      "end": 419.95,
       "text": "자, 이 내용 다시 한번 들어볼게요."
     },
     {
-      "start": 260.71,
-      "end": 263.13,
+      "start": 436.29,
+      "end": 438.71,
       "text": "그나저나 목소리 너무 좋은 것 같아요."
     },
     {
-      "start": 265.75,
-      "end": 272.47,
+      "start": 441.33,
+      "end": 448.05,
       "text": "네, 특히 우리 오이 씨, 베네딕트 컴버벳, 그렇죠?"
     },
     {
-      "start": 272.79,
-      "end": 273.89,
+      "start": 448.37,
+      "end": 449.47,
       "text": "Oh, yes, the actor."
     },
     {
-      "start": 274.03,
-      "end": 274.21,
+      "start": 449.61,
+      "end": 449.79,
       "text": "네."
     },
     {
-      "start": 274.47,
-      "end": 275.31,
+      "start": 450.05,
+      "end": 450.89,
       "text": "Oh, are you a fan?"
     },
     {
-      "start": 275.45,
-      "end": 275.87,
+      "start": 451.03,
+      "end": 451.45,
       "text": "Yeah."
     },
     {
-      "start": 276.87,
-      "end": 277.23,
+      "start": 452.45,
+      "end": 452.81,
       "text": "정말."
     },
     {
-      "start": 277.51,
-      "end": 278.15,
+      "start": 453.09,
+      "end": 453.73,
       "text": "You're blushing."
     },
     {
-      "start": 278.17,
-      "end": 279.35,
+      "start": 453.75,
+      "end": 454.93,
       "text": "너무 매력적이에요."
     },
     {
-      "start": 279.47,
-      "end": 280.99,
+      "start": 455.05,
+      "end": 456.57,
       "text": "어머, 얼굴이 빨개지고 난리야."
     },
     {
-      "start": 281.61,
-      "end": 282.91,
+      "start": 457.19,
+      "end": 458.49,
       "text": "He plays the main character."
     },
     {
-      "start": 283.07,
-      "end": 283.31,
+      "start": 458.65,
+      "end": 458.89,
       "text": "Yeah."
     },
     {
-      "start": 283.53,
-      "end": 284.57,
+      "start": 459.11,
+      "end": 460.15,
       "text": "Mr. Thomas Edison."
     },
     {
-      "start": 284.75,
-      "end": 285.07,
+      "start": 460.33,
+      "end": 460.65,
       "text": "Yeah."
     },
     {
-      "start": 285.57,
-      "end": 286.47,
+      "start": 461.15,
+      "end": 462.05,
       "text": "주인공이죠, 또."
     },
     {
-      "start": 286.89,
-      "end": 287.13,
+      "start": 462.47,
+      "end": 462.71,
       "text": "Yeah."
     },
     {
-      "start": 287.39,
-      "end": 289.51,
+      "start": 462.97,
+      "end": 465.09,
       "text": "그럼 어떤 내용인지 좀 살펴볼까요?"
     },
     {
-      "start": 290.25,
-      "end": 294.57,
+      "start": 465.83,
+      "end": 470.15,
       "text": "My men tell me, you're turning down five million dollars."
     },
     {
-      "start": 294.57,
-      "end": 300.45,
+      "start": 470.15,
+      "end": 476.03,
       "text": "네, 지금 President Arthur이라고 해서 미국 대통령이 하는 말인데요."
     },
     {
-      "start": 300.93,
-      "end": 306.17,
+      "start": 476.51,
+      "end": 481.75,
       "text": "이 사람이 미국 21번째, 21번째 대통령을 여기만 사람이죠."
     },
     {
-      "start": 306.31,
-      "end": 310.49,
+      "start": 481.89,
+      "end": 486.07,
       "text": "Yes, Chester Allen Arthur, the 21st President of the United States."
     },
     {
-      "start": 310.57,
-      "end": 310.77,
+      "start": 486.15,
+      "end": 486.35,
       "text": "Yeah."
     },
     {
-      "start": 310.77,
-      "end": 318.71,
+      "start": 486.35,
+      "end": 494.29,
       "text": "Way back from 1881 to 1885, he just served a single term, which is not so common for U.S. presidents."
     },
     {
-      "start": 318.81,
-      "end": 319.37,
+      "start": 494.39,
+      "end": 494.95,
       "text": "그렇구나."
     },
     {
-      "start": 319.93,
-      "end": 320.59,
+      "start": 495.51,
+      "end": 496.17,
       "text": "그나저나."
     },
     {
-      "start": 320.67,
-      "end": 322.71,
+      "start": 496.25,
+      "end": 498.29,
       "text": "굉장히 오래 전 일이군요, 진짜."
     },
     {
-      "start": 323.09,
-      "end": 325.75,
+      "start": 498.67,
+      "end": 501.33,
       "text": "He took the seat very suddenly, though."
     },
     {
-      "start": 325.85,
-      "end": 328.59,
+      "start": 501.43,
+      "end": 504.17,
       "text": "The previous president was assassinated."
     },
     {
-      "start": 328.81,
-      "end": 329.63,
+      "start": 504.39,
+      "end": 505.21,
       "text": "Oh, my gosh."
     },
     {
-      "start": 329.63,
-      "end": 334.91,
+      "start": 505.21,
+      "end": 510.49,
       "text": "So, he took the presidency after James Garfield was killed."
     },
     {
-      "start": 336.53,
-      "end": 339.37,
+      "start": 512.11,
+      "end": 514.95,
       "text": "네, 역사적인 사실까지 이렇게 들으니까 굉장히 와닿는데요."
     },
     {
-      "start": 339.93,
-      "end": 341.95,
+      "start": 515.51,
+      "end": 517.53,
       "text": "어쨌든, 이 Arthur 대통령이 하는 말이,"
     },
     {
-      "start": 342.33,
-      "end": 346.49,
+      "start": 517.91,
+      "end": 522.07,
       "text": "My men tell me, 나의 사람이 나에게 이야기를 하네요."
     },
     {
-      "start": 346.71,
-      "end": 350.71,
+      "start": 522.29,
+      "end": 526.29,
       "text": "You're turning down five million dollars라고, 라는 거거든요."
     },
     {
-      "start": 350.71,
-      "end": 353.05,
+      "start": 526.29,
+      "end": 528.63,
       "text": "And this is just not any ordinary guy."
     },
     {
-      "start": 353.13,
-      "end": 354.81,
+      "start": 528.71,
+      "end": 530.39,
       "text": "This is the President of the United States."
     },
     {
-      "start": 354.83,
-      "end": 355.05,
+      "start": 530.41,
+      "end": 530.63,
       "text": "Yeah."
     },
     {
-      "start": 355.31,
-      "end": 357.71,
+      "start": 530.89,
+      "end": 533.29,
       "text": "Hey, you're turning down five million dollars?"
     },
     {
-      "start": 358.01,
-      "end": 359.11,
+      "start": 533.59,
+      "end": 534.69,
       "text": "What's your problem?"
     },
     {
-      "start": 359.11,
-      "end": 363.73,
+      "start": 534.69,
+      "end": 539.31,
       "text": "Yeah, 이 권위에, 과연 우리 에디슨이 이걸 거절했단 말이죠."
     },
     {
-      "start": 364.01,
-      "end": 364.65,
+      "start": 539.59,
+      "end": 540.23,
       "text": "대단한데요?"
     },
     {
-      "start": 364.97,
-      "end": 371.45,
+      "start": 540.55,
+      "end": 547.03,
       "text": "Oh, 그래서 듣자하니, 500만 달러를 당신이 거절했다던데요, 라고 이야기를 하는 부분입니다."
     },
     {
-      "start": 371.57,
-      "end": 373.33,
+      "start": 547.15,
+      "end": 548.91,
       "text": "I know you're not a wealthy man."
     },
     {
-      "start": 373.61,
-      "end": 375.27,
+      "start": 549.19,
+      "end": 550.85,
       "text": "네가 돈 없는 걸 내가 다 알아."
     },
     {
-      "start": 375.81,
-      "end": 377.07,
+      "start": 551.39,
+      "end": 552.65,
       "text": "What's the problem?"
     },
     {
-      "start": 377.79,
-      "end": 383.17,
+      "start": 553.37,
+      "end": 558.75,
       "text": "500만 달러를 환산을 하면 대략 한 62억 1450만 원 정도가 됩니다."
     },
     {
-      "start": 383.31,
-      "end": 384.23,
+      "start": 558.89,
+      "end": 559.81,
       "text": "And think about it."
     },
     {
-      "start": 384.25,
-      "end": 386.21,
+      "start": 559.83,
+      "end": 561.79,
       "text": "This is back in the 1800s."
     },
     {
-      "start": 386.71,
-      "end": 387.15,
+      "start": 562.29,
+      "end": 562.73,
       "text": "1800년대."
     },
     {
-      "start": 387.15,
-      "end": 390.71,
+      "start": 562.73,
+      "end": 566.29,
       "text": "This is way more than 50억, 60억."
     },
     {
-      "start": 390.85,
-      "end": 391.63,
+      "start": 566.43,
+      "end": 567.21,
       "text": "Way more."
     },
     {
-      "start": 391.87,
-      "end": 392.11,
+      "start": 567.45,
+      "end": 567.69,
       "text": "Yeah."
     },
     {
-      "start": 392.75,
-      "end": 392.99,
+      "start": 568.33,
+      "end": 568.57,
       "text": "Yeah."
     },
     {
-      "start": 393.43,
-      "end": 394.75,
+      "start": 569.01,
+      "end": 570.33,
       "text": "He's turning down a lot of money."
     },
     {
-      "start": 394.93,
-      "end": 395.15,
+      "start": 570.51,
+      "end": 570.73,
       "text": "Yeah."
     },
     {
-      "start": 395.33,
-      "end": 396.67,
+      "start": 570.91,
+      "end": 572.25,
       "text": "에디슨이 한 말 기대가 됩니다."
     },
     {
-      "start": 397.27,
-      "end": 400.21,
+      "start": 572.85,
+      "end": 575.79,
       "text": "I'm grateful for the offer, Mr. President."
     },
     {
-      "start": 400.69,
-      "end": 403.93,
+      "start": 576.27,
+      "end": 579.51,
       "text": "I'm grateful for the offer, Mr. President."
     },
     {
-      "start": 404.09,
-      "end": 404.93,
+      "start": 579.67,
+      "end": 580.51,
       "text": "He's been polite."
     },
     {
-      "start": 405.15,
-      "end": 405.41,
+      "start": 580.73,
+      "end": 580.99,
       "text": "Yeah."
     },
     {
-      "start": 405.41,
-      "end": 408.57,
+      "start": 580.99,
+      "end": 584.15,
       "text": "That's a good way to start the turning down."
     },
     {
-      "start": 408.69,
-      "end": 408.93,
+      "start": 584.27,
+      "end": 584.51,
       "text": "맞아요."
     },
     {
-      "start": 409.57,
-      "end": 413.43,
+      "start": 585.15,
+      "end": 589.01,
       "text": "우리가 미리 들어봤던 그 grateful for, 이라는 거 있잖아요."
     },
     {
-      "start": 414.17,
-      "end": 416.41,
+      "start": 589.75,
+      "end": 591.99,
       "text": "너무너무 감사한 제안이지만,"
     },
     {
-      "start": 416.41,
-      "end": 421.43,
+      "start": 591.99,
+      "end": 597.01,
       "text": "이 부분을 I'm grateful for the offer, 이라는 문장으로 지금 표현을 한 겁니다."
     },
     {
-      "start": 421.63,
-      "end": 424.59,
+      "start": 597.21,
+      "end": 600.17,
       "text": "This is a very common way to turn down an offer."
     },
     {
-      "start": 424.79,
-      "end": 424.95,
+      "start": 600.37,
+      "end": 600.53,
       "text": "Yeah."
     },
     {
-      "start": 425.19,
-      "end": 427.39,
+      "start": 600.77,
+      "end": 602.97,
       "text": "Start by saying you're grateful for the offer."
     },
     {
-      "start": 427.43,
-      "end": 427.79,
+      "start": 603.01,
+      "end": 603.37,
       "text": "그래요?"
     },
     {
-      "start": 427.93,
-      "end": 429.71,
+      "start": 603.51,
+      "end": 605.29,
       "text": "But it's just not the right time."
     },
     {
-      "start": 429.79,
-      "end": 430.13,
+      "start": 605.37,
+      "end": 605.71,
       "text": "그래요."
     },
     {
-      "start": 430.13,
-      "end": 432.25,
+      "start": 605.71,
+      "end": 607.83,
       "text": "원래 거절을 할 때는,"
     },
     {
-      "start": 432.75,
-      "end": 435.77,
+      "start": 608.33,
+      "end": 611.35,
       "text": "아, 참 감사한데, 하지만 안 되겠어요."
     },
     {
-      "start": 435.91,
-      "end": 438.57,
+      "start": 611.49,
+      "end": 614.15,
       "text": "이렇게 이야기를 해야지 상대방이 좀 기분이 안 나쁘죠."
     },
     {
-      "start": 438.57,
-      "end": 442.01,
+      "start": 614.15,
+      "end": 617.59,
       "text": "I'm grateful for the offer, but it's just not the right time."
     },
     {
-      "start": 442.05,
-      "end": 442.37,
+      "start": 617.63,
+      "end": 617.95,
       "text": "Right."
     },
     {
-      "start": 442.47,
-      "end": 443.55,
+      "start": 618.05,
+      "end": 619.13,
       "text": "Maybe another time."
     },
     {
-      "start": 443.61,
-      "end": 443.95,
+      "start": 619.19,
+      "end": 619.53,
       "text": "Right."
     },
     {
-      "start": 445.13,
-      "end": 446.03,
+      "start": 620.71,
+      "end": 621.61,
       "text": "Mr. President."
     },
     {
-      "start": 446.33,
-      "end": 447.75,
+      "start": 621.91,
+      "end": 623.33,
       "text": "항상 Mr. President."
     },
     {
-      "start": 447.91,
-      "end": 448.05,
+      "start": 623.49,
+      "end": 623.63,
       "text": "Yeah."
     },
     {
-      "start": 448.21,
-      "end": 449.37,
+      "start": 623.79,
+      "end": 624.95,
       "text": "Luke 대통령 이렇게 부르죠."
     },
     {
-      "start": 450.5,
-      "end": 455.8,
+      "start": 626.08,
+      "end": 631.38,
       "text": "But it's the type of science you're after that I find objectionable."
     },
     {
-      "start": 455.8,
-      "end": 462.53,
+      "start": 631.38,
+      "end": 638.11,
       "text": "Oh, but it's the type of science you're after, 이라고 했잖아요."
     },
     {
-      "start": 463.21,
-      "end": 467.93,
+      "start": 638.79,
+      "end": 643.51,
       "text": "You're after, 이라는 것은 당신이 원하는, 이 정도로 해석을 하시면 됩니다."
     },
     {
-      "start": 468.09,
-      "end": 468.25,
+      "start": 643.67,
+      "end": 643.83,
       "text": "Yeah."
     },
     {
-      "start": 468.33,
-      "end": 470.99,
+      "start": 643.91,
+      "end": 646.57,
       "text": "You're chasing after, you're going after."
     },
     {
-      "start": 471.05,
-      "end": 473.23,
+      "start": 646.63,
+      "end": 648.81,
       "text": "굉장히 다양한 문장에서 활용이 가능한데,"
     },
     {
-      "start": 473.51,
-      "end": 476.75,
+      "start": 649.09,
+      "end": 652.33,
       "text": "I know what you're after, 이런 문장에서도 가능하잖아요."
     },
     {
-      "start": 476.89,
-      "end": 477.97,
+      "start": 652.47,
+      "end": 653.55,
       "text": "I know what you're after."
     },
     {
-      "start": 477.97,
-      "end": 482.69,
+      "start": 653.55,
+      "end": 658.27,
       "text": "어, 네가 뭘 원하는지 알아, 네가 뭘 추구하는지 알아, 이런 맥락이죠."
     },
     {
-      "start": 482.71,
-      "end": 485.01,
+      "start": 658.29,
+      "end": 660.59,
       "text": "Yeah, 말을 안 해도, I know what you want."
     },
     {
-      "start": 485.11,
-      "end": 485.43,
+      "start": 660.69,
+      "end": 661.01,
       "text": "Yeah."
     },
     {
-      "start": 485.51,
-      "end": 487.75,
+      "start": 661.09,
+      "end": 663.33,
       "text": "I know you're trying to make guns."
     },
     {
-      "start": 487.85,
-      "end": 489.21,
+      "start": 663.43,
+      "end": 664.79,
       "text": "I know what you're after."
     },
     {
-      "start": 489.41,
-      "end": 489.69,
+      "start": 664.99,
+      "end": 665.27,
       "text": "Yeah."
     },
     {
-      "start": 490.07,
-      "end": 492.77,
+      "start": 665.65,
+      "end": 668.35,
       "text": "So, it's the type of science you're after, 이라고 했으니까,"
     },
     {
-      "start": 493.27,
-      "end": 500.39,
+      "start": 668.85,
+      "end": 675.97,
       "text": "당신이 원하는 그런 부류의 과학 연구는, that I find objectionable, 이라고 했거든요."
     },
     {
-      "start": 500.45,
-      "end": 501.13,
+      "start": 676.03,
+      "end": 676.71,
       "text": "Objectionable."
     },
     {
-      "start": 501.25,
-      "end": 502.43,
+      "start": 676.83,
+      "end": 678.01,
       "text": "Yeah, 반대합니다."
     },
     {
-      "start": 502.99,
-      "end": 504.15,
+      "start": 678.57,
+      "end": 679.73,
       "text": "나를 불쾌하게 합니다."
     },
     {
-      "start": 504.69,
-      "end": 505.89,
+      "start": 680.27,
+      "end": 681.47,
       "text": "이게 거절을 하고 있는 거예요."
     },
     {
-      "start": 505.89,
-      "end": 508.51,
+      "start": 681.47,
+      "end": 684.09,
       "text": "I object to that kind of science."
     },
     {
-      "start": 508.87,
-      "end": 511.37,
+      "start": 684.45,
+      "end": 686.95,
       "text": "어, 그런 과학이라면 나는 반대합니다."
     },
     {
-      "start": 511.65,
-      "end": 513.87,
+      "start": 687.23,
+      "end": 689.45,
       "text": "이렇게 좀 바꿔서도 이야기하실 수 있겠죠."
     },
     {
-      "start": 514.05,
-      "end": 518.07,
+      "start": 689.63,
+      "end": 693.65,
       "text": "And then, Mr. Morgan, the rich banker, he has something to say."
     },
     {
-      "start": 518.21,
-      "end": 518.57,
+      "start": 693.79,
+      "end": 694.15,
       "text": "Yeah."
     },
     {
-      "start": 519.45,
-      "end": 521.55,
+      "start": 695.03,
+      "end": 697.13,
       "text": "There's always money in guns."
     },
     {
-      "start": 522.39,
-      "end": 523.95,
+      "start": 697.97,
+      "end": 699.53,
       "text": "굉장히 직설적이네요."
     },
     {
-      "start": 524.33,
-      "end": 526.61,
+      "start": 699.91,
+      "end": 702.19,
       "text": "Yeah, there's always money in guns."
     },
     {
-      "start": 526.75,
-      "end": 527.95,
+      "start": 702.33,
+      "end": 703.53,
       "text": "라고 해서 해석되시죠."
     },
     {
-      "start": 528.57,
-      "end": 531.19,
+      "start": 704.15,
+      "end": 706.77,
       "text": "총에는 언제나 돈이 있기 마련이죠."
     },
     {
-      "start": 531.45,
-      "end": 531.89,
+      "start": 707.03,
+      "end": 707.47,
       "text": "라는 거예요."
     },
     {
-      "start": 532.15,
-      "end": 533.35,
+      "start": 707.73,
+      "end": 708.93,
       "text": "There's always money in guns."
     },
     {
-      "start": 533.35,
-      "end": 535.91,
+      "start": 708.93,
+      "end": 711.49,
       "text": "Yeah, 무기는 항상 돈이 되죠."
     },
     {
-      "start": 536.03,
-      "end": 536.61,
+      "start": 711.61,
+      "end": 712.19,
       "text": "이런 얘기입니다."
     },
     {
-      "start": 536.71,
-      "end": 537.33,
+      "start": 712.29,
+      "end": 712.91,
       "text": "He's a businessman."
     },
     {
-      "start": 537.63,
-      "end": 537.87,
+      "start": 713.21,
+      "end": 713.45,
       "text": "Yeah."
     },
     {
-      "start": 538.15,
-      "end": 541.43,
+      "start": 713.73,
+      "end": 717.01,
       "text": "His job is to make money."
     },
     {
-      "start": 541.61,
-      "end": 542.81,
+      "start": 717.19,
+      "end": 718.39,
       "text": "굉장히 현실적이에요."
     },
     {
-      "start": 542.91,
-      "end": 544.23,
+      "start": 718.49,
+      "end": 719.81,
       "text": "Very, very realistic."
     },
     {
-      "start": 544.37,
-      "end": 544.63,
+      "start": 719.95,
+      "end": 720.21,
       "text": "Yeah."
     },
     {
-      "start": 544.75,
-      "end": 545.41,
+      "start": 720.33,
+      "end": 720.99,
       "text": "And pragmatic."
     },
     {
-      "start": 545.67,
-      "end": 545.95,
+      "start": 721.25,
+      "end": 721.53,
       "text": "Yeah."
     },
     {
-      "start": 546.21,
-      "end": 547.37,
+      "start": 721.79,
+      "end": 722.95,
       "text": "There's always money in guns."
     },
     {
-      "start": 547.37,
-      "end": 554.43,
+      "start": 722.95,
+      "end": 730.01,
       "text": "The one device I shall never build is that which takes the life of another man."
     },
     {
-      "start": 555.01,
-      "end": 556.47,
+      "start": 730.59,
+      "end": 732.05,
       "text": "It's barbaric."
     },
     {
-      "start": 556.63,
-      "end": 556.79,
+      "start": 732.21,
+      "end": 732.37,
       "text": "네."
     },
     {
-      "start": 557.31,
-      "end": 560.25,
+      "start": 732.89,
+      "end": 735.83,
       "text": "지금 에디슨이 한 문장들을 한 번에 쫙 읽어주셨는데,"
     },
     {
-      "start": 560.25,
-      "end": 566.15,
+      "start": 735.83,
+      "end": 741.73,
       "text": "The one device I shall never build is that which takes the life of another man."
     },
     {
-      "start": 566.15,
-      "end": 567.75,
+      "start": 741.73,
+      "end": 743.33,
       "text": "It's barbaric."
     },
     {
-      "start": 568.27,
-      "end": 568.79,
+      "start": 743.85,
+      "end": 744.37,
       "text": "Barbaric."
     },
     {
-      "start": 568.79,
-      "end": 569.03,
+      "start": 744.37,
+      "end": 744.61,
       "text": "Yeah."
     },
     {
-      "start": 569.23,
-      "end": 569.91,
+      "start": 744.81,
+      "end": 745.49,
       "text": "이렇게 끝났어요."
     },
     {
-      "start": 570.03,
-      "end": 571.73,
+      "start": 745.61,
+      "end": 747.31,
       "text": "Think of a barbarian."
     },
     {
-      "start": 571.91,
-      "end": 575.79,
+      "start": 747.49,
+      "end": 751.37,
       "text": "A barbarian is someone who is not civilized."
     },
     {
-      "start": 575.83,
-      "end": 576.11,
+      "start": 751.41,
+      "end": 751.69,
       "text": "Yeah."
     },
     {
-      "start": 576.61,
-      "end": 577.21,
+      "start": 752.19,
+      "end": 752.79,
       "text": "Uncivilized."
     },
     {
-      "start": 577.25,
-      "end": 577.53,
+      "start": 752.83,
+      "end": 753.11,
       "text": "맞아요."
     },
     {
-      "start": 578.53,
-      "end": 580.41,
+      "start": 754.11,
+      "end": 755.99,
       "text": "야만인을 지칭할 때,"
     },
     {
-      "start": 580.61,
-      "end": 582.67,
+      "start": 756.19,
+      "end": 758.25,
       "text": "Barbarian 이렇게도 표현을 하잖아요."
     },
     {
-      "start": 583.01,
-      "end": 584.25,
+      "start": 758.59,
+      "end": 759.83,
       "text": "They may, yeah."
     },
     {
-      "start": 584.59,
-      "end": 587.01,
+      "start": 760.17,
+      "end": 762.59,
       "text": "They don't wash their hands."
     },
     {
-      "start": 587.51,
-      "end": 588.73,
+      "start": 763.09,
+      "end": 764.31,
       "text": "They don't eat properly."
     },
     {
-      "start": 589.21,
-      "end": 590.31,
+      "start": 764.79,
+      "end": 765.89,
       "text": "They have no manners."
     },
     {
-      "start": 590.31,
-      "end": 594.73,
+      "start": 765.89,
+      "end": 770.31,
       "text": "What are you doing?"
     },
     {
-      "start": 595.09,
-      "end": 596.95,
+      "start": 770.67,
+      "end": 772.53,
       "text": "You're eating like a barbarian."
     },
     {
-      "start": 597.59,
-      "end": 598.97,
+      "start": 773.17,
+      "end": 774.55,
       "text": "Some people say that."
     },
     {
-      "start": 598.99,
-      "end": 599.45,
+      "start": 774.57,
+      "end": 775.03,
       "text": "I see."
     },
     {
-      "start": 599.45,
-      "end": 601.85,
+      "start": 775.03,
+      "end": 777.43,
       "text": "If someone's eating really, really like,"
     },
     {
-      "start": 602.27,
-      "end": 604.59,
+      "start": 777.85,
+      "end": 780.17,
       "text": "와구와구 막 두렵게 먹는 게."
     },
     {
-      "start": 605.59,
-      "end": 607.35,
+      "start": 781.17,
+      "end": 782.93,
       "text": "그럴 때도 쓸 수가 있다라는 건데,"
     },
     {
-      "start": 607.85,
-      "end": 610.23,
+      "start": 783.43,
+      "end": 785.81,
       "text": "The one device, 어떤 장비,"
     },
     {
-      "start": 610.43,
-      "end": 611.49,
+      "start": 786.01,
+      "end": 787.07,
       "text": "I shall never build,"
     },
     {
-      "start": 611.81,
-      "end": 614.55,
+      "start": 787.39,
+      "end": 790.13,
       "text": "내가 절대 만들지 않는 장비는,"
     },
     {
-      "start": 614.89,
-      "end": 617.35,
+      "start": 790.47,
+      "end": 792.93,
       "text": "is that which takes the life of another man."
     },
     {
-      "start": 617.49,
-      "end": 618.01,
+      "start": 793.07,
+      "end": 793.59,
       "text": "이라고 했어요."
     },
     {
-      "start": 618.35,
-      "end": 619.53,
+      "start": 793.93,
+      "end": 795.11,
       "text": "되게 멋있는 말입니다."
     },
     {
-      "start": 619.53,
-      "end": 620.41,
+      "start": 795.11,
+      "end": 795.99,
       "text": "I do like him."
     },
     {
-      "start": 620.79,
-      "end": 623.53,
+      "start": 796.37,
+      "end": 799.11,
       "text": "다른 사람의 생명을 빼앗는 장비는,"
     },
     {
-      "start": 623.85,
-      "end": 625.83,
+      "start": 799.43,
+      "end": 801.41,
       "text": "나는 절대 만들 생각이 없어요."
     },
     {
-      "start": 626.09,
-      "end": 627.15,
+      "start": 801.67,
+      "end": 802.73,
       "text": "It's barbaric."
     },
     {
-      "start": 627.41,
-      "end": 628.83,
+      "start": 802.99,
+      "end": 804.41,
       "text": "정말 야만적이거든요."
     },
     {
-      "start": 629.11,
-      "end": 630.01,
+      "start": 804.69,
+      "end": 805.59,
       "text": "라고 이야기를 합니다."
     },
     {
-      "start": 630.17,
-      "end": 631.11,
+      "start": 805.75,
+      "end": 806.69,
       "text": "So guns,"
     },
     {
-      "start": 631.45,
-      "end": 632.55,
+      "start": 807.03,
+      "end": 808.13,
       "text": "inventing guns,"
     },
     {
-      "start": 633.21,
-      "end": 636.55,
+      "start": 808.79,
+      "end": 812.13,
       "text": "is a barbaric thing to do for Mr. Thomas Edison."
     },
     {
-      "start": 636.73,
-      "end": 637.05,
+      "start": 812.31,
+      "end": 812.63,
       "text": "Yeah."
     },
     {
-      "start": 637.09,
-      "end": 638.09,
+      "start": 812.67,
+      "end": 813.67,
       "text": "He's a man of principle."
     },
     {
-      "start": 638.29,
-      "end": 638.73,
+      "start": 813.87,
+      "end": 814.31,
       "text": "Yeah."
     },
     {
-      "start": 638.91,
-      "end": 640.35,
+      "start": 814.49,
+      "end": 815.93,
       "text": "He does not bend to money."
     },
     {
-      "start": 640.51,
-      "end": 640.81,
+      "start": 816.09,
+      "end": 816.39,
       "text": "Yeah."
     },
     {
-      "start": 640.81,
-      "end": 643.11,
+      "start": 816.39,
+      "end": 818.69,
       "text": "The purpose of his research was moral."
     },
     {
-      "start": 643.93,
-      "end": 646.91,
+      "start": 819.51,
+      "end": 822.49,
       "text": "굉장히 도덕적인 그런 목적을 가지고 있었던 것 같아요."
     },
     {
-      "start": 647.19,
-      "end": 648.31,
+      "start": 822.77,
+      "end": 823.89,
       "text": "이 대화만 봤을 때는."
     },
     {
-      "start": 648.31,
-      "end": 653.31,
+      "start": 823.89,
+      "end": 828.89,
       "text": "Well, we'll see if he can hold his morals and his principles until the end of the movie."
     },
     {
-      "start": 653.93,
-      "end": 656.43,
+      "start": 829.51,
+      "end": 832.01,
       "text": "Because, you know, money can be tempting."
     },
     {
-      "start": 656.85,
-      "end": 657.39,
+      "start": 832.43,
+      "end": 832.97,
       "text": "So we'll see."
     },
     {
-      "start": 657.61,
-      "end": 657.95,
+      "start": 833.19,
+      "end": 833.53,
       "text": "그렇죠."
     },
     {
-      "start": 658.07,
-      "end": 660.57,
+      "start": 833.65,
+      "end": 836.15,
       "text": "유혹을 과연 언제까지 견딜지 궁금합니다."
     },
     {
-      "start": 661.15,
-      "end": 662.71,
+      "start": 836.73,
+      "end": 838.29,
       "text": "자, 내용을 다시 한 번 더 들어볼게요."
     },
     {
-      "start": 662.71,
-      "end": 665.61,
+      "start": 838.29,
+      "end": 841.19,
       "text": "My men tell me you're turning down $5 million."
     },
     {
-      "start": 666.11,
-      "end": 667.75,
+      "start": 841.69,
+      "end": 843.33,
       "text": "I'm grateful for the offer, Mr. President."
     },
     {
-      "start": 667.93,
-      "end": 671.27,
+      "start": 843.51,
+      "end": 846.85,
       "text": "But it's the type of science you're after that I find objectionable."
     },
     {
-      "start": 671.35,
-      "end": 672.41,
+      "start": 846.93,
+      "end": 847.99,
       "text": "It's always money and guns."
     },
     {
-      "start": 672.53,
-      "end": 675.85,
+      "start": 848.11,
+      "end": 851.43,
       "text": "One device I shall never build is that which takes the life of another man."
     },
     {
-      "start": 675.93,
-      "end": 676.69,
+      "start": 851.51,
+      "end": 852.27,
       "text": "It's barbaric."
     },
     {
-      "start": 677.88,
-      "end": 680.06,
+      "start": 853.46,
+      "end": 855.64,
       "text": "His pronunciation is always wonderful."
     },
     {
-      "start": 680.78,
-      "end": 681.26,
+      "start": 856.36,
+      "end": 856.84,
       "text": "Barbaric."
     },
     {
-      "start": 681.36,
-      "end": 681.56,
+      "start": 856.94,
+      "end": 857.14,
       "text": "Yeah."
     },
     {
-      "start": 681.56,
-      "end": 686.14,
+      "start": 857.14,
+      "end": 861.72,
       "text": "And it doesn't matter whether it is British English or American English."
     },
     {
-      "start": 686.68,
-      "end": 687.76,
+      "start": 862.26,
+      "end": 863.34,
       "text": "Why do you say that?"
     },
     {
-      "start": 687.76,
-      "end": 693.98,
+      "start": 863.34,
+      "end": 869.56,
       "text": "이 셜록 홈즈에서 셜록의 역할을 맡았을 때는 British English로 했잖아요."
     },
     {
-      "start": 694.1,
-      "end": 694.58,
+      "start": 869.68,
+      "end": 870.16,
       "text": "Yes, yes."
     },
     {
-      "start": 694.58,
-      "end": 696.48,
+      "start": 870.16,
+      "end": 872.06,
       "text": "근데 지금은 American English로 하잖아요."
     },
     {
-      "start": 696.54,
-      "end": 697.08,
+      "start": 872.12,
+      "end": 872.66,
       "text": "지금 더 좋아요."
     },
     {
-      "start": 697.44,
-      "end": 697.9,
+      "start": 873.02,
+      "end": 873.48,
       "text": "아, 그래요?"
     },
     {
-      "start": 698.2,
-      "end": 698.64,
+      "start": 873.78,
+      "end": 874.22,
       "text": "개인적으로."
     },
     {
-      "start": 698.66,
-      "end": 699.0,
+      "start": 874.24,
+      "end": 874.58,
       "text": "아, 그래요?"
     },
     {
-      "start": 699.08,
-      "end": 701.5,
+      "start": 874.66,
+      "end": 877.08,
       "text": "난 개인적으로 브리트시가 좀 더 섹시하게 느껴지던데."
     },
     {
-      "start": 701.76,
-      "end": 702.86,
+      "start": 877.34,
+      "end": 878.44,
       "text": "아, 오케이, 오케이."
     },
     {
-      "start": 702.86,
-      "end": 703.78,
+      "start": 878.44,
+      "end": 879.36,
       "text": "아, 뭐가 됐든."
     },
     {
-      "start": 703.9,
-      "end": 707.1,
+      "start": 879.48,
+      "end": 882.68,
       "text": "아무튼 우리 베네딕트 컴버베치의 목소리는 완벽합니다."
     },
     {
-      "start": 707.56,
-      "end": 709.4,
+      "start": 883.14,
+      "end": 884.98,
       "text": "자, 스크린 잉글리시 여기서 마무리할게요."
     }
   ]
