@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-23T23:10:01",
-  "count": 18,
+  "generated_at": "2026-05-23T23:11:39",
+  "count": 19,
   "episodes": [
+    {
+      "id": "2020-07-01_screen_english",
+      "date": "2020-07-01",
+      "corner": "screen_english",
+      "corner_label": "Screen English",
+      "title": "Studying here is a big commitment",
+      "movie": "",
+      "duration_sec": 816.55,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-01_screen_english.mp3"
+    },
     {
       "id": "2020-06-30_screen_english",
       "date": "2020-06-30",
