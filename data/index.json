@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-24T07:26:47",
-  "count": 58,
+  "generated_at": "2026-05-24T07:28:30",
+  "count": 59,
   "episodes": [
+    {
+      "id": "2020-09-10_screen_english",
+      "date": "2020-09-10",
+      "corner": "screen_english",
+      "corner_label": "Screen English",
+      "title": "Alcohol dulls the intellect",
+      "movie": "",
+      "duration_sec": 917.04,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-10_screen_english.mp3"
+    },
     {
       "id": "2020-09-09_screen_english",
       "date": "2020-09-09",
