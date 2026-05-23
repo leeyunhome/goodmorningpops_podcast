@@ -63,10 +63,11 @@ def get_client():
         raise SystemExit("supabase 패키지가 필요합니다: pip install supabase")
 
     url = os.environ.get("SUPABASE_URL")
-    key = os.environ.get("SUPABASE_KEY")
+    # 업로드에는 service_role 키가 필요 (anon 키는 Storage RLS에 막힘)
+    key = os.environ.get("SUPABASE_SERVICE_KEY") or os.environ.get("SUPABASE_KEY")
     if not url or not key:
         raise SystemExit(
-            ".env 파일 또는 환경변수에 SUPABASE_URL, SUPABASE_KEY 가 필요합니다.\n"
+            ".env 파일 또는 환경변수에 SUPABASE_URL, SUPABASE_SERVICE_KEY 가 필요합니다.\n"
             "Supabase 프로젝트 > Project Settings > API 에서 확인."
         )
     return create_client(url, key)

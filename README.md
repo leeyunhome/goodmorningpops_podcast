@@ -296,3 +296,78 @@ python optimize_mp3.py audio/corners --bitrate 32k --overwrite
 
 Supabase 무료 티어는 Storage 1GB, 월 트래픽 5GB. 64k 모노 평균 8~9MB/편이면 약 110편까지.
 초과 시 유료(약 $25/월부터)로 전환 가능.
+
+## 7. 스트리밍 파이프라인 (`run_pipeline.py`)
+
+긴 기간을 돌릴 때 회차별로 즉시 라이브 배포하기. 4~7단계를 회차마다 반복하므로
+처음 끝나는 회차부터 GitHub Pages에 올라가서 결과를 바로 볼 수 있다.
+
+### 7.1 한 줄 실행 (영화 31편, 2020-06 ~ 2023-10)
+
+```powershell
+python run_pipeline.py 1494088127 --from 2020-06-01 --to 2023-10-31 `
+    --repo ../goodmorningpops_podcast `
+    --prompt "조정현, 굿모닝 팝스, KBS" `
+    --backup-corners
+```
+
+### 7.2 회차별로 일어나는 일 (7단계)
+
+```
+[1/7] download             # mp3가 없으면 받음 (이미 있으면 스킵)
+[2/7] transcribe           # .srt가 없으면 GPU 전사 (모델은 1회만 로딩)
+[3/7] extract              # Screen English 코너만 잘라냄 (START/END 마커)
+[4/7] optimize             # 64kbps 모노 재인코딩
+[5/7] upload supabase      # public bucket 으로 업로드 + URL 회수
+[6/7] build player data    # 회차 JSON + index 갱신 + 정적 자산 복사
+[7/7] git push             # 배포 repo에 commit & push → Pages 라이브
+```
+
+### 7.3 옵션
+
+| 옵션 | 의미 |
+|------|------|
+| `--repo <path>` | 미리 clone 된 Pages 배포 repo 로컬 경로 (필수) |
+| `--from YYYY-MM-DD --to YYYY-MM-DD` | 처리할 방송 기간 (필수) |
+| `--prompt "..."` | 전사 초기 프롬프트 (고유명사 유도) |
+| `--model large-v3` | 정확도 더 (기본: large-v3-turbo, 빠름) |
+| `--device cuda` / `cpu` / `auto` | 디바이스 강제 (기본: auto) |
+| `--bitrate 48k` | MP3 비트레이트 (기본: 64k) |
+| `--backup-corners` | 시작 전 기존 corners/ 를 timestamped 폴더로 보존 |
+| `--overwrite` | 추출/최적화/업로드 모두 강제 갱신 |
+| `--no-push` | git push 생략 (로컬 빌드만, 테스트용) |
+| `--stop-on-error` | 첫 에러에서 중단 (기본: 다음 회차로, 커버리지 우선) |
+| `--limit N` | 앞에서 N개만 처리 (테스트용) |
+
+### 7.4 동작 보장
+
+- **Idempotent**: 이미 처리된 회차는 각 단계에서 스킵 (mp3/.srt/optimized/url 확인)
+- **재시작 안전**: 중간에 끊겨도 다시 실행하면 처리 안 된 지점부터 이어짐
+- **커버리지 우선**: 한 회차에서 실패해도 다음 회차로 계속 (`--stop-on-error` 로 변경 가능)
+- **스트리밍 배포**: 회차 하나가 끝나는 즉시 Pages 라이브 갱신 (`--no-push` 로 끌 수 있음)
+
+### 7.5 진행 상황 예시
+
+```
+[1/180] 2020-06-01  (06/01/월) Screen English - I'm grateful for the offer.
+  [1/7] mp3 이미 있음
+  [2/7] 전사 이미 있음
+  [3/7] extract...
+  [4/7] optimize (64k mono)...
+  [5/7] upload supabase...
+  [6/7] build player data...
+  [7/7] git push...
+  → deployed
+
+[2/180] 2020-06-02  ...
+```
+
+각 회차당 시간: 다운로드/전사가 다 끝난 상태라면 30초~1분. 처음 받는 회차는 5~10분 (GPU).
+
+### 7.6 무엇이 필요한가
+
+1. `.env` 에 SUPABASE_URL, SUPABASE_KEY, SUPABASE_BUCKET
+2. GitHub에 배포 repo 미리 생성 + 로컬에 `git clone` 완료
+3. 그 repo의 Pages 활성 (Settings → Pages → main branch / root)
+4. `pip install -r requirements.txt` 완료
+5. GPU 사용 시: torch + cuDNN 9 셋업 ([LESSONS_LEARNED.md](LESSONS_LEARNED.md) 참조)

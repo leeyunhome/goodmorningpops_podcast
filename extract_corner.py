@@ -50,9 +50,30 @@ CLOSING_TAIL_RE = re.compile(
 CORNER_DEFS = {
     "screen_english": {
         "label": "Screen English",
+        # === START 마커 ===
+        # 진행자가 영화 장면을 처음 들려주기 직전에 쓰는 정형구.
+        # "오늘 준비된 장면 듣고 오겠습니다" 류. 이 구절이 등장하는 segment의 시작을 코너 시작으로.
+        "start_patterns": [
+            re.compile(
+                r"오늘[^.\n]{0,20}장면[^.\n]{0,20}(?:듣고\s*오|들어\s*보)",
+                re.IGNORECASE | re.DOTALL,
+            ),
+            re.compile(
+                r"준비[된한]\s*장면[^.\n]{0,20}(?:듣고\s*오|들어\s*보)",
+                re.IGNORECASE | re.DOTALL,
+            ),
+            re.compile(
+                r"장면\s*(?:듣고\s*오|들어\s*보겠|한\s*번\s*들어)",
+                re.IGNORECASE | re.DOTALL,
+            ),
+            re.compile(
+                r"오늘[^.\n]{0,20}들으실\s*장면",
+                re.IGNORECASE | re.DOTALL,
+            ),
+        ],
+        # === END 마커 ===
         # 본 코너 끝을 알리는 마커. 코너명 + "여기까지/마무리" 조합으로
         # 다른 코너(스마트 위리 잉글리쉬 등)의 끝 멘트와 구분한다.
-        # DOTALL + 멀티 segment 결합 텍스트에서 검색하므로 .{0,N}로 충분히 넓게.
         "end_patterns": [
             re.compile(
                 r"(?:스크린\s*잉글리[쉬시]|Screen\s*English)"
@@ -60,7 +81,6 @@ CORNER_DEFS = {
                 re.IGNORECASE | re.DOTALL,
             ),
             # 보조: Chris/크리스 게스트와의 작별 인사 (코너 종료 정형구)
-            # 예: "다음 주 월요일에 만날게요 Chris. I'll see you Monday. Bye"
             re.compile(
                 r"(?:Chris|크리스).{0,80}?"
                 r"(?:see\s*you|I'?ll\s*see\s*you|Bye|만나|만날\s*게요|볼게요)",
@@ -72,14 +92,13 @@ CORNER_DEFS = {
                 re.IGNORECASE | re.DOTALL,
             ),
         ],
-        # 본 코너 끝 마커 탐색 상한 (이 시점 이후는 무시 = 다른 코너 영역)
-        "max_end_minutes": 22,
-        # 인트로 스킵 시간 (인사 + 첫 곡 정도)
-        "intro_skip_seconds": 60.0,
-        # 코너 길이 상한 (start 추정용 안전 장치)
-        "max_duration_minutes": 20,
-        # end 마커 검출 시 묶을 segment 개수 (마커가 두 segment에 걸칠 때 대응)
-        "end_window_segments": 4,
+        # === 검출 파라미터 ===
+        "start_max_minutes": 12,         # START 마커 탐색 상한 (12분 이내)
+        "start_window_segments": 4,      # START 마커 슬라이딩 윈도우 크기
+        "max_end_minutes": 22,           # END 마커 탐색 상한
+        "end_window_segments": 4,        # END 마커 슬라이딩 윈도우 크기
+        "intro_skip_seconds": 60.0,      # START 마커 없을 때 폴백: 이 시간 이후 첫 segment
+        "max_duration_minutes": 20,      # 폴백 start 추정용 안전 상한
     },
 }
 
@@ -182,13 +201,40 @@ def find_end_segment(
     return None
 
 
-def find_start_seconds(
+def find_start_segment(
+    segments: list[Segment],
+    patterns: list[re.Pattern],
+    max_start_seconds: float,
+    window: int = 4,
+) -> Segment | None:
+    """슬라이딩 윈도우로 시작 마커("오늘 준비된 장면 듣고 오" 등) 검출.
+
+    end 검출과 동일한 윈도우 방식. 매칭되면 윈도우에서 가장 먼저
+    "장면|듣고|들어" 키워드가 등장하는 segment를 반환.
+    """
+    start_tail = re.compile(r"장면|듣고|들어\s*보", re.IGNORECASE)
+    for i, seg in enumerate(segments):
+        if seg.start > max_start_seconds:
+            return None
+        end_i = min(i + window, len(segments))
+        combined = " ".join(segments[j].text for j in range(i, end_i))
+        if not any(p.search(combined) for p in patterns):
+            continue
+        # 윈도우 내에서 "장면|듣고|들어보" 가 처음 나오는 segment 반환
+        for j in range(i, end_i):
+            if start_tail.search(segments[j].text):
+                return segments[j]
+        return seg
+    return None
+
+
+def find_start_seconds_fallback(
     segments: list[Segment],
     end_seg: Segment,
     intro_skip: float,
     max_duration: float,
 ) -> float:
-    """end_seg 기준으로 코너 시작 시각을 추정."""
+    """START 마커 검출 실패 시 휴리스틱: 인트로 스킵 후 첫 segment."""
     earliest = max(intro_skip, end_seg.start - max_duration)
     for seg in segments:
         if seg.start >= earliest:
@@ -405,13 +451,25 @@ def process_one(
         start_s = manual_start
         start_info = "수동"
     else:
-        start_s = find_start_seconds(
+        # 1순위: START 마커 검출 ("오늘 준비된 장면 듣고 오" 류)
+        start_seg = find_start_segment(
             segments,
-            Segment(0, end_s, end_s, ""),
-            corner["intro_skip_seconds"],
-            corner["max_duration_minutes"] * 60,
-        )
-        start_info = "자동(인트로 스킵 후)"
+            corner.get("start_patterns", []),
+            corner.get("start_max_minutes", 12) * 60,
+            window=corner.get("start_window_segments", 4),
+        ) if corner.get("start_patterns") else None
+        if start_seg is not None:
+            start_s = start_seg.start
+            start_info = f"마커(seg#{start_seg.index} @ {seconds_to_hms(start_seg.start)})"
+        else:
+            # 폴백 (커버리지 우선): 인트로 스킵 후 첫 segment
+            start_s = find_start_seconds_fallback(
+                segments,
+                Segment(0, end_s, end_s, ""),
+                corner["intro_skip_seconds"],
+                corner["max_duration_minutes"] * 60,
+            )
+            start_info = "폴백(인트로 스킵)"
 
     if end_s <= start_s:
         print(f"  스킵 (start >= end): {audio_path.name}")
