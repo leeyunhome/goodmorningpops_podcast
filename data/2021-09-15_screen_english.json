@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "I can_t believe this actually works",
   "movie": "",
-  "duration_sec": 847.9,
+  "duration_sec": 850.32,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-15_screen_english.mp3",
   "script": [
     {
@@ -1777,6 +1777,16 @@
       "start": 845.78,
       "end": 847.9,
       "text": "오늘 Screen English는 여기에서 마무리할게요."
+    },
+    {
+      "start": 848.04,
+      "end": 849.48,
+      "text": "크리스는 내일 다시 만나요."
+    },
+    {
+      "start": 849.66,
+      "end": 850.32,
+      "text": "I'll see you tomorrow."
     }
   ]
 }
