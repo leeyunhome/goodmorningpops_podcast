@@ -1,0 +1,947 @@
+{
+  "id": "2021-03-16_screen_english",
+  "date": "2021-03-16",
+  "corner": "screen_english",
+  "corner_label": "Screen English",
+  "title": "I_m a blank slate",
+  "movie": "",
+  "duration_sec": 413.58,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-16_screen_english.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 12.95,
+      "text": "내일 아침 6시 조정현의 굿모닝 팝"
+    },
+    {
+      "start": 12.95,
+      "end": 17.33,
+      "text": "해봐요 굿모닝"
+    },
+    {
+      "start": 17.33,
+      "end": 25.84,
+      "text": "조정현의 굿모닝 팝"
+    },
+    {
+      "start": 26.68,
+      "end": 40.31,
+      "text": "스크린 잉글리쉬"
+    },
+    {
+      "start": 40.31,
+      "end": 61.99,
+      "text": "영화 감상과 영어 공부를 동시에 스크린 잉글리쉬 타임"
+    },
+    {
+      "start": 61.99,
+      "end": 66.73,
+      "text": "3월에 함께하고 있는 영화는 잃어버린 삶의 의미를 되찾고"
+    },
+    {
+      "start": 66.73,
+      "end": 69.83,
+      "text": "다시 시작할 수 있는 용기를 얻게 해주는 영화"
+    },
+    {
+      "start": 69.83,
+      "end": 71.89,
+      "text": "Where'd you go, Bernadette?"
+    },
+    {
+      "start": 71.99,
+      "end": 73.55,
+      "text": "딩동댕!"
+    },
+    {
+      "start": 73.71,
+      "end": 75.67,
+      "text": "네, 크리스 씨 등장해주셨어요."
+    },
+    {
+      "start": 75.75,
+      "end": 76.21,
+      "text": "안녕하세요."
+    },
+    {
+      "start": 76.63,
+      "end": 77.21,
+      "text": "네, 안녕하세요."
+    },
+    {
+      "start": 77.39,
+      "end": 77.97,
+      "text": "굿모닝입니다."
+    },
+    {
+      "start": 78.33,
+      "end": 79.85,
+      "text": "네, 굿모닝 로라 씨."
+    },
+    {
+      "start": 79.95,
+      "end": 80.77,
+      "text": "이거 왜 안 하시나요?"
+    },
+    {
+      "start": 81.17,
+      "end": 81.93,
+      "text": "아, 로라 씨."
+    },
+    {
+      "start": 82.13,
+      "end": 83.33,
+      "text": "아니, 이제 시."
+    },
+    {
+      "start": 83.57,
+      "end": 85.47,
+      "text": "좀 예민하게 받아들이는 것 같기도 하고."
+    },
+    {
+      "start": 85.47,
+      "end": 85.87,
+      "text": "아, 그래요?"
+    },
+    {
+      "start": 86.13,
+      "end": 86.65,
+      "text": "아, 괜찮아요?"
+    },
+    {
+      "start": 86.75,
+      "end": 87.65,
+      "text": "오, 나는 좋은데요?"
+    },
+    {
+      "start": 87.67,
+      "end": 88.07,
+      "text": "로라 씨?"
+    },
+    {
+      "start": 88.29,
+      "end": 88.89,
+      "text": "네, 네, 네."
+    },
+    {
+      "start": 89.07,
+      "end": 90.73,
+      "text": "크리스 씨, 크리스 님."
+    },
+    {
+      "start": 90.87,
+      "end": 91.75,
+      "text": "네, 이런 거."
+    },
+    {
+      "start": 91.75,
+      "end": 92.79,
+      "text": "상관없어요."
+    },
+    {
+      "start": 92.89,
+      "end": 93.33,
+      "text": "괜찮아요."
+    },
+    {
+      "start": 93.35,
+      "end": 94.85,
+      "text": "아무 명칭 같은 거 주면 돼요."
+    },
+    {
+      "start": 94.93,
+      "end": 99.43,
+      "text": "어머, 어머, 아무 명칭 없이 아주 자연스럽게 이 사연을 보내주셨네요."
+    },
+    {
+      "start": 99.53,
+      "end": 100.53,
+      "text": "이지혜 님께서."
+    },
+    {
+      "start": 100.99,
+      "end": 102.99,
+      "text": "크리스가 여기 나오는군요."
+    },
+    {
+      "start": 103.37,
+      "end": 105.05,
+      "text": "크리스 영어도 잘하네요."
+    },
+    {
+      "start": 105.25,
+      "end": 108.27,
+      "text": "이렇게 꼭두 새벽부터 일하시다니 대단해요."
+    },
+    {
+      "start": 108.63,
+      "end": 111.57,
+      "text": "한국어가 일취월장인 이유가 있군요."
+    },
+    {
+      "start": 111.93,
+      "end": 113.09,
+      "text": "와, 맞아요."
+    },
+    {
+      "start": 113.69,
+      "end": 114.81,
+      "text": "Thank you so much."
+    },
+    {
+      "start": 114.95,
+      "end": 118.81,
+      "text": "네, 우리 크리스 씨를 보면 항상 always been very busy, right?"
+    },
+    {
+      "start": 118.81,
+      "end": 122.85,
+      "text": "I try to stay busy at home or outside the home."
+    },
+    {
+      "start": 123.73,
+      "end": 124.57,
+      "text": "왜 그러는 거예요?"
+    },
+    {
+      "start": 124.99,
+      "end": 125.77,
+      "text": "비결이 뭐예요?"
+    },
+    {
+      "start": 125.83,
+      "end": 126.59,
+      "text": "What's the secret?"
+    },
+    {
+      "start": 126.93,
+      "end": 127.49,
+      "text": "Secret?"
+    },
+    {
+      "start": 127.73,
+      "end": 130.03,
+      "text": "Of being energetic every day."
+    },
+    {
+      "start": 130.23,
+      "end": 132.23,
+      "text": "그냥 열심히 먹고 살아야 되니까?"
+    },
+    {
+      "start": 133.41,
+      "end": 134.61,
+      "text": "그거 하기 위해서."
+    },
+    {
+      "start": 134.77,
+      "end": 135.27,
+      "text": "아, 네."
+    },
+    {
+      "start": 135.45,
+      "end": 135.87,
+      "text": "Energy."
+    },
+    {
+      "start": 136.17,
+      "end": 138.01,
+      "text": "You need energy to live life."
+    },
+    {
+      "start": 138.15,
+      "end": 138.85,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 138.91,
+      "end": 140.83,
+      "text": "So, I like to sleep, too."
+    },
+    {
+      "start": 140.97,
+      "end": 141.79,
+      "text": "I love sleep."
+    },
+    {
+      "start": 141.91,
+      "end": 142.13,
+      "text": "Yeah."
+    },
+    {
+      "start": 142.27,
+      "end": 143.73,
+      "text": "I like to exercise."
+    },
+    {
+      "start": 144.17,
+      "end": 146.75,
+      "text": "When I exercise, I actually restore my energy."
+    },
+    {
+      "start": 146.83,
+      "end": 147.05,
+      "text": "Right."
+    },
+    {
+      "start": 147.05,
+      "end": 147.95,
+      "text": "My depleted energy."
+    },
+    {
+      "start": 147.95,
+      "end": 149.51,
+      "text": "Sleep and exercise."
+    },
+    {
+      "start": 149.91,
+      "end": 150.59,
+      "text": "명언입니다."
+    },
+    {
+      "start": 150.83,
+      "end": 157.13,
+      "text": "이거 꼭 지키시면 우리 크리스 씨처럼 에너지가 넘치게 열정 부자로 살 수가 있을 것 같아요."
+    },
+    {
+      "start": 157.15,
+      "end": 158.31,
+      "text": "What's your secret, Laura?"
+    },
+    {
+      "start": 158.57,
+      "end": 158.75,
+      "text": "She?"
+    },
+    {
+      "start": 159.03,
+      "end": 159.39,
+      "text": "저요?"
+    },
+    {
+      "start": 159.77,
+      "end": 161.81,
+      "text": "저는 우리의 이런 chemistry?"
+    },
+    {
+      "start": 162.61,
+      "end": 164.05,
+      "text": "이런 collaboration?"
+    },
+    {
+      "start": 164.69,
+      "end": 166.11,
+      "text": "여기서 오는 에너지가 아닐까요?"
+    },
+    {
+      "start": 166.35,
+      "end": 168.03,
+      "text": "아, very good answer."
+    },
+    {
+      "start": 168.15,
+      "end": 168.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 168.81,
+      "end": 170.19,
+      "text": "I do get energy from you, too."
+    },
+    {
+      "start": 170.33,
+      "end": 170.59,
+      "text": "Yeah."
+    },
+    {
+      "start": 171.13,
+      "end": 173.47,
+      "text": "역시 정해진 정답이었어요."
+    },
+    {
+      "start": 173.55,
+      "end": 174.35,
+      "text": "답정너."
+    },
+    {
+      "start": 174.91,
+      "end": 175.83,
+      "text": "아주 정지적이었어요."
+    },
+    {
+      "start": 175.83,
+      "end": 176.19,
+      "text": "네, 네."
+    },
+    {
+      "start": 177.31,
+      "end": 185.27,
+      "text": "네, 우리 주인공 버나데드의 그 스펙이나 아니면 처해진 환경을 보면은 정말 완벽한 사람이잖아요."
+    },
+    {
+      "start": 185.71,
+      "end": 189.65,
+      "text": "근데 last week에도 말씀을 드렸던 것처럼 nobody's perfect."
+    },
+    {
+      "start": 189.91,
+      "end": 191.51,
+      "text": "어제도 우리가 살짝 이야기를 했었잖아요."
+    },
+    {
+      "start": 191.51,
+      "end": 192.21,
+      "text": "We're all human."
+    },
+    {
+      "start": 192.47,
+      "end": 193.41,
+      "text": "Human beings."
+    },
+    {
+      "start": 193.59,
+      "end": 193.81,
+      "text": "Yeah."
+    },
+    {
+      "start": 195.17,
+      "end": 200.41,
+      "text": "굉장히 위기에 지금 처해 있는 버나데드에 대해서 장면들을 이어가고 있습니다."
+    },
+    {
+      "start": 200.41,
+      "end": 205.69,
+      "text": "Yeah, so she was a very upcoming architect."
+    },
+    {
+      "start": 206.05,
+      "end": 208.71,
+      "text": "She was very successful in her career."
+    },
+    {
+      "start": 209.01,
+      "end": 212.37,
+      "text": "She also became famous in architect circles."
+    },
+    {
+      "start": 212.73,
+      "end": 214.75,
+      "text": "그 분야에서 유명해졌잖아요."
+    },
+    {
+      "start": 214.83,
+      "end": 215.15,
+      "text": "완전."
+    },
+    {
+      "start": 215.51,
+      "end": 216.09,
+      "text": "In LA."
+    },
+    {
+      "start": 216.25,
+      "end": 216.49,
+      "text": "Yeah."
+    },
+    {
+      "start": 216.77,
+      "end": 220.97,
+      "text": "And she built a beautiful home that she called, I forget the name of it."
+    },
+    {
+      "start": 221.09,
+      "end": 222.43,
+      "text": "It was a beautiful home."
+    },
+    {
+      "start": 222.51,
+      "end": 222.67,
+      "text": "Yeah?"
+    },
+    {
+      "start": 222.67,
+      "end": 224.07,
+      "text": "I think it's in today's conversation."
+    },
+    {
+      "start": 224.23,
+      "end": 224.55,
+      "text": "Oh, really?"
+    },
+    {
+      "start": 224.55,
+      "end": 226.31,
+      "text": "Yes, 20-mile house."
+    },
+    {
+      "start": 226.55,
+      "end": 229.81,
+      "text": "It was a famous home that she built."
+    },
+    {
+      "start": 230.09,
+      "end": 230.61,
+      "text": "She designed."
+    },
+    {
+      "start": 231.23,
+      "end": 235.07,
+      "text": "And someone bought it and tore it down and it devastated her."
+    },
+    {
+      "start": 235.75,
+      "end": 236.07,
+      "text": "맞아요."
+    },
+    {
+      "start": 236.39,
+      "end": 240.91,
+      "text": "구매하자마자 몇 시간도 안 돼가지고 다 파괴를 시켜버렸잖아요."
+    },
+    {
+      "start": 240.93,
+      "end": 242.27,
+      "text": "That beautiful piece of art."
+    },
+    {
+      "start": 242.41,
+      "end": 243.65,
+      "text": "It was her life work."
+    },
+    {
+      "start": 243.77,
+      "end": 244.09,
+      "text": "맞아요."
+    },
+    {
+      "start": 244.47,
+      "end": 247.53,
+      "text": "수년간 정말 공을 들여가지고 만든 집이었는데."
+    },
+    {
+      "start": 248.13,
+      "end": 248.25,
+      "text": "Yeah."
+    },
+    {
+      "start": 248.55,
+      "end": 252.61,
+      "text": "So she was furious, very angry, and she decided to leave LA."
+    },
+    {
+      "start": 252.61,
+      "end": 254.15,
+      "text": "She went to Seattle."
+    },
+    {
+      "start": 254.45,
+      "end": 259.23,
+      "text": "She stopped working, and now she is in a midlife crisis."
+    },
+    {
+      "start": 259.37,
+      "end": 259.73,
+      "text": "그렇죠."
+    },
+    {
+      "start": 259.99,
+      "end": 261.29,
+      "text": "Midlife crisis."
+    },
+    {
+      "start": 261.93,
+      "end": 264.03,
+      "text": "이게 먼 내용은 아닌 것 같아요."
+    },
+    {
+      "start": 264.19,
+      "end": 266.93,
+      "text": "이게 사전적으로는 중년이라는 기간이요."
+    },
+    {
+      "start": 267.11,
+      "end": 270.61,
+      "text": "한 40세에서 59세 이렇게 명명이 되어 있는데."
+    },
+    {
+      "start": 270.71,
+      "end": 271.69,
+      "text": "Yeah, we're getting there."
+    },
+    {
+      "start": 271.97,
+      "end": 272.93,
+      "text": "Almost there."
+    },
+    {
+      "start": 272.93,
+      "end": 278.69,
+      "text": "근데 그 기준이 점점 더 뒤로 밀려나지 않을까 이렇게 생각을 해요."
+    },
+    {
+      "start": 278.85,
+      "end": 280.29,
+      "text": "아, 이제 뭐 백세 시대이다 보니까."
+    },
+    {
+      "start": 280.29,
+      "end": 280.97,
+      "text": "그러니까요."
+    },
+    {
+      "start": 281.33,
+      "end": 281.97,
+      "text": "Maybe."
+    },
+    {
+      "start": 281.97,
+      "end": 283.13,
+      "text": "I don't know."
+    },
+    {
+      "start": 283.17,
+      "end": 283.85,
+      "text": "희망을 주세요."
+    },
+    {
+      "start": 284.27,
+      "end": 284.63,
+      "text": "아, 예."
+    },
+    {
+      "start": 285.23,
+      "end": 286.65,
+      "text": "아니, 뭐 안 겪는 분들도 있고."
+    },
+    {
+      "start": 286.79,
+      "end": 287.87,
+      "text": "아, 그렇군요."
+    },
+    {
+      "start": 288.27,
+      "end": 291.85,
+      "text": "근데 우리 크리스 씨는 미드 라이 크라이시스를 과연 겪으실까?"
+    },
+    {
+      "start": 292.07,
+      "end": 293.13,
+      "text": "이런 생각이 드네요."
+    },
+    {
+      "start": 293.29,
+      "end": 295.87,
+      "text": "Sometimes I think I'm in a midlife crisis."
+    },
+    {
+      "start": 296.17,
+      "end": 296.27,
+      "text": "Really?"
+    },
+    {
+      "start": 296.27,
+      "end": 296.73,
+      "text": "Sometimes."
+    },
+    {
+      "start": 297.23,
+      "end": 299.41,
+      "text": "But for me, it depends on the day."
+    },
+    {
+      "start": 299.83,
+      "end": 301.05,
+      "text": "Sometimes I wake up."
+    },
+    {
+      "start": 301.15,
+      "end": 302.03,
+      "text": "I look in the mirror."
+    },
+    {
+      "start": 302.17,
+      "end": 303.51,
+      "text": "I'm like, who am I?"
+    },
+    {
+      "start": 303.73,
+      "end": 304.59,
+      "text": "Where am I?"
+    },
+    {
+      "start": 305.25,
+      "end": 306.95,
+      "text": "You know, I'm in a different country."
+    },
+    {
+      "start": 306.95,
+      "end": 309.53,
+      "text": "I'm surrounded by beautiful women."
+    },
+    {
+      "start": 309.73,
+      "end": 311.47,
+      "text": "But I'm the only guy."
+    },
+    {
+      "start": 311.47,
+      "end": 313.77,
+      "text": "아, 그렇군요."
+    },
+    {
+      "start": 314.13,
+      "end": 317.29,
+      "text": "오늘 크리스 씨를 위해서 토닥토닥 해드려야 될 것 같습니다."
+    },
+    {
+      "start": 317.29,
+      "end": 318.01,
+      "text": "Oh, I'm fine."
+    },
+    {
+      "start": 318.21,
+      "end": 318.95,
+      "text": "I'm still young."
+    },
+    {
+      "start": 319.33,
+      "end": 320.03,
+      "text": "I'm still young."
+    },
+    {
+      "start": 320.03,
+      "end": 321.41,
+      "text": "35이니까 우리 나이로."
+    },
+    {
+      "start": 321.73,
+      "end": 324.73,
+      "text": "이렇게 나이도 당당하게 바뀔 수 있고 부러워요."
+    },
+    {
+      "start": 325.13,
+      "end": 325.57,
+      "text": "아, 예."
+    },
+    {
+      "start": 326.11,
+      "end": 326.91,
+      "text": "Very similar."
+    },
+    {
+      "start": 327.45,
+      "end": 329.65,
+      "text": "뭐 사춘기가 끝이 아닌 거죠."
+    },
+    {
+      "start": 329.81,
+      "end": 330.45,
+      "text": "인생에 있어서."
+    },
+    {
+      "start": 330.65,
+      "end": 332.43,
+      "text": "사춘기 다음에 오춘기도 오고,"
+    },
+    {
+      "start": 332.51,
+      "end": 333.41,
+      "text": "육춘기도 오고,"
+    },
+    {
+      "start": 333.59,
+      "end": 335.85,
+      "text": "어떤 분은 칠춘기도 오실 수가 있는 거고."
+    },
+    {
+      "start": 336.41,
+      "end": 337.41,
+      "text": "요새 아재 개그."
+    },
+    {
+      "start": 337.53,
+      "end": 337.95,
+      "text": "아, 예."
+    },
+    {
+      "start": 338.07,
+      "end": 338.65,
+      "text": "살아 있어요."
+    },
+    {
+      "start": 339.07,
+      "end": 339.79,
+      "text": "그러게 말입니다."
+    },
+    {
+      "start": 339.93,
+      "end": 340.99,
+      "text": "이번 주에 왜 이럴까요?"
+    },
+    {
+      "start": 341.11,
+      "end": 342.55,
+      "text": "집에서 남편이 많이 쓰시나요?"
+    },
+    {
+      "start": 342.75,
+      "end": 343.13,
+      "text": "아니요."
+    },
+    {
+      "start": 343.17,
+      "end": 343.97,
+      "text": "절대 쓰지 않아요."
+    },
+    {
+      "start": 344.97,
+      "end": 346.65,
+      "text": "자, 먼저 오늘 장면 듣고 올게요."
+    },
+    {
+      "start": 346.65,
+      "end": 352.41,
+      "text": "You know, what LG doesn't know is that I am still obsessing about LA."
+    },
+    {
+      "start": 352.73,
+      "end": 353.29,
+      "text": "What do you mean?"
+    },
+    {
+      "start": 354.57,
+      "end": 356.33,
+      "text": "You know, just last night, right?"
+    },
+    {
+      "start": 356.79,
+      "end": 358.27,
+      "text": "I woke up to pee."
+    },
+    {
+      "start": 358.83,
+      "end": 359.79,
+      "text": "You know, I'm half asleep."
+    },
+    {
+      "start": 359.91,
+      "end": 360.67,
+      "text": "I'm a blank slate."
+    },
+    {
+      "start": 360.81,
+      "end": 362.81,
+      "text": "And then the data starts reloading."
+    },
+    {
+      "start": 363.49,
+      "end": 367.51,
+      "text": "It's a Bernadette Fox, 20-mile house, destroyed, failed."
+    },
+    {
+      "start": 368.77,
+      "end": 370.73,
+      "text": "You know, it's like failure has got its teeth in me."
+    },
+    {
+      "start": 370.73,
+      "end": 371.75,
+      "text": "And it won't stop shaking."
+    },
+    {
+      "start": 372.92,
+      "end": 376.84,
+      "text": "오, 지금 두 명의 대화인 거는 분명한데,"
+    },
+    {
+      "start": 377.12,
+      "end": 378.02,
+      "text": "그가 누굴까요?"
+    },
+    {
+      "start": 378.56,
+      "end": 379.12,
+      "text": "Who's that?"
+    },
+    {
+      "start": 379.24,
+      "end": 379.8,
+      "text": "The man?"
+    },
+    {
+      "start": 380.06,
+      "end": 382.4,
+      "text": "Yeah, he seems to be her close friend."
+    },
+    {
+      "start": 382.54,
+      "end": 383.58,
+      "text": "She has a friend."
+    },
+    {
+      "start": 383.94,
+      "end": 384.96,
+      "text": "This is good."
+    },
+    {
+      "start": 384.96,
+      "end": 388.02,
+      "text": "Yeah, 그리고 속마음을 이렇게 털어놓는 거 보니까,"
+    },
+    {
+      "start": 388.58,
+      "end": 391.84,
+      "text": "굉장히 절친이지 않을까 예상이 되는데요."
+    },
+    {
+      "start": 392.18,
+      "end": 396.38,
+      "text": "사실 이 Bernadette이요, LA에서 함께 일했던 동료입니다."
+    },
+    {
+      "start": 396.9,
+      "end": 397.96,
+      "text": "이름은 폴이에요."
+    },
+    {
+      "start": 398.18,
+      "end": 400.84,
+      "text": "He's also an architect, a fellow architect."
+    },
+    {
+      "start": 400.86,
+      "end": 403.4,
+      "text": "and someone she's close to."
+    },
+    {
+      "start": 403.56,
+      "end": 405.28,
+      "text": "She can share all her feelings."
+    },
+    {
+      "start": 405.4,
+      "end": 405.64,
+      "text": "맞아요."
+    },
+    {
+      "start": 405.74,
+      "end": 406.84,
+      "text": "Her good and bad feelings."
+    },
+    {
+      "start": 406.84,
+      "end": 407.48,
+      "text": "그렇죠."
+    },
+    {
+      "start": 407.9,
+      "end": 411.68,
+      "text": "이런 친구가 있는 것은 인생에 있어서 정말 중요한 것 같은데."
+    },
+    {
+      "start": 412.16,
+      "end": 413.58,
+      "text": "So do you have a friend like that?"
+    }
+  ]
+}
