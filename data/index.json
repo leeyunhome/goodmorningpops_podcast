@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-25T03:33:41",
-  "count": 378,
+  "generated_at": "2026-05-25T03:34:42",
+  "count": 379,
   "episodes": [
+    {
+      "id": "2024-06-02_review_time_screen",
+      "date": "2024-06-02",
+      "corner": "review_time_screen",
+      "corner_label": "Review Time Screen",
+      "title": "",
+      "movie": "",
+      "duration_sec": 1152.69,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-02_review_time_screen.mp3"
+    },
     {
       "id": "2024-05-30_screen_english",
       "date": "2024-05-30",
