@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-25T08:48:40",
-  "count": 393,
+  "generated_at": "2026-05-25T08:50:11",
+  "count": 394,
   "episodes": [
+    {
+      "id": "2024-06-27_screen_english",
+      "date": "2024-06-27",
+      "corner": "screen_english",
+      "corner_label": "Screen English",
+      "title": "Do ghosts really exist",
+      "movie": "",
+      "duration_sec": 1139.19,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-27_screen_english.mp3"
+    },
     {
       "id": "2024-06-26_screen_english",
       "date": "2024-06-26",
