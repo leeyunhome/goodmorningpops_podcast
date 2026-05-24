@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "I got my eye on a spot",
   "movie": "",
-  "duration_sec": 628.27,
+  "duration_sec": 918.04,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-15_screen_english.mp3",
   "script": [
     {
@@ -2192,6 +2192,561 @@
       "start": 627.09,
       "end": 628.27,
       "text": "I'll see you next week"
+    },
+    {
+      "start": 628.27,
+      "end": 629.09,
+      "text": "I'll see you next week"
+    },
+    {
+      "start": 629.09,
+      "end": 630.01,
+      "text": "Have a great weekend"
+    },
+    {
+      "start": 630.01,
+      "end": 630.81,
+      "text": "Thank you"
+    },
+    {
+      "start": 630.81,
+      "end": 632.61,
+      "text": "노래 한 곡 들려드릴게요"
+    },
+    {
+      "start": 632.61,
+      "end": 633.77,
+      "text": "Donna Winner의"
+    },
+    {
+      "start": 633.77,
+      "end": 635.27,
+      "text": "Stay with me till the morning"
+    },
+    {
+      "start": 635.27,
+      "end": 645.15,
+      "text": "조정현의"
+    },
+    {
+      "start": 645.15,
+      "end": 646.09,
+      "text": "굿모닝 팝스에서"
+    },
+    {
+      "start": 646.09,
+      "end": 647.15,
+      "text": "준비한 선물입니다"
+    },
+    {
+      "start": 647.15,
+      "end": 649.35,
+      "text": "한국 방송 출판에서"
+    },
+    {
+      "start": 649.35,
+      "end": 650.89,
+      "text": "월간 굿모닝 팝스 책"
+    },
+    {
+      "start": 650.89,
+      "end": 652.43,
+      "text": "3개월 구독권을 드립니다"
+    },
+    {
+      "start": 652.43,
+      "end": 673.13,
+      "text": "함께하는 즐거운 영어 시간"
+    },
+    {
+      "start": 673.13,
+      "end": 674.47,
+      "text": "팝스 잉글리쉬"
+    },
+    {
+      "start": 674.47,
+      "end": 687.23,
+      "text": "찬 표현들이"
+    },
+    {
+      "start": 687.23,
+      "end": 688.56,
+      "text": "팝 터지는"
+    },
+    {
+      "start": 688.56,
+      "end": 690.18,
+      "text": "팝스 잉글리쉬 타임"
+    },
+    {
+      "start": 690.18,
+      "end": 692.15,
+      "text": "지금 바로 시작합니다"
+    },
+    {
+      "start": 692.15,
+      "end": 694.01,
+      "text": "어제부터 우리가"
+    },
+    {
+      "start": 694.01,
+      "end": 695.49,
+      "text": "함께 듣고 있는 곡은"
+    },
+    {
+      "start": 695.49,
+      "end": 696.87,
+      "text": "미국의 싱어송라이터"
+    },
+    {
+      "start": 696.87,
+      "end": 698.15,
+      "text": "켈리 클라크슨의"
+    },
+    {
+      "start": 698.15,
+      "end": 699.61,
+      "text": "Cry 라는 곡이죠"
+    },
+    {
+      "start": 699.61,
+      "end": 701.37,
+      "text": "오늘 준비된 부분"
+    },
+    {
+      "start": 701.37,
+      "end": 702.35,
+      "text": "먼저 들어보시고"
+    },
+    {
+      "start": 702.35,
+      "end": 704.15,
+      "text": "자세한 내용 살펴볼게요"
+    },
+    {
+      "start": 704.15,
+      "end": 750.4,
+      "text": "끝부분의 아주 시원한"
+    },
+    {
+      "start": 750.4,
+      "end": 751.44,
+      "text": "가창력도"
+    },
+    {
+      "start": 751.44,
+      "end": 753.2,
+      "text": "살짝 맛볼 수가 있었습니다"
+    },
+    {
+      "start": 753.2,
+      "end": 754.9,
+      "text": "들으신 부분은"
+    },
+    {
+      "start": 754.9,
+      "end": 756.86,
+      "text": "2절 가사 부분이었는데요"
+    },
+    {
+      "start": 756.86,
+      "end": 758.5,
+      "text": "If anyone asks"
+    },
+    {
+      "start": 758.5,
+      "end": 760.74,
+      "text": "누군가 묻는다면"
+    },
+    {
+      "start": 760.74,
+      "end": 762.67,
+      "text": "I'll tell them"
+    },
+    {
+      "start": 762.67,
+      "end": 764.45,
+      "text": "we just grew apart"
+    },
+    {
+      "start": 764.45,
+      "end": 766.55,
+      "text": "우리는 그저"
+    },
+    {
+      "start": 766.55,
+      "end": 768.21,
+      "text": "grew apart"
+    },
+    {
+      "start": 768.21,
+      "end": 769.71,
+      "text": "라고 과거 시제로"
+    },
+    {
+      "start": 769.71,
+      "end": 771.17,
+      "text": "구조를 들으셨는데"
+    },
+    {
+      "start": 771.17,
+      "end": 772.43,
+      "text": "여기서"
+    },
+    {
+      "start": 772.43,
+      "end": 773.69,
+      "text": "grew apart"
+    },
+    {
+      "start": 773.69,
+      "end": 775.39,
+      "text": "사이가 점점"
+    },
+    {
+      "start": 775.39,
+      "end": 776.43,
+      "text": "멀어졌다"
+    },
+    {
+      "start": 776.43,
+      "end": 777.57,
+      "text": "라고 보시면 돼요"
+    },
+    {
+      "start": 777.57,
+      "end": 778.77,
+      "text": "우리는 그저"
+    },
+    {
+      "start": 778.77,
+      "end": 780.47,
+      "text": "사이가 멀어진 거라고"
+    },
+    {
+      "start": 780.47,
+      "end": 781.73,
+      "text": "말해줄 거예요"
+    },
+    {
+      "start": 781.73,
+      "end": 784.11,
+      "text": "What do I care?"
+    },
+    {
+      "start": 784.67,
+      "end": 785.51,
+      "text": "여기까지 먼저"
+    },
+    {
+      "start": 785.51,
+      "end": 786.31,
+      "text": "해석을 해드리면"
+    },
+    {
+      "start": 786.31,
+      "end": 787.41,
+      "text": "What do I care?"
+    },
+    {
+      "start": 787.91,
+      "end": 789.51,
+      "text": "내가 뭔 상관이겠어요?"
+    },
+    {
+      "start": 789.81,
+      "end": 790.51,
+      "text": "라는 뜻입니다"
+    },
+    {
+      "start": 790.51,
+      "end": 792.05,
+      "text": "What do I care?"
+    },
+    {
+      "start": 792.19,
+      "end": 793.41,
+      "text": "내가 뭔 상관이겠어요?"
+    },
+    {
+      "start": 793.73,
+      "end": 794.75,
+      "text": "내가 알 게 뭐예요?"
+    },
+    {
+      "start": 795.59,
+      "end": 797.71,
+      "text": "If they believe me or not"
+    },
+    {
+      "start": 797.71,
+      "end": 799.67,
+      "text": "그들이 내 말을 믿든"
+    },
+    {
+      "start": 799.67,
+      "end": 800.97,
+      "text": "안 믿든지"
+    },
+    {
+      "start": 800.97,
+      "end": 802.85,
+      "text": "내가 알 게 뭐예요?"
+    },
+    {
+      "start": 803.17,
+      "end": 803.67,
+      "text": "라는 겁니다"
+    },
+    {
+      "start": 803.67,
+      "end": 805.7,
+      "text": "Whenever I feel"
+    },
+    {
+      "start": 805.7,
+      "end": 806.48,
+      "text": "your memory"
+    },
+    {
+      "start": 806.48,
+      "end": 808.2,
+      "text": "is breaking my heart"
+    },
+    {
+      "start": 808.2,
+      "end": 811.12,
+      "text": "Whenever I feel"
+    },
+    {
+      "start": 811.12,
+      "end": 813.36,
+      "text": "뭔가를 느낄 때마다"
+    },
+    {
+      "start": 813.36,
+      "end": 814.08,
+      "text": "라는 거죠"
+    },
+    {
+      "start": 814.08,
+      "end": 816.7,
+      "text": "Your memory is breaking my heart"
+    },
+    {
+      "start": 816.7,
+      "end": 818.8,
+      "text": "당신의 기억이"
+    },
+    {
+      "start": 818.8,
+      "end": 819.72,
+      "text": "내 마음을"
+    },
+    {
+      "start": 819.72,
+      "end": 821.14,
+      "text": "아프게 하는 걸"
+    },
+    {
+      "start": 821.14,
+      "end": 822.24,
+      "text": "느낄 때마다"
+    },
+    {
+      "start": 822.24,
+      "end": 824.5,
+      "text": "I'll pretend"
+    },
+    {
+      "start": 824.5,
+      "end": 825.78,
+      "text": "뭐뭐인 척"
+    },
+    {
+      "start": 825.78,
+      "end": 826.58,
+      "text": "할 거예요"
+    },
+    {
+      "start": 826.58,
+      "end": 828.7,
+      "text": "I'm okay with it all"
+    },
+    {
+      "start": 828.7,
+      "end": 830.4,
+      "text": "나는 다"
+    },
+    {
+      "start": 830.4,
+      "end": 831.82,
+      "text": "괜찮은 척"
+    },
+    {
+      "start": 831.82,
+      "end": 832.7,
+      "text": "할 거예요"
+    },
+    {
+      "start": 832.7,
+      "end": 834.66,
+      "text": "Act like"
+    },
+    {
+      "start": 834.66,
+      "end": 835.88,
+      "text": "there's nothing"
+    },
+    {
+      "start": 835.88,
+      "end": 836.7,
+      "text": "wrong"
+    },
+    {
+      "start": 836.7,
+      "end": 837.92,
+      "text": "네 이 부분이"
+    },
+    {
+      "start": 837.92,
+      "end": 838.72,
+      "text": "shouting"
+    },
+    {
+      "start": 838.72,
+      "end": 840.64,
+      "text": "이렇게 마무리가 됐던"
+    },
+    {
+      "start": 840.64,
+      "end": 841.22,
+      "text": "소절입니다"
+    },
+    {
+      "start": 841.22,
+      "end": 842.5,
+      "text": "Act like"
+    },
+    {
+      "start": 842.5,
+      "end": 843.68,
+      "text": "뭐뭐인 것처럼"
+    },
+    {
+      "start": 843.68,
+      "end": 844.82,
+      "text": "행동할 거다"
+    },
+    {
+      "start": 844.82,
+      "end": 845.5,
+      "text": "라는 거고요"
+    },
+    {
+      "start": 845.5,
+      "end": 847.2,
+      "text": "There's nothing wrong"
+    },
+    {
+      "start": 847.2,
+      "end": 848.02,
+      "text": "이라고 했으니까"
+    },
+    {
+      "start": 848.02,
+      "end": 849.22,
+      "text": "아무것도"
+    },
+    {
+      "start": 849.22,
+      "end": 851.66,
+      "text": "잘못된 게 없는 것처럼"
+    },
+    {
+      "start": 851.66,
+      "end": 853.24,
+      "text": "행동할 거예요"
+    },
+    {
+      "start": 853.24,
+      "end": 855.18,
+      "text": "라고 완성하시면 되겠어요"
+    },
+    {
+      "start": 855.18,
+      "end": 856.64,
+      "text": "그럼 이 부분"
+    },
+    {
+      "start": 856.64,
+      "end": 857.52,
+      "text": "다시 들어보세요"
+    },
+    {
+      "start": 857.52,
+      "end": 903.64,
+      "text": "이틀간 함께 들어본 곡"
+    },
+    {
+      "start": 903.64,
+      "end": 904.4,
+      "text": "Cry는"
+    },
+    {
+      "start": 904.4,
+      "end": 905.84,
+      "text": "켈리 클라크슨의"
+    },
+    {
+      "start": 905.84,
+      "end": 907.1,
+      "text": "수준 높은 작사"
+    },
+    {
+      "start": 907.1,
+      "end": 908.2,
+      "text": "작곡 실력이"
+    },
+    {
+      "start": 908.2,
+      "end": 909.38,
+      "text": "돋보이는 곡인데요"
+    },
+    {
+      "start": 909.38,
+      "end": 911.04,
+      "text": "연인과의 이별로"
+    },
+    {
+      "start": 911.04,
+      "end": 912.34,
+      "text": "가슴 아파하는 이의"
+    },
+    {
+      "start": 912.34,
+      "end": 913.54,
+      "text": "절절한 마음이"
+    },
+    {
+      "start": 913.54,
+      "end": 914.5,
+      "text": "고스란히 느껴지는"
+    },
+    {
+      "start": 914.5,
+      "end": 915.36,
+      "text": "곡이기도 합니다"
+    },
+    {
+      "start": 915.36,
+      "end": 916.9,
+      "text": "오늘 팝스 잉글리시"
+    },
+    {
+      "start": 916.9,
+      "end": 918.04,
+      "text": "여기서 마무리하고요"
     }
   ]
 }
