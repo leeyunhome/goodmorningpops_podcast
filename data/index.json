@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T21:46:25",
-  "count": 227,
+  "generated_at": "2026-05-24T21:46:38",
+  "count": 228,
   "episodes": [
     {
       "id": "2023-06-28_screen_english",
@@ -411,6 +411,16 @@
       "movie": "",
       "duration_sec": 733.05,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-25_screen_english.mp3"
+    },
+    {
+      "id": "2022-07-20_screen_english",
+      "date": "2022-07-20",
+      "corner": "screen_english",
+      "corner_label": "Screen English",
+      "title": "I have information",
+      "movie": "",
+      "duration_sec": 1050.74,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-20_screen_english.mp3"
     },
     {
       "id": "2022-07-19_screen_english",
