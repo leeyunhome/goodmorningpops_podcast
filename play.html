@@ -168,7 +168,7 @@
           div.dataset.end = seg.end;
           div.innerHTML = `
             <span class="time">${formatTime(seg.start)}</span>
-            <span class="text">${escape(seg.text)}</span>
+            <span class="text">${formatText(seg.text)}</span>
           `;
           div.addEventListener("click", () => {
             audio.currentTime = seg.start;
@@ -180,13 +180,15 @@
       }
 
       // ====== 회차 로딩 (페이지 새로고침 없이 audio.src 교체) ======
-      async function loadEpisode(epId, autoplay) {
-        let ep;
-        try {
-          ep = await fetchJson(`data/${epId}.json?v=${Date.now()}`);
-        } catch (e) {
-          scriptEl.innerHTML = `<div class="error">데이터 로드 실패: ${epId}</div>`;
-          return;
+      async function loadEpisode(epId, autoplay, preloadedData = null) {
+        let ep = preloadedData;
+        if (!ep) {
+          try {
+            ep = await fetchJson(`data/${epId}.json?v=${Date.now()}`);
+          } catch (e) {
+            scriptEl.innerHTML = `<div class="error">데이터 로드 실패: ${epId}</div>`;
+            return;
+          }
         }
         currentEp = ep;
         const nb = findNeighbors(ep.id);
@@ -213,6 +215,13 @@
         }
         // 스크롤 맨 위로
         scriptEl.scrollTop = 0;
+        
+        // 다음 회차 미리 로드 (모바일 자동 재생 시 딜레이 방지)
+        if (nextEp && nextEp.id) {
+          fetchJson(`data/${nextEp.id}.json?v=${Date.now()}`).then(data => {
+            nextEp._preloadedData = data;
+          }).catch(() => {});
+        }
       }
 
       // ====== 자막 하이라이트 + 자동 스크롤 ======
@@ -253,7 +262,7 @@
           return;
         }
         if (autoNext && nextEp) {
-          loadEpisode(nextEp.id, true);
+          loadEpisode(nextEp.id, true, nextEp._preloadedData);
         }
       });
 

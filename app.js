@@ -41,6 +41,15 @@ function escape(s) {
     .replace(/'/g, "&#39;");
 }
 
+// 영문과 한글을 분리하여 한글 부분에 스타일(해석 표시) 적용
+function formatText(s) {
+  if (!s) return "";
+  let esc = escape(s);
+  // 한글이 포함된 문장이나 어구를 span으로 감싸기
+  // 간단한 휴리스틱: 한글 유니코드 범위 묶음
+  return esc.replace(/([가-힣ㄱ-ㅎㅏ-ㅣ]+[가-힣ㄱ-ㅎㅏ-ㅣ\s\d.,!?~]*)/g, '<span class="kor-text">$1</span>');
+}
+
 // 재생 속도 변경
 function changeSpeed(delta) {
   const audio = document.getElementById("audio");

@@ -117,8 +117,9 @@ def process_episode(
     else:
         print(f"  [1/7] mp3 이미 있음")
 
-    # Screen English 에피소드가 아니면 여기서 종료 (다운로드는 했음)
-    if "screen english" not in dest_mp3.name.lower():
+    # Screen English나 Review Time이 아니면 여기서 종료
+    name_lower = dest_mp3.name.lower()
+    if "screen english" not in name_lower and "review time" not in name_lower:
         return "not-screen-english"
 
     # 2. Transcribe
@@ -140,8 +141,8 @@ def process_episode(
     else:
         print(f"  [2/7] 전사 이미 있음")
 
-    # 3. Extract Screen English
-    corner_id = "screen_english"
+    # 3. Extract Screen English or Review Time
+    corner_id = "review_time_screen" if "review time" in name_lower else "screen_english"
     corner_def = ec.CORNER_DEFS[corner_id]
     print(f"  [3/7] extract...")
     out_corners.mkdir(parents=True, exist_ok=True)

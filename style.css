@@ -375,6 +375,15 @@ audio.player {
   transition: color var(--transition);
 }
 
+.segment .kor-text {
+  display: block;
+  font-size: 0.95rem;
+  color: var(--text-dim);
+  margin-top: 4px;
+  border-left: 2px solid var(--accent);
+  padding-left: 8px;
+}
+
 /* ========= EMPTY / ERROR ========= */
 .empty, .error {
   color: var(--text-dim);

@@ -112,6 +112,22 @@ CORNER_DEFS = {
         "intro_skip_seconds": 60.0,      # START 마커 없을 때 폴백: 이 시간 이후 첫 segment
         "max_duration_minutes": 20,      # 폴백 start 추정용 안전 상한
     },
+    "review_time_screen": {
+        "label": "Review Time (Screen English)",
+        "start_patterns": [
+            r"스크린\s*잉글리시\s*복습",
+            r"복습해\s*볼까요",
+        ],
+        "end_patterns": [
+            r"팝스\s*잉글리시로\s*넘어갑니다",
+            r"팝스\s*잉글리시\s*복습",
+            r"다음은\s*팝스\s*잉글리시",
+        ],
+        "max_start_minutes": 15,
+        "max_end_minutes": 40,
+        "fallback_start": 60,  # 오프닝 1분 스킵
+        "fallback_end": 1200,  # 20분
+    }
 }
 
 
