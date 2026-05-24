@@ -1,0 +1,1157 @@
+{
+  "id": "2021-04-25_review_time_screen",
+  "date": "2021-04-25",
+  "corner": "review_time_screen",
+  "corner_label": "Review Time Screen",
+  "title": "",
+  "movie": "",
+  "duration_sec": 598.19,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-25_review_time_screen.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 4.18,
+      "text": "네, 리뷰타임 수요일 장면의 노래 듣고 와서 만나볼게요."
+    },
+    {
+      "start": 4.82,
+      "end": 6.44,
+      "text": "더피의 Stopping Stone"
+    },
+    {
+      "start": 6.44,
+      "end": 11.02,
+      "text": "여러분은 지금 KBS 라디오 조정현의 Good Morning Pops 함께하고 계십니다."
+    },
+    {
+      "start": 11.62,
+      "end": 13.48,
+      "text": "Screen English 리뷰타임"
+    },
+    {
+      "start": 13.48,
+      "end": 14.88,
+      "text": "이제 수요일 장면인데요."
+    },
+    {
+      "start": 15.58,
+      "end": 19.74,
+      "text": "유기견 보호소에 있던 트러블을 개 사냥꾼이 데려가죠."
+    },
+    {
+      "start": 19.74,
+      "end": 23.46,
+      "text": "라우지가 보호소를 탈출해서 트러블을 찾아 나섭니다."
+    },
+    {
+      "start": 23.46,
+      "end": 26.8,
+      "text": "그리고 개 공원에 있던 강아지들을 만나게 되는데요."
+    },
+    {
+      "start": 27.34,
+      "end": 28.88,
+      "text": "그 강아지 중 하나가"
+    },
+    {
+      "start": 28.88,
+      "end": 32.42,
+      "text": "이 트러블에 냄새가 배어있는 목줄을 발견하고요."
+    },
+    {
+      "start": 32.82,
+      "end": 35.66,
+      "text": "그걸 본 Gizmo라는 강아지는 이런 말을 하죠."
+    },
+    {
+      "start": 35.66,
+      "end": 41.17,
+      "text": "There's something I don't trust about that guy"
+    },
+    {
+      "start": 41.17,
+      "end": 44.81,
+      "text": "There's something I don't trust about that guy"
+    },
+    {
+      "start": 44.81,
+      "end": 47.99,
+      "text": "There's something 뭔가가 있어"
+    },
+    {
+      "start": 47.99,
+      "end": 50.49,
+      "text": "I don't trust about that guy"
+    },
+    {
+      "start": 50.49,
+      "end": 55.49,
+      "text": "내가 그 가이에 대해서 못 믿을 뭔가가 있어라는 겁니다."
+    },
+    {
+      "start": 56.21,
+      "end": 59.51,
+      "text": "그러니까 그 녀석 내가 뭔가 수상하다고 생각했어"
+    },
+    {
+      "start": 59.51,
+      "end": 61.71,
+      "text": "라는 의도로 해석하시면 되겠어요."
+    },
+    {
+      "start": 61.71,
+      "end": 64.77,
+      "text": "There's something I don't trust about that guy"
+    },
+    {
+      "start": 64.77,
+      "end": 70.11,
+      "text": "특히 이 Gizmo라는 강아지는 아주 서스피슈스한 면이 많이 있던 강아지였습니다."
+    },
+    {
+      "start": 70.91,
+      "end": 72.61,
+      "text": "이 부분 한 번 더 확인해 볼게요."
+    },
+    {
+      "start": 72.61,
+      "end": 76.94,
+      "text": "I'm looking for a, um, somebody"
+    },
+    {
+      "start": 76.94,
+      "end": 78.74,
+      "text": "Wait, isn't that Trouble's color?"
+    },
+    {
+      "start": 78.88,
+      "end": 80.32,
+      "text": "Fruit cocktail butt guy?"
+    },
+    {
+      "start": 80.36,
+      "end": 82.38,
+      "text": "There's something I don't trust about that guy, you know"
+    },
+    {
+      "start": 82.38,
+      "end": 84.78,
+      "text": "Has anyone checked to see if he's on any no-fly list?"
+    },
+    {
+      "start": 84.92,
+      "end": 87.18,
+      "text": "I told him not to trust humans"
+    },
+    {
+      "start": 87.18,
+      "end": 89.96,
+      "text": "And now he's making the biggest mistake of his life"
+    },
+    {
+      "start": 89.96,
+      "end": 90.76,
+      "text": "We haven't seen him"
+    },
+    {
+      "start": 90.76,
+      "end": 93.0,
+      "text": "Not since he got picked up by her"
+    },
+    {
+      "start": 93.0,
+      "end": 95.99,
+      "text": "네, 이번엔 목요일에 만난 표현입니다."
+    },
+    {
+      "start": 96.57,
+      "end": 101.37,
+      "text": "노벌트와 클레일가 개 사냥꾼이 찾아준 트러블을 데리고"
+    },
+    {
+      "start": 101.37,
+      "end": 104.47,
+      "text": "유산을 상속받기 위해서 변호사를 만납니다."
+    },
+    {
+      "start": 105.27,
+      "end": 109.41,
+      "text": "강아지와 주말 잘 보냈냐? 라고 묻는 변호사의 말에"
+    },
+    {
+      "start": 109.41,
+      "end": 112.53,
+      "text": "클레일은 아주 잘 지냈다. 라고 대답하죠."
+    },
+    {
+      "start": 112.97,
+      "end": 114.69,
+      "text": "그러자 변호사가 이렇게 말합니다."
+    },
+    {
+      "start": 114.69,
+      "end": 118.62,
+      "text": "I'm happy to hear"
+    },
+    {
+      "start": 118.62,
+      "end": 120.84,
+      "text": "I'm happy to hear"
+    },
+    {
+      "start": 120.84,
+      "end": 123.88,
+      "text": "I'm happy to hear that"
+    },
+    {
+      "start": 123.88,
+      "end": 126.56,
+      "text": "여기서 that가 생략이 되어 있다고 보시면 되겠죠."
+    },
+    {
+      "start": 127.0,
+      "end": 128.28,
+      "text": "I'm happy to hear that"
+    },
+    {
+      "start": 128.28,
+      "end": 129.98,
+      "text": "I'm happy to hear that"
+    },
+    {
+      "start": 129.98,
+      "end": 132.76,
+      "text": "아, 반가운 소리군요."
+    },
+    {
+      "start": 133.0,
+      "end": 134.36,
+      "text": "아, 그 얘기 들어서 기쁘네요."
+    },
+    {
+      "start": 134.88,
+      "end": 136.58,
+      "text": "듣던 중 반가운 소리네요."
+    },
+    {
+      "start": 136.96,
+      "end": 138.92,
+      "text": "라는 의미로 해석하시면 되겠어요."
+    },
+    {
+      "start": 139.52,
+      "end": 143.12,
+      "text": "이 문장 전체 대화 속에서 어떻게 쓰였는지 확인 한번 해볼게요."
+    },
+    {
+      "start": 143.12,
+      "end": 146.51,
+      "text": "So, I trust the weekend went well"
+    },
+    {
+      "start": 146.51,
+      "end": 148.87,
+      "text": "Oh, yes, yes, yes"
+    },
+    {
+      "start": 148.87,
+      "end": 150.93,
+      "text": "Oh, we really connected with the little fella"
+    },
+    {
+      "start": 150.93,
+      "end": 157.07,
+      "text": "Lots of walks and playing ball and biting things"
+    },
+    {
+      "start": 157.07,
+      "end": 158.81,
+      "text": "You know, typical dog stuff"
+    },
+    {
+      "start": 158.81,
+      "end": 160.93,
+      "text": "He even slept with me at night"
+    },
+    {
+      "start": 160.93,
+      "end": 162.57,
+      "text": "I'm happy to hear"
+    },
+    {
+      "start": 162.57,
+      "end": 164.23,
+      "text": "I know you lawyers get paid by the hour"
+    },
+    {
+      "start": 164.23,
+      "end": 165.19,
+      "text": "So, let's not dilly-dally"
+    },
+    {
+      "start": 165.19,
+      "end": 169.24,
+      "text": "네, Screen English 여기까지 복습해봤고요."
+    },
+    {
+      "start": 169.78,
+      "end": 174.24,
+      "text": "Trouble이 자신을 구해준 조이하고 다시 만나게 될 수 있을까요?"
+    },
+    {
+      "start": 174.98,
+      "end": 180.8,
+      "text": "이 Million Dollar Trouble 다음 이야기 궁금하시면 내일 Screen English 절대 놓치지 마세요."
+    },
+    {
+      "start": 180.8,
+      "end": 183.56,
+      "text": "KT Tonstel의 Made of Glass"
+    },
+    {
+      "start": 183.56,
+      "end": 195.7,
+      "text": "조정현의 굿모닝 팝스에서 준비한 선물입니다."
+    },
+    {
+      "start": 195.7,
+      "end": 200.96,
+      "text": "한국 방송 출판에서 월간 굿모닝 팝스 책 3개월 구독권을 드립니다."
+    },
+    {
+      "start": 200.96,
+      "end": 211.53,
+      "text": "24444님"
+    },
+    {
+      "start": 211.53,
+      "end": 213.41,
+      "text": "정현 언니 안녕하세요"
+    },
+    {
+      "start": 213.41,
+      "end": 217.71,
+      "text": "새벽마다 영어 공부할 수 있어서 얼마나 기쁜지 몰라요."
+    },
+    {
+      "start": 218.07,
+      "end": 222.65,
+      "text": "굿모닝 팝스 듣고 나면 하루를 보람차고 즐겁게 시작할 수 있어서 좋답니다."
+    },
+    {
+      "start": 223.11,
+      "end": 224.83,
+      "text": "감사해요 웃음우슴 하트"
+    },
+    {
+      "start": 225.63,
+      "end": 228.97,
+      "text": "와, 24444님 너무 반가워요."
+    },
+    {
+      "start": 229.61,
+      "end": 230.67,
+      "text": "아, 근데 정말 그래요."
+    },
+    {
+      "start": 230.67,
+      "end": 236.73,
+      "text": "굿모닝 팝스를 들으면 하루를 보람차고 즐겁게 시작할 수 있다라는 거죠."
+    },
+    {
+      "start": 237.41,
+      "end": 242.07,
+      "text": "와, 이 말씀에 저도 마음이 아주 꽉 채워지는 것 같은 기분이 듭니다."
+    },
+    {
+      "start": 242.37,
+      "end": 243.13,
+      "text": "너무 감사해요."
+    },
+    {
+      "start": 244.59,
+      "end": 245.47,
+      "text": "0076님"
+    },
+    {
+      "start": 245.47,
+      "end": 248.71,
+      "text": "저처럼 다시 돌아와서 듣는 분들이 많네요."
+    },
+    {
+      "start": 249.33,
+      "end": 250.93,
+      "text": "저도 오랜만에 돌아왔어요."
+    },
+    {
+      "start": 251.41,
+      "end": 252.65,
+      "text": "예전처럼 열공하겠습니다."
+    },
+    {
+      "start": 253.47,
+      "end": 256.13,
+      "text": "같은 자리에 변함없이 있으니 정말 좋네요."
+    },
+    {
+      "start": 256.63,
+      "end": 257.61,
+      "text": "장수 프로입니다."
+    },
+    {
+      "start": 258.45,
+      "end": 258.93,
+      "text": "그쵸?"
+    },
+    {
+      "start": 258.93,
+      "end": 264.69,
+      "text": "몇 년 만에 혹은 몇 십 년 만에 다시 애청해 주시는 분들이 되게 많으시더라고요."
+    },
+    {
+      "start": 265.39,
+      "end": 266.89,
+      "text": "아, 정말 좋은 소식이죠."
+    },
+    {
+      "start": 267.91,
+      "end": 270.93,
+      "text": "우리 0076님은 얼마 만에 오신 건가요?"
+    },
+    {
+      "start": 272.11,
+      "end": 279.47,
+      "text": "아무튼 이 장수 프로그램 앞으로도 장수할 수 있게 의지를 활활 불태워 주시기를 바랍니다."
+    },
+    {
+      "start": 279.91,
+      "end": 280.55,
+      "text": "응원할게요."
+    },
+    {
+      "start": 281.31,
+      "end": 285.29,
+      "text": "사연 소개되신 두 분 모두 월간 굿모닝 팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 285.29,
+      "end": 288.11,
+      "text": "4인 어릴의 Can't Slow Down"
+    },
+    {
+      "start": 288.11,
+      "end": 302.26,
+      "text": "Review Time Part 2"
+    },
+    {
+      "start": 302.26,
+      "end": 303.84,
+      "text": "Smarty Weedy English"
+    },
+    {
+      "start": 303.84,
+      "end": 319.38,
+      "text": "유용하게 쓸 수 있는 구문이나 표현을 문장 속에 넣어서 함께 따라 연습하는 시간."
+    },
+    {
+      "start": 319.6,
+      "end": 321.08,
+      "text": "Smarty Weedy English"
+    },
+    {
+      "start": 321.08,
+      "end": 325.92,
+      "text": "애청자 박우일님께서 이런 메시지를 남겨주셨어요."
+    },
+    {
+      "start": 326.66,
+      "end": 329.46,
+      "text": "복습 복습 또 보고 또 보기"
+    },
+    {
+      "start": 329.46,
+      "end": 332.22,
+      "text": "읽고 말하고 손으로 써보는 놀이"
+    },
+    {
+      "start": 332.22,
+      "end": 334.96,
+      "text": "공부가 아닌 놀이라고 생각하세요."
+    },
+    {
+      "start": 335.22,
+      "end": 338.52,
+      "text": "하하, 아주 지당한 말씀입니다."
+    },
+    {
+      "start": 339.42,
+      "end": 342.3,
+      "text": "특히 제 영어 이름이 로라잖아요."
+    },
+    {
+      "start": 343.02,
+      "end": 346.34,
+      "text": "근데 제 성이랑 같이 붙이면 로라죠."
+    },
+    {
+      "start": 346.34,
+      "end": 349.14,
+      "text": "아, 이건 좀 무리수였던 것 같아요."
+    },
+    {
+      "start": 349.86,
+      "end": 351.28,
+      "text": "네, 놀아드릴게요. 영어로."
+    },
+    {
+      "start": 351.42,
+      "end": 353.82,
+      "text": "먼저 4월 19일에 만났던 구문입니다."
+    },
+    {
+      "start": 356.13,
+      "end": 358.21,
+      "text": "Encourage 목작어"
+    },
+    {
+      "start": 358.21,
+      "end": 361.21,
+      "text": "그리고 Encourage 목작어"
+    },
+    {
+      "start": 361.21,
+      "end": 363.99,
+      "text": "투부정사라는 구조로 연습을 해봤는데요."
+    },
+    {
+      "start": 364.59,
+      "end": 367.35,
+      "text": "격려하다, 권하다 라는 의미였습니다."
+    },
+    {
+      "start": 368.31,
+      "end": 370.35,
+      "text": "저는 당신을 격려하러 왔어요."
+    },
+    {
+      "start": 370.67,
+      "end": 371.73,
+      "text": "이 문장 먼저 해볼까요?"
+    },
+    {
+      "start": 372.62,
+      "end": 373.56,
+      "text": "나는 왔다."
+    },
+    {
+      "start": 374.02,
+      "end": 375.02,
+      "text": "I came"
+    },
+    {
+      "start": 375.02,
+      "end": 376.72,
+      "text": "격려하러 당신을"
+    },
+    {
+      "start": 376.72,
+      "end": 378.3,
+      "text": "To encourage you"
+    },
+    {
+      "start": 378.3,
+      "end": 379.18,
+      "text": "그렇죠."
+    },
+    {
+      "start": 379.62,
+      "end": 380.3,
+      "text": "이 순서입니다."
+    },
+    {
+      "start": 380.76,
+      "end": 382.4,
+      "text": "I came to encourage you"
+    },
+    {
+      "start": 382.4,
+      "end": 387.16,
+      "text": "저는 당신에게 채소를 좀 드시라고 권하고 싶네요."
+    },
+    {
+      "start": 387.76,
+      "end": 388.42,
+      "text": "이것도 해보세요."
+    },
+    {
+      "start": 389.16,
+      "end": 390.02,
+      "text": "뭐뭐 하고 싶다."
+    },
+    {
+      "start": 390.34,
+      "end": 391.36,
+      "text": "I'd like to"
+    },
+    {
+      "start": 391.36,
+      "end": 393.14,
+      "text": "권하고 싶다"
+    },
+    {
+      "start": 393.14,
+      "end": 395.0,
+      "text": "Encourage you"
+    },
+    {
+      "start": 395.0,
+      "end": 397.02,
+      "text": "채소를 좀 드시라고"
+    },
+    {
+      "start": 397.02,
+      "end": 399.49,
+      "text": "To eat some vegetables"
+    },
+    {
+      "start": 399.49,
+      "end": 400.23,
+      "text": "그렇죠."
+    },
+    {
+      "start": 400.23,
+      "end": 402.87,
+      "text": "I'd like to encourage you"
+    },
+    {
+      "start": 402.87,
+      "end": 404.75,
+      "text": "To eat some vegetables"
+    },
+    {
+      "start": 404.75,
+      "end": 407.33,
+      "text": "요와 같이 리듬을 타시면서"
+    },
+    {
+      "start": 407.33,
+      "end": 408.89,
+      "text": "이야기하시면 좋습니다."
+    },
+    {
+      "start": 409.83,
+      "end": 410.99,
+      "text": "요즘에는 채소를"
+    },
+    {
+      "start": 410.99,
+      "end": 413.49,
+      "text": "일부러 더 챙겨 먹게 되더라고요."
+    },
+    {
+      "start": 414.09,
+      "end": 415.35,
+      "text": "그래야 소화도 잘 되고"
+    },
+    {
+      "start": 415.35,
+      "end": 418.25,
+      "text": "몸도 좀 더 가벼워지는 느낌이 들죠."
+    },
+    {
+      "start": 418.83,
+      "end": 421.57,
+      "text": "이번엔 4월 20일 화요일에 만난 구문입니다."
+    },
+    {
+      "start": 424.0,
+      "end": 424.6,
+      "text": "Protect"
+    },
+    {
+      "start": 424.6,
+      "end": 426.0,
+      "text": "Protect"
+    },
+    {
+      "start": 426.0,
+      "end": 428.56,
+      "text": "보호하다 라는 의미였죠."
+    },
+    {
+      "start": 429.22,
+      "end": 430.92,
+      "text": "그가 날 지켜줄 겁니다."
+    },
+    {
+      "start": 430.92,
+      "end": 433.88,
+      "text": "아주 희망찬 메시지 이야기해 보시겠어요."
+    },
+    {
+      "start": 434.56,
+      "end": 437.0,
+      "text": "He will protect me"
+    },
+    {
+      "start": 437.0,
+      "end": 437.6,
+      "text": "그렇죠."
+    },
+    {
+      "start": 437.6,
+      "end": 439.5,
+      "text": "He will protect me"
+    },
+    {
+      "start": 439.5,
+      "end": 440.62,
+      "text": "잘하셨어요."
+    },
+    {
+      "start": 441.77,
+      "end": 444.79,
+      "text": "당신은 주위 사람들을 보호하고 있지요"
+    },
+    {
+      "start": 444.79,
+      "end": 445.73,
+      "text": "라는 거"
+    },
+    {
+      "start": 445.73,
+      "end": 449.51,
+      "text": "특히 진행 시제를 활용해서 연습했던 거 기억나실 거예요."
+    },
+    {
+      "start": 449.87,
+      "end": 450.09,
+      "text": "그래서"
+    },
+    {
+      "start": 450.09,
+      "end": 452.69,
+      "text": "You are protecting"
+    },
+    {
+      "start": 452.69,
+      "end": 453.89,
+      "text": "사람들을"
+    },
+    {
+      "start": 453.89,
+      "end": 454.61,
+      "text": "People"
+    },
+    {
+      "start": 454.61,
+      "end": 455.77,
+      "text": "당신 주변에"
+    },
+    {
+      "start": 455.77,
+      "end": 456.61,
+      "text": "Around you"
+    },
+    {
+      "start": 456.61,
+      "end": 457.67,
+      "text": "네?"
+    },
+    {
+      "start": 457.89,
+      "end": 460.31,
+      "text": "이 어순을 지키시면서 이야기하시면 되겠어요."
+    },
+    {
+      "start": 460.31,
+      "end": 463.79,
+      "text": "수요일과 목요일에 배운 표현은 잠시 후에 만나볼게요."
+    },
+    {
+      "start": 463.79,
+      "end": 465.69,
+      "text": "다히리 A.T.의"
+    },
+    {
+      "start": 465.69,
+      "end": 466.81,
+      "text": "Tune in"
+    },
+    {
+      "start": 466.81,
+      "end": 470.86,
+      "text": "기초부터 탄탄하게 영어 실력을 업그레이드하는"
+    },
+    {
+      "start": 470.86,
+      "end": 473.1,
+      "text": "Smarty Weedy English Review Time"
+    },
+    {
+      "start": 473.1,
+      "end": 476.66,
+      "text": "이제 4월 21일 수요일에 만난 구문입니다."
+    },
+    {
+      "start": 478.84,
+      "end": 480.0,
+      "text": "Under control"
+    },
+    {
+      "start": 480.0,
+      "end": 481.9,
+      "text": "Under control"
+    },
+    {
+      "start": 481.9,
+      "end": 484.12,
+      "text": "잘 관리되는"
+    },
+    {
+      "start": 484.12,
+      "end": 485.52,
+      "text": "제어되는"
+    },
+    {
+      "start": 485.52,
+      "end": 486.84,
+      "text": "지배되는"
+    },
+    {
+      "start": 486.84,
+      "end": 488.34,
+      "text": "이라는 의미였습니다."
+    },
+    {
+      "start": 489.34,
+      "end": 491.02,
+      "text": "그들은 통제되고 있어요."
+    },
+    {
+      "start": 491.52,
+      "end": 492.72,
+      "text": "이 문장 떠올려 보세요."
+    },
+    {
+      "start": 493.73,
+      "end": 496.37,
+      "text": "They are under control"
+    },
+    {
+      "start": 496.37,
+      "end": 499.27,
+      "text": "아주 가뿐하게 만드실 수 있었죠?"
+    },
+    {
+      "start": 499.85,
+      "end": 501.79,
+      "text": "They are under control"
+    },
+    {
+      "start": 501.79,
+      "end": 503.95,
+      "text": "They are under control"
+    },
+    {
+      "start": 503.95,
+      "end": 504.81,
+      "text": "네, 좋아요."
+    },
+    {
+      "start": 505.49,
+      "end": 507.65,
+      "text": "모든 게 잘 되어가고 있어요."
+    },
+    {
+      "start": 508.25,
+      "end": 509.97,
+      "text": "이 문장도 되게 기분이 좋아지는데요?"
+    },
+    {
+      "start": 510.55,
+      "end": 511.25,
+      "text": "모든 게"
+    },
+    {
+      "start": 511.25,
+      "end": 514.93,
+      "text": "Everything is under control"
+    },
+    {
+      "start": 514.93,
+      "end": 517.41,
+      "text": "Everything is under control"
+    },
+    {
+      "start": 517.41,
+      "end": 518.37,
+      "text": "이거였습니다."
+    },
+    {
+      "start": 519.31,
+      "end": 519.99,
+      "text": "마지막으로"
+    },
+    {
+      "start": 519.99,
+      "end": 522.63,
+      "text": "4월 22일 목요일에 만난 구문입니다."
+    },
+    {
+      "start": 525.09,
+      "end": 525.89,
+      "text": "Prevalent"
+    },
+    {
+      "start": 525.89,
+      "end": 527.57,
+      "text": "Prevalent"
+    },
+    {
+      "start": 527.57,
+      "end": 529.33,
+      "text": "널리 퍼져 있는"
+    },
+    {
+      "start": 529.33,
+      "end": 530.53,
+      "text": "일반적인"
+    },
+    {
+      "start": 530.53,
+      "end": 531.67,
+      "text": "만연한"
+    },
+    {
+      "start": 531.67,
+      "end": 533.11,
+      "text": "이라는 형용사였죠."
+    },
+    {
+      "start": 533.45,
+      "end": 536.13,
+      "text": "이 Prevalent라는 단어를 들으면"
+    },
+    {
+      "start": 536.13,
+      "end": 537.75,
+      "text": "이 Prevail"
+    },
+    {
+      "start": 537.75,
+      "end": 540.65,
+      "text": "이라는 동사가 생각이 나게 되는데요."
+    },
+    {
+      "start": 541.09,
+      "end": 541.73,
+      "text": "만연하다"
+    },
+    {
+      "start": 541.73,
+      "end": 542.79,
+      "text": "팽배하다"
+    },
+    {
+      "start": 542.79,
+      "end": 544.19,
+      "text": "라는 동사까지"
+    },
+    {
+      "start": 544.19,
+      "end": 545.35,
+      "text": "참고로 알려드립니다."
+    },
+    {
+      "start": 545.79,
+      "end": 549.09,
+      "text": "P-R-E-V-A-I-L"
+    },
+    {
+      "start": 549.09,
+      "end": 550.21,
+      "text": "이라는 철자예요."
+    },
+    {
+      "start": 550.79,
+      "end": 551.55,
+      "text": "하지만 우리는"
+    },
+    {
+      "start": 551.55,
+      "end": 552.65,
+      "text": "Prevalent"
+    },
+    {
+      "start": 552.65,
+      "end": 553.73,
+      "text": "형용사로"
+    },
+    {
+      "start": 553.73,
+      "end": 554.85,
+      "text": "우리가 활용을 해봤죠."
+    },
+    {
+      "start": 555.55,
+      "end": 556.07,
+      "text": "섬은"
+    },
+    {
+      "start": 556.07,
+      "end": 557.71,
+      "text": "바람이 많이 불죠."
+    },
+    {
+      "start": 558.25,
+      "end": 558.89,
+      "text": "기억나시죠?"
+    },
+    {
+      "start": 559.85,
+      "end": 561.17,
+      "text": "Winds are"
+    },
+    {
+      "start": 561.17,
+      "end": 562.43,
+      "text": "Prevalent"
+    },
+    {
+      "start": 562.43,
+      "end": 563.73,
+      "text": "In the island"
+    },
+    {
+      "start": 563.73,
+      "end": 564.23,
+      "text": "그래요."
+    },
+    {
+      "start": 564.71,
+      "end": 565.93,
+      "text": "바람이 많이 불 때도"
+    },
+    {
+      "start": 565.93,
+      "end": 568.71,
+      "text": "이 Prevalent라는 형용사를 쓸 수 있다라는 게"
+    },
+    {
+      "start": 568.71,
+      "end": 569.69,
+      "text": "되게 흥미롭습니다."
+    },
+    {
+      "start": 570.53,
+      "end": 571.35,
+      "text": "그들 사이에"
+    },
+    {
+      "start": 571.35,
+      "end": 572.69,
+      "text": "그 편견들이"
+    },
+    {
+      "start": 572.69,
+      "end": 574.39,
+      "text": "널리 퍼져 있어요"
+    },
+    {
+      "start": 574.39,
+      "end": 575.45,
+      "text": "라는 문장"
+    },
+    {
+      "start": 575.45,
+      "end": 576.39,
+      "text": "이거 어떠세요?"
+    },
+    {
+      "start": 576.57,
+      "end": 577.41,
+      "text": "생각이 나십니까?"
+    },
+    {
+      "start": 578.11,
+      "end": 578.89,
+      "text": "편견들"
+    },
+    {
+      "start": 578.89,
+      "end": 579.65,
+      "text": "이라고 했으니까"
+    },
+    {
+      "start": 579.65,
+      "end": 581.39,
+      "text": "The prejudices"
+    },
+    {
+      "start": 581.39,
+      "end": 581.87,
+      "text": "그렇죠."
+    },
+    {
+      "start": 582.37,
+      "end": 583.83,
+      "text": "복수형으로 주어 자리를"
+    },
+    {
+      "start": 583.83,
+      "end": 584.89,
+      "text": "맞췄고요."
+    },
+    {
+      "start": 584.89,
+      "end": 585.77,
+      "text": "Are"
+    },
+    {
+      "start": 585.77,
+      "end": 587.17,
+      "text": "Prevalent"
+    },
+    {
+      "start": 587.17,
+      "end": 588.09,
+      "text": "그들 사이에"
+    },
+    {
+      "start": 588.09,
+      "end": 589.77,
+      "text": "Among them"
+    },
+    {
+      "start": 589.77,
+      "end": 592.13,
+      "text": "이렇게 완성시키시면 되겠죠."
+    },
+    {
+      "start": 592.67,
+      "end": 594.03,
+      "text": "The prejudices are"
+    },
+    {
+      "start": 594.03,
+      "end": 594.97,
+      "text": "Prevalent"
+    },
+    {
+      "start": 594.97,
+      "end": 595.99,
+      "text": "Among them"
+    },
+    {
+      "start": 595.99,
+      "end": 596.85,
+      "text": "이거였습니다."
+    },
+    {
+      "start": 597.85,
+      "end": 598.19,
+      "text": "이렇게"
+    }
+  ]
+}
