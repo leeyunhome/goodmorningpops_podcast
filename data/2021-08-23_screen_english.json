@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "Now it_s all ruined",
   "movie": "",
-  "duration_sec": 893.44,
+  "duration_sec": 894.12,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-23_screen_english.mp3",
   "script": [
     {
@@ -1802,6 +1802,11 @@
       "start": 892.88,
       "end": 893.44,
       "text": "See you tomorrow."
+    },
+    {
+      "start": 893.7,
+      "end": 894.12,
+      "text": "Bye."
     }
   ]
 }
