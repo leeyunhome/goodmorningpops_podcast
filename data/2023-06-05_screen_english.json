@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "I_m planning on hiring one of you",
   "movie": "",
-  "duration_sec": 833.06,
+  "duration_sec": 862.16,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-05_screen_english.mp3",
   "script": [
     {
@@ -1792,6 +1792,66 @@
       "start": 831.12,
       "end": 833.06,
       "text": "라디오로 만나니 좋으네요."
+    },
+    {
+      "start": 833.24,
+      "end": 834.06,
+      "text": "라고 해주셨습니다."
+    },
+    {
+      "start": 834.2,
+      "end": 835.44,
+      "text": "You just heard my voice?"
+    },
+    {
+      "start": 835.84,
+      "end": 839.4,
+      "text": "What about my voice makes you tell it's me?"
+    },
+    {
+      "start": 839.48,
+      "end": 840.0,
+      "text": "No, it's me."
+    },
+    {
+      "start": 840.76,
+      "end": 847.2,
+      "text": "아마도 그동안에는 TV를 통해서 많이 보시다가 이렇게 목소리만 딱 들으시니까"
+    },
+    {
+      "start": 847.2,
+      "end": 849.16,
+      "text": "오, 크리스? 이러면서."
+    },
+    {
+      "start": 849.16,
+      "end": 851.08,
+      "text": "아, 목소리 조금 튀는 목소리더라고요."
+    },
+    {
+      "start": 851.26,
+      "end": 851.6,
+      "text": "네."
+    },
+    {
+      "start": 851.74,
+      "end": 854.2,
+      "text": "정감 있게 느끼셨을 거라고 생각하고요."
+    },
+    {
+      "start": 854.3,
+      "end": 857.84,
+      "text": "앞으로도 고정의 청자 되어주시기를 바랍니다."
+    },
+    {
+      "start": 858.14,
+      "end": 859.32,
+      "text": "아, thanks for the message."
+    },
+    {
+      "start": 859.6,
+      "end": 862.16,
+      "text": "그리고 우리는 내일 다시 만날게요."
     }
   ]
 }
