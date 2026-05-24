@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T22:01:03",
-  "count": 246,
+  "generated_at": "2026-05-24T22:01:12",
+  "count": 247,
   "episodes": [
     {
       "id": "2023-06-28_screen_english",
@@ -161,6 +161,16 @@
       "movie": "",
       "duration_sec": 927.5,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-24_screen_english.mp3"
+    },
+    {
+      "id": "2023-04-20_screen_english",
+      "date": "2023-04-20",
+      "corner": "screen_english",
+      "corner_label": "Screen English",
+      "title": "All art requires sacrifice",
+      "movie": "",
+      "duration_sec": 565.59,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-20_screen_english.mp3"
     },
     {
       "id": "2023-04-19_screen_english",
