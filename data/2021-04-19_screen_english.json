@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "There_s been a mistake",
   "movie": "",
-  "duration_sec": 859.12,
+  "duration_sec": 861.56,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-19_screen_english.mp3",
   "script": [
     {
@@ -2692,6 +2692,16 @@
       "start": 856.36,
       "end": 859.12,
       "text": "네, 오늘 스크린 잉글리쉬는 여기까지입니다"
+    },
+    {
+      "start": 859.12,
+      "end": 860.66,
+      "text": "그리스 씨, 내일 또 만나요"
+    },
+    {
+      "start": 860.66,
+      "end": 861.56,
+      "text": "I'll see you tomorrow"
     }
   ]
 }
