@@ -1,0 +1,3127 @@
+{
+  "id": "2023-08-30_screen_english",
+  "date": "2023-08-30",
+  "corner": "screen_english",
+  "corner_label": "Screen English",
+  "title": "I_m so exhausted I can_t sleep",
+  "movie": "",
+  "duration_sec": 958.68,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-30_screen_english.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 2.3,
+      "text": "Yeah, they had some rough times at first"
+    },
+    {
+      "start": 2.3,
+      "end": 2.74,
+      "text": "맞아요"
+    },
+    {
+      "start": 2.74,
+      "end": 3.98,
+      "text": "A lot of ups and downs"
+    },
+    {
+      "start": 3.98,
+      "end": 5.0,
+      "text": "And twists and turns"
+    },
+    {
+      "start": 5.0,
+      "end": 6.42,
+      "text": "Yes, all around"
+    },
+    {
+      "start": 6.42,
+      "end": 7.1,
+      "text": "맞아요"
+    },
+    {
+      "start": 7.1,
+      "end": 9.42,
+      "text": "But now they're, you know, closer than ever before"
+    },
+    {
+      "start": 9.42,
+      "end": 13.5,
+      "text": "Yeah, 함께 지내면서 여러가지 우여곡절을 다 겪고"
+    },
+    {
+      "start": 13.5,
+      "end": 18.62,
+      "text": "이제는 그 둘의 관계가 정말 친밀해진 모습을 볼 수가 있었습니다"
+    },
+    {
+      "start": 18.62,
+      "end": 22.9,
+      "text": "근데 그뿐만 아니라 조니하고 여동생 Veev 있잖아요"
+    },
+    {
+      "start": 22.9,
+      "end": 25.5,
+      "text": "이 둘의 관계도 많이 회복이 되었어요"
+    },
+    {
+      "start": 25.5,
+      "end": 26.84,
+      "text": "Oh, so better"
+    },
+    {
+      "start": 26.84,
+      "end": 27.46,
+      "text": "맞아요"
+    },
+    {
+      "start": 27.46,
+      "end": 30.76,
+      "text": "He came to understand how hard it must be"
+    },
+    {
+      "start": 30.76,
+      "end": 33.74,
+      "text": "Must have been to his sister"
+    },
+    {
+      "start": 33.74,
+      "end": 34.18,
+      "text": "Sure"
+    },
+    {
+      "start": 34.18,
+      "end": 35.72,
+      "text": "엄마의 고충들"
+    },
+    {
+      "start": 35.72,
+      "end": 36.18,
+      "text": "맞아요"
+    },
+    {
+      "start": 36.18,
+      "end": 37.28,
+      "text": "한만에 알 수 있는"
+    },
+    {
+      "start": 37.28,
+      "end": 37.8,
+      "text": "맞아요"
+    },
+    {
+      "start": 37.8,
+      "end": 39.14,
+      "text": "육아라는 거"
+    },
+    {
+      "start": 39.14,
+      "end": 39.76,
+      "text": "육아"
+    },
+    {
+      "start": 39.76,
+      "end": 40.74,
+      "text": "Plus 일"
+    },
+    {
+      "start": 40.74,
+      "end": 41.1,
+      "text": "네"
+    },
+    {
+      "start": 41.1,
+      "end": 41.86,
+      "text": "경맹하면서"
+    },
+    {
+      "start": 41.86,
+      "end": 42.32,
+      "text": "Yeah"
+    },
+    {
+      "start": 42.32,
+      "end": 43.26,
+      "text": "He's working"
+    },
+    {
+      "start": 43.26,
+      "end": 45.74,
+      "text": "He's taking care of the nephew"
+    },
+    {
+      "start": 45.74,
+      "end": 46.26,
+      "text": "Uh-huh"
+    },
+    {
+      "start": 46.26,
+      "end": 47.38,
+      "text": "That is not easy"
+    },
+    {
+      "start": 47.38,
+      "end": 47.84,
+      "text": "그렇죠"
+    },
+    {
+      "start": 47.84,
+      "end": 50.82,
+      "text": "I mean, taking care of a kid is a full-time job in itself"
+    },
+    {
+      "start": 50.82,
+      "end": 51.34,
+      "text": "Uh-huh"
+    },
+    {
+      "start": 51.34,
+      "end": 53.56,
+      "text": "On top of that, working full-time"
+    },
+    {
+      "start": 53.56,
+      "end": 54.06,
+      "text": "Uh-huh"
+    },
+    {
+      "start": 54.06,
+      "end": 55.4,
+      "text": "I know he's a freelancer"
+    },
+    {
+      "start": 55.4,
+      "end": 55.76,
+      "text": "Yeah"
+    },
+    {
+      "start": 55.76,
+      "end": 59.6,
+      "text": "But still, it's exhausting to bring your kid everywhere"
+    },
+    {
+      "start": 59.6,
+      "end": 62.52,
+      "text": "Like to the 놀이터, to the playground is okay"
+    },
+    {
+      "start": 62.52,
+      "end": 64.48,
+      "text": "But to the 일터, 아구 놀이요"
+    },
+    {
+      "start": 64.48,
+      "end": 65.06,
+      "text": "그렇죠"
+    },
+    {
+      "start": 65.06,
+      "end": 70.34,
+      "text": "우리 청취자분들 중에서도 많은 working mom 분들이 계신데"
+    },
+    {
+      "start": 70.34,
+      "end": 74.72,
+      "text": "아마 들으시면서 공감이 충분히 되셨을 거라고 생각합니다"
+    },
+    {
+      "start": 74.72,
+      "end": 75.74,
+      "text": "Yes"
+    },
+    {
+      "start": 75.74,
+      "end": 77.68,
+      "text": "I'm very thankful for the 기움센터"
+    },
+    {
+      "start": 77.68,
+      "end": 79.6,
+      "text": "The kids are in vacation"
+    },
+    {
+      "start": 79.6,
+      "end": 81.58,
+      "text": "And they have this 기움센터"
+    },
+    {
+      "start": 81.58,
+      "end": 82.98,
+      "text": "It's amazing"
+    },
+    {
+      "start": 82.98,
+      "end": 85.98,
+      "text": "And it happens to be like right near my house"
+    },
+    {
+      "start": 85.98,
+      "end": 86.52,
+      "text": "Wow"
+    },
+    {
+      "start": 86.52,
+      "end": 89.86,
+      "text": "And it's all offered by the city of Seoul"
+    },
+    {
+      "start": 89.86,
+      "end": 92.9,
+      "text": "For parents of elementary kids"
+    },
+    {
+      "start": 92.9,
+      "end": 93.2,
+      "text": "Yeah"
+    },
+    {
+      "start": 93.2,
+      "end": 93.7,
+      "text": "Anybody"
+    },
+    {
+      "start": 93.7,
+      "end": 96.96,
+      "text": "정말 전실한, 필요한 장소입니다"
+    },
+    {
+      "start": 96.96,
+      "end": 98.04,
+      "text": "For no cost"
+    },
+    {
+      "start": 98.04,
+      "end": 98.46,
+      "text": "그렇죠"
+    },
+    {
+      "start": 98.46,
+      "end": 99.38,
+      "text": "It's amazing"
+    },
+    {
+      "start": 99.38,
+      "end": 100.46,
+      "text": "너무 좋아요"
+    },
+    {
+      "start": 100.46,
+      "end": 103.96,
+      "text": "네, 아주 10분 잘 혜택을 누리고 계시는군요"
+    },
+    {
+      "start": 103.96,
+      "end": 104.72,
+      "text": "좋습니다"
+    },
+    {
+      "start": 104.72,
+      "end": 107.04,
+      "text": "그럼 오늘 준비된 내용 들어볼게요"
+    },
+    {
+      "start": 107.04,
+      "end": 109.08,
+      "text": "Why are you still up?"
+    },
+    {
+      "start": 109.08,
+      "end": 110.14,
+      "text": "Good question"
+    },
+    {
+      "start": 110.14,
+      "end": 111.98,
+      "text": "I'm so exhausted"
+    },
+    {
+      "start": 111.98,
+      "end": 114.78,
+      "text": "I can't sleep"
+    },
+    {
+      "start": 114.78,
+      "end": 115.46,
+      "text": "I just"
+    },
+    {
+      "start": 115.46,
+      "end": 117.34,
+      "text": "I'm going to tell you something that"
+    },
+    {
+      "start": 117.34,
+      "end": 119.24,
+      "text": "As a mother you won't be able to understand"
+    },
+    {
+      "start": 119.24,
+      "end": 120.38,
+      "text": "But you're going to have to trust me"
+    },
+    {
+      "start": 120.38,
+      "end": 122.06,
+      "text": "Taking care of him"
+    },
+    {
+      "start": 122.06,
+      "end": 124.54,
+      "text": "And working at the same time"
+    },
+    {
+      "start": 124.54,
+      "end": 125.98,
+      "text": "Is a little too much"
+    },
+    {
+      "start": 125.98,
+      "end": 126.68,
+      "text": "It just"
+    },
+    {
+      "start": 126.68,
+      "end": 128.52,
+      "text": "Takes a lot out of you"
+    },
+    {
+      "start": 128.52,
+      "end": 130.64,
+      "text": "So"
+    },
+    {
+      "start": 130.64,
+      "end": 133.45,
+      "text": "Tomorrow I'm going to take him to a parade"
+    },
+    {
+      "start": 133.45,
+      "end": 134.75,
+      "text": "That Sunny told me about"
+    },
+    {
+      "start": 134.75,
+      "end": 137.27,
+      "text": "You're doing so good"
+    },
+    {
+      "start": 137.27,
+      "end": 138.44,
+      "text": "네"
+    },
+    {
+      "start": 138.44,
+      "end": 139.98,
+      "text": "이 육아라는 것은"
+    },
+    {
+      "start": 139.98,
+      "end": 143.52,
+      "text": "직접 경험을 해보지 않으면 절대로 모르는 거죠"
+    },
+    {
+      "start": 143.52,
+      "end": 144.2,
+      "text": "Oh yeah"
+    },
+    {
+      "start": 144.2,
+      "end": 145.48,
+      "text": "해봐야 알아"
+    },
+    {
+      "start": 145.48,
+      "end": 149.6,
+      "text": "말투에서 아주 속 깊은 진심이 느껴집니다"
+    },
+    {
+      "start": 149.6,
+      "end": 150.56,
+      "text": "Honestly"
+    },
+    {
+      "start": 150.56,
+      "end": 153.04,
+      "text": "My wife does most of the hard stuff"
+    },
+    {
+      "start": 153.04,
+      "end": 154.46,
+      "text": "I play with the kids"
+    },
+    {
+      "start": 154.46,
+      "end": 156.36,
+      "text": "I feed them and play with them"
+    },
+    {
+      "start": 156.36,
+      "end": 157.88,
+      "text": "그것도 진짜 중요해요"
+    },
+    {
+      "start": 157.88,
+      "end": 159.56,
+      "text": "아이들하고 놀아주는 아빠"
+    },
+    {
+      "start": 159.56,
+      "end": 160.16,
+      "text": "그쵸?"
+    },
+    {
+      "start": 160.68,
+      "end": 165.2,
+      "text": "사실 이 두 사람의 지금 들으신 이 목소리 기억하시죠?"
+    },
+    {
+      "start": 165.42,
+      "end": 166.54,
+      "text": "동생 Viva하고"
+    },
+    {
+      "start": 166.54,
+      "end": 170.26,
+      "text": "그리고 오빠인 조니의 목소리였는데"
+    },
+    {
+      "start": 170.26,
+      "end": 172.82,
+      "text": "확실히 이 두 사람의 분위기가"
+    },
+    {
+      "start": 172.82,
+      "end": 174.58,
+      "text": "has become much more comfortable"
+    },
+    {
+      "start": 174.58,
+      "end": 175.66,
+      "text": "하게 느껴져요"
+    },
+    {
+      "start": 175.66,
+      "end": 175.94,
+      "text": "그쵸?"
+    },
+    {
+      "start": 176.08,
+      "end": 179.1,
+      "text": "Yeah, they were not even on a talking basis"
+    },
+    {
+      "start": 179.1,
+      "end": 180.18,
+      "text": "a talking relationship"
+    },
+    {
+      "start": 180.18,
+      "end": 182.34,
+      "text": "They hadn't spoken to each other"
+    },
+    {
+      "start": 182.34,
+      "end": 183.34,
+      "text": "for years"
+    },
+    {
+      "start": 183.34,
+      "end": 185.38,
+      "text": "And now they're like best friends"
+    },
+    {
+      "start": 185.38,
+      "end": 187.18,
+      "text": "Yeah, thanks to Jesse 아닐까요?"
+    },
+    {
+      "start": 187.3,
+      "end": 189.0,
+      "text": "Ah, he's the key"
+    },
+    {
+      "start": 189.0,
+      "end": 190.58,
+      "text": "The 연결고리"
+    },
+    {
+      "start": 190.58,
+      "end": 191.22,
+      "text": "그렇죠"
+    },
+    {
+      "start": 191.22,
+      "end": 192.64,
+      "text": "아이를 육아를 하면서"
+    },
+    {
+      "start": 192.64,
+      "end": 194.38,
+      "text": "이 조니 삼촌은 아무래도"
+    },
+    {
+      "start": 194.38,
+      "end": 197.36,
+      "text": "had to call many times"
+    },
+    {
+      "start": 197.36,
+      "end": 198.9,
+      "text": "Oh, so many times"
+    },
+    {
+      "start": 198.9,
+      "end": 199.22,
+      "text": "그렇죠"
+    },
+    {
+      "start": 199.22,
+      "end": 200.44,
+      "text": "What do I do with him?"
+    },
+    {
+      "start": 200.52,
+      "end": 201.48,
+      "text": "보고해야죠"
+    },
+    {
+      "start": 201.48,
+      "end": 202.48,
+      "text": "Oh, sure"
+    },
+    {
+      "start": 202.48,
+      "end": 204.48,
+      "text": "He's going to bed on time"
+    },
+    {
+      "start": 204.48,
+      "end": 205.74,
+      "text": "He ate his vitamins"
+    },
+    {
+      "start": 205.74,
+      "end": 207.62,
+      "text": "He didn't have too much ice cream"
+    },
+    {
+      "start": 207.62,
+      "end": 208.7,
+      "text": "Don't worry"
+    },
+    {
+      "start": 208.7,
+      "end": 210.46,
+      "text": "네, 이처럼"
+    },
+    {
+      "start": 210.46,
+      "end": 213.2,
+      "text": "여동생과 통화도 자주 하게 되면서"
+    },
+    {
+      "start": 213.2,
+      "end": 215.66,
+      "text": "서로 굉장히 회복이 된"
+    },
+    {
+      "start": 215.66,
+      "end": 217.46,
+      "text": "그런 느낌이 드는 장면이었습니다"
+    },
+    {
+      "start": 217.46,
+      "end": 218.58,
+      "text": "그 반대로 될 수도 있는데"
+    },
+    {
+      "start": 218.58,
+      "end": 220.02,
+      "text": "아니, 왜 안 됐다 맡기고"
+    },
+    {
+      "start": 220.02,
+      "end": 220.96,
+      "text": "왜 이렇게 가버리냐"
+    },
+    {
+      "start": 220.96,
+      "end": 223.28,
+      "text": "반대로 되기 쉬워요"
+    },
+    {
+      "start": 223.28,
+      "end": 225.54,
+      "text": "아, 반대는 또 생각을 못했는데요"
+    },
+    {
+      "start": 225.54,
+      "end": 227.96,
+      "text": "They could become enemies"
+    },
+    {
+      "start": 227.96,
+      "end": 228.9,
+      "text": "arch enemies"
+    },
+    {
+      "start": 228.9,
+      "end": 229.88,
+      "text": "아, 그렇구나"
+    },
+    {
+      "start": 229.88,
+      "end": 231.32,
+      "text": "우리 조니 삼촌은"
+    },
+    {
+      "start": 231.32,
+      "end": 233.7,
+      "text": "다행히 굉장히 좋은 성품의 삼촌이었네요"
+    },
+    {
+      "start": 233.7,
+      "end": 235.34,
+      "text": "He has a good heart"
+    },
+    {
+      "start": 235.34,
+      "end": 236.3,
+      "text": "A big heart"
+    },
+    {
+      "start": 236.3,
+      "end": 237.3,
+      "text": "Deep inside"
+    },
+    {
+      "start": 237.3,
+      "end": 237.62,
+      "text": "Yeah"
+    },
+    {
+      "start": 237.62,
+      "end": 238.3,
+      "text": "그러면"
+    },
+    {
+      "start": 238.3,
+      "end": 240.26,
+      "text": "미리 점검을 해본 표현은"
+    },
+    {
+      "start": 240.26,
+      "end": 241.38,
+      "text": "어떤 게 있을까요?"
+    },
+    {
+      "start": 241.86,
+      "end": 242.86,
+      "text": "I'm so exhausted"
+    },
+    {
+      "start": 242.86,
+      "end": 244.48,
+      "text": "I can't sleep"
+    },
+    {
+      "start": 244.48,
+      "end": 245.48,
+      "text": "아, 이럴 때 있죠"
+    },
+    {
+      "start": 245.48,
+      "end": 246.28,
+      "text": "맞아요"
+    },
+    {
+      "start": 246.28,
+      "end": 247.58,
+      "text": "You're just too tired"
+    },
+    {
+      "start": 247.58,
+      "end": 249.06,
+      "text": "that you can't fall asleep"
+    },
+    {
+      "start": 249.06,
+      "end": 251.54,
+      "text": "진짜 경험을 해본 적이 있습니다"
+    },
+    {
+      "start": 251.54,
+      "end": 252.54,
+      "text": "너무 피곤해서"
+    },
+    {
+      "start": 252.54,
+      "end": 253.46,
+      "text": "잠이 안 오는"
+    },
+    {
+      "start": 253.46,
+      "end": 253.94,
+      "text": "Yeah"
+    },
+    {
+      "start": 253.94,
+      "end": 256.31,
+      "text": "뜬 눈으로 밤을 세우는"
+    },
+    {
+      "start": 256.31,
+      "end": 256.67,
+      "text": "Yeah"
+    },
+    {
+      "start": 256.67,
+      "end": 258.95,
+      "text": "많으세요, 그런 경험이?"
+    },
+    {
+      "start": 259.03,
+      "end": 259.81,
+      "text": "어제도 있었어요"
+    },
+    {
+      "start": 259.81,
+      "end": 260.19,
+      "text": "그래요?"
+    },
+    {
+      "start": 260.37,
+      "end": 260.65,
+      "text": "네"
+    },
+    {
+      "start": 260.65,
+      "end": 262.77,
+      "text": "왜 걱정이 많으셨어요?"
+    },
+    {
+      "start": 262.99,
+      "end": 263.45,
+      "text": "아니, 어제"
+    },
+    {
+      "start": 263.45,
+      "end": 264.55,
+      "text": "늦게까지"
+    },
+    {
+      "start": 264.55,
+      "end": 266.29,
+      "text": "I was working late"
+    },
+    {
+      "start": 266.29,
+      "end": 268.59,
+      "text": "and I think I had some coffee"
+    },
+    {
+      "start": 268.59,
+      "end": 271.13,
+      "text": "and then I was tired even beforehand"
+    },
+    {
+      "start": 271.13,
+      "end": 273.01,
+      "text": "and then I couldn't sleep"
+    },
+    {
+      "start": 273.01,
+      "end": 274.27,
+      "text": "and then I got up"
+    },
+    {
+      "start": 274.27,
+      "end": 274.93,
+      "text": "and I was tired"
+    },
+    {
+      "start": 274.93,
+      "end": 275.77,
+      "text": "so I had more coffee"
+    },
+    {
+      "start": 275.77,
+      "end": 277.33,
+      "text": "and then, you know"
+    },
+    {
+      "start": 277.33,
+      "end": 278.73,
+      "text": "it's a vicious cycle"
+    },
+    {
+      "start": 278.73,
+      "end": 279.87,
+      "text": "약순환이 되는 거죠"
+    },
+    {
+      "start": 279.87,
+      "end": 280.59,
+      "text": "그러네요"
+    },
+    {
+      "start": 280.59,
+      "end": 282.03,
+      "text": "And it just goes on"
+    },
+    {
+      "start": 282.03,
+      "end": 284.61,
+      "text": "오늘은 좀 숙면하시길 바랍니다"
+    },
+    {
+      "start": 284.61,
+      "end": 285.61,
+      "text": "I hope so"
+    },
+    {
+      "start": 285.61,
+      "end": 287.33,
+      "text": "I'm so exhausted"
+    },
+    {
+      "start": 287.33,
+      "end": 288.67,
+      "text": "I can't sleep"
+    },
+    {
+      "start": 288.67,
+      "end": 289.81,
+      "text": "라고 들으셨는데"
+    },
+    {
+      "start": 289.81,
+      "end": 291.17,
+      "text": "기력이 다해서"
+    },
+    {
+      "start": 291.17,
+      "end": 292.01,
+      "text": "잠이 안 와"
+    },
+    {
+      "start": 292.01,
+      "end": 292.91,
+      "text": "너무 피곤해서"
+    },
+    {
+      "start": 292.91,
+      "end": 294.11,
+      "text": "잠이 안 와"
+    },
+    {
+      "start": 294.11,
+      "end": 295.01,
+      "text": "라는 말입니다"
+    },
+    {
+      "start": 295.01,
+      "end": 296.67,
+      "text": "A little too much"
+    },
+    {
+      "start": 296.67,
+      "end": 298.69,
+      "text": "A little too much"
+    },
+    {
+      "start": 298.69,
+      "end": 299.47,
+      "text": "라고 한다면"
+    },
+    {
+      "start": 299.47,
+      "end": 301.75,
+      "text": "좀 너무 심한"
+    },
+    {
+      "start": 301.75,
+      "end": 303.19,
+      "text": "좀 과한"
+    },
+    {
+      "start": 303.19,
+      "end": 304.19,
+      "text": "이라는 의미죠"
+    },
+    {
+      "start": 304.19,
+      "end": 305.39,
+      "text": "A little too much"
+    },
+    {
+      "start": 305.39,
+      "end": 306.65,
+      "text": "많이 쓰죠"
+    },
+    {
+      "start": 306.65,
+      "end": 308.81,
+      "text": "It just takes a lot"
+    },
+    {
+      "start": 308.81,
+      "end": 309.87,
+      "text": "out of you"
+    },
+    {
+      "start": 309.87,
+      "end": 312.01,
+      "text": "It just takes a lot"
+    },
+    {
+      "start": 312.01,
+      "end": 313.17,
+      "text": "out of you"
+    },
+    {
+      "start": 313.17,
+      "end": 313.91,
+      "text": "Oh, it does"
+    },
+    {
+      "start": 313.91,
+      "end": 316.33,
+      "text": "너를 지치게 하는 거야"
+    },
+    {
+      "start": 316.33,
+      "end": 318.47,
+      "text": "몸이 남아나질"
+    },
+    {
+      "start": 318.47,
+      "end": 319.43,
+      "text": "않는 거야"
+    },
+    {
+      "start": 319.43,
+      "end": 320.59,
+      "text": "라는 문장입니다"
+    },
+    {
+      "start": 320.59,
+      "end": 321.55,
+      "text": "Like raising kids"
+    },
+    {
+      "start": 321.55,
+      "end": 322.45,
+      "text": "while working"
+    },
+    {
+      "start": 322.45,
+      "end": 323.19,
+      "text": "a full-time job"
+    },
+    {
+      "start": 323.19,
+      "end": 324.75,
+      "text": "That takes a lot"
+    },
+    {
+      "start": 324.75,
+      "end": 325.33,
+      "text": "out of you"
+    },
+    {
+      "start": 325.33,
+      "end": 327.01,
+      "text": "충분히 지칠 수 있는"
+    },
+    {
+      "start": 327.01,
+      "end": 327.91,
+      "text": "상황이네요"
+    },
+    {
+      "start": 327.91,
+      "end": 329.97,
+      "text": "이렇게 이야기를 해주는"
+    },
+    {
+      "start": 329.97,
+      "end": 330.59,
+      "text": "오빠라면"
+    },
+    {
+      "start": 330.59,
+      "end": 331.97,
+      "text": "오빠의 정석이"
+    },
+    {
+      "start": 331.97,
+      "end": 332.79,
+      "text": "되겠습니다"
+    },
+    {
+      "start": 332.79,
+      "end": 334.89,
+      "text": "그렇죠"
+    },
+    {
+      "start": 334.89,
+      "end": 336.57,
+      "text": "자, 내용 다시 한번"
+    },
+    {
+      "start": 336.57,
+      "end": 337.98,
+      "text": "들어보시죠"
+    },
+    {
+      "start": 337.98,
+      "end": 339.26,
+      "text": "Why are you still up?"
+    },
+    {
+      "start": 339.76,
+      "end": 340.3,
+      "text": "Good question"
+    },
+    {
+      "start": 340.3,
+      "end": 342.14,
+      "text": "I'm so exhausted"
+    },
+    {
+      "start": 342.14,
+      "end": 344.96,
+      "text": "I can't sleep"
+    },
+    {
+      "start": 344.96,
+      "end": 345.64,
+      "text": "I just"
+    },
+    {
+      "start": 345.64,
+      "end": 346.92,
+      "text": "I'm going to tell you"
+    },
+    {
+      "start": 346.92,
+      "end": 347.48,
+      "text": "something that"
+    },
+    {
+      "start": 347.48,
+      "end": 348.34,
+      "text": "as a mother"
+    },
+    {
+      "start": 348.34,
+      "end": 348.92,
+      "text": "you won't be able"
+    },
+    {
+      "start": 348.92,
+      "end": 349.4,
+      "text": "to understand"
+    },
+    {
+      "start": 349.4,
+      "end": 349.78,
+      "text": "but you're going to"
+    },
+    {
+      "start": 349.78,
+      "end": 350.54,
+      "text": "have to trust me"
+    },
+    {
+      "start": 350.54,
+      "end": 352.24,
+      "text": "taking care of him"
+    },
+    {
+      "start": 352.24,
+      "end": 353.84,
+      "text": "and working"
+    },
+    {
+      "start": 353.84,
+      "end": 354.7,
+      "text": "at the same time"
+    },
+    {
+      "start": 354.7,
+      "end": 356.16,
+      "text": "is a little too much"
+    },
+    {
+      "start": 356.16,
+      "end": 356.84,
+      "text": "It just"
+    },
+    {
+      "start": 356.84,
+      "end": 358.17,
+      "text": "takes a lot"
+    },
+    {
+      "start": 358.17,
+      "end": 358.69,
+      "text": "out of you"
+    },
+    {
+      "start": 358.69,
+      "end": 360.79,
+      "text": "So"
+    },
+    {
+      "start": 360.79,
+      "end": 362.25,
+      "text": "tomorrow I'm going to"
+    },
+    {
+      "start": 362.25,
+      "end": 362.95,
+      "text": "take him to"
+    },
+    {
+      "start": 362.95,
+      "end": 363.61,
+      "text": "a parade"
+    },
+    {
+      "start": 363.61,
+      "end": 364.51,
+      "text": "that Sunny told me"
+    },
+    {
+      "start": 364.51,
+      "end": 364.85,
+      "text": "about"
+    },
+    {
+      "start": 364.85,
+      "end": 366.36,
+      "text": "You're doing"
+    },
+    {
+      "start": 366.36,
+      "end": 367.38,
+      "text": "so good"
+    },
+    {
+      "start": 367.38,
+      "end": 369.97,
+      "text": "네, 조니 삼촌이"
+    },
+    {
+      "start": 369.97,
+      "end": 371.47,
+      "text": "육아를 하면서"
+    },
+    {
+      "start": 371.47,
+      "end": 372.97,
+      "text": "그리고 일도 하면서"
+    },
+    {
+      "start": 372.97,
+      "end": 374.97,
+      "text": "여동생의"
+    },
+    {
+      "start": 374.97,
+      "end": 375.81,
+      "text": "마음에 굉장히"
+    },
+    {
+      "start": 375.81,
+      "end": 376.75,
+      "text": "공감을 하고 있는"
+    },
+    {
+      "start": 376.75,
+      "end": 377.43,
+      "text": "상황입니다"
+    },
+    {
+      "start": 377.43,
+      "end": 378.55,
+      "text": "너무너무"
+    },
+    {
+      "start": 378.55,
+      "end": 379.01,
+      "text": "피곤해서"
+    },
+    {
+      "start": 379.01,
+      "end": 379.81,
+      "text": "잠이 안 와"
+    },
+    {
+      "start": 379.81,
+      "end": 381.57,
+      "text": "Oh, 문제죠"
+    },
+    {
+      "start": 381.57,
+      "end": 382.93,
+      "text": "What do you do"
+    },
+    {
+      "start": 382.93,
+      "end": 383.79,
+      "text": "when that happens?"
+    },
+    {
+      "start": 384.19,
+      "end": 384.43,
+      "text": "그렇죠"
+    },
+    {
+      "start": 384.43,
+      "end": 385.53,
+      "text": "자, 일단은"
+    },
+    {
+      "start": 385.53,
+      "end": 387.21,
+      "text": "Viv가 뭐라고"
+    },
+    {
+      "start": 387.21,
+      "end": 387.69,
+      "text": "했는지부터"
+    },
+    {
+      "start": 387.69,
+      "end": 388.17,
+      "text": "들어볼까요?"
+    },
+    {
+      "start": 388.69,
+      "end": 389.89,
+      "text": "Why are you still up?"
+    },
+    {
+      "start": 390.01,
+      "end": 391.75,
+      "text": "Oh, 전화가 왔으니까"
+    },
+    {
+      "start": 391.75,
+      "end": 392.13,
+      "text": "이제"
+    },
+    {
+      "start": 392.13,
+      "end": 392.99,
+      "text": "늦은 밤에"
+    },
+    {
+      "start": 392.99,
+      "end": 393.93,
+      "text": "It's like 1am"
+    },
+    {
+      "start": 393.93,
+      "end": 394.99,
+      "text": "Why are you still up?"
+    },
+    {
+      "start": 395.09,
+      "end": 395.59,
+      "text": "Oh, 왜"
+    },
+    {
+      "start": 395.59,
+      "end": 396.51,
+      "text": "아직도 안 자?"
+    },
+    {
+      "start": 397.09,
+      "end": 397.99,
+      "text": "Good question"
+    },
+    {
+      "start": 397.99,
+      "end": 399.35,
+      "text": "좋은 질문이야"
+    },
+    {
+      "start": 399.35,
+      "end": 400.57,
+      "text": "I'm so exhausted"
+    },
+    {
+      "start": 400.57,
+      "end": 401.81,
+      "text": "I can't sleep"
+    },
+    {
+      "start": 401.81,
+      "end": 403.03,
+      "text": "넌 너무 피곤해서"
+    },
+    {
+      "start": 403.03,
+      "end": 403.91,
+      "text": "잠이 안 와"
+    },
+    {
+      "start": 403.91,
+      "end": 404.81,
+      "text": "I just"
+    },
+    {
+      "start": 404.81,
+      "end": 406.21,
+      "text": "I'm going to tell you"
+    },
+    {
+      "start": 406.21,
+      "end": 407.15,
+      "text": "something that"
+    },
+    {
+      "start": 407.15,
+      "end": 407.97,
+      "text": "as a mother"
+    },
+    {
+      "start": 407.97,
+      "end": 409.19,
+      "text": "you won't be able"
+    },
+    {
+      "start": 409.19,
+      "end": 409.97,
+      "text": "to understand"
+    },
+    {
+      "start": 409.97,
+      "end": 411.03,
+      "text": "But you're"
+    },
+    {
+      "start": 411.03,
+      "end": 411.43,
+      "text": "going to have"
+    },
+    {
+      "start": 411.43,
+      "end": 412.11,
+      "text": "to trust me"
+    },
+    {
+      "start": 412.11,
+      "end": 413.71,
+      "text": "What can a mother"
+    },
+    {
+      "start": 413.71,
+      "end": 414.41,
+      "text": "not understand?"
+    },
+    {
+      "start": 414.53,
+      "end": 414.95,
+      "text": "그러게요"
+    },
+    {
+      "start": 414.95,
+      "end": 417.19,
+      "text": "지금 굉장히 피곤한 상태인데"
+    },
+    {
+      "start": 417.19,
+      "end": 417.97,
+      "text": "이 와중에도"
+    },
+    {
+      "start": 417.97,
+      "end": 419.03,
+      "text": "여동생에게"
+    },
+    {
+      "start": 419.03,
+      "end": 419.83,
+      "text": "조언을 하려고"
+    },
+    {
+      "start": 419.83,
+      "end": 420.67,
+      "text": "하는 것 같습니다"
+    },
+    {
+      "start": 420.67,
+      "end": 421.87,
+      "text": "아, 이건 조심해야"
+    },
+    {
+      "start": 421.87,
+      "end": 422.29,
+      "text": "되는데요"
+    },
+    {
+      "start": 422.29,
+      "end": 423.41,
+      "text": "입 조심해야 돼요"
+    },
+    {
+      "start": 423.41,
+      "end": 424.63,
+      "text": "한번 들어볼게요"
+    },
+    {
+      "start": 424.63,
+      "end": 425.39,
+      "text": "I just"
+    },
+    {
+      "start": 425.39,
+      "end": 426.49,
+      "text": "I'm going to tell you"
+    },
+    {
+      "start": 426.49,
+      "end": 427.35,
+      "text": "something that"
+    },
+    {
+      "start": 427.35,
+      "end": 428.27,
+      "text": "내가 그저"
+    },
+    {
+      "start": 428.27,
+      "end": 429.69,
+      "text": "하려고 하는 말은"
+    },
+    {
+      "start": 429.69,
+      "end": 430.43,
+      "text": "뭐냐면"
+    },
+    {
+      "start": 430.43,
+      "end": 431.69,
+      "text": "As a mother"
+    },
+    {
+      "start": 431.69,
+      "end": 433.03,
+      "text": "you won't be able"
+    },
+    {
+      "start": 433.03,
+      "end": 433.85,
+      "text": "to understand"
+    },
+    {
+      "start": 433.85,
+      "end": 435.85,
+      "text": "네가 엄마로서는"
+    },
+    {
+      "start": 435.85,
+      "end": 437.61,
+      "text": "얘가 안 갈지"
+    },
+    {
+      "start": 437.61,
+      "end": 438.41,
+      "text": "모르지만"
+    },
+    {
+      "start": 438.41,
+      "end": 439.33,
+      "text": "But you are"
+    },
+    {
+      "start": 439.33,
+      "end": 439.91,
+      "text": "going to have to"
+    },
+    {
+      "start": 439.91,
+      "end": 440.83,
+      "text": "trust me"
+    },
+    {
+      "start": 440.83,
+      "end": 443.29,
+      "text": "나를 믿어야 할 거야"
+    },
+    {
+      "start": 443.29,
+      "end": 444.03,
+      "text": "음, 들어보자"
+    },
+    {
+      "start": 444.03,
+      "end": 446.17,
+      "text": "Taking care of him"
+    },
+    {
+      "start": 446.17,
+      "end": 446.93,
+      "text": "and working"
+    },
+    {
+      "start": 446.93,
+      "end": 447.95,
+      "text": "at the same time"
+    },
+    {
+      "start": 447.95,
+      "end": 449.65,
+      "text": "is a little too much"
+    },
+    {
+      "start": 449.65,
+      "end": 450.79,
+      "text": "It just takes"
+    },
+    {
+      "start": 450.79,
+      "end": 451.51,
+      "text": "a lot"
+    },
+    {
+      "start": 451.51,
+      "end": 452.37,
+      "text": "out of you"
+    },
+    {
+      "start": 452.37,
+      "end": 453.71,
+      "text": "다행이네요"
+    },
+    {
+      "start": 453.71,
+      "end": 454.91,
+      "text": "그렇게"
+    },
+    {
+      "start": 454.91,
+      "end": 456.29,
+      "text": "열받을 이야기는"
+    },
+    {
+      "start": 456.29,
+      "end": 456.95,
+      "text": "안 했습니다"
+    },
+    {
+      "start": 456.95,
+      "end": 457.77,
+      "text": "Not bad"
+    },
+    {
+      "start": 457.77,
+      "end": 460.77,
+      "text": "공감을 해주는 이야기였으니까"
+    },
+    {
+      "start": 460.77,
+      "end": 462.27,
+      "text": "이거는 괜찮은 것 같아요"
+    },
+    {
+      "start": 462.27,
+      "end": 464.15,
+      "text": "Taking care of him"
+    },
+    {
+      "start": 464.15,
+      "end": 465.97,
+      "text": "아이를 보살피는 것"
+    },
+    {
+      "start": 465.97,
+      "end": 467.15,
+      "text": "and working"
+    },
+    {
+      "start": 467.15,
+      "end": 468.35,
+      "text": "at the same time"
+    },
+    {
+      "start": 468.35,
+      "end": 468.77,
+      "text": "그리고"
+    },
+    {
+      "start": 468.77,
+      "end": 470.07,
+      "text": "동시에"
+    },
+    {
+      "start": 470.07,
+      "end": 471.43,
+      "text": "일을 하는 것은"
+    },
+    {
+      "start": 471.43,
+      "end": 472.39,
+      "text": "그러니까"
+    },
+    {
+      "start": 472.39,
+      "end": 473.57,
+      "text": "육아랑 일을"
+    },
+    {
+      "start": 473.57,
+      "end": 474.89,
+      "text": "동시에 하는 것은"
+    },
+    {
+      "start": 474.89,
+      "end": 476.43,
+      "text": "is a little too much"
+    },
+    {
+      "start": 476.43,
+      "end": 478.07,
+      "text": "좀 너무 과해"
+    },
+    {
+      "start": 478.07,
+      "end": 479.31,
+      "text": "너무 힘든 거야"
+    },
+    {
+      "start": 479.31,
+      "end": 480.47,
+      "text": "라는 말이었고요"
+    },
+    {
+      "start": 480.47,
+      "end": 481.53,
+      "text": "It just takes"
+    },
+    {
+      "start": 481.53,
+      "end": 482.05,
+      "text": "a lot"
+    },
+    {
+      "start": 482.05,
+      "end": 482.87,
+      "text": "out of you"
+    },
+    {
+      "start": 482.87,
+      "end": 483.71,
+      "text": "네 몸이"
+    },
+    {
+      "start": 483.71,
+      "end": 484.73,
+      "text": "나만 하지 않는다고"
+    },
+    {
+      "start": 484.73,
+      "end": 486.33,
+      "text": "너를 엄청 지치게 한다고"
+    },
+    {
+      "start": 486.33,
+      "end": 488.07,
+      "text": "아, 그래도 그나마"
+    },
+    {
+      "start": 488.07,
+      "end": 488.89,
+      "text": "부드럽게 말했죠"
+    },
+    {
+      "start": 488.89,
+      "end": 490.17,
+      "text": "It's a little too much"
+    },
+    {
+      "start": 490.17,
+      "end": 491.77,
+      "text": "Actually, it's way too much"
+    },
+    {
+      "start": 491.77,
+      "end": 492.33,
+      "text": "Right?"
+    },
+    {
+      "start": 492.43,
+      "end": 493.21,
+      "text": "Way too much"
+    },
+    {
+      "start": 493.21,
+      "end": 494.81,
+      "text": "너무 걱정하는 마음에"
+    },
+    {
+      "start": 494.81,
+      "end": 497.12,
+      "text": "So tomorrow"
+    },
+    {
+      "start": 497.12,
+      "end": 498.42,
+      "text": "I'm going to take him"
+    },
+    {
+      "start": 498.42,
+      "end": 499.26,
+      "text": "to a parade"
+    },
+    {
+      "start": 499.26,
+      "end": 501.06,
+      "text": "that Sonny told me about"
+    },
+    {
+      "start": 501.06,
+      "end": 503.7,
+      "text": "이 문장을 들었다면"
+    },
+    {
+      "start": 503.7,
+      "end": 504.8,
+      "text": "비비의 입장에서는"
+    },
+    {
+      "start": 504.8,
+      "end": 507.28,
+      "text": "굉장히 반색할 이야기입니다"
+    },
+    {
+      "start": 507.28,
+      "end": 508.2,
+      "text": "Oh, why?"
+    },
+    {
+      "start": 508.36,
+      "end": 508.94,
+      "text": "왜냐하면"
+    },
+    {
+      "start": 508.94,
+      "end": 510.52,
+      "text": "대신 봐주겠다"
+    },
+    {
+      "start": 510.52,
+      "end": 512.2,
+      "text": "어디 또 데려가주겠다"
+    },
+    {
+      "start": 512.2,
+      "end": 512.9,
+      "text": "이 얘기니까"
+    },
+    {
+      "start": 512.9,
+      "end": 514.32,
+      "text": "얼마나 고마워요"
+    },
+    {
+      "start": 514.32,
+      "end": 515.12,
+      "text": "아하"
+    },
+    {
+      "start": 515.12,
+      "end": 516.08,
+      "text": "고맙죠"
+    },
+    {
+      "start": 516.08,
+      "end": 517.0,
+      "text": "음, 그래서"
+    },
+    {
+      "start": 517.0,
+      "end": 517.96,
+      "text": "So tomorrow"
+    },
+    {
+      "start": 517.96,
+      "end": 519.38,
+      "text": "그래서 내일은 말이야"
+    },
+    {
+      "start": 519.38,
+      "end": 520.48,
+      "text": "I'm going to take him"
+    },
+    {
+      "start": 520.48,
+      "end": 521.3,
+      "text": "to a parade"
+    },
+    {
+      "start": 521.3,
+      "end": 523.4,
+      "text": "that Sonny told me about"
+    },
+    {
+      "start": 523.4,
+      "end": 524.2,
+      "text": "내일"
+    },
+    {
+      "start": 524.2,
+      "end": 525.64,
+      "text": "Sonny가 말해준"
+    },
+    {
+      "start": 525.64,
+      "end": 526.64,
+      "text": "바레이드에"
+    },
+    {
+      "start": 526.64,
+      "end": 528.56,
+      "text": "그를 데리고 갈게"
+    },
+    {
+      "start": 528.56,
+      "end": 529.42,
+      "text": "라는 말입니다"
+    },
+    {
+      "start": 529.42,
+      "end": 530.66,
+      "text": "Our kids love parades"
+    },
+    {
+      "start": 530.66,
+      "end": 530.92,
+      "text": "Yeah"
+    },
+    {
+      "start": 530.92,
+      "end": 531.78,
+      "text": "They get candy"
+    },
+    {
+      "start": 531.78,
+      "end": 533.8,
+      "text": "get to see all kinds of floats"
+    },
+    {
+      "start": 533.8,
+      "end": 534.74,
+      "text": "balloons"
+    },
+    {
+      "start": 534.74,
+      "end": 536.2,
+      "text": "풍선"
+    },
+    {
+      "start": 536.2,
+      "end": 538.0,
+      "text": "아이들이 풍선 보면"
+    },
+    {
+      "start": 538.0,
+      "end": 539.1,
+      "text": "너무 좋아하더라고요"
+    },
+    {
+      "start": 539.1,
+      "end": 540.24,
+      "text": "Balloons are always"
+    },
+    {
+      "start": 540.24,
+      "end": 541.02,
+      "text": "a great thing"
+    },
+    {
+      "start": 541.02,
+      "end": 541.48,
+      "text": "맞아요"
+    },
+    {
+      "start": 541.48,
+      "end": 542.18,
+      "text": "Water balloons"
+    },
+    {
+      "start": 542.18,
+      "end": 543.26,
+      "text": "air balloons"
+    },
+    {
+      "start": 543.26,
+      "end": 544.36,
+      "text": "any kind of balloons"
+    },
+    {
+      "start": 544.36,
+      "end": 545.28,
+      "text": "They love it"
+    },
+    {
+      "start": 545.28,
+      "end": 546.2,
+      "text": "어쨌든"
+    },
+    {
+      "start": 546.2,
+      "end": 547.26,
+      "text": "이 삼촌이"
+    },
+    {
+      "start": 547.26,
+      "end": 548.26,
+      "text": "조카를"
+    },
+    {
+      "start": 548.26,
+      "end": 548.54,
+      "text": "또"
+    },
+    {
+      "start": 548.54,
+      "end": 549.48,
+      "text": "파레이드에도"
+    },
+    {
+      "start": 549.48,
+      "end": 550.68,
+      "text": "데려가준다고 하니까"
+    },
+    {
+      "start": 550.68,
+      "end": 551.64,
+      "text": "여동생은"
+    },
+    {
+      "start": 551.64,
+      "end": 552.8,
+      "text": "정말 좋았겠네요"
+    },
+    {
+      "start": 552.8,
+      "end": 554.38,
+      "text": "You're doing so good"
+    },
+    {
+      "start": 554.38,
+      "end": 555.32,
+      "text": "이렇게 이야기를 했어요"
+    },
+    {
+      "start": 555.32,
+      "end": 556.4,
+      "text": "오빠 멋있어"
+    },
+    {
+      "start": 556.4,
+      "end": 556.82,
+      "text": "좋아"
+    },
+    {
+      "start": 556.82,
+      "end": 557.98,
+      "text": "Good job"
+    },
+    {
+      "start": 557.98,
+      "end": 559.1,
+      "text": "아, 오빠"
+    },
+    {
+      "start": 559.1,
+      "end": 560.4,
+      "text": "정말 잘하고 있어"
+    },
+    {
+      "start": 560.4,
+      "end": 561.5,
+      "text": "라는 직역 버전"
+    },
+    {
+      "start": 561.5,
+      "end": 562.2,
+      "text": "이었는데"
+    },
+    {
+      "start": 562.2,
+      "end": 564.16,
+      "text": "너무 좋아"
+    },
+    {
+      "start": 564.16,
+      "end": 565.0,
+      "text": "라는 의미로"
+    },
+    {
+      "start": 565.0,
+      "end": 566.38,
+      "text": "You're doing so good"
+    },
+    {
+      "start": 566.38,
+      "end": 567.66,
+      "text": "이렇게 이야기할 수 있군요"
+    },
+    {
+      "start": 567.66,
+      "end": 568.14,
+      "text": "Yeah"
+    },
+    {
+      "start": 568.14,
+      "end": 569.76,
+      "text": "와, 그래요"
+    },
+    {
+      "start": 569.76,
+      "end": 571.24,
+      "text": "고맙다라는 의미까지"
+    },
+    {
+      "start": 571.24,
+      "end": 572.24,
+      "text": "대포를 하고 있다고"
+    },
+    {
+      "start": 572.24,
+      "end": 573.36,
+      "text": "보시면 되겠습니다"
+    },
+    {
+      "start": 573.36,
+      "end": 574.8,
+      "text": "I'd feel happy"
+    },
+    {
+      "start": 574.8,
+      "end": 575.54,
+      "text": "if I heard that"
+    },
+    {
+      "start": 575.54,
+      "end": 576.46,
+      "text": "Oh, thanks"
+    },
+    {
+      "start": 576.46,
+      "end": 577.38,
+      "text": "아, 그럼요"
+    },
+    {
+      "start": 577.38,
+      "end": 578.8,
+      "text": "파레이드 있으면"
+    },
+    {
+      "start": 578.8,
+      "end": 580.0,
+      "text": "데려가주는"
+    },
+    {
+      "start": 580.0,
+      "end": 581.08,
+      "text": "친구분"
+    },
+    {
+      "start": 581.08,
+      "end": 582.22,
+      "text": "있으시면 좋겠습니다"
+    },
+    {
+      "start": 582.22,
+      "end": 583.42,
+      "text": "Oh, yeah"
+    },
+    {
+      "start": 583.42,
+      "end": 584.78,
+      "text": "You can come over anytime"
+    },
+    {
+      "start": 584.78,
+      "end": 586.3,
+      "text": "Take my kids to a parade"
+    },
+    {
+      "start": 586.3,
+      "end": 587.42,
+      "text": "Okay"
+    },
+    {
+      "start": 587.42,
+      "end": 588.38,
+      "text": "자, 이 장면"
+    },
+    {
+      "start": 588.38,
+      "end": 590.21,
+      "text": "한 번 더 들어보시죠"
+    },
+    {
+      "start": 590.21,
+      "end": 591.51,
+      "text": "Why are you still up?"
+    },
+    {
+      "start": 591.95,
+      "end": 592.55,
+      "text": "Good question"
+    },
+    {
+      "start": 592.55,
+      "end": 594.37,
+      "text": "I'm so exhausted"
+    },
+    {
+      "start": 594.37,
+      "end": 597.21,
+      "text": "I can't sleep"
+    },
+    {
+      "start": 597.21,
+      "end": 597.87,
+      "text": "I just"
+    },
+    {
+      "start": 597.87,
+      "end": 599.37,
+      "text": "I'm going to tell you something"
+    },
+    {
+      "start": 599.37,
+      "end": 600.59,
+      "text": "that as a mother"
+    },
+    {
+      "start": 600.59,
+      "end": 601.63,
+      "text": "you won't be able to understand"
+    },
+    {
+      "start": 601.63,
+      "end": 602.77,
+      "text": "but you're going to have to trust me"
+    },
+    {
+      "start": 602.77,
+      "end": 604.47,
+      "text": "Taking care of him"
+    },
+    {
+      "start": 604.47,
+      "end": 606.95,
+      "text": "and working at the same time"
+    },
+    {
+      "start": 606.95,
+      "end": 608.37,
+      "text": "is a little too much"
+    },
+    {
+      "start": 608.37,
+      "end": 609.07,
+      "text": "It just"
+    },
+    {
+      "start": 609.07,
+      "end": 610.91,
+      "text": "takes a lot out of you"
+    },
+    {
+      "start": 610.91,
+      "end": 613.01,
+      "text": "So"
+    },
+    {
+      "start": 613.01,
+      "end": 614.83,
+      "text": "tomorrow I'm going to take him"
+    },
+    {
+      "start": 614.83,
+      "end": 615.87,
+      "text": "to a parade"
+    },
+    {
+      "start": 615.87,
+      "end": 617.07,
+      "text": "that Sonny told me about"
+    },
+    {
+      "start": 617.07,
+      "end": 619.61,
+      "text": "You're doing so good"
+    },
+    {
+      "start": 619.61,
+      "end": 622.86,
+      "text": "What a nice family"
+    },
+    {
+      "start": 622.86,
+      "end": 623.68,
+      "text": "그쵸?"
+    },
+    {
+      "start": 623.72,
+      "end": 624.64,
+      "text": "훈훈해졌어요"
+    },
+    {
+      "start": 624.64,
+      "end": 625.08,
+      "text": "맞아요"
+    },
+    {
+      "start": 625.08,
+      "end": 626.88,
+      "text": "김경혜님께서"
+    },
+    {
+      "start": 626.88,
+      "end": 629.08,
+      "text": "정연쌤, 크리스쌤 덕분에"
+    },
+    {
+      "start": 629.08,
+      "end": 630.94,
+      "text": "오늘도 신나고 즐겁게"
+    },
+    {
+      "start": 630.94,
+      "end": 632.02,
+      "text": "영화 함께해요"
+    },
+    {
+      "start": 632.02,
+      "end": 633.44,
+      "text": "라고 보내주셨습니다"
+    },
+    {
+      "start": 633.44,
+      "end": 635.2,
+      "text": "Oh, I'm glad to hear that"
+    },
+    {
+      "start": 635.2,
+      "end": 636.86,
+      "text": "그러고 보니까"
+    },
+    {
+      "start": 636.86,
+      "end": 637.64,
+      "text": "이제 내일이면"
+    },
+    {
+      "start": 637.64,
+      "end": 639.7,
+      "text": "영화가 마무리가 되는데요"
+    },
+    {
+      "start": 639.7,
+      "end": 642.3,
+      "text": "와, 이제 얼마 안 남았습니다"
+    },
+    {
+      "start": 642.3,
+      "end": 643.58,
+      "text": "하루밖에 안 남았어요"
+    },
+    {
+      "start": 643.58,
+      "end": 644.76,
+      "text": "Oh, it's"
+    },
+    {
+      "start": 644.76,
+      "end": 646.4,
+      "text": "I know you every time"
+    },
+    {
+      "start": 646.4,
+      "end": 647.46,
+      "text": "You get sad"
+    },
+    {
+      "start": 647.46,
+      "end": 648.62,
+      "text": "but it's okay"
+    },
+    {
+      "start": 648.62,
+      "end": 649.3,
+      "text": "아, 그래요?"
+    },
+    {
+      "start": 649.3,
+      "end": 649.94,
+      "text": "It's time"
+    },
+    {
+      "start": 649.94,
+      "end": 650.96,
+      "text": "이번에는 그래도"
+    },
+    {
+      "start": 650.96,
+      "end": 653.0,
+      "text": "쿨하게 보내줄 수 있을 것 같은"
+    },
+    {
+      "start": 653.0,
+      "end": 653.8,
+      "text": "느낌이 들어요"
+    },
+    {
+      "start": 653.8,
+      "end": 655.72,
+      "text": "아, 쿨해 보이네요"
+    },
+    {
+      "start": 655.72,
+      "end": 656.18,
+      "text": "네"
+    },
+    {
+      "start": 656.18,
+      "end": 656.84,
+      "text": "표정 쿨해 보여요"
+    },
+    {
+      "start": 656.84,
+      "end": 657.68,
+      "text": "행복해 보입니까?"
+    },
+    {
+      "start": 658.84,
+      "end": 659.82,
+      "text": "Time to say goodbye"
+    },
+    {
+      "start": 659.82,
+      "end": 660.28,
+      "text": "Okay"
+    },
+    {
+      "start": 660.28,
+      "end": 661.06,
+      "text": "Let's go on"
+    },
+    {
+      "start": 661.06,
+      "end": 661.82,
+      "text": "Time to move on"
+    },
+    {
+      "start": 661.82,
+      "end": 663.26,
+      "text": "우리는 내일"
+    },
+    {
+      "start": 663.26,
+      "end": 664.26,
+      "text": "이 마지막 장면"
+    },
+    {
+      "start": 664.26,
+      "end": 665.36,
+      "text": "함께하도록 하겠습니다"
+    },
+    {
+      "start": 665.36,
+      "end": 666.68,
+      "text": "Have a lovely day"
+    },
+    {
+      "start": 666.68,
+      "end": 667.34,
+      "text": "You too"
+    },
+    {
+      "start": 667.34,
+      "end": 669.22,
+      "text": "노래 한 곡 들어볼까요?"
+    },
+    {
+      "start": 669.48,
+      "end": 670.28,
+      "text": "야키 다이의"
+    },
+    {
+      "start": 670.28,
+      "end": 671.48,
+      "text": "I saw you dancing"
+    },
+    {
+      "start": 671.48,
+      "end": 681.43,
+      "text": "조정현의"
+    },
+    {
+      "start": 681.43,
+      "end": 683.43,
+      "text": "굿모닝 팝스에서 준비한 선물입니다"
+    },
+    {
+      "start": 683.43,
+      "end": 685.66,
+      "text": "한국 방송 출판에서"
+    },
+    {
+      "start": 685.66,
+      "end": 687.2,
+      "text": "월간 굿모닝 팝스 책"
+    },
+    {
+      "start": 687.2,
+      "end": 688.74,
+      "text": "3개월 구독권을 드립니다"
+    },
+    {
+      "start": 688.74,
+      "end": 709.84,
+      "text": "와 함께하는 즐거운 영어 시간"
+    },
+    {
+      "start": 709.84,
+      "end": 711.04,
+      "text": "팝스 잉글리쉬"
+    },
+    {
+      "start": 711.04,
+      "end": 723.92,
+      "text": "좋은 팝도 듣고"
+    },
+    {
+      "start": 723.92,
+      "end": 725.16,
+      "text": "영어도 배우는"
+    },
+    {
+      "start": 725.16,
+      "end": 726.76,
+      "text": "일석이조의 시간"
+    },
+    {
+      "start": 726.76,
+      "end": 728.24,
+      "text": "팝스 잉글리쉬"
+    },
+    {
+      "start": 728.24,
+      "end": 729.66,
+      "text": "우리가 오늘부터"
+    },
+    {
+      "start": 729.66,
+      "end": 731.04,
+      "text": "함께 들어볼 노래는"
+    },
+    {
+      "start": 731.04,
+      "end": 732.82,
+      "text": "미국의 럭밴드인"
+    },
+    {
+      "start": 732.82,
+      "end": 733.94,
+      "text": "구구돌즈의"
+    },
+    {
+      "start": 733.94,
+      "end": 735.76,
+      "text": "Name이라는 곡이거든요"
+    },
+    {
+      "start": 735.76,
+      "end": 736.9,
+      "text": "이 곡은"
+    },
+    {
+      "start": 736.9,
+      "end": 737.9,
+      "text": "구구돌즈가"
+    },
+    {
+      "start": 737.9,
+      "end": 740.72,
+      "text": "1995년에 발매한 앨범"
+    },
+    {
+      "start": 740.72,
+      "end": 742.66,
+      "text": "A Boy Named Goo"
+    },
+    {
+      "start": 742.66,
+      "end": 744.06,
+      "text": "에 수록되어 있어요"
+    },
+    {
+      "start": 744.06,
+      "end": 745.7,
+      "text": "오늘 준비된 부분"
+    },
+    {
+      "start": 745.7,
+      "end": 746.54,
+      "text": "먼저 들으시고"
+    },
+    {
+      "start": 746.54,
+      "end": 747.98,
+      "text": "내용 자세히 살펴볼게요"
+    },
+    {
+      "start": 747.98,
+      "end": 788.37,
+      "text": "다의 찰랑찰랑거리는 소리가"
+    },
+    {
+      "start": 788.37,
+      "end": 789.85,
+      "text": "아주 인상깊습니다"
+    },
+    {
+      "start": 789.85,
+      "end": 790.53,
+      "text": "그쵸?"
+    },
+    {
+      "start": 791.24,
+      "end": 792.26,
+      "text": "And even though"
+    },
+    {
+      "start": 792.26,
+      "end": 794.96,
+      "text": "the moment passed me by"
+    },
+    {
+      "start": 794.96,
+      "end": 796.82,
+      "text": "또박또박"
+    },
+    {
+      "start": 796.82,
+      "end": 798.24,
+      "text": "읽어드렸어요"
+    },
+    {
+      "start": 798.24,
+      "end": 799.06,
+      "text": "And even though"
+    },
+    {
+      "start": 799.06,
+      "end": 800.46,
+      "text": "the moment passed me by"
+    },
+    {
+      "start": 800.46,
+      "end": 801.72,
+      "text": "이렇게 들렸죠"
+    },
+    {
+      "start": 801.72,
+      "end": 803.78,
+      "text": "심지어"
+    },
+    {
+      "start": 803.78,
+      "end": 804.7,
+      "text": "어떤 순간"
+    },
+    {
+      "start": 804.7,
+      "end": 805.74,
+      "text": "그 순간은"
+    },
+    {
+      "start": 805.74,
+      "end": 807.56,
+      "text": "passed me by"
+    },
+    {
+      "start": 807.56,
+      "end": 808.1,
+      "text": "라고 했어요"
+    },
+    {
+      "start": 808.1,
+      "end": 808.68,
+      "text": "그러니까"
+    },
+    {
+      "start": 808.68,
+      "end": 810.72,
+      "text": "심지어 그 순간은"
+    },
+    {
+      "start": 810.72,
+      "end": 811.02,
+      "text": "이미"
+    },
+    {
+      "start": 811.02,
+      "end": 811.76,
+      "text": "나를"
+    },
+    {
+      "start": 811.76,
+      "end": 813.5,
+      "text": "지나갔음에도"
+    },
+    {
+      "start": 813.5,
+      "end": 815.3,
+      "text": "불구하고"
+    },
+    {
+      "start": 815.3,
+      "end": 817.06,
+      "text": "이렇게 해석하면 되겠죠"
+    },
+    {
+      "start": 817.06,
+      "end": 818.79,
+      "text": "I still"
+    },
+    {
+      "start": 818.79,
+      "end": 820.17,
+      "text": "can't"
+    },
+    {
+      "start": 820.17,
+      "end": 821.45,
+      "text": "turn away"
+    },
+    {
+      "start": 821.45,
+      "end": 822.82,
+      "text": "Turn away"
+    },
+    {
+      "start": 822.82,
+      "end": 823.52,
+      "text": "라고 하면"
+    },
+    {
+      "start": 823.52,
+      "end": 824.68,
+      "text": "외면하다"
+    },
+    {
+      "start": 824.68,
+      "end": 825.78,
+      "text": "거절하다"
+    },
+    {
+      "start": 825.78,
+      "end": 826.32,
+      "text": "혹은"
+    },
+    {
+      "start": 826.32,
+      "end": 827.32,
+      "text": "돌아서다"
+    },
+    {
+      "start": 827.32,
+      "end": 828.24,
+      "text": "라는 의미잖아요"
+    },
+    {
+      "start": 828.24,
+      "end": 829.36,
+      "text": "I still"
+    },
+    {
+      "start": 829.36,
+      "end": 830.02,
+      "text": "can't"
+    },
+    {
+      "start": 830.02,
+      "end": 831.12,
+      "text": "turn away"
+    },
+    {
+      "start": 831.12,
+      "end": 832.5,
+      "text": "라는 문장이니까"
+    },
+    {
+      "start": 832.5,
+      "end": 834.5,
+      "text": "나는 여전히"
+    },
+    {
+      "start": 834.5,
+      "end": 836.0,
+      "text": "돌아설 수가 없네요"
+    },
+    {
+      "start": 836.0,
+      "end": 837.74,
+      "text": "라는 뜻이네요"
+    },
+    {
+      "start": 837.74,
+      "end": 839.74,
+      "text": "Because all the dreams"
+    },
+    {
+      "start": 839.74,
+      "end": 840.9,
+      "text": "you never thought"
+    },
+    {
+      "start": 840.9,
+      "end": 841.9,
+      "text": "you'd lose"
+    },
+    {
+      "start": 841.9,
+      "end": 844.29,
+      "text": "당신이 결코"
+    },
+    {
+      "start": 844.29,
+      "end": 845.53,
+      "text": "you never thought"
+    },
+    {
+      "start": 845.53,
+      "end": 847.63,
+      "text": "you'd lose"
+    },
+    {
+      "start": 847.63,
+      "end": 848.39,
+      "text": "라고 했으니까"
+    },
+    {
+      "start": 848.39,
+      "end": 849.75,
+      "text": "당신이 결코"
+    },
+    {
+      "start": 849.75,
+      "end": 851.39,
+      "text": "잃을 거라고"
+    },
+    {
+      "start": 851.39,
+      "end": 853.13,
+      "text": "생각해 본 적"
+    },
+    {
+      "start": 853.13,
+      "end": 853.83,
+      "text": "없던"
+    },
+    {
+      "start": 853.83,
+      "end": 855.67,
+      "text": "All the dreams"
+    },
+    {
+      "start": 855.67,
+      "end": 857.21,
+      "text": "그 모든 꿈들이"
+    },
+    {
+      "start": 857.21,
+      "end": 859.34,
+      "text": "get toast"
+    },
+    {
+      "start": 859.34,
+      "end": 860.96,
+      "text": "along the way"
+    },
+    {
+      "start": 860.96,
+      "end": 862.95,
+      "text": "이렇게 이어졌죠"
+    },
+    {
+      "start": 862.95,
+      "end": 863.87,
+      "text": "도중에"
+    },
+    {
+      "start": 863.87,
+      "end": 865.05,
+      "text": "내던져"
+    },
+    {
+      "start": 865.05,
+      "end": 865.99,
+      "text": "졌으니까요"
+    },
+    {
+      "start": 865.99,
+      "end": 867.13,
+      "text": "도중에"
+    },
+    {
+      "start": 867.13,
+      "end": 867.95,
+      "text": "떨어져"
+    },
+    {
+      "start": 867.95,
+      "end": 868.99,
+      "text": "나갔으니까요"
+    },
+    {
+      "start": 868.99,
+      "end": 870.81,
+      "text": "And letters"
+    },
+    {
+      "start": 870.81,
+      "end": 871.65,
+      "text": "that you never"
+    },
+    {
+      "start": 871.65,
+      "end": 872.71,
+      "text": "meant to send"
+    },
+    {
+      "start": 872.71,
+      "end": 873.75,
+      "text": "여기서"
+    },
+    {
+      "start": 873.75,
+      "end": 875.43,
+      "text": "never meant to send"
+    },
+    {
+      "start": 875.43,
+      "end": 875.97,
+      "text": "이렇게"
+    },
+    {
+      "start": 875.97,
+      "end": 876.97,
+      "text": "이 부분"
+    },
+    {
+      "start": 876.97,
+      "end": 877.63,
+      "text": "동사 부분"
+    },
+    {
+      "start": 877.63,
+      "end": 878.19,
+      "text": "먼저"
+    },
+    {
+      "start": 878.19,
+      "end": 879.13,
+      "text": "살펴드리면"
+    },
+    {
+      "start": 879.13,
+      "end": 880.43,
+      "text": "mean to"
+    },
+    {
+      "start": 880.43,
+      "end": 881.51,
+      "text": "라는 기본적인"
+    },
+    {
+      "start": 881.51,
+      "end": 882.37,
+      "text": "동사구"
+    },
+    {
+      "start": 882.37,
+      "end": 883.55,
+      "text": "뭐뭐 할"
+    },
+    {
+      "start": 883.55,
+      "end": 884.07,
+      "text": "셈이다"
+    },
+    {
+      "start": 884.07,
+      "end": 884.51,
+      "text": "혹은"
+    },
+    {
+      "start": 884.51,
+      "end": 884.91,
+      "text": "뭐뭐 할"
+    },
+    {
+      "start": 884.91,
+      "end": 885.59,
+      "text": "의도이다"
+    },
+    {
+      "start": 885.59,
+      "end": 886.31,
+      "text": "라고 해석을"
+    },
+    {
+      "start": 886.31,
+      "end": 886.83,
+      "text": "하게 되잖아요"
+    },
+    {
+      "start": 886.83,
+      "end": 888.19,
+      "text": "그러니까"
+    },
+    {
+      "start": 888.19,
+      "end": 889.37,
+      "text": "당신이"
+    },
+    {
+      "start": 889.37,
+      "end": 891.29,
+      "text": "never meant to send"
+    },
+    {
+      "start": 891.29,
+      "end": 892.99,
+      "text": "절대 보내지"
+    },
+    {
+      "start": 892.99,
+      "end": 894.19,
+      "text": "않으려던"
+    },
+    {
+      "start": 894.19,
+      "end": 895.77,
+      "text": "And letters"
+    },
+    {
+      "start": 895.77,
+      "end": 897.69,
+      "text": "목적어에 해당하는 것이"
+    },
+    {
+      "start": 897.69,
+      "end": 898.79,
+      "text": "지금 맨 앞으로"
+    },
+    {
+      "start": 898.79,
+      "end": 899.65,
+      "text": "나와 있는"
+    },
+    {
+      "start": 899.65,
+      "end": 900.37,
+      "text": "경우입니다"
+    },
+    {
+      "start": 900.37,
+      "end": 902.07,
+      "text": "그 편지들은"
+    },
+    {
+      "start": 902.07,
+      "end": 903.61,
+      "text": "당신이 절대"
+    },
+    {
+      "start": 903.61,
+      "end": 904.57,
+      "text": "보내지 않으려던"
+    },
+    {
+      "start": 904.57,
+      "end": 905.65,
+      "text": "편지들은"
+    },
+    {
+      "start": 905.65,
+      "end": 906.98,
+      "text": "Get lost"
+    },
+    {
+      "start": 906.98,
+      "end": 908.94,
+      "text": "or thrown away"
+    },
+    {
+      "start": 908.94,
+      "end": 910.8,
+      "text": "길을 잃고"
+    },
+    {
+      "start": 910.8,
+      "end": 912.52,
+      "text": "버려졌죠"
+    },
+    {
+      "start": 912.52,
+      "end": 913.94,
+      "text": "와우"
+    },
+    {
+      "start": 913.94,
+      "end": 915.86,
+      "text": "어떤 스토리였을까"
+    },
+    {
+      "start": 915.86,
+      "end": 917.0,
+      "text": "되게 궁금해지네요"
+    },
+    {
+      "start": 917.0,
+      "end": 918.34,
+      "text": "그럼 이 장면"
+    },
+    {
+      "start": 918.34,
+      "end": 918.86,
+      "text": "다시 한번"
+    },
+    {
+      "start": 918.86,
+      "end": 919.62,
+      "text": "들어보시죠"
+    },
+    {
+      "start": 919.62,
+      "end": 956.52,
+      "text": "이렇게 오늘"
+    },
+    {
+      "start": 956.52,
+      "end": 957.18,
+      "text": "Pops English"
+    },
+    {
+      "start": 957.18,
+      "end": 958.68,
+      "text": "여기서 마무리하고요"
+    }
+  ]
+}
