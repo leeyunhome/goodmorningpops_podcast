@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "Don_t keep me waiting",
   "movie": "",
-  "duration_sec": 973.09,
+  "duration_sec": 968.11,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-08_screen_english.mp3",
   "script": [
     {
@@ -1817,26 +1817,6 @@
       "start": 967.19,
       "end": 968.11,
       "text": "좋은 하루 되세요."
-    },
-    {
-      "start": 968.29,
-      "end": 968.99,
-      "text": "라고 해주셨어요."
-    },
-    {
-      "start": 969.37,
-      "end": 970.47,
-      "text": "You have a good day too."
-    },
-    {
-      "start": 970.53,
-      "end": 970.91,
-      "text": "Thank you."
-    },
-    {
-      "start": 971.41,
-      "end": 973.09,
-      "text": "네, 그럼 우리는 see you next Monday."
     }
   ]
 }
