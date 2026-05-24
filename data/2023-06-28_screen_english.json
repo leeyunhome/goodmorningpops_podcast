@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "I want to start my own shop",
   "movie": "",
-  "duration_sec": 848.72,
+  "duration_sec": 850.64,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-28_screen_english.mp3",
   "script": [
     {
@@ -1847,6 +1847,16 @@
       "start": 845.38,
       "end": 848.72,
       "text": "네, 이렇게 보람차게 Screen English 오늘 마무리를 해볼게요."
+    },
+    {
+      "start": 848.86,
+      "end": 849.82,
+      "text": "Have a beautiful Wednesday."
+    },
+    {
+      "start": 850.16,
+      "end": 850.64,
+      "text": "You too."
     }
   ]
 }
