@@ -115,18 +115,20 @@ CORNER_DEFS = {
     "review_time_screen": {
         "label": "Review Time (Screen English)",
         "start_patterns": [
-            r"스크린\s*잉글리시\s*복습",
-            r"복습해\s*볼까요",
+            re.compile(r"스크린\s*잉글리시\s*복습", re.IGNORECASE),
+            re.compile(r"복습해\s*볼까요", re.IGNORECASE),
         ],
         "end_patterns": [
-            r"팝스\s*잉글리시로\s*넘어갑니다",
-            r"팝스\s*잉글리시\s*복습",
-            r"다음은\s*팝스\s*잉글리시",
+            re.compile(r"팝스\s*잉글리시로\s*넘어갑니다", re.IGNORECASE),
+            re.compile(r"팝스\s*잉글리시\s*복습", re.IGNORECASE),
+            re.compile(r"다음은\s*팝스\s*잉글리시", re.IGNORECASE),
         ],
-        "max_start_minutes": 15,
+        "start_max_minutes": 15,
+        "start_window_segments": 4,
         "max_end_minutes": 40,
-        "fallback_start": 60,  # 오프닝 1분 스킵
-        "fallback_end": 1200,  # 20분
+        "end_window_segments": 4,
+        "intro_skip_seconds": 60.0,
+        "max_duration_minutes": 20,
     }
 }
 
