@@ -5,2198 +5,1943 @@
   "corner_label": "Screen English",
   "title": "Don_t you label me",
   "movie": "",
-  "duration_sec": 1004.43,
+  "duration_sec": 747.62,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-08_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 5.04,
-      "text": "유년기를 함께했던 옛 친구를 만나는 것 같은 반가운 마음도 들고요."
-    },
-    {
-      "start": 5.74,
-      "end": 16.02,
-      "text": "문득 굿모닝 팝스도 유년기에 듣고, 청년기에 다시 듣고, 노년기에 또다시 듣게 되는 그런 프로그램이 될 수 있으면 좋겠다는 바람이 드네요."
-    },
-    {
-      "start": 16.02,
-      "end": 22.52,
-      "text": "A truly great book should be read in youth, again in maturity, and once more in old age."
-    },
-    {
-      "start": 22.98,
-      "end": 26.42,
-      "text": "4월 8일 목요일, 조정현의 굿모닝 팝스 시작하겠습니다."
-    },
-    {
-      "start": 27.48,
-      "end": 31.76,
-      "text": "네, 오늘 첫 곡, Grace Potter의 Tiny Light 들어보셨어요?"
-    },
-    {
-      "start": 32.36,
-      "end": 36.64,
-      "text": "오늘 첫 번째 사연은 권아리나님께서 보내주셨습니다."
-    },
-    {
-      "start": 37.36,
-      "end": 41.58,
-      "text": "굿모닝 팝스 로고송이 확실히 중독성 있긴 한가 봐요."
-    },
-    {
-      "start": 41.58,
-      "end": 45.66,
-      "text": "어제 자려고 누웠는데, 우리 아이가 흥얼대더라고요."
-    },
-    {
-      "start": 46.14,
-      "end": 50.46,
-      "text": "매일 아침 6시, 조정현의 굿모닝 팝스."
-    },
-    {
-      "start": 50.62,
-      "end": 53.08,
-      "text": "너무 신기해서 사연 보냅니다."
-    },
-    {
-      "start": 53.86,
-      "end": 57.66,
-      "text": "와, 아이가 몇 살인가요? 권아리나님."
-    },
-    {
-      "start": 58.08,
-      "end": 59.9,
-      "text": "너무 사랑스럽네요. 그렇죠?"
-    },
-    {
-      "start": 60.8,
-      "end": 63.58,
-      "text": "제가 이 로고송을 만들었던 때가 갑자기 생각이 납니다."
-    },
-    {
-      "start": 63.58,
-      "end": 69.26,
-      "text": "워낙에 저는 개인적으로는 이 마이너 코드를 되게 좋아하거든요."
-    },
-    {
-      "start": 69.76,
-      "end": 74.72,
-      "text": "근데 이 굿모닝 팝스에는 아무래도 메이저 코드가 잘 어울리겠다 싶어가지고"
-    },
-    {
-      "start": 74.72,
-      "end": 79.9,
-      "text": "최대한 밝고 또 상큼하게 만들어보려고 노력하는 곡입니다."
-    },
-    {
-      "start": 80.44,
-      "end": 82.58,
-      "text": "아이들도 좋아해준다고 하니까 아주 뿌듯하네요."
-    },
-    {
-      "start": 82.58,
-      "end": 85.62,
-      "text": "3870님."
-    },
-    {
-      "start": 86.18,
-      "end": 88.46,
-      "text": "7살 아들 쌍둥이 엄만데요."
-    },
-    {
-      "start": 88.82,
-      "end": 91.8,
-      "text": "유치원에서 아이들 영어 이름 만들어 오라고 하길래"
-    },
-    {
-      "start": 91.8,
-      "end": 94.56,
-      "text": "톰 앤 제리 라고 지었어요."
-    },
-    {
-      "start": 94.84,
-      "end": 95.54,
-      "text": "괜찮을까요?"
-    },
-    {
-      "start": 96.32,
-      "end": 101.28,
-      "text": "아, 형제들이 서로 노는 모습을 보고 이렇게 지으신 건가 봐요."
-    },
-    {
-      "start": 101.94,
-      "end": 103.86,
-      "text": "그럼 누가 톰 역할일까요?"
-    },
-    {
-      "start": 104.54,
-      "end": 107.32,
-      "text": "상상이 되니까 엄청 귀엽게 보이는데요."
-    },
-    {
-      "start": 107.32,
-      "end": 111.46,
-      "text": "저는 이 애니메이션 톰과 제리를 보면서"
-    },
-    {
-      "start": 111.46,
-      "end": 116.72,
-      "text": "특히 제리한테 감정이입을 해가지고 본 케이스입니다."
-    },
-    {
-      "start": 117.88,
-      "end": 120.96,
-      "text": "근데 이 영어 이름은 아이들이 좋아한다면요."
-    },
-    {
-      "start": 121.04,
-      "end": 122.98,
-      "text": "뭐 전혀 문제가 없을 것 같아요."
-    },
-    {
-      "start": 123.36,
-      "end": 124.22,
-      "text": "너무 귀엽네요."
-    },
-    {
-      "start": 124.48,
-      "end": 125.78,
-      "text": "톰 앤 제리."
-    },
-    {
-      "start": 126.7,
-      "end": 131.0,
-      "text": "사연 보내주신 분들 모두 월간 굿모닝 팝 3개월 구독권 보내드릴게요."
-    },
-    {
-      "start": 131.84,
-      "end": 133.76,
-      "text": "굿모닝 팝스에 사연 보내고 싶은 분들"
-    },
-    {
-      "start": 133.76,
-      "end": 136.28,
-      "text": "공식 홈페이지 청취자 게시판에 남겨주세요."
-    },
-    {
-      "start": 136.28,
-      "end": 139.02,
-      "text": "봄맞이 스페셜 이벤트."
-    },
-    {
-      "start": 139.54,
-      "end": 144.76,
-      "text": "우리 GNPR들에게 봄은 과연 어떤 의미일지 너무 궁금합니다."
-    },
-    {
-      "start": 145.52,
-      "end": 148.26,
-      "text": "봄 하면 생각나는 영어 단어 또는"
-    },
-    {
-      "start": 148.26,
-      "end": 151.32,
-      "text": "Spring is something 이와 같이"
-    },
-    {
-      "start": 151.32,
-      "end": 154.32,
-      "text": "여러분만의 정의를 내려주셔도 좋아요."
-    },
-    {
-      "start": 154.86,
-      "end": 159.46,
-      "text": "그리고 왜 그렇게 생각하시는지 이유도 함께 적어서 보내주세요."
-    },
-    {
-      "start": 160.02,
-      "end": 162.86,
-      "text": "추첨을 통해서 다섯 분 뽑아 소개해드리고"
-    },
-    {
-      "start": 162.86,
-      "end": 165.34,
-      "text": "편의점 모바일 쿠폰도 보내드릴게요."
-    },
-    {
-      "start": 165.34,
-      "end": 168.68,
-      "text": "단문 50원과 장문 100원에 추가 요금이 부과되는"
-    },
-    {
-      "start": 168.68,
-      "end": 175.1,
-      "text": "KBS 쿨 FM 문자 샵 8910 아니면 KBS 2라디오 문자 샵 1061로 보내주시거나"
-    },
-    {
-      "start": 175.1,
-      "end": 178.66,
-      "text": "무료 KBS 어플리케이션 콩 또는 MyK로 참여해주세요."
-    },
-    {
-      "start": 179.2,
-      "end": 183.9,
-      "text": "봄맞이 스페셜 이벤트는 19일 월요일까지 계속됩니다."
-    },
-    {
-      "start": 183.9,
-      "end": 186.98,
-      "text": "여러분의 많은 참여 기다리고 있을게요."
-    },
-    {
-      "start": 186.98,
-      "end": 200.45,
-      "text": "오늘 아침 6시 조정현의 굿모닝 팝스"
-    },
-    {
-      "start": 200.45,
-      "end": 204.36,
-      "text": "해봐요 굿모닝"
-    },
-    {
-      "start": 204.36,
-      "end": 208.86,
-      "text": "조정현의 굿모닝 팝스"
-    },
-    {
-      "start": 210.08,
-      "end": 257.23,
-      "text": "4월에 함께하고 있는 영화는 주인 할머니가 돌아가시면서 세상에 혼자 남겨진 강아지가 펼치는 모험 이야기"
-    },
-    {
-      "start": 257.23,
-      "end": 258.15,
-      "text": "트러블"
-    },
-    {
-      "start": 258.15,
-      "end": 260.45,
+      "end": 2.3,
       "text": "굿모닝 그리스"
     },
     {
-      "start": 260.45,
-      "end": 261.93,
+      "start": 2.3,
+      "end": 3.78,
       "text": "굿모닝 조정현씨"
     },
     {
-      "start": 261.93,
-      "end": 265.93,
+      "start": 3.78,
+      "end": 7.78,
       "text": "언제 들어도 반가운 그리스씨 오셨습니다."
     },
     {
-      "start": 266.57,
-      "end": 268.51,
+      "start": 8.42,
+      "end": 10.36,
       "text": "사실 apparently 할머니가요"
     },
     {
-      "start": 268.51,
-      "end": 271.05,
+      "start": 10.36,
+      "end": 12.9,
       "text": "She was a very rich lady"
     },
     {
-      "start": 271.05,
-      "end": 272.13,
+      "start": 12.9,
+      "end": 13.98,
       "text": "Super rich"
     },
     {
-      "start": 272.13,
-      "end": 273.29,
+      "start": 13.98,
+      "end": 15.14,
       "text": "Ultra wealthy"
     },
     {
-      "start": 273.29,
-      "end": 276.45,
+      "start": 15.14,
+      "end": 18.3,
       "text": "완전 super rich하고 ultra wealthy"
     },
     {
-      "start": 276.45,
-      "end": 277.95,
+      "start": 18.3,
+      "end": 19.8,
       "text": "이 표현도 아주 마음에 드네요."
     },
     {
-      "start": 278.05,
-      "end": 278.65,
+      "start": 19.9,
+      "end": 20.5,
       "text": "You like that?"
     },
     {
-      "start": 278.77,
-      "end": 279.03,
+      "start": 20.62,
+      "end": 20.88,
       "text": "Yeah."
     },
     {
-      "start": 279.13,
-      "end": 279.85,
+      "start": 20.98,
+      "end": 21.7,
       "text": "Ultra wealthy"
     },
     {
-      "start": 279.85,
-      "end": 288.57,
+      "start": 21.7,
+      "end": 30.42,
       "text": "그리고 이렇게 엄청난 유산을 자기가 키우던 강아지나 아니면 고양이한테 남기는 주인들이 종종 있잖아요."
     },
     {
-      "start": 289.03,
-      "end": 291.67,
+      "start": 30.88,
+      "end": 33.52,
       "text": "I've often heard about it on world news."
     },
     {
-      "start": 292.03,
-      "end": 292.29,
+      "start": 33.88,
+      "end": 34.14,
       "text": "Yeah."
     },
     {
-      "start": 292.29,
-      "end": 293.67,
+      "start": 34.14,
+      "end": 35.52,
       "text": "진짜 실제로 있더라고요."
     },
     {
-      "start": 293.67,
-      "end": 295.29,
+      "start": 35.52,
+      "end": 37.14,
       "text": "This actually happens."
     },
     {
-      "start": 295.89,
-      "end": 300.83,
+      "start": 37.74,
+      "end": 42.68,
       "text": "In 2018, the world's richest dog became the richest dog."
     },
     {
-      "start": 301.25,
-      "end": 302.53,
+      "start": 43.1,
+      "end": 44.38,
       "text": "His name was Gunther."
     },
     {
-      "start": 302.75,
-      "end": 304.07,
+      "start": 44.6,
+      "end": 45.92,
       "text": "He was a German shepherd."
     },
     {
-      "start": 304.23,
-      "end": 304.35,
+      "start": 46.08,
+      "end": 46.2,
       "text": "Yeah."
     },
     {
-      "start": 304.87,
-      "end": 312.93,
+      "start": 46.72,
+      "end": 54.78,
       "text": "And his owner gave him an inheritance of 65 million dollars when she died."
     },
     {
-      "start": 313.15,
-      "end": 314.59,
+      "start": 55.0,
+      "end": 56.44,
       "text": "65 million."
     },
     {
-      "start": 314.79,
-      "end": 317.19,
+      "start": 56.64,
+      "end": 59.04,
       "text": "6,500만 달러면 환율이 어떻게 되죠?"
     },
     {
-      "start": 317.25,
-      "end": 319.81,
+      "start": 59.1,
+      "end": 61.66,
       "text": "환산하면 한 740억?"
     },
     {
-      "start": 320.29,
-      "end": 321.17,
+      "start": 62.14,
+      "end": 63.02,
       "text": "Oh, yeah."
     },
     {
-      "start": 321.73,
-      "end": 322.41,
+      "start": 63.58,
+      "end": 64.26,
       "text": "환율까지."
     },
     {
-      "start": 322.41,
-      "end": 323.85,
+      "start": 64.26,
+      "end": 65.7,
       "text": "어머니 복잡한데."
     },
     {
-      "start": 324.63,
-      "end": 324.69,
+      "start": 66.48,
+      "end": 66.54,
       "text": "네."
     },
     {
-      "start": 324.69,
-      "end": 325.81,
+      "start": 66.54,
+      "end": 67.66,
       "text": "거기쯤."
     },
     {
-      "start": 325.91,
-      "end": 326.09,
+      "start": 67.76,
+      "end": 67.94,
       "text": "네."
     },
     {
-      "start": 326.51,
-      "end": 328.23,
+      "start": 68.36,
+      "end": 70.08,
       "text": "740억을 상속을 받았네요."
     },
     {
-      "start": 328.73,
-      "end": 334.45,
+      "start": 70.58,
+      "end": 76.3,
       "text": "And his owner was the late German countess, Carlato Liebestain."
     },
     {
-      "start": 334.55,
-      "end": 335.95,
+      "start": 76.4,
+      "end": 77.8,
       "text": "She died in 1992."
     },
     {
-      "start": 336.27,
-      "end": 339.93,
+      "start": 78.12,
+      "end": 81.78,
       "text": "Anyway, a really rich German lady left him a ton of money."
     },
     {
-      "start": 340.59,
-      "end": 344.61,
+      "start": 82.44,
+      "end": 86.46,
       "text": "And of course, dogs have trouble managing money because they're dogs."
     },
     {
-      "start": 344.61,
-      "end": 348.23,
+      "start": 86.46,
+      "end": 90.08,
       "text": "So he had people around him to manage his money."
     },
     {
-      "start": 348.23,
-      "end": 354.57,
+      "start": 90.08,
+      "end": 96.42,
       "text": "And they turned that 65 million dollars into 375 million dollars."
     },
     {
-      "start": 355.05,
-      "end": 356.13,
+      "start": 96.9,
+      "end": 97.98,
       "text": "머리가 폭발할 것 같아요."
     },
     {
-      "start": 356.29,
-      "end": 357.37,
+      "start": 98.14,
+      "end": 99.22,
       "text": "That's a lot of money."
     },
     {
-      "start": 357.63,
-      "end": 357.77,
+      "start": 99.48,
+      "end": 99.62,
       "text": "네."
     },
     {
-      "start": 357.93,
-      "end": 364.81,
+      "start": 99.78,
+      "end": 106.66,
       "text": "3억 7,500만 달러라고 했으니까 환산하면 4,300억 원으로 재산을 불렸다고 합니다."
     },
     {
-      "start": 364.81,
-      "end": 370.91,
+      "start": 106.66,
+      "end": 112.76,
       "text": "Anyway, Gunther the dog had a son, Gunther the 4th."
     },
     {
-      "start": 370.91,
-      "end": 376.47,
+      "start": 112.76,
+      "end": 118.32,
       "text": "So that 375 million dollars was passed onto the son, a dog."
     },
     {
-      "start": 377.05,
-      "end": 380.73,
+      "start": 118.9,
+      "end": 122.58,
       "text": "And now his handlers are managing that money."
     },
     {
-      "start": 380.73,
-      "end": 385.27,
+      "start": 122.58,
+      "end": 127.12,
       "text": "And they're buying property, mansions, villas, all over the world."
     },
     {
-      "start": 385.71,
-      "end": 389.17,
+      "start": 127.56,
+      "end": 131.02,
       "text": "And he's considered the world's richest dog, Gunther the 4th."
     },
     {
-      "start": 389.75,
-      "end": 390.73,
+      "start": 131.6,
+      "end": 132.58,
       "text": "Jealous of a dog."
     },
     {
-      "start": 391.23,
-      "end": 391.59,
+      "start": 133.08,
+      "end": 133.44,
       "text": "정말."
     },
     {
-      "start": 392.43,
-      "end": 394.13,
+      "start": 134.28,
+      "end": 135.98,
       "text": "정말 부럽습니다."
     },
     {
-      "start": 394.17,
-      "end": 394.91,
+      "start": 136.02,
+      "end": 136.76,
       "text": "They have the life."
     },
     {
-      "start": 394.99,
-      "end": 395.49,
+      "start": 136.84,
+      "end": 137.34,
       "text": "그러네요."
     },
     {
-      "start": 395.73,
-      "end": 396.85,
+      "start": 137.58,
+      "end": 138.7,
       "text": "그때 그 말."
     },
     {
-      "start": 397.01,
-      "end": 399.57,
+      "start": 138.86,
+      "end": 141.42,
       "text": "딱 배운 표현을 여기에다가 써먹으면 되겠네요."
     },
     {
-      "start": 399.69,
-      "end": 399.97,
+      "start": 141.54,
+      "end": 141.82,
       "text": "아, 네."
     },
     {
-      "start": 400.33,
-      "end": 401.67,
+      "start": 142.18,
+      "end": 143.52,
       "text": "와, 정말 부럽습니다."
     },
     {
-      "start": 401.79,
-      "end": 404.11,
+      "start": 143.64,
+      "end": 145.96,
       "text": "부러면 지는 거라고 하지만 저는 그래도 부럽네요."
     },
     {
-      "start": 404.89,
-      "end": 406.35,
+      "start": 146.74,
+      "end": 148.2,
       "text": "아, 저 이게 키울게요."
     },
     {
-      "start": 406.49,
-      "end": 407.13,
+      "start": 148.34,
+      "end": 148.98,
       "text": "아, 진짜?"
     },
     {
-      "start": 407.41,
-      "end": 408.17,
+      "start": 149.26,
+      "end": 150.02,
       "text": "그러고 싶습니다."
     },
     {
-      "start": 408.23,
-      "end": 408.91,
+      "start": 150.08,
+      "end": 150.76,
       "text": "입양하고 싶어요."
     },
     {
-      "start": 408.91,
-      "end": 409.19,
+      "start": 150.76,
+      "end": 151.04,
       "text": "네."
     },
     {
-      "start": 409.57,
-      "end": 410.17,
+      "start": 151.42,
+      "end": 152.02,
       "text": "아, 참."
     },
     {
-      "start": 410.17,
-      "end": 414.01,
+      "start": 152.02,
+      "end": 155.86,
       "text": "그래도 우리가 sometimes we say, dogs are better than people."
     },
     {
-      "start": 414.29,
-      "end": 414.79,
+      "start": 156.14,
+      "end": 156.64,
       "text": "그죠?"
     },
     {
-      "start": 415.13,
-      "end": 418.67,
+      "start": 156.98,
+      "end": 160.52,
       "text": "그래서 이런 상황이 종종 가능하지 않나 싶기도 하네요."
     },
     {
-      "start": 418.79,
-      "end": 419.91,
+      "start": 160.64,
+      "end": 161.76,
       "text": "They don't care about wealth."
     },
     {
-      "start": 420.31,
-      "end": 421.85,
+      "start": 162.16,
+      "end": 163.7,
       "text": "They just need love and food."
     },
     {
-      "start": 421.93,
-      "end": 422.25,
+      "start": 163.78,
+      "end": 164.1,
       "text": "그죠."
     },
     {
-      "start": 422.27,
-      "end": 422.79,
+      "start": 164.12,
+      "end": 164.64,
       "text": "and intention."
     },
     {
-      "start": 423.07,
-      "end": 423.27,
+      "start": 164.92,
+      "end": 165.12,
       "text": "예."
     },
     {
-      "start": 423.69,
-      "end": 425.25,
+      "start": 165.54,
+      "end": 167.1,
       "text": "자, 오늘 내용 먼저 듣고 오겠습니다."
     },
     {
-      "start": 426.13,
-      "end": 427.81,
+      "start": 167.98,
+      "end": 169.66,
       "text": "You're an outside dog?"
     },
     {
-      "start": 427.95,
-      "end": 428.81,
+      "start": 169.8,
+      "end": 170.66,
       "text": "Don't you label me."
     },
     {
-      "start": 429.43,
-      "end": 430.21,
+      "start": 171.28,
+      "end": 172.06,
       "text": "It's cool."
     },
     {
-      "start": 430.45,
-      "end": 431.29,
+      "start": 172.3,
+      "end": 173.14,
       "text": "Totally cool."
     },
     {
-      "start": 431.99,
-      "end": 433.69,
+      "start": 173.84,
+      "end": 175.54,
       "text": "This is not ideal."
     },
     {
-      "start": 434.03,
-      "end": 438.62,
+      "start": 175.88,
+      "end": 180.47,
       "text": "I haven't had my teeth brushed and there are an alarming lack of pillows."
     },
     {
-      "start": 438.62,
-      "end": 441.54,
+      "start": 180.47,
+      "end": 183.39,
       "text": "I don't suppose you have something like a warm blanket?"
     },
     {
-      "start": 442.46,
-      "end": 443.54,
+      "start": 184.31,
+      "end": 185.39,
       "text": "Perhaps cashmere?"
     },
     {
-      "start": 444.35,
-      "end": 444.85,
+      "start": 186.2,
+      "end": 186.7,
       "text": "Comfy?"
     },
     {
-      "start": 445.43,
-      "end": 446.01,
+      "start": 187.28,
+      "end": 187.86,
       "text": "Why, yes."
     },
     {
-      "start": 446.55,
-      "end": 447.39,
+      "start": 188.4,
+      "end": 189.24,
       "text": "Yes, I am."
     },
     {
-      "start": 448.03,
-      "end": 448.83,
+      "start": 189.88,
+      "end": 190.68,
       "text": "I don't snuggle."
     },
     {
-      "start": 448.83,
-      "end": 455.69,
+      "start": 190.68,
+      "end": 197.54,
       "text": "Yeah, finally, Trouble realized the fact that Rousey was a stray dog."
     },
     {
-      "start": 455.91,
-      "end": 457.09,
+      "start": 197.76,
+      "end": 198.94,
       "text": "Yeah, no home."
     },
     {
-      "start": 457.27,
-      "end": 458.37,
+      "start": 199.12,
+      "end": 200.22,
       "text": "No current home."
     },
     {
-      "start": 458.37,
-      "end": 462.43,
+      "start": 200.22,
+      "end": 204.28,
       "text": "그래서 그 place where Rousey brought him was not a house."
     },
     {
-      "start": 462.53,
-      "end": 462.85,
+      "start": 204.38,
+      "end": 204.7,
       "text": "No."
     },
     {
-      "start": 463.03,
-      "end": 463.35,
+      "start": 204.88,
+      "end": 205.2,
       "text": "At all."
     },
     {
-      "start": 463.85,
-      "end": 464.25,
+      "start": 205.7,
+      "end": 206.1,
       "text": "Outdoors."
     },
     {
-      "start": 464.67,
-      "end": 466.65,
+      "start": 206.52,
+      "end": 208.5,
       "text": "완전 just a bare ground."
     },
     {
-      "start": 466.85,
-      "end": 467.23,
+      "start": 208.7,
+      "end": 209.08,
       "text": "Yes."
     },
     {
-      "start": 467.63,
-      "end": 471.87,
+      "start": 209.48,
+      "end": 213.72,
       "text": "완전 맨땅에서 그냥 잠을 자야 하는 상황에 놓여가지고"
     },
     {
-      "start": 471.87,
-      "end": 475.55,
+      "start": 213.72,
+      "end": 217.4,
       "text": "트러블이 적자니 당황한 그런 상황이었습니다."
     },
     {
-      "start": 475.55,
-      "end": 477.39,
+      "start": 217.4,
+      "end": 219.24,
       "text": "He's out in the real world now."
     },
     {
-      "start": 477.45,
-      "end": 477.71,
+      "start": 219.3,
+      "end": 219.56,
       "text": "Yeah."
     },
     {
-      "start": 477.79,
-      "end": 481.47,
+      "start": 219.64,
+      "end": 223.32,
       "text": "He has to face harsh weather and lack of food."
     },
     {
-      "start": 481.61,
-      "end": 483.65,
+      "start": 223.46,
+      "end": 225.5,
       "text": "He has to survive himself."
     },
     {
-      "start": 484.55,
-      "end": 486.85,
+      "start": 226.4,
+      "end": 228.7,
       "text": "A good thing he has this big tough dog next to him."
     },
     {
-      "start": 487.03,
-      "end": 488.39,
+      "start": 228.88,
+      "end": 230.24,
       "text": "They were not friends at first."
     },
     {
-      "start": 488.45,
-      "end": 490.33,
+      "start": 230.3,
+      "end": 232.18,
       "text": "But now he's helping him."
     },
     {
-      "start": 490.33,
-      "end": 497.33,
+      "start": 232.18,
+      "end": 239.18,
       "text": "그런데 Rousey의 표정이 뭔가 좀 비하인드 스토리가 분명히 있을 것 같다라는 생각을 하게 하더라고요."
     },
     {
-      "start": 497.45,
-      "end": 498.15,
+      "start": 239.3,
+      "end": 240.0,
       "text": "눈빛 받죠?"
     },
     {
-      "start": 498.19,
-      "end": 498.43,
+      "start": 240.04,
+      "end": 240.28,
       "text": "그렇죠."
     },
     {
-      "start": 498.63,
-      "end": 501.47,
+      "start": 240.48,
+      "end": 243.32,
       "text": "That, he has a sad look behind his eyes."
     },
     {
-      "start": 501.59,
-      "end": 504.31,
+      "start": 243.44,
+      "end": 246.16,
       "text": "You can tell that he has some kind of dark past."
     },
     {
-      "start": 504.35,
-      "end": 504.79,
+      "start": 246.2,
+      "end": 246.64,
       "text": "그렇죠."
     },
     {
-      "start": 504.79,
-      "end": 507.33,
+      "start": 246.64,
+      "end": 249.18,
       "text": "아, 자, 차차 알게 되겠죠?"
     },
     {
-      "start": 507.77,
-      "end": 509.05,
+      "start": 249.62,
+      "end": 250.9,
       "text": "먼저 표현들 알려주세요."
     },
     {
-      "start": 509.89,
-      "end": 511.25,
+      "start": 251.74,
+      "end": 253.1,
       "text": "Outside dog."
     },
     {
-      "start": 511.45,
-      "end": 515.53,
+      "start": 253.3,
+      "end": 257.38,
       "text": "Outside dog 하면 떠돌이 개라고 해석할 수 있어요."
     },
     {
-      "start": 516.07,
-      "end": 518.67,
+      "start": 257.92,
+      "end": 260.52,
       "text": "뭐 stray dog라는 표현도 가능하겠죠?"
     },
     {
-      "start": 518.67,
-      "end": 518.91,
+      "start": 260.52,
+      "end": 260.76,
       "text": "Yeah."
     },
     {
-      "start": 519.07,
-      "end": 526.21,
+      "start": 260.92,
+      "end": 268.06,
       "text": "Stray dog이랑 다른 게, I could 키우고 있더라도, I could have an outside dog or an indoor dog."
     },
     {
-      "start": 526.33,
-      "end": 529.75,
+      "start": 268.18,
+      "end": 271.6,
       "text": "Some people only keep their dogs outside and they have a dog house."
     },
     {
-      "start": 529.97,
-      "end": 532.51,
+      "start": 271.82,
+      "end": 274.36,
       "text": "And some people like to keep their dogs inside."
     },
     {
-      "start": 532.67,
-      "end": 534.69,
+      "start": 274.52,
+      "end": 276.54,
       "text": "Some people keep them inside and outside."
     },
     {
-      "start": 534.79,
-      "end": 536.03,
+      "start": 276.64,
+      "end": 277.88,
       "text": "It depends on the owner."
     },
     {
-      "start": 536.25,
-      "end": 536.57,
+      "start": 278.1,
+      "end": 278.42,
       "text": "Yeah."
     },
     {
-      "start": 536.81,
-      "end": 538.03,
+      "start": 278.66,
+      "end": 279.88,
       "text": "Outdoor dog 그런 말이에요."
     },
     {
-      "start": 538.13,
-      "end": 538.67,
+      "start": 279.98,
+      "end": 280.52,
       "text": "아, 그래요."
     },
     {
-      "start": 538.77,
-      "end": 543.43,
+      "start": 280.62,
+      "end": 285.28,
       "text": "떠돌이 개뿐 아니라 집에서 주인이 직접 키우고 있더라도,"
     },
     {
-      "start": 543.79,
-      "end": 549.17,
+      "start": 285.64,
+      "end": 291.02,
       "text": "바깥에 집을 만들어주고, 바깥에서 지내고 있는 강아지들을 outside dog라고도 할 수 있다."
     },
     {
-      "start": 549.17,
-      "end": 550.85,
+      "start": 291.02,
+      "end": 292.7,
       "text": "라는 친절한 설명을 해주셨습니다."
     },
     {
-      "start": 550.85,
-      "end": 552.33,
+      "start": 292.7,
+      "end": 294.18,
       "text": "따돌리는 개는 그냥 stray."
     },
     {
-      "start": 552.51,
-      "end": 552.79,
+      "start": 294.36,
+      "end": 294.64,
       "text": "Yeah."
     },
     {
-      "start": 552.79,
-      "end": 553.37,
+      "start": 294.64,
+      "end": 295.22,
       "text": "Stray dog."
     },
     {
-      "start": 553.41,
-      "end": 553.95,
+      "start": 295.26,
+      "end": 295.8,
       "text": "Stray dog."
     },
     {
-      "start": 553.99,
-      "end": 554.73,
+      "start": 295.84,
+      "end": 296.58,
       "text": "Homeless dog."
     },
     {
-      "start": 556.09,
-      "end": 557.33,
+      "start": 297.94,
+      "end": 299.18,
       "text": "Don't you label me?"
     },
     {
-      "start": 557.51,
-      "end": 560.75,
+      "start": 299.36,
+      "end": 302.6,
       "text": "Oh, 이거 label이라는 단어는 우리가 3월 영화에서도 배웠잖아요."
     },
     {
-      "start": 560.89,
-      "end": 561.65,
+      "start": 302.74,
+      "end": 303.5,
       "text": "라벨, 라벨."
     },
     {
-      "start": 562.19,
-      "end": 562.71,
+      "start": 304.04,
+      "end": 304.56,
       "text": "Label."
     },
     {
-      "start": 562.71,
-      "end": 564.43,
+      "start": 304.56,
+      "end": 306.28,
       "text": "네, 여기서도 또 들렸네요."
     },
     {
-      "start": 564.53,
-      "end": 565.49,
+      "start": 306.38,
+      "end": 307.34,
       "text": "여기가 좀 다른 말이네요."
     },
     {
-      "start": 565.49,
-      "end": 565.71,
+      "start": 307.34,
+      "end": 307.56,
       "text": "Yeah."
     },
     {
-      "start": 566.01,
-      "end": 567.43,
+      "start": 307.86,
+      "end": 309.28,
       "text": "Don't you label me?"
     },
     {
-      "start": 567.55,
-      "end": 569.55,
+      "start": 309.4,
+      "end": 311.4,
       "text": "라고 했으니까, 날 그렇게 부르지 마."
     },
     {
-      "start": 570.11,
-      "end": 572.21,
+      "start": 311.96,
+      "end": 314.06,
       "text": "나한테 그렇게 꼬리표 붙이지 마."
     },
     {
-      "start": 572.29,
-      "end": 573.11,
+      "start": 314.14,
+      "end": 314.96,
       "text": "라는 겁니다."
     },
     {
-      "start": 573.35,
-      "end": 574.91,
+      "start": 315.2,
+      "end": 316.76,
       "text": "Don't put me inside a box."
     },
     {
-      "start": 575.17,
-      "end": 576.21,
+      "start": 317.02,
+      "end": 318.06,
       "text": "Don't call me that."
     },
     {
-      "start": 576.21,
-      "end": 577.45,
+      "start": 318.06,
+      "end": 319.3,
       "text": "아, 그 표현도 좋으네요."
     },
     {
-      "start": 577.67,
-      "end": 579.43,
+      "start": 319.52,
+      "end": 321.28,
       "text": "Don't put me inside the box."
     },
     {
-      "start": 579.71,
-      "end": 580.05,
+      "start": 321.56,
+      "end": 321.9,
       "text": "틀 안에."
     },
     {
-      "start": 580.29,
-      "end": 581.81,
+      "start": 322.14,
+      "end": 323.66,
       "text": "나를 틀 안에 가두지 마."
     },
     {
-      "start": 581.91,
-      "end": 582.09,
+      "start": 323.76,
+      "end": 323.94,
       "text": "Yeah."
     },
     {
-      "start": 582.23,
-      "end": 583.37,
+      "start": 324.08,
+      "end": 325.22,
       "text": "좋은 표현입니다."
     },
     {
-      "start": 583.45,
-      "end": 583.93,
+      "start": 325.3,
+      "end": 325.78,
       "text": "많이 써요."
     },
     {
-      "start": 583.99,
-      "end": 584.17,
+      "start": 325.84,
+      "end": 326.02,
       "text": "Yeah."
     },
     {
-      "start": 584.27,
-      "end": 584.97,
+      "start": 326.12,
+      "end": 326.82,
       "text": "Don't label me."
     },
     {
-      "start": 586.13,
-      "end": 587.93,
+      "start": 327.98,
+      "end": 329.78,
       "text": "I don't snuggle."
     },
     {
-      "start": 589.05,
-      "end": 590.95,
+      "start": 330.9,
+      "end": 332.8,
       "text": "Snuggle이라는 철자 알려드리면,"
     },
     {
-      "start": 591.11,
-      "end": 594.55,
+      "start": 332.96,
+      "end": 336.4,
       "text": "S-N-U-G-G-L-E라는 철자인데,"
     },
     {
-      "start": 595.03,
-      "end": 599.29,
+      "start": 336.88,
+      "end": 341.14,
       "text": "뭐, 껴안다, 파고 들다, 아니면 들러붙다, 라는 의미잖아요."
     },
     {
-      "start": 599.61,
-      "end": 600.57,
+      "start": 341.46,
+      "end": 342.42,
       "text": "그래서 I don't snuggle."
     },
     {
-      "start": 600.75,
-      "end": 602.45,
+      "start": 342.6,
+      "end": 344.3,
       "text": "나는 들러붙는 거 싫어해."
     },
     {
-      "start": 602.53,
-      "end": 604.05,
+      "start": 344.38,
+      "end": 345.9,
       "text": "나는 안 들러붙거든."
     },
     {
-      "start": 604.29,
-      "end": 605.15,
+      "start": 346.14,
+      "end": 347.0,
       "text": "이라는 의미입니다."
     },
     {
-      "start": 605.15,
-      "end": 606.33,
+      "start": 347.0,
+      "end": 348.18,
       "text": "스킨십 싫어하거든."
     },
     {
-      "start": 606.57,
-      "end": 606.63,
+      "start": 348.42,
+      "end": 348.48,
       "text": "네."
     },
     {
-      "start": 606.73,
-      "end": 607.39,
+      "start": 348.58,
+      "end": 349.24,
       "text": "No 스킨십."
     },
     {
-      "start": 607.53,
-      "end": 610.51,
+      "start": 349.38,
+      "end": 352.36,
       "text": "그래서 오늘 장면 이후에 트러블을 뽕 쳐버리잖아요."
     },
     {
-      "start": 611.57,
-      "end": 612.21,
+      "start": 353.42,
+      "end": 354.06,
       "text": "Get out of here."
     },
     {
-      "start": 612.35,
-      "end": 612.63,
+      "start": 354.2,
+      "end": 354.48,
       "text": "그렇죠."
     },
     {
-      "start": 612.81,
-      "end": 613.21,
+      "start": 354.66,
+      "end": 355.06,
       "text": "스킨십."
     },
     {
-      "start": 613.29,
-      "end": 613.89,
+      "start": 355.14,
+      "end": 355.74,
       "text": "난 싫거든?"
     },
     {
-      "start": 614.07,
-      "end": 614.65,
+      "start": 355.92,
+      "end": 356.5,
       "text": "이라고 하면서."
     },
     {
-      "start": 614.65,
-      "end": 615.37,
+      "start": 356.5,
+      "end": 357.22,
       "text": "네."
     },
     {
-      "start": 615.59,
-      "end": 616.83,
+      "start": 357.44,
+      "end": 358.68,
       "text": "이 장면 한 번 더 들어볼게요."
     },
     {
-      "start": 617.61,
-      "end": 619.31,
+      "start": 359.46,
+      "end": 361.16,
       "text": "You're an outside dog."
     },
     {
-      "start": 619.47,
-      "end": 620.33,
+      "start": 361.32,
+      "end": 362.18,
       "text": "Don't you label me."
     },
     {
-      "start": 620.95,
-      "end": 621.71,
+      "start": 362.8,
+      "end": 363.56,
       "text": "It's cool."
     },
     {
-      "start": 621.95,
-      "end": 622.81,
+      "start": 363.8,
+      "end": 364.66,
       "text": "Totally cool."
     },
     {
-      "start": 623.49,
-      "end": 625.19,
+      "start": 365.34,
+      "end": 367.04,
       "text": "This is not ideal."
     },
     {
-      "start": 625.55,
-      "end": 627.19,
+      "start": 367.4,
+      "end": 369.04,
       "text": "I haven't had my teeth brushed and"
     },
     {
-      "start": 627.19,
-      "end": 630.15,
+      "start": 369.04,
+      "end": 372.0,
       "text": "and there are an alarming lack of pillows."
     },
     {
-      "start": 631.15,
-      "end": 633.03,
+      "start": 373.0,
+      "end": 374.88,
       "text": "I don't suppose you have something like a warm blanket."
     },
     {
-      "start": 634.03,
-      "end": 635.05,
+      "start": 375.88,
+      "end": 376.9,
       "text": "Perhaps cashmere."
     },
     {
-      "start": 635.79,
-      "end": 636.35,
+      "start": 377.64,
+      "end": 378.2,
       "text": "Comfy."
     },
     {
-      "start": 636.93,
-      "end": 637.53,
+      "start": 378.78,
+      "end": 379.38,
       "text": "Why yes."
     },
     {
-      "start": 638.05,
-      "end": 638.89,
+      "start": 379.9,
+      "end": 380.74,
       "text": "Yes I am."
     },
     {
-      "start": 639.55,
-      "end": 640.33,
+      "start": 381.4,
+      "end": 382.18,
       "text": "I don't snuggle."
     },
     {
-      "start": 641.47,
-      "end": 641.69,
+      "start": 383.32,
+      "end": 383.54,
       "text": "네."
     },
     {
-      "start": 641.93,
-      "end": 644.45,
+      "start": 383.78,
+      "end": 386.3,
       "text": "트러블은 아직 적응이 확실히 안 된 것 같아요."
     },
     {
-      "start": 644.57,
-      "end": 645.41,
+      "start": 386.42,
+      "end": 387.26,
       "text": "Oh, tough, tough."
     },
     {
-      "start": 645.47,
-      "end": 645.69,
+      "start": 387.32,
+      "end": 387.54,
       "text": "그죠."
     },
     {
-      "start": 645.79,
-      "end": 649.95,
+      "start": 387.64,
+      "end": 391.8,
       "text": "양치, 뭐 베개, 뭐 cashmere 이런 단어들이."
     },
     {
-      "start": 650.37,
-      "end": 651.01,
+      "start": 392.22,
+      "end": 392.86,
       "text": "Cashmere까지."
     },
     {
-      "start": 651.37,
-      "end": 652.31,
+      "start": 393.22,
+      "end": 394.16,
       "text": "너무 웃겼어요."
     },
     {
-      "start": 652.41,
-      "end": 653.17,
+      "start": 394.26,
+      "end": 395.02,
       "text": "뻔뻔함이."
     },
     {
-      "start": 653.23,
-      "end": 654.17,
+      "start": 395.08,
+      "end": 396.02,
       "text": "아직 살아있어요."
     },
     {
-      "start": 654.31,
-      "end": 654.45,
+      "start": 396.16,
+      "end": 396.3,
       "text": "네."
     },
     {
-      "start": 655.01,
-      "end": 657.19,
+      "start": 396.86,
+      "end": 399.04,
       "text": "트러블이 뭐라고 하는지 먼저 들려주세요."
     },
     {
-      "start": 657.73,
-      "end": 659.57,
+      "start": 399.58,
+      "end": 401.42,
       "text": "You're an outside dog?"
     },
     {
-      "start": 659.57,
-      "end": 662.19,
+      "start": 401.42,
+      "end": 404.04,
       "text": "너, outside dog야?"
     },
     {
-      "start": 662.61,
-      "end": 664.65,
+      "start": 404.46,
+      "end": 406.5,
       "text": "라고 깜짝 놀라서 질문을 합니다."
     },
     {
-      "start": 665.29,
-      "end": 667.53,
+      "start": 407.14,
+      "end": 409.38,
       "text": "He still doesn't know he doesn't have an owner."
     },
     {
-      "start": 667.71,
-      "end": 669.13,
+      "start": 409.56,
+      "end": 410.98,
       "text": "He thinks he has an owner somewhere."
     },
     {
-      "start": 669.31,
-      "end": 670.49,
+      "start": 411.16,
+      "end": 412.34,
       "text": "He thinks he has a home."
     },
     {
-      "start": 670.71,
-      "end": 674.05,
+      "start": 412.56,
+      "end": 415.9,
       "text": "그래서 이렇게 outside dog라고 표현을 쓴 거군요."
     },
     {
-      "start": 674.11,
-      "end": 674.61,
+      "start": 415.96,
+      "end": 416.46,
       "text": "그런 것 같아요."
     },
     {
-      "start": 674.61,
-      "end": 676.33,
+      "start": 416.46,
+      "end": 418.18,
       "text": "아, 너 이렇게 밖에서 지내?"
     },
     {
-      "start": 676.45,
-      "end": 677.13,
+      "start": 418.3,
+      "end": 418.98,
       "text": "라는 의미로."
     },
     {
-      "start": 677.29,
-      "end": 677.53,
+      "start": 419.14,
+      "end": 419.38,
       "text": "그렇죠?"
     },
     {
-      "start": 679.16,
-      "end": 680.52,
+      "start": 421.01,
+      "end": 422.37,
       "text": "Don't you label me?"
     },
     {
-      "start": 680.66,
-      "end": 682.6,
+      "start": 422.51,
+      "end": 424.45,
       "text": "아하, 배우신 표현입니다."
     },
     {
-      "start": 682.76,
-      "end": 684.08,
+      "start": 424.61,
+      "end": 425.93,
       "text": "Don't you label me?"
     },
     {
-      "start": 684.5,
-      "end": 686.0,
+      "start": 426.35,
+      "end": 427.85,
       "text": "그렇게 날 부르지 마."
     },
     {
-      "start": 686.0,
-      "end": 688.08,
+      "start": 427.85,
+      "end": 429.93,
       "text": "Oh, 그 외국인."
     },
     {
-      "start": 688.38,
-      "end": 689.92,
+      "start": 430.23,
+      "end": 431.77,
       "text": "Oh, 저기 한국인."
     },
     {
-      "start": 690.08,
-      "end": 691.34,
+      "start": 431.93,
+      "end": 433.19,
       "text": "Don't you label me?"
     },
     {
-      "start": 691.5,
-      "end": 693.74,
+      "start": 433.35,
+      "end": 435.59,
       "text": "이런 상황에서도 쓸 수가 있겠네요."
     },
     {
-      "start": 693.96,
-      "end": 695.12,
+      "start": 435.81,
+      "end": 436.97,
       "text": "뭐 쓰면 안 되겠지만."
     },
     {
-      "start": 695.84,
-      "end": 696.46,
+      "start": 437.69,
+      "end": 438.31,
       "text": "쓸 수는 있어요."
     },
     {
-      "start": 696.64,
-      "end": 697.02,
+      "start": 438.49,
+      "end": 438.87,
       "text": "Yeah, yeah."
     },
     {
-      "start": 697.62,
-      "end": 699.22,
+      "start": 439.47,
+      "end": 441.07,
       "text": "외국인으로 불리기 싫은 사람 있잖아요."
     },
     {
-      "start": 699.76,
-      "end": 700.58,
+      "start": 441.61,
+      "end": 442.43,
       "text": "I'm Korean."
     },
     {
-      "start": 700.94,
-      "end": 702.32,
+      "start": 442.79,
+      "end": 444.17,
       "text": "My mom's Korean."
     },
     {
-      "start": 702.48,
-      "end": 703.76,
+      "start": 444.33,
+      "end": 445.61,
       "text": "My daughter, for example."
     },
     {
-      "start": 704.14,
-      "end": 704.84,
+      "start": 445.99,
+      "end": 446.69,
       "text": "아, 그러네요."
     },
     {
-      "start": 705.08,
-      "end": 706.2,
+      "start": 446.93,
+      "end": 448.05,
       "text": "영어 좀 해봐."
     },
     {
-      "start": 706.32,
-      "end": 707.1,
+      "start": 448.17,
+      "end": 448.95,
       "text": "너무 와닿는 표현입니다."
     },
     {
-      "start": 707.12,
-      "end": 707.8,
+      "start": 448.97,
+      "end": 449.65,
       "text": "영어 못해."
     },
     {
-      "start": 707.8,
-      "end": 709.58,
+      "start": 449.65,
+      "end": 451.43,
       "text": "너 미국 사람이잖아."
     },
     {
-      "start": 709.7,
-      "end": 710.42,
+      "start": 451.55,
+      "end": 452.27,
       "text": "I'm Korean."
     },
     {
-      "start": 711.04,
-      "end": 712.02,
+      "start": 452.89,
+      "end": 453.87,
       "text": "Don't you label me?"
     },
     {
-      "start": 712.12,
-      "end": 712.58,
+      "start": 453.97,
+      "end": 454.43,
       "text": "그럼요."
     },
     {
-      "start": 712.82,
-      "end": 713.76,
+      "start": 454.67,
+      "end": 455.61,
       "text": "그런 상황."
     },
     {
-      "start": 714.48,
-      "end": 715.22,
+      "start": 456.33,
+      "end": 457.07,
       "text": "많이 쓰는 표현."
     },
     {
-      "start": 716.09,
-      "end": 716.85,
+      "start": 457.94,
+      "end": 458.7,
       "text": "It's cool."
     },
     {
-      "start": 717.05,
-      "end": 717.79,
+      "start": 458.9,
+      "end": 459.64,
       "text": "Totally cool."
     },
     {
-      "start": 718.75,
-      "end": 720.77,
+      "start": 460.6,
+      "end": 462.62,
       "text": "여기서의 it's cool이라는 것은"
     },
     {
-      "start": 720.77,
-      "end": 723.81,
+      "start": 462.62,
+      "end": 465.66,
       "text": "알았어 라는 의미로도 쓰일 수 있겠지만"
     },
     {
-      "start": 723.81,
-      "end": 725.59,
+      "start": 465.66,
+      "end": 467.44,
       "text": "지금 이 트러블이요."
     },
     {
-      "start": 726.13,
-      "end": 728.73,
+      "start": 467.98,
+      "end": 470.58,
       "text": "라우지가 지내는 그 바깥을"
     },
     {
-      "start": 728.73,
-      "end": 730.29,
+      "start": 470.58,
+      "end": 472.14,
       "text": "이렇게 돌아보면서"
     },
     {
-      "start": 730.29,
-      "end": 731.03,
+      "start": 472.14,
+      "end": 472.88,
       "text": "It's cool."
     },
     {
-      "start": 731.53,
-      "end": 732.85,
+      "start": 473.38,
+      "end": 474.7,
       "text": "아, totally cool."
     },
     {
-      "start": 733.07,
-      "end": 733.75,
+      "start": 474.92,
+      "end": 475.6,
       "text": "이런 거거든요."
     },
     {
-      "start": 733.95,
-      "end": 734.79,
+      "start": 475.8,
+      "end": 476.64,
       "text": "It's not cool."
     },
     {
-      "start": 734.93,
-      "end": 736.17,
+      "start": 476.78,
+      "end": 478.02,
       "text": "뭐 괜찮네."
     },
     {
-      "start": 736.17,
-      "end": 737.17,
+      "start": 478.02,
+      "end": 479.02,
       "text": "뭐 괜찮네."
     },
     {
-      "start": 738.11,
-      "end": 739.75,
+      "start": 479.96,
+      "end": 481.6,
       "text": "이렇게도 의역할 수 있을 것 같아요."
     },
     {
-      "start": 739.85,
-      "end": 740.15,
+      "start": 481.7,
+      "end": 482.0,
       "text": "Exactly."
     },
     {
-      "start": 740.67,
-      "end": 741.69,
+      "start": 482.52,
+      "end": 483.54,
       "text": "그래 괜찮아."
     },
     {
-      "start": 742.69,
-      "end": 743.41,
+      "start": 484.54,
+      "end": 485.26,
       "text": "괜찮네."
     },
     {
-      "start": 743.91,
-      "end": 744.93,
+      "start": 485.76,
+      "end": 486.78,
       "text": "됐지 뭐."
     },
     {
-      "start": 744.93,
-      "end": 747.57,
+      "start": 486.78,
+      "end": 489.42,
       "text": "This is not ideal."
     },
     {
-      "start": 747.57,
-      "end": 750.77,
+      "start": 489.42,
+      "end": 492.62,
       "text": "뭐 이렇게 나의 이상적인 곳은 아니지만"
     },
     {
-      "start": 750.77,
-      "end": 752.57,
+      "start": 492.62,
+      "end": 494.42,
       "text": "뭐 그럭저럭 괜찮네."
     },
     {
-      "start": 752.93,
-      "end": 753.69,
+      "start": 494.78,
+      "end": 495.54,
       "text": "그럭저럭."
     },
     {
-      "start": 753.77,
-      "end": 754.89,
+      "start": 495.62,
+      "end": 496.74,
       "text": "Not bad."
     },
     {
-      "start": 755.93,
-      "end": 757.79,
+      "start": 497.78,
+      "end": 499.64,
       "text": "I haven't had my teeth brushed."
     },
     {
-      "start": 758.25,
-      "end": 762.33,
+      "start": 500.1,
+      "end": 504.18,
       "text": "And there are an alarming lack of pillows."
     },
     {
-      "start": 762.33,
-      "end": 765.49,
+      "start": 504.18,
+      "end": 507.34,
       "text": "Oh, I haven't had my teeth brushed."
     },
     {
-      "start": 765.49,
-      "end": 765.51,
+      "start": 507.34,
+      "end": 507.36,
       "text": "Oh, I haven't had my teeth brushed."
     },
     {
-      "start": 765.51,
-      "end": 769.99,
+      "start": 507.36,
+      "end": 511.84,
       "text": "나는 나의 양치를 못 했다라는 의미를"
     },
     {
-      "start": 769.99,
-      "end": 772.65,
+      "start": 511.84,
+      "end": 514.5,
       "text": "이와 같이 사역동사 구조를 활용을 한 거예요."
     },
     {
-      "start": 772.65,
-      "end": 774.11,
+      "start": 514.5,
+      "end": 515.96,
       "text": "I haven't had my teeth brushed."
     },
     {
-      "start": 774.13,
-      "end": 774.57,
+      "start": 515.98,
+      "end": 516.42,
       "text": "그렇죠."
     },
     {
-      "start": 774.65,
-      "end": 777.41,
+      "start": 516.5,
+      "end": 519.26,
       "text": "So someone brushed his teeth every night before bed."
     },
     {
-      "start": 777.51,
-      "end": 778.09,
+      "start": 519.36,
+      "end": 519.94,
       "text": "아, 맞아요."
     },
     {
-      "start": 778.45,
-      "end": 782.87,
+      "start": 520.3,
+      "end": 524.72,
       "text": "아마도 이 waiter이라든지 아니면 butler이 하지 않았을까 싶습니다."
     },
     {
-      "start": 783.35,
-      "end": 786.43,
+      "start": 525.2,
+      "end": 528.28,
       "text": "I haven't had my teeth brushed."
     },
     {
-      "start": 786.43,
-      "end": 789.47,
+      "start": 528.28,
+      "end": 531.32,
       "text": "나 아직 양치질도 안 받았고."
     },
     {
-      "start": 789.79,
-      "end": 792.77,
+      "start": 531.64,
+      "end": 534.62,
       "text": "And there are an alarming lack of pillows."
     },
     {
-      "start": 793.77,
-      "end": 794.79,
+      "start": 535.62,
+      "end": 536.64,
       "text": "Remember his bed?"
     },
     {
-      "start": 795.19,
-      "end": 797.11,
+      "start": 537.04,
+      "end": 538.96,
       "text": "Oh, 완전 luxurious 했죠."
     },
     {
-      "start": 797.27,
-      "end": 798.49,
+      "start": 539.12,
+      "end": 540.34,
       "text": "Yeah, it was full of pillows."
     },
     {
-      "start": 799.01,
-      "end": 801.23,
+      "start": 540.86,
+      "end": 543.08,
       "text": "It was like a bed from a five-star hotel."
     },
     {
-      "start": 801.23,
-      "end": 802.97,
+      "start": 543.08,
+      "end": 544.82,
       "text": "Well, so many pillows."
     },
     {
-      "start": 803.13,
-      "end": 807.25,
+      "start": 544.98,
+      "end": 549.1,
       "text": "저는 그 침대가 할머니 침대인 줄 알았어요."
     },
     {
-      "start": 807.79,
-      "end": 809.99,
+      "start": 549.64,
+      "end": 551.84,
       "text": "근데 it was totally his."
     },
     {
-      "start": 810.17,
-      "end": 811.27,
+      "start": 552.02,
+      "end": 553.12,
       "text": "Just a doggy bed."
     },
     {
-      "start": 811.41,
-      "end": 812.97,
+      "start": 553.26,
+      "end": 554.82,
       "text": "와, 정말 어메이징했습니다."
     },
     {
-      "start": 813.71,
-      "end": 816.89,
+      "start": 555.56,
+      "end": 558.74,
       "text": "And there are an alarming lack of pillows라고 했으니까."
     },
     {
-      "start": 817.27,
-      "end": 820.63,
+      "start": 559.12,
+      "end": 562.48,
       "text": "와, 그리고 놀랄만큼이나마 베개도 없네."
     },
     {
-      "start": 820.89,
-      "end": 821.89,
+      "start": 562.74,
+      "end": 563.74,
       "text": "이라고 이야기하는 거죠."
     },
     {
-      "start": 822.03,
-      "end": 822.91,
+      "start": 563.88,
+      "end": 564.76,
       "text": "고생하고 있네."
     },
     {
-      "start": 823.57,
-      "end": 827.65,
+      "start": 565.42,
+      "end": 569.5,
       "text": "I don't suppose you have something like a warm blanket?"
     },
     {
-      "start": 828.09,
-      "end": 829.51,
+      "start": 569.94,
+      "end": 571.36,
       "text": "Perhaps cashmere?"
     },
     {
-      "start": 829.51,
-      "end": 833.43,
+      "start": 571.36,
+      "end": 575.28,
       "text": "네, I don't suppose라는 것을 그래도 붙이기는 했어요."
     },
     {
-      "start": 833.97,
-      "end": 836.07,
+      "start": 575.82,
+      "end": 577.92,
       "text": "살짝 이제 감이 왔나 봅니다."
     },
     {
-      "start": 836.35,
-      "end": 838.55,
+      "start": 578.2,
+      "end": 580.4,
       "text": "아마 없을 것 같은데 라는 의미로."
     },
     {
-      "start": 838.71,
-      "end": 839.37,
+      "start": 580.56,
+      "end": 581.22,
       "text": "그래도 말합니다."
     },
     {
-      "start": 839.55,
-      "end": 839.85,
+      "start": 581.4,
+      "end": 581.7,
       "text": "그쵸."
     },
     {
-      "start": 840.17,
-      "end": 842.91,
+      "start": 582.02,
+      "end": 584.76,
       "text": "You have something like a warm blanket?"
     },
     {
-      "start": 842.91,
-      "end": 846.91,
+      "start": 584.76,
+      "end": 588.76,
       "text": "약간 따뜻한 담요 같은 거는 없겠지?"
     },
     {
-      "start": 847.39,
-      "end": 847.91,
+      "start": 589.24,
+      "end": 589.76,
       "text": "Perhaps cashmere?"
     },
     {
-      "start": 848.79,
-      "end": 849.17,
+      "start": 590.64,
+      "end": 591.02,
       "text": "이라고 했어요."
     },
     {
-      "start": 849.19,
-      "end": 849.53,
+      "start": 591.04,
+      "end": 591.38,
       "text": "더해요."
     },
     {
-      "start": 850.09,
-      "end": 852.15,
+      "start": 591.94,
+      "end": 594.0,
       "text": "캐시미어 같은 거 말이야."
     },
     {
-      "start": 852.51,
-      "end": 853.23,
+      "start": 594.36,
+      "end": 595.08,
       "text": "캐시미어?"
     },
     {
-      "start": 853.63,
-      "end": 854.91,
+      "start": 595.48,
+      "end": 596.76,
       "text": "My lovely cashmere."
     },
     {
-      "start": 855.61,
-      "end": 856.17,
+      "start": 597.46,
+      "end": 598.02,
       "text": "Oh my God."
     },
     {
-      "start": 856.17,
-      "end": 859.59,
+      "start": 598.02,
+      "end": 601.44,
       "text": "캐시미어 굉장히 고가의 재료 아닙니까?"
     },
     {
-      "start": 859.89,
-      "end": 861.07,
+      "start": 601.74,
+      "end": 602.92,
       "text": "Yeah, super pricey."
     },
     {
-      "start": 861.09,
-      "end": 861.43,
+      "start": 602.94,
+      "end": 603.28,
       "text": "그쵸."
     },
     {
-      "start": 861.83,
-      "end": 864.69,
+      "start": 603.68,
+      "end": 606.54,
       "text": "그러면서 이제 트러블이 leaned on her."
     },
     {
-      "start": 865.21,
-      "end": 868.33,
+      "start": 607.06,
+      "end": 610.18,
       "text": "Oh, he needed someone to snuggle with."
     },
     {
-      "start": 868.33,
-      "end": 872.57,
+      "start": 610.18,
+      "end": 614.42,
       "text": "네, 그래서 라우지의 이 허벅다리 쪽에다가 살포시 이렇게 기댑니다."
     },
     {
-      "start": 872.73,
-      "end": 873.35,
+      "start": 614.58,
+      "end": 615.2,
       "text": "따뜻하니까."
     },
     {
-      "start": 874.27,
-      "end": 874.77,
+      "start": 616.12,
+      "end": 616.62,
       "text": "Comfy?"
     },
     {
-      "start": 874.77,
-      "end": 875.91,
+      "start": 616.62,
+      "end": 617.76,
       "text": "그러니까 라우지가"
     },
     {
-      "start": 875.91,
-      "end": 876.71,
+      "start": 617.76,
+      "end": 618.56,
       "text": "Comfy?"
     },
     {
-      "start": 877.57,
-      "end": 877.99,
+      "start": 619.42,
+      "end": 619.84,
       "text": "좋으냐?"
     },
     {
-      "start": 878.35,
-      "end": 878.81,
+      "start": 620.2,
+      "end": 620.66,
       "text": "이거예요."
     },
     {
-      "start": 878.95,
-      "end": 879.39,
+      "start": 620.8,
+      "end": 621.24,
       "text": "Comfy?"
     },
     {
-      "start": 879.71,
-      "end": 880.33,
+      "start": 621.56,
+      "end": 622.18,
       "text": "편안하냐?"
     },
     {
-      "start": 881.53,
-      "end": 881.87,
+      "start": 623.38,
+      "end": 623.72,
       "text": "Oh yeah."
     },
     {
-      "start": 882.13,
-      "end": 883.03,
+      "start": 623.98,
+      "end": 624.88,
       "text": "So comfy."
     },
     {
-      "start": 883.15,
-      "end": 883.51,
+      "start": 625.0,
+      "end": 625.36,
       "text": "Comfy?"
     },
     {
-      "start": 883.61,
-      "end": 884.33,
+      "start": 625.46,
+      "end": 626.18,
       "text": "It looked comfy."
     },
     {
-      "start": 885.43,
-      "end": 885.77,
+      "start": 627.28,
+      "end": 627.62,
       "text": "Why?"
     },
     {
-      "start": 886.01,
-      "end": 886.37,
+      "start": 627.86,
+      "end": 628.22,
       "text": "Yes."
     },
     {
-      "start": 886.55,
-      "end": 887.31,
+      "start": 628.4,
+      "end": 629.16,
       "text": "Yes, I am."
     },
     {
-      "start": 887.67,
-      "end": 889.57,
+      "start": 629.52,
+      "end": 631.42,
       "text": "정말 it looked comfy 했어요."
     },
     {
-      "start": 890.49,
-      "end": 894.95,
+      "start": 632.34,
+      "end": 636.8,
       "text": "오동통하니 비록 아웃사이드에서 살지만 그래도 comfy했죠."
     },
     {
-      "start": 894.99,
-      "end": 895.77,
+      "start": 636.84,
+      "end": 637.62,
       "text": "합박지사요."
     },
     {
-      "start": 895.77,
-      "end": 896.67,
+      "start": 637.62,
+      "end": 638.52,
       "text": "복신복신하죠."
     },
     {
-      "start": 896.75,
-      "end": 897.83,
+      "start": 638.6,
+      "end": 639.68,
       "text": "Very comfy하죠."
     },
     {
-      "start": 897.91,
-      "end": 899.37,
+      "start": 639.76,
+      "end": 641.22,
       "text": "그래서 yes, I am."
     },
     {
-      "start": 899.49,
-      "end": 901.99,
+      "start": 641.34,
+      "end": 643.84,
       "text": "그럼 아주 편하네 라고 대답했어요."
     },
     {
-      "start": 901.99,
-      "end": 903.67,
+      "start": 643.84,
+      "end": 645.52,
       "text": "I don't snuggle."
     },
     {
-      "start": 903.99,
-      "end": 907.15,
+      "start": 645.84,
+      "end": 649.0,
       "text": "그랬더니 라우지가 난 들러붙는 거 싫어해."
     },
     {
-      "start": 907.41,
-      "end": 909.09,
+      "start": 649.26,
+      "end": 650.94,
       "text": "난 껴안는 거 싫어하거든."
     },
     {
-      "start": 909.43,
-      "end": 911.97,
+      "start": 651.28,
+      "end": 653.82,
       "text": "I don't snuggle 이라고 대답을 합니다."
     },
     {
-      "start": 912.23,
-      "end": 914.81,
+      "start": 654.08,
+      "end": 656.66,
       "text": "You lay down next to someone."
     },
     {
-      "start": 915.01,
-      "end": 916.11,
+      "start": 656.86,
+      "end": 657.96,
       "text": "You want to give them a hug."
     },
     {
-      "start": 916.43,
-      "end": 917.01,
+      "start": 658.28,
+      "end": 658.86,
       "text": "And they're like, 저리가."
     },
     {
-      "start": 917.29,
-      "end": 918.43,
+      "start": 659.14,
+      "end": 660.28,
       "text": "I don't snuggle."
     },
     {
-      "start": 918.83,
-      "end": 919.39,
+      "start": 660.68,
+      "end": 661.24,
       "text": "저리가."
     },
     {
-      "start": 919.77,
-      "end": 920.85,
+      "start": 661.62,
+      "end": 662.7,
       "text": "나는 붙는 거 싫어."
     },
     {
-      "start": 920.91,
-      "end": 922.57,
+      "start": 662.76,
+      "end": 664.42,
       "text": "라고 하면서 뻥 차버리죠."
     },
     {
-      "start": 922.57,
-      "end": 923.05,
+      "start": 664.42,
+      "end": 664.9,
       "text": "아, 예."
     },
     {
-      "start": 923.31,
-      "end": 924.53,
+      "start": 665.16,
+      "end": 666.38,
       "text": "집안 상황 같기도 하고요."
     },
     {
-      "start": 924.57,
-      "end": 924.93,
+      "start": 666.42,
+      "end": 666.78,
       "text": "아, 그래요?"
     },
     {
-      "start": 925.49,
-      "end": 926.19,
+      "start": 667.34,
+      "end": 668.04,
       "text": "I don't snuggle."
     },
     {
-      "start": 926.41,
-      "end": 926.83,
+      "start": 668.26,
+      "end": 668.68,
       "text": "Get away."
     },
     {
-      "start": 927.05,
-      "end": 927.47,
+      "start": 668.9,
+      "end": 669.32,
       "text": "아, 예."
     },
     {
-      "start": 927.79,
-      "end": 929.61,
+      "start": 669.64,
+      "end": 671.46,
       "text": "자, 이 장면 한 번 더 확인해 보시죠."
     },
     {
-      "start": 929.61,
-      "end": 932.04,
+      "start": 671.46,
+      "end": 673.89,
       "text": "You're an outside dog?"
     },
     {
-      "start": 932.2,
-      "end": 933.04,
+      "start": 674.05,
+      "end": 674.89,
       "text": "Don't you label me."
     },
     {
-      "start": 933.68,
-      "end": 934.44,
+      "start": 675.53,
+      "end": 676.29,
       "text": "It's cool."
     },
     {
-      "start": 934.7,
-      "end": 935.56,
+      "start": 676.55,
+      "end": 677.41,
       "text": "Totally cool."
     },
     {
-      "start": 936.23,
-      "end": 937.93,
+      "start": 678.08,
+      "end": 679.78,
       "text": "This is not ideal."
     },
     {
-      "start": 938.27,
-      "end": 942.89,
+      "start": 680.12,
+      "end": 684.74,
       "text": "I haven't had my teeth brushed and there are an alarming lack of pillows."
     },
     {
-      "start": 943.89,
-      "end": 945.75,
+      "start": 685.74,
+      "end": 687.6,
       "text": "I don't suppose you have something like a warm blanket?"
     },
     {
-      "start": 946.75,
-      "end": 947.77,
+      "start": 688.6,
+      "end": 689.62,
       "text": "Perhaps cashmere?"
     },
     {
-      "start": 948.69,
-      "end": 949.09,
+      "start": 690.54,
+      "end": 690.94,
       "text": "Comfy."
     },
     {
-      "start": 949.73,
-      "end": 950.25,
+      "start": 691.58,
+      "end": 692.1,
       "text": "Why, yes."
     },
     {
-      "start": 950.25,
-      "end": 951.63,
+      "start": 692.1,
+      "end": 693.48,
       "text": "Yes, I am."
     },
     {
-      "start": 952.29,
-      "end": 953.09,
+      "start": 694.14,
+      "end": 694.94,
       "text": "I don't snuggle."
     },
     {
-      "start": 953.09,
-      "end": 963.73,
+      "start": 694.94,
+      "end": 705.58,
       "text": "음, 박우일님께서 로라와 크리스님 인별 그램도 꿀잼 살아가시는 모습, 일하는 모습 다 볼 수 있답니다."
     },
     {
-      "start": 964.11,
-      "end": 965.37,
+      "start": 705.96,
+      "end": 707.22,
       "text": "좌표는 묻지 마세요."
     },
     {
-      "start": 965.55,
-      "end": 966.15,
+      "start": 707.4,
+      "end": 708.0,
       "text": "웃음, 웃음."
     },
     {
-      "start": 966.51,
-      "end": 967.63,
+      "start": 708.36,
+      "end": 709.48,
       "text": "뭐 물어보지 말래요?"
     },
     {
-      "start": 967.65,
-      "end": 969.11,
+      "start": 709.5,
+      "end": 710.96,
       "text": "좌표는 묻지 마세요."
     },
     {
-      "start": 969.43,
-      "end": 969.97,
+      "start": 711.28,
+      "end": 711.82,
       "text": "아, 좌표."
     },
     {
-      "start": 970.03,
-      "end": 970.63,
+      "start": 711.88,
+      "end": 712.48,
       "text": "The address."
     },
     {
-      "start": 970.97,
-      "end": 971.89,
+      "start": 712.82,
+      "end": 713.74,
       "text": "아, 오케이."
     },
     {
-      "start": 972.41,
-      "end": 973.85,
+      "start": 714.26,
+      "end": 715.7,
       "text": "네, 검색하시면 다 나오죠."
     },
     {
-      "start": 974.03,
-      "end": 974.19,
+      "start": 715.88,
+      "end": 716.04,
       "text": "그렇죠?"
     },
     {
-      "start": 974.19,
-      "end": 978.35,
+      "start": 716.04,
+      "end": 720.2,
       "text": "아, 근데 뭐, almost every day you have delicious meals."
     },
     {
-      "start": 978.67,
-      "end": 979.15,
+      "start": 720.52,
+      "end": 721.0,
       "text": "그렇죠?"
     },
     {
-      "start": 979.41,
-      "end": 980.45,
+      "start": 721.26,
+      "end": 722.3,
       "text": "너무 부러워요."
     },
     {
-      "start": 980.47,
-      "end": 981.09,
+      "start": 722.32,
+      "end": 722.94,
       "text": "Did you notice?"
     },
     {
-      "start": 981.23,
-      "end": 981.79,
+      "start": 723.08,
+      "end": 723.64,
       "text": "그럼요."
     },
     {
-      "start": 981.79,
-      "end": 982.61,
+      "start": 723.64,
+      "end": 724.46,
       "text": "Not my cooking."
     },
     {
-      "start": 982.81,
-      "end": 983.73,
+      "start": 724.66,
+      "end": 725.58,
       "text": "아, 그럼요."
     },
     {
-      "start": 983.79,
-      "end": 985.21,
+      "start": 725.64,
+      "end": 727.06,
       "text": "My wife is quite the cook."
     },
     {
-      "start": 985.29,
-      "end": 986.41,
+      "start": 727.14,
+      "end": 728.26,
       "text": "아, she's good cook."
     },
     {
-      "start": 986.61,
-      "end": 987.25,
+      "start": 728.46,
+      "end": 729.1,
       "text": "Very good."
     },
     {
-      "start": 987.37,
-      "end": 987.69,
+      "start": 729.22,
+      "end": 729.54,
       "text": "와."
     },
     {
-      "start": 988.09,
-      "end": 989.29,
+      "start": 729.94,
+      "end": 731.14,
       "text": "She cooks everything."
     },
     {
-      "start": 989.43,
-      "end": 990.65,
+      "start": 731.28,
+      "end": 732.5,
       "text": "아, 또 배고파집니다."
     },
     {
-      "start": 990.95,
-      "end": 991.35,
+      "start": 732.8,
+      "end": 733.2,
       "text": "아, 예."
     },
     {
-      "start": 991.45,
-      "end": 993.97,
+      "start": 733.3,
+      "end": 735.82,
       "text": "한번, 나중에, 되면."
     },
     {
-      "start": 994.17,
-      "end": 995.09,
+      "start": 736.02,
+      "end": 736.94,
       "text": "섣부른 약속."
     },
     {
-      "start": 995.43,
-      "end": 997.05,
+      "start": 737.28,
+      "end": 738.9,
       "text": "허락 없이 괜찮으시겠어요?"
     },
     {
-      "start": 997.31,
-      "end": 998.71,
+      "start": 739.16,
+      "end": 740.56,
       "text": "어, 허락하면 받으면 되니까."
     },
     {
-      "start": 998.99,
-      "end": 999.97,
+      "start": 740.84,
+      "end": 741.82,
       "text": "아, 네."
     },
     {
-      "start": 1000.23,
-      "end": 1001.09,
+      "start": 742.08,
+      "end": 742.94,
       "text": "너무너무 기대가 됩니다."
     },
     {
-      "start": 1001.09,
-      "end": 1004.43,
+      "start": 742.94,
+      "end": 746.28,
       "text": "네, 희망차게 스크린 잉글리시 오늘 여기까지고요."
+    },
+    {
+      "start": 746.4,
+      "end": 747.62,
+      "text": "우리는 다음 주에 만나요."
     }
   ]
 }
