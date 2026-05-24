@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T22:02:28",
+  "generated_at": "2026-05-24T22:02:34",
   "count": 248,
   "episodes": [
     {
@@ -159,7 +159,7 @@
       "corner_label": "Screen English",
       "title": "I_m guilty as charged",
       "movie": "",
-      "duration_sec": 927.5,
+      "duration_sec": 1026.52,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-24_screen_english.mp3"
     },
     {

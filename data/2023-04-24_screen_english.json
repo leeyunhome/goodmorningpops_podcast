@@ -5,2493 +5,3163 @@
   "corner_label": "Screen English",
   "title": "I_m guilty as charged",
   "movie": "",
-  "duration_sec": 927.5,
+  "duration_sec": 1026.52,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-24_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 10.59,
-      "text": "고된 일은 사람의 성격을 드러내기도 하지만, 결국엔 그 성격으로 인해 저마다의 능력과 성과물이 달라지는 거겠죠."
-    },
-    {
-      "start": 10.59,
-      "end": 24.66,
-      "text": "조정현의 굿모닝 팝스 시작하겠습니다."
-    },
-    {
-      "start": 26.59,
-      "end": 31.33,
-      "text": "네, 오늘 첫 곡으로 아쿠아의 Cartoon Heroes 들어보셨어요."
-    },
-    {
-      "start": 31.33,
-      "end": 35.15,
-      "text": "즐거운 월요일 아침 잘 시작하고 계십니까?"
-    },
-    {
-      "start": 36.01,
-      "end": 43.59,
-      "text": "첫 번째 사연으로 조윤성님, 요즘 놀라울 만큼 살이 쪄서 새벽 산책을 시작했어요."
-    },
-    {
-      "start": 44.27,
-      "end": 49.01,
-      "text": "굿모닝 팝스 시작할 때 첫 걸음을 떼고, 클로징 할 때 집에 도착해요."
-    },
-    {
-      "start": 49.67,
-      "end": 52.53,
-      "text": "운동하면서 들으니 더 집중도 잘 되는 것 같아요."
-    },
-    {
-      "start": 53.25,
-      "end": 57.93,
-      "text": "운동과 공부, 두 마리 토끼 다 잡을 수 있도록 응원 부탁드려요."
-    },
-    {
-      "start": 57.93,
-      "end": 62.95,
-      "text": "아, 놀라울 만큼 살이 찌셨다고요?"
-    },
-    {
-      "start": 64.21,
-      "end": 67.83,
-      "text": "그래요, 하기야 눈바디가 중요하다고는 하는데,"
-    },
-    {
-      "start": 68.61,
-      "end": 74.15,
-      "text": "제가 경험한 바로는 내 눈도 그 바디에 적응을 하게 되는 것 같더라고요."
-    },
-    {
-      "start": 74.49,
-      "end": 78.57,
-      "text": "그래서 가끔씩 이 체중계를 재보면 깜짝깜짝 놀랄 때가 있습니다."
-    },
-    {
-      "start": 78.57,
-      "end": 84.55,
-      "text": "그런데 조윤성님께서는 이렇게 스스로 잘 관리를 하시는 분이니까"
-    },
-    {
-      "start": 84.55,
-      "end": 92.27,
-      "text": "확신하건대, 금방 원래대로 그 몸무게도 잘 줄이실 수 있을 거라고 생각해요."
-    },
-    {
-      "start": 92.97,
-      "end": 97.07,
-      "text": "운동과 공부와 그리고 건강까지도 다 챙겨보세요."
-    },
-    {
-      "start": 97.07,
-      "end": 108.43,
-      "text": "오세윤님, 올해 제 목표가 영어 공부였는데 마침 GMP를 만나게 되어서 1, 2월에는 열심히 필기도 하면서 공부했었어요."
-    },
-    {
-      "start": 109.13,
-      "end": 114.53,
-      "text": "근데 3월에 아이들 계약하고 나서는 계획이 와르르 무너지더라고요."
-    },
-    {
-      "start": 114.53,
-      "end": 117.81,
-      "text": "그런데 어제 막내가 그러는 거예요."
-    },
-    {
-      "start": 118.49,
-      "end": 120.57,
-      "text": "엄마, 요즘은 라디오 안 들어?"
-    },
-    {
-      "start": 121.37,
-      "end": 123.41,
-      "text": "그 한마디가 저를 다시 일으키네요."
-    },
-    {
-      "start": 124.01,
-      "end": 127.75,
-      "text": "정연쌤, 다시 열심히 들으며 영어와 가까워질게요."
-    },
-    {
-      "start": 128.95,
-      "end": 131.43,
-      "text": "아, 막내가 정말 사랑스럽네요."
-    },
-    {
-      "start": 132.23,
-      "end": 140.73,
-      "text": "아마 아이들도 그때그때 말로 다 표현하지는 않는 것 같지만 속으로 좋아하고 있는 것 같아요."
-    },
-    {
-      "start": 140.73,
-      "end": 150.35,
-      "text": "그리고 자기 개발에 이렇게 부지런한 부모님의 모습을 보면 자랑스럽게 느껴지고 닮고 싶고 그럴 겁니다."
-    },
-    {
-      "start": 151.35,
-      "end": 158.59,
-      "text": "이제 계약하고서 적응 기간 잘 접어드셨을 테니까 점점 더 가까이 와주세요."
-    },
-    {
-      "start": 159.59,
-      "end": 163.81,
+      "end": 4.22,
       "text": "오늘 사연 소개되신 두 분께는 월간 굿모닝팝 3개월 구독권 보내드릴게요."
     },
     {
-      "start": 164.81,
-      "end": 168.97,
+      "start": 5.22,
+      "end": 9.38,
       "text": "굿모닝팝스가 준비한 이벤트, 활력 가득 충전하고 시작해보세요."
     },
     {
-      "start": 168.97,
-      "end": 172.25,
+      "start": 9.38,
+      "end": 12.66,
       "text": "GMP로 영어실력 업, 에너지도 업!"
     },
     {
-      "start": 172.77,
-      "end": 177.83,
+      "start": 13.18,
+      "end": 18.24,
       "text": "이번 주에는 상큼 시원한 레모네이드 모바일 쿠폰 준비했습니다."
     },
     {
-      "start": 178.49,
-      "end": 182.65,
+      "start": 18.9,
+      "end": 23.06,
       "text": "신청 메시지 보내주신 분들 중에서 총 5분 뽑아서 보내드릴게요."
     },
     {
-      "start": 183.33,
-      "end": 188.31,
+      "start": 23.74,
+      "end": 28.72,
       "text": "다문 50원과 장문 100원에 추가 요금이 부과되는 KBS 쿨 FM 문자샵 8910"
     },
     {
-      "start": 188.31,
-      "end": 192.41,
+      "start": 28.72,
+      "end": 32.82,
       "text": "아니면 KBS 2라디오 문자샵 1061로 신청하시거나"
     },
     {
-      "start": 192.41,
-      "end": 196.11,
+      "start": 32.82,
+      "end": 36.52,
       "text": "무료 KBS 애플리케이션 콩 또는 마이케이로 참여해주세요."
     },
     {
-      "start": 196.11,
-      "end": 261.92,
+      "start": 36.52,
+      "end": 102.33,
       "text": "4월에 함께하고 있는 영화는 몬스터하우스 2 인비저블 피닉스"
     },
     {
-      "start": 261.92,
-      "end": 265.1,
+      "start": 102.33,
+      "end": 105.51,
       "text": "피닉스입니다. 어서오세요. 반갑습니다."
     },
     {
-      "start": 265.1,
-      "end": 266.16,
+      "start": 105.51,
+      "end": 106.57,
       "text": "굿모닝, 반갑습니다."
     },
     {
-      "start": 266.68,
-      "end": 268.14,
+      "start": 107.09,
+      "end": 108.55,
       "text": "최혜수님께서도요."
     },
     {
-      "start": 268.56,
-      "end": 271.98,
+      "start": 108.97,
+      "end": 112.39,
       "text": "으아, 크리스쌤입니다. 반갑습니다. 이렇게 외쳐주셨네요."
     },
     {
-      "start": 272.0,
-      "end": 273.54,
+      "start": 112.41,
+      "end": 113.95,
       "text": "우와, 최혜수님."
     },
     {
-      "start": 273.68,
-      "end": 274.7,
+      "start": 114.09,
+      "end": 115.11,
       "text": "Thank you very much."
     },
     {
-      "start": 274.84,
-      "end": 279.1,
+      "start": 115.25,
+      "end": 119.51,
       "text": "진짜 반가워하는 그 분위기가 물씬 느껴지는 메시지였습니다."
     },
     {
-      "start": 279.5,
-      "end": 280.64,
+      "start": 119.91,
+      "end": 121.05,
       "text": "으아, 우와, 우와."
     },
     {
-      "start": 280.98,
-      "end": 281.8,
+      "start": 121.39,
+      "end": 122.21,
       "text": "Let's go."
     },
     {
-      "start": 281.8,
-      "end": 289.1,
+      "start": 122.21,
+      "end": 129.51,
       "text": "이제 영화의 내용을 들여다봐야 되는데 사실 처음에 이 영화의 주인공인"
     },
     {
-      "start": 289.1,
-      "end": 293.84,
+      "start": 129.51,
+      "end": 134.25,
       "text": "피닉스도요. 제가 봤을 때 첫인상은 한 5초 정도?"
     },
     {
-      "start": 294.26,
-      "end": 297.66,
+      "start": 134.67,
+      "end": 138.07,
       "text": "아, 좀 이상하게 생겼다? 이런 느낌이 살짝 있긴 했었어요."
     },
     {
-      "start": 297.86,
-      "end": 298.44,
+      "start": 138.27,
+      "end": 138.85,
       "text": "다르니까."
     },
     {
-      "start": 298.62,
-      "end": 299.76,
+      "start": 139.03,
+      "end": 140.17,
       "text": "네, 솔직히 말하면."
     },
     {
-      "start": 300.04,
-      "end": 301.6,
+      "start": 140.45,
+      "end": 142.01,
       "text": "Very different. Very hairy."
     },
     {
-      "start": 301.6,
-      "end": 315.92,
+      "start": 142.01,
+      "end": 156.33,
       "text": "그렇죠. 근데 자꾸자꾸 보다 보니까 점점 I got used to it. 그러면서 점점 빠져들게 되고. 역시 그래서 제가 생각하기로는 invisible things가 훨씬 더 scarier 한 것 같아요."
     },
     {
-      "start": 315.92,
-      "end": 320.88,
+      "start": 156.33,
+      "end": 161.29,
       "text": "아, things we can't see are always scarier. 맞아요."
     },
     {
-      "start": 321.06,
-      "end": 328.1,
+      "start": 161.47,
+      "end": 168.51,
       "text": "Not always, but most of the time. 맞아요. 그러면 우리 크리스쌤은 what are you most afraid of?"
     },
     {
-      "start": 328.1,
-      "end": 333.52,
+      "start": 168.51,
+      "end": 173.93,
       "text": "Most afraid of. Of things that I can't see and can't see. 다 합쳐서."
     },
     {
-      "start": 333.54,
-      "end": 334.2,
+      "start": 173.95,
+      "end": 174.61,
       "text": "뭐 합쳐서?"
     },
     {
-      "start": 334.56,
-      "end": 335.08,
+      "start": 174.97,
+      "end": 175.49,
       "text": "다 합쳐서?"
     },
     {
-      "start": 335.08,
-      "end": 335.2,
+      "start": 175.49,
+      "end": 175.61,
       "text": "네."
     },
     {
-      "start": 335.92,
-      "end": 338.44,
+      "start": 176.33,
+      "end": 178.85,
       "text": "솔직히 보이는 것 조금 더 무서워."
     },
     {
-      "start": 338.44,
-      "end": 339.74,
+      "start": 178.85,
+      "end": 180.15,
       "text": "아, 그래요. 보이는 게 더 무서워."
     },
     {
-      "start": 339.88,
-      "end": 341.26,
+      "start": 180.29,
+      "end": 181.67,
       "text": "우리 와이프가 무서워."
     },
     {
-      "start": 342.14,
-      "end": 343.1,
+      "start": 182.55,
+      "end": 183.51,
       "text": "아, 그래요."
     },
     {
-      "start": 343.72,
-      "end": 345.34,
+      "start": 184.13,
+      "end": 185.75,
       "text": "I'm not scared of monsters."
     },
     {
-      "start": 345.52,
-      "end": 345.7,
+      "start": 185.93,
+      "end": 186.11,
       "text": "네."
     },
     {
-      "start": 346.12,
-      "end": 348.48,
+      "start": 186.53,
+      "end": 188.89,
       "text": "Unless I actually see one."
     },
     {
-      "start": 348.58,
-      "end": 350.44,
+      "start": 188.99,
+      "end": 190.85,
       "text": "I don't sense monsters."
     },
     {
-      "start": 350.66,
-      "end": 352.94,
+      "start": 191.07,
+      "end": 193.35,
       "text": "I haven't felt a monster personally."
     },
     {
-      "start": 353.46,
-      "end": 356.56,
+      "start": 193.87,
+      "end": 196.97,
       "text": "But, you know, family can be scary."
     },
     {
-      "start": 356.56,
-      "end": 361.4,
+      "start": 196.97,
+      "end": 201.81,
       "text": "너무 솔직하셔서 이거 혹시 방송을 듣고 계신 건 아니겠죠?"
     },
     {
-      "start": 362.3,
-      "end": 363.76,
+      "start": 202.71,
+      "end": 204.17,
       "text": "음, 안 할 거예요."
     },
     {
-      "start": 364.28,
-      "end": 364.4,
+      "start": 204.69,
+      "end": 204.81,
       "text": "네."
     },
     {
-      "start": 364.74,
-      "end": 365.48,
+      "start": 205.15,
+      "end": 205.89,
       "text": "다행입니다."
     },
     {
-      "start": 365.74,
-      "end": 366.76,
+      "start": 206.15,
+      "end": 207.17,
       "text": "네, 안 할 거예요."
     },
     {
-      "start": 367.0,
-      "end": 367.24,
+      "start": 207.41,
+      "end": 207.65,
       "text": "네."
     },
     {
-      "start": 367.52,
-      "end": 368.12,
+      "start": 207.93,
+      "end": 208.53,
       "text": "How about you?"
     },
     {
-      "start": 368.5,
-      "end": 372.12,
+      "start": 208.91,
+      "end": 212.53,
       "text": "저 같은 경우는 요즘에는 그런 생각을 했어요."
     },
     {
-      "start": 372.12,
-      "end": 379.32,
+      "start": 212.53,
+      "end": 219.73,
       "text": "When I think of something uncertain, 뭔가 uncertain about my future, 이런 거 있잖아요."
     },
     {
-      "start": 380.02,
-      "end": 387.42,
+      "start": 220.43,
+      "end": 227.83,
       "text": "미래에 대한 그런 불확실함에 대해서 너무 포커스를 맞추다 보면은 그게 좀 무섭게 느껴지더라고요."
     },
     {
-      "start": 387.66,
-      "end": 390.2,
+      "start": 228.07,
+      "end": 230.61,
       "text": "아, well, that's true for many people."
     },
     {
-      "start": 390.3,
-      "end": 390.68,
+      "start": 230.71,
+      "end": 231.09,
       "text": "맞아요."
     },
     {
-      "start": 390.68,
-      "end": 392.08,
+      "start": 231.09,
+      "end": 232.49,
       "text": "It's not a thing, though."
     },
     {
-      "start": 392.24,
-      "end": 394.06,
+      "start": 232.65,
+      "end": 234.47,
       "text": "We're scared of our own futures."
     },
     {
-      "start": 394.22,
-      "end": 394.62,
+      "start": 234.63,
+      "end": 235.03,
       "text": "그렇죠."
     },
     {
-      "start": 394.7,
-      "end": 396.02,
+      "start": 235.11,
+      "end": 236.43,
       "text": "And how they will turn out."
     },
     {
-      "start": 396.8,
-      "end": 397.24,
+      "start": 237.21,
+      "end": 237.65,
       "text": "Yes."
     },
     {
-      "start": 397.44,
-      "end": 403.14,
+      "start": 237.85,
+      "end": 243.55,
       "text": "그래서, that's why I do my best and I do my utmost on my every job."
     },
     {
-      "start": 403.42,
-      "end": 406.08,
+      "start": 243.83,
+      "end": 246.49,
       "text": "음, 그거 뭐 좋은 거죠."
     },
     {
-      "start": 406.2,
-      "end": 406.38,
+      "start": 246.61,
+      "end": 246.79,
       "text": "그렇죠."
     },
     {
-      "start": 406.48,
-      "end": 407.22,
+      "start": 246.89,
+      "end": 247.63,
       "text": "최선 다하는 게."
     },
     {
-      "start": 407.38,
-      "end": 408.14,
+      "start": 247.79,
+      "end": 248.55,
       "text": "하루하루."
     },
     {
-      "start": 408.28,
-      "end": 410.46,
+      "start": 248.69,
+      "end": 250.87,
       "text": "이런 훈훈한 칭찬을 듣고 싶었습니다."
     },
     {
-      "start": 410.68,
-      "end": 411.14,
+      "start": 251.09,
+      "end": 251.55,
       "text": "아, 그래요?"
     },
     {
-      "start": 411.32,
-      "end": 412.12,
+      "start": 251.73,
+      "end": 252.53,
       "text": "아주 잘 알고 있습니다."
     },
     {
-      "start": 412.38,
-      "end": 412.94,
+      "start": 252.79,
+      "end": 253.35,
       "text": "아, 감사합니다."
     },
     {
-      "start": 412.94,
-      "end": 419.04,
+      "start": 253.35,
+      "end": 259.45,
       "text": "그리고 모래가, 미래가, if you don't see the future, 미래가 안 보이는 게 오히려 좋을 수도 있어요."
     },
     {
-      "start": 419.06,
-      "end": 419.3,
+      "start": 259.47,
+      "end": 259.71,
       "text": "그렇죠."
     },
     {
-      "start": 419.48,
-      "end": 420.12,
+      "start": 259.89,
+      "end": 260.53,
       "text": "매력일 수 있죠."
     },
     {
-      "start": 420.3,
-      "end": 421.48,
+      "start": 260.71,
+      "end": 261.89,
       "text": "더 기대하게 되고."
     },
     {
-      "start": 421.82,
-      "end": 422.22,
+      "start": 262.23,
+      "end": 262.63,
       "text": "Surprise."
     },
     {
-      "start": 422.66,
-      "end": 425.68,
+      "start": 263.07,
+      "end": 266.09,
       "text": "You don't know where you're going, but you're going somewhere."
     },
     {
-      "start": 425.94,
-      "end": 427.22,
+      "start": 266.35,
+      "end": 267.63,
       "text": "어딘가 끌리고 있는데."
     },
     {
-      "start": 427.38,
-      "end": 427.66,
+      "start": 267.79,
+      "end": 268.07,
       "text": "그렇죠."
     },
     {
-      "start": 427.84,
-      "end": 428.44,
+      "start": 268.25,
+      "end": 268.85,
       "text": "도착하면."
     },
     {
-      "start": 428.9,
-      "end": 429.1,
+      "start": 269.31,
+      "end": 269.51,
       "text": "와."
     },
     {
-      "start": 429.32,
-      "end": 429.48,
+      "start": 269.73,
+      "end": 269.89,
       "text": "와."
     },
     {
-      "start": 430.55,
-      "end": 431.83,
+      "start": 270.96,
+      "end": 272.24,
       "text": "I'm looking forward to it."
     },
     {
-      "start": 432.21,
-      "end": 433.21,
+      "start": 272.62,
+      "end": 273.62,
       "text": "저는 그렇게 살고 있어요."
     },
     {
-      "start": 433.47,
-      "end": 434.81,
+      "start": 273.88,
+      "end": 275.22,
       "text": "와우, 너무 좋네요."
     },
     {
-      "start": 435.33,
-      "end": 438.11,
+      "start": 275.74,
+      "end": 278.52,
       "text": "자, 그나저나 오늘 장면 너무 기대되는데요."
     },
     {
-      "start": 438.29,
-      "end": 438.87,
+      "start": 278.7,
+      "end": 279.28,
       "text": "듣고 오시죠."
     },
     {
-      "start": 438.87,
-      "end": 441.89,
+      "start": 279.28,
+      "end": 282.3,
       "text": "JB caused all of Berg's disasters."
     },
     {
-      "start": 442.57,
-      "end": 446.77,
+      "start": 282.98,
+      "end": 287.18,
       "text": "Now, he plans to crush the whole town with the Ferris wheel from the amusement park."
     },
     {
-      "start": 447.17,
-      "end": 448.43,
+      "start": 287.58,
+      "end": 288.84,
       "text": "Your town will be destroyed."
     },
     {
-      "start": 448.83,
-      "end": 450.19,
+      "start": 289.24,
+      "end": 290.6,
       "text": "Your houses will be ruined."
     },
     {
-      "start": 450.59,
-      "end": 452.39,
+      "start": 291.0,
+      "end": 292.8,
       "text": "Finns and your humans will be hurt."
     },
     {
-      "start": 452.77,
-      "end": 454.43,
+      "start": 293.18,
+      "end": 294.84,
       "text": "We have got to stop this."
     },
     {
-      "start": 454.65,
-      "end": 456.61,
+      "start": 295.06,
+      "end": 297.02,
       "text": "And we can if we act together."
     },
     {
-      "start": 457.13,
-      "end": 457.65,
+      "start": 297.54,
+      "end": 298.06,
       "text": "Together."
     },
     {
-      "start": 458.65,
-      "end": 462.75,
+      "start": 299.06,
+      "end": 303.16,
       "text": "Yeah, I know it's against all your rules to even talk to me."
     },
     {
-      "start": 463.21,
-      "end": 464.49,
+      "start": 303.62,
+      "end": 304.9,
       "text": "But Finnick broke the rules."
     },
     {
-      "start": 464.49,
-      "end": 468.55,
+      "start": 304.9,
+      "end": 308.96,
       "text": "And I broke in my rules to never get too comfortable in a new town."
     },
     {
-      "start": 468.87,
-      "end": 470.27,
+      "start": 309.28,
+      "end": 310.68,
       "text": "And never make real friends."
     },
     {
-      "start": 470.67,
-      "end": 471.89,
+      "start": 311.08,
+      "end": 312.3,
       "text": "I'm guilty as charged."
     },
     {
-      "start": 473.44,
-      "end": 478.14,
+      "start": 313.85,
+      "end": 318.55,
       "text": "우리 크리스틴이 열심히 설득하는 장면을 들어보셨습니다."
     },
     {
-      "start": 478.36,
-      "end": 479.98,
+      "start": 318.77,
+      "end": 320.39,
       "text": "This was an emotional scene."
     },
     {
-      "start": 480.14,
-      "end": 480.62,
+      "start": 320.55,
+      "end": 321.03,
       "text": "맞아요."
     },
     {
-      "start": 481.1,
-      "end": 483.34,
+      "start": 321.51,
+      "end": 323.75,
       "text": "심금을 울리는 장면이 확실한데요."
     },
     {
-      "start": 483.72,
-      "end": 487.8,
+      "start": 324.13,
+      "end": 328.21,
       "text": "사실 이 JB한테 이 Finnick의 Fer를 빼앗겼잖아요."
     },
     {
-      "start": 488.14,
-      "end": 491.7,
+      "start": 328.55,
+      "end": 332.11,
       "text": "그래서 she wasn't able to see JB 하고 또"
     },
     {
-      "start": 491.7,
-      "end": 493.5,
+      "start": 332.11,
+      "end": 333.91,
       "text": "All the Finns."
     },
     {
-      "start": 493.5,
-      "end": 495.22,
+      "start": 333.91,
+      "end": 335.63,
       "text": "They're invisible now."
     },
     {
-      "start": 495.22,
-      "end": 499.32,
+      "start": 335.63,
+      "end": 339.73,
       "text": "But she's talking to them even though she can't see them."
     },
     {
-      "start": 499.38,
-      "end": 499.74,
+      "start": 339.79,
+      "end": 340.15,
       "text": "맞아요."
     },
     {
-      "start": 500.1,
-      "end": 501.04,
+      "start": 340.51,
+      "end": 341.45,
       "text": "볼 수 없지만"
     },
     {
-      "start": 501.04,
-      "end": 505.84,
+      "start": 341.45,
+      "end": 346.25,
       "text": "She went to their weekly meeting 하는 곳으로 찾아갔어요."
     },
     {
-      "start": 505.86,
-      "end": 506.44,
+      "start": 346.27,
+      "end": 346.85,
       "text": "그 회실."
     },
     {
-      "start": 506.56,
-      "end": 507.48,
+      "start": 346.97,
+      "end": 347.89,
       "text": "아, 똑똑합니다."
     },
     {
-      "start": 507.68,
-      "end": 508.5,
+      "start": 348.09,
+      "end": 348.91,
       "text": "아주 똑똑해요."
     },
     {
-      "start": 508.64,
-      "end": 509.44,
+      "start": 349.05,
+      "end": 349.85,
       "text": "네, 그러면서"
     },
     {
-      "start": 509.44,
-      "end": 510.72,
+      "start": 349.85,
+      "end": 351.13,
       "text": "안 보여도 이야기하고 있는데"
     },
     {
-      "start": 510.72,
-      "end": 511.82,
+      "start": 351.13,
+      "end": 352.23,
       "text": "네, 그렇게"
     },
     {
-      "start": 511.82,
-      "end": 512.42,
+      "start": 352.23,
+      "end": 352.83,
       "text": "She's brave."
     },
     {
-      "start": 512.66,
-      "end": 517.36,
+      "start": 353.07,
+      "end": 357.77,
       "text": "네, 도움을 요청하면서 모든 상황을 아주 논리적으로 설명을 합니다."
     },
     {
-      "start": 518.18,
-      "end": 520.34,
+      "start": 358.59,
+      "end": 360.75,
       "text": "자, 주요 표현 하나하나 점검을 해볼게요."
     },
     {
-      "start": 520.34,
-      "end": 526.28,
+      "start": 360.75,
+      "end": 366.69,
       "text": "이 마을 이름이 들렸죠."
     },
     {
-      "start": 526.42,
-      "end": 527.26,
+      "start": 366.83,
+      "end": 367.67,
       "text": "Berg라고."
     },
     {
-      "start": 527.62,
-      "end": 527.86,
+      "start": 368.03,
+      "end": 368.27,
       "text": "그래서"
     },
     {
-      "start": 527.86,
-      "end": 534.6,
+      "start": 368.27,
+      "end": 375.01,
       "text": "버그의 모든 재앙을 일으켰다라는 부분이에요."
     },
     {
-      "start": 534.6,
-      "end": 537.4,
+      "start": 375.01,
+      "end": 377.81,
       "text": "It's against all your rules, too."
     },
     {
-      "start": 538.36,
-      "end": 541.14,
+      "start": 378.77,
+      "end": 381.55,
       "text": "뭐뭐 하는 건 당신들의 모든 규칙에"
     },
     {
-      "start": 541.14,
-      "end": 543.1,
+      "start": 381.55,
+      "end": 383.51,
       "text": "It's against 라고 했으니까"
     },
     {
-      "start": 543.1,
-      "end": 545.5,
+      "start": 383.51,
+      "end": 385.91,
       "text": "어긋난다 라고 해석하시면 돼요."
     },
     {
-      "start": 546.06,
-      "end": 547.38,
+      "start": 386.47,
+      "end": 387.79,
       "text": "I'm guilty as charged."
     },
     {
-      "start": 547.38,
-      "end": 550.06,
+      "start": 387.79,
+      "end": 390.47,
       "text": "나도 내 잘못 인정해"
     },
     {
-      "start": 550.06,
-      "end": 552.4,
+      "start": 390.47,
+      "end": 392.81,
       "text": "나도 그래 잘못을 했지"
     },
     {
-      "start": 552.4,
-      "end": 553.96,
+      "start": 392.81,
+      "end": 394.37,
       "text": "나는 죄를 인정해"
     },
     {
-      "start": 553.96,
-      "end": 556.02,
+      "start": 394.37,
+      "end": 396.43,
       "text": "라는 의미라는 거 짚어드립니다."
     },
     {
-      "start": 556.18,
-      "end": 556.9,
+      "start": 396.59,
+      "end": 397.31,
       "text": "That's a good one."
     },
     {
-      "start": 557.06,
-      "end": 557.56,
+      "start": 397.47,
+      "end": 397.97,
       "text": "아, 그래요?"
     },
     {
-      "start": 557.72,
-      "end": 558.44,
+      "start": 398.13,
+      "end": 398.85,
       "text": "It's very common."
     },
     {
-      "start": 559.24,
-      "end": 560.54,
+      "start": 399.65,
+      "end": 400.95,
       "text": "잘못을 인정할 때"
     },
     {
-      "start": 560.54,
-      "end": 561.78,
+      "start": 400.95,
+      "end": 402.19,
       "text": "뭐 저 자세"
     },
     {
-      "start": 561.78,
-      "end": 563.12,
+      "start": 402.19,
+      "end": 403.53,
       "text": "뭐 집에서 뭐 하다가"
     },
     {
-      "start": 563.12,
-      "end": 564.06,
+      "start": 403.53,
+      "end": 404.47,
       "text": "뭐 잘못하면"
     },
     {
-      "start": 564.06,
-      "end": 565.34,
+      "start": 404.47,
+      "end": 405.75,
       "text": "Oh, I'm guilty as charged."
     },
     {
-      "start": 565.76,
-      "end": 566.78,
+      "start": 406.17,
+      "end": 407.19,
       "text": "바로 저 자세로 가면"
     },
     {
-      "start": 566.78,
-      "end": 568.98,
+      "start": 407.19,
+      "end": 409.39,
       "text": "굉장히 자동적으로 튀어나오는 느낌이 있는데요."
     },
     {
-      "start": 569.2,
-      "end": 570.36,
+      "start": 409.61,
+      "end": 410.77,
       "text": "네, 너무 기계 같다는"
     },
     {
-      "start": 570.36,
-      "end": 572.34,
+      "start": 410.77,
+      "end": 412.75,
       "text": "영혼 없는 그 말을 많이 듣는데"
     },
     {
-      "start": 572.34,
-      "end": 572.7,
+      "start": 412.75,
+      "end": 413.11,
       "text": "네."
     },
     {
-      "start": 573.28,
-      "end": 573.66,
+      "start": 413.69,
+      "end": 414.07,
       "text": "그래도"
     },
     {
-      "start": 573.66,
-      "end": 574.26,
+      "start": 414.07,
+      "end": 414.67,
       "text": "그래도"
     },
     {
-      "start": 574.26,
-      "end": 577.16,
+      "start": 414.67,
+      "end": 417.57,
       "text": "이렇게 대답을 곧바로 하면은"
     },
     {
-      "start": 577.16,
-      "end": 578.26,
+      "start": 417.57,
+      "end": 418.67,
       "text": "좀 귀여움에"
     },
     {
-      "start": 578.26,
-      "end": 581.08,
+      "start": 418.67,
+      "end": 421.49,
       "text": "용서를 받을 수 있는 가능성도 커지니까요."
     },
     {
-      "start": 581.18,
-      "end": 581.34,
+      "start": 421.59,
+      "end": 421.75,
       "text": "네."
     },
     {
-      "start": 581.54,
-      "end": 582.7,
+      "start": 421.95,
+      "end": 423.11,
       "text": "한 세 번까지는"
     },
     {
-      "start": 582.7,
-      "end": 583.68,
+      "start": 423.11,
+      "end": 424.09,
       "text": "귀여움으로"
     },
     {
-      "start": 583.68,
-      "end": 585.34,
+      "start": 424.09,
+      "end": 425.75,
       "text": "와, 굉장히 현실적입니다."
     },
     {
-      "start": 586.54,
-      "end": 586.7,
+      "start": 426.95,
+      "end": 427.11,
       "text": "네."
     },
     {
-      "start": 586.86,
-      "end": 588.38,
+      "start": 427.27,
+      "end": 428.79,
       "text": "이 표현들 참고하시고요."
     },
     {
-      "start": 588.46,
-      "end": 589.48,
+      "start": 428.87,
+      "end": 429.89,
       "text": "한 번 더 들어보시죠."
     },
     {
-      "start": 589.48,
-      "end": 590.74,
+      "start": 429.89,
+      "end": 431.15,
       "text": "J.P. caused"
     },
     {
-      "start": 590.74,
-      "end": 591.74,
+      "start": 431.15,
+      "end": 432.15,
       "text": "all of Burke's"
     },
     {
-      "start": 591.74,
-      "end": 592.24,
+      "start": 432.15,
+      "end": 432.65,
       "text": "disasters."
     },
     {
-      "start": 592.84,
-      "end": 593.18,
+      "start": 433.25,
+      "end": 433.59,
       "text": "Now"
     },
     {
-      "start": 593.18,
-      "end": 594.26,
+      "start": 433.59,
+      "end": 434.67,
       "text": "he plans to crush"
     },
     {
-      "start": 594.26,
-      "end": 595.04,
+      "start": 434.67,
+      "end": 435.45,
       "text": "the whole town"
     },
     {
-      "start": 595.04,
-      "end": 595.96,
+      "start": 435.45,
+      "end": 436.37,
       "text": "with the ferris wheel"
     },
     {
-      "start": 595.96,
-      "end": 597.14,
+      "start": 436.37,
+      "end": 437.55,
       "text": "from the amusement park."
     },
     {
-      "start": 597.52,
-      "end": 597.94,
+      "start": 437.93,
+      "end": 438.35,
       "text": "Your town"
     },
     {
-      "start": 597.94,
-      "end": 598.78,
+      "start": 438.35,
+      "end": 439.19,
       "text": "will be destroyed."
     },
     {
-      "start": 599.18,
-      "end": 599.74,
+      "start": 439.59,
+      "end": 440.15,
       "text": "Your houses"
     },
     {
-      "start": 599.74,
-      "end": 600.56,
+      "start": 440.15,
+      "end": 440.97,
       "text": "will be ruined."
     },
     {
-      "start": 600.94,
-      "end": 601.22,
+      "start": 441.35,
+      "end": 441.63,
       "text": "Finns"
     },
     {
-      "start": 601.22,
-      "end": 601.98,
+      "start": 441.63,
+      "end": 442.39,
       "text": "and your humans"
     },
     {
-      "start": 601.98,
-      "end": 602.74,
+      "start": 442.39,
+      "end": 443.15,
       "text": "will be hurt."
     },
     {
-      "start": 603.12,
-      "end": 603.88,
+      "start": 443.53,
+      "end": 444.29,
       "text": "We have got"
     },
     {
-      "start": 603.88,
-      "end": 604.8,
+      "start": 444.29,
+      "end": 445.21,
       "text": "to stop this."
     },
     {
-      "start": 605.0,
-      "end": 605.76,
+      "start": 445.41,
+      "end": 446.17,
       "text": "And we can"
     },
     {
-      "start": 605.76,
-      "end": 606.98,
+      "start": 446.17,
+      "end": 447.39,
       "text": "if we act together."
     },
     {
-      "start": 607.48,
-      "end": 608.02,
+      "start": 447.89,
+      "end": 448.43,
       "text": "Together!"
     },
     {
-      "start": 609.02,
-      "end": 609.54,
+      "start": 449.43,
+      "end": 449.95,
       "text": "Yeah,"
     },
     {
-      "start": 609.76,
-      "end": 610.34,
+      "start": 450.17,
+      "end": 450.75,
       "text": "I know"
     },
     {
-      "start": 610.34,
-      "end": 610.82,
+      "start": 450.75,
+      "end": 451.23,
       "text": "it's against"
     },
     {
-      "start": 610.82,
-      "end": 611.78,
+      "start": 451.23,
+      "end": 452.19,
       "text": "all your rules"
     },
     {
-      "start": 611.78,
-      "end": 613.1,
+      "start": 452.19,
+      "end": 453.51,
       "text": "to even talk to me."
     },
     {
-      "start": 613.58,
-      "end": 614.12,
+      "start": 453.99,
+      "end": 454.53,
       "text": "But Finnick"
     },
     {
-      "start": 614.12,
-      "end": 614.82,
+      "start": 454.53,
+      "end": 455.23,
       "text": "broke the rules."
     },
     {
-      "start": 615.12,
-      "end": 615.88,
+      "start": 455.53,
+      "end": 456.29,
       "text": "And I've broken"
     },
     {
-      "start": 615.88,
-      "end": 616.6,
+      "start": 456.29,
+      "end": 457.01,
       "text": "my rules"
     },
     {
-      "start": 616.6,
-      "end": 617.5,
+      "start": 457.01,
+      "end": 457.91,
       "text": "to never get too"
     },
     {
-      "start": 617.5,
-      "end": 617.96,
+      "start": 457.91,
+      "end": 458.37,
       "text": "comfortable"
     },
     {
-      "start": 617.96,
-      "end": 618.9,
+      "start": 458.37,
+      "end": 459.31,
       "text": "in a new town"
     },
     {
-      "start": 618.9,
-      "end": 619.9,
+      "start": 459.31,
+      "end": 460.31,
       "text": "and never make"
     },
     {
-      "start": 619.9,
-      "end": 620.6,
+      "start": 460.31,
+      "end": 461.01,
       "text": "real friends."
     },
     {
-      "start": 621.0,
-      "end": 621.52,
+      "start": 461.41,
+      "end": 461.93,
       "text": "I'm guilty"
     },
     {
-      "start": 621.52,
-      "end": 622.22,
+      "start": 461.93,
+      "end": 462.63,
       "text": "as charged."
     },
     {
-      "start": 623.32,
-      "end": 623.46,
+      "start": 463.73,
+      "end": 463.87,
       "text": "네."
     },
     {
-      "start": 623.8,
-      "end": 624.42,
+      "start": 464.21,
+      "end": 464.83,
       "text": "그러면 이제"
     },
     {
-      "start": 624.42,
-      "end": 625.34,
+      "start": 464.83,
+      "end": 465.75,
       "text": "크리스틴이"
     },
     {
-      "start": 625.34,
-      "end": 626.24,
+      "start": 465.75,
+      "end": 466.65,
       "text": "설득을 어떻게"
     },
     {
-      "start": 626.24,
-      "end": 626.96,
+      "start": 466.65,
+      "end": 467.37,
       "text": "하는지"
     },
     {
-      "start": 626.96,
-      "end": 627.48,
+      "start": 467.37,
+      "end": 467.89,
       "text": "하나하나"
     },
     {
-      "start": 627.48,
-      "end": 628.08,
+      "start": 467.89,
+      "end": 468.49,
       "text": "들어볼까요?"
     },
     {
-      "start": 628.92,
-      "end": 629.78,
+      "start": 469.33,
+      "end": 470.19,
       "text": "J.P. caused"
     },
     {
-      "start": 629.78,
-      "end": 630.98,
+      "start": 470.19,
+      "end": 471.39,
       "text": "all of Burke's"
     },
     {
-      "start": 630.98,
-      "end": 631.62,
+      "start": 471.39,
+      "end": 472.03,
       "text": "disasters."
     },
     {
-      "start": 632.1,
-      "end": 633.14,
+      "start": 472.51,
+      "end": 473.55,
       "text": "J.P.가"
     },
     {
-      "start": 633.14,
-      "end": 634.06,
+      "start": 473.55,
+      "end": 474.47,
       "text": "마을의 모든"
     },
     {
-      "start": 634.06,
-      "end": 634.82,
+      "start": 474.47,
+      "end": 475.23,
       "text": "사고를"
     },
     {
-      "start": 634.82,
-      "end": 635.74,
+      "start": 475.23,
+      "end": 476.15,
       "text": "일으켰어."
     },
     {
-      "start": 636.36,
-      "end": 636.66,
+      "start": 476.77,
+      "end": 477.07,
       "text": "Now"
     },
     {
-      "start": 636.66,
-      "end": 637.16,
+      "start": 477.07,
+      "end": 477.57,
       "text": "he plans"
     },
     {
-      "start": 637.16,
-      "end": 637.74,
+      "start": 477.57,
+      "end": 478.15,
       "text": "to crush"
     },
     {
-      "start": 637.74,
-      "end": 638.7,
+      "start": 478.15,
+      "end": 479.11,
       "text": "the whole town"
     },
     {
-      "start": 638.7,
-      "end": 640.2,
+      "start": 479.11,
+      "end": 480.61,
       "text": "with the ferris wheel"
     },
     {
-      "start": 640.2,
-      "end": 641.78,
+      "start": 480.61,
+      "end": 482.19,
       "text": "from the amusement park."
     },
     {
-      "start": 642.14,
-      "end": 643.06,
+      "start": 482.55,
+      "end": 483.47,
       "text": "Now"
     },
     {
-      "start": 643.06,
-      "end": 643.54,
+      "start": 483.47,
+      "end": 483.95,
       "text": "이제"
     },
     {
-      "start": 643.54,
-      "end": 644.66,
+      "start": 483.95,
+      "end": 485.07,
       "text": "he plans"
     },
     {
-      "start": 644.66,
-      "end": 645.52,
+      "start": 485.07,
+      "end": 485.93,
       "text": "to crush"
     },
     {
-      "start": 645.52,
-      "end": 646.7,
+      "start": 485.93,
+      "end": 487.11,
       "text": "the whole town"
     },
     {
-      "start": 646.7,
-      "end": 648.26,
+      "start": 487.11,
+      "end": 488.67,
       "text": "도시 전체를"
     },
     {
-      "start": 648.26,
-      "end": 649.46,
+      "start": 488.67,
+      "end": 489.87,
       "text": "부숴버리려고 해."
     },
     {
-      "start": 649.46,
-      "end": 651.26,
+      "start": 489.87,
+      "end": 491.67,
       "text": "With the ferris wheel"
     },
     {
-      "start": 651.26,
-      "end": 652.9,
+      "start": 491.67,
+      "end": 493.31,
       "text": "from the amusement park."
     },
     {
-      "start": 653.2,
-      "end": 653.66,
+      "start": 493.61,
+      "end": 494.07,
       "text": "라고 했으니까"
     },
     {
-      "start": 653.66,
-      "end": 654.96,
+      "start": 494.07,
+      "end": 495.37,
       "text": "놀이공원의"
     },
     {
-      "start": 654.96,
-      "end": 656.02,
+      "start": 495.37,
+      "end": 496.43,
       "text": "관람차를"
     },
     {
-      "start": 656.02,
-      "end": 656.82,
+      "start": 496.43,
+      "end": 497.23,
       "text": "이용해서"
     },
     {
-      "start": 656.82,
-      "end": 657.84,
+      "start": 497.23,
+      "end": 498.25,
       "text": "이 관람차를"
     },
     {
-      "start": 657.84,
-      "end": 658.28,
+      "start": 498.25,
+      "end": 498.69,
       "text": "굴려서"
     },
     {
-      "start": 658.28,
-      "end": 659.24,
+      "start": 498.69,
+      "end": 499.65,
       "text": "도시 전체를"
     },
     {
-      "start": 659.24,
-      "end": 660.34,
+      "start": 499.65,
+      "end": 500.75,
       "text": "부숴버리려고 해."
     },
     {
-      "start": 660.42,
-      "end": 661.26,
+      "start": 500.83,
+      "end": 501.67,
       "text": "Ferris wheels"
     },
     {
-      "start": 661.26,
-      "end": 662.02,
+      "start": 501.67,
+      "end": 502.43,
       "text": "are so fun"
     },
     {
-      "start": 662.02,
-      "end": 662.84,
+      "start": 502.43,
+      "end": 503.25,
       "text": "to ride on."
     },
     {
-      "start": 663.6,
-      "end": 664.28,
+      "start": 504.01,
+      "end": 504.69,
       "text": "Have you been"
     },
     {
-      "start": 664.28,
-      "end": 664.98,
+      "start": 504.69,
+      "end": 505.39,
       "text": "on a ferris wheel?"
     },
     {
-      "start": 665.92,
-      "end": 666.94,
+      "start": 506.33,
+      "end": 507.35,
       "text": "I can't imagine"
     },
     {
-      "start": 666.94,
-      "end": 668.42,
+      "start": 507.35,
+      "end": 508.83,
       "text": "using the ferris wheel"
     },
     {
-      "start": 668.42,
-      "end": 669.2,
+      "start": 508.83,
+      "end": 509.61,
       "text": "as a weapon"
     },
     {
-      "start": 669.2,
-      "end": 670.28,
+      "start": 509.61,
+      "end": 510.69,
       "text": "to destroy"
     },
     {
-      "start": 670.28,
-      "end": 671.14,
+      "start": 510.69,
+      "end": 511.55,
       "text": "the whole town."
     },
     {
-      "start": 671.34,
-      "end": 672.16,
+      "start": 511.75,
+      "end": 512.57,
       "text": "저도 한 번도"
     },
     {
-      "start": 672.16,
-      "end": 673.1,
+      "start": 512.57,
+      "end": 513.51,
       "text": "상상조차"
     },
     {
-      "start": 673.1,
-      "end": 673.92,
+      "start": 513.51,
+      "end": 514.33,
       "text": "해보지 못한"
     },
     {
-      "start": 673.92,
-      "end": 674.9,
+      "start": 514.33,
+      "end": 515.31,
       "text": "이야기인데"
     },
     {
-      "start": 674.9,
-      "end": 676.22,
+      "start": 515.31,
+      "end": 516.63,
       "text": "JB의"
     },
     {
-      "start": 676.22,
-      "end": 677.06,
+      "start": 516.63,
+      "end": 517.47,
       "text": "상상력은"
     },
     {
-      "start": 677.06,
-      "end": 677.8,
+      "start": 517.47,
+      "end": 518.21,
       "text": "정말 무한한 것"
     },
     {
-      "start": 677.8,
-      "end": 678.2,
+      "start": 518.21,
+      "end": 518.61,
       "text": "같습니다."
     },
     {
-      "start": 678.62,
-      "end": 678.92,
+      "start": 519.03,
+      "end": 519.33,
       "text": "그렇죠."
     },
     {
-      "start": 679.84,
-      "end": 680.44,
+      "start": 520.25,
+      "end": 520.85,
       "text": "타다가"
     },
     {
-      "start": 680.44,
-      "end": 681.74,
+      "start": 520.85,
+      "end": 522.15,
       "text": "가끔 고장날 때"
     },
     {
-      "start": 681.74,
-      "end": 682.64,
+      "start": 522.15,
+      "end": 523.05,
       "text": "제일 재밌는데"
     },
     {
-      "start": 682.64,
-      "end": 683.54,
+      "start": 523.05,
+      "end": 523.95,
       "text": "위에"
     },
     {
-      "start": 683.54,
-      "end": 684.78,
+      "start": 523.95,
+      "end": 525.19,
       "text": "if you're in the top"
     },
     {
-      "start": 684.78,
-      "end": 686.08,
+      "start": 525.19,
+      "end": 526.49,
       "text": "and you can see"
     },
     {
-      "start": 686.08,
-      "end": 687.04,
+      "start": 526.49,
+      "end": 527.45,
       "text": "the beautiful sights"
     },
     {
-      "start": 687.04,
-      "end": 688.64,
+      "start": 527.45,
+      "end": 529.05,
       "text": "재미있다는 의미가"
     },
     {
-      "start": 688.64,
-      "end": 689.86,
+      "start": 529.05,
+      "end": 530.27,
       "text": "저랑 너무 다르신 것 같은데"
     },
     {
-      "start": 689.86,
-      "end": 691.04,
+      "start": 530.27,
+      "end": 531.45,
       "text": "고장날 때"
     },
     {
-      "start": 691.04,
-      "end": 691.94,
+      "start": 531.45,
+      "end": 532.35,
       "text": "재미를 느끼신다고요?"
     },
     {
-      "start": 692.28,
-      "end": 693.4,
+      "start": 532.69,
+      "end": 533.81,
       "text": "It's not a rollercoaster."
     },
     {
-      "start": 693.68,
-      "end": 694.28,
+      "start": 534.09,
+      "end": 534.69,
       "text": "그래도 너무"
     },
     {
-      "start": 694.28,
-      "end": 695.5,
+      "start": 534.69,
+      "end": 535.91,
       "text": "무서운데"
     },
     {
-      "start": 695.5,
-      "end": 696.32,
+      "start": 535.91,
+      "end": 536.73,
       "text": "You're scared of heights."
     },
     {
-      "start": 696.92,
-      "end": 698.24,
+      "start": 537.33,
+      "end": 538.65,
       "text": "It's like being on a mountain."
     },
     {
-      "start": 698.46,
-      "end": 699.52,
+      "start": 538.87,
+      "end": 539.93,
       "text": "A beautiful view."
     },
     {
-      "start": 699.94,
-      "end": 700.76,
+      "start": 540.35,
+      "end": 541.17,
       "text": "장관이다."
     },
     {
-      "start": 701.34,
-      "end": 701.58,
+      "start": 541.75,
+      "end": 541.99,
       "text": "그다음에"
     },
     {
-      "start": 701.58,
-      "end": 702.4,
+      "start": 541.99,
+      "end": 542.81,
       "text": "고쳐주니까"
     },
     {
-      "start": 702.4,
-      "end": 703.54,
+      "start": 542.81,
+      "end": 543.95,
       "text": "만약에 탑에 안 있고"
     },
     {
-      "start": 703.54,
-      "end": 704.6,
+      "start": 543.95,
+      "end": 545.01,
       "text": "바던 부분에 있으면"
     },
     {
-      "start": 704.6,
-      "end": 705.1,
+      "start": 545.01,
+      "end": 545.51,
       "text": "어떻게 해요?"
     },
     {
-      "start": 705.32,
-      "end": 705.88,
+      "start": 545.73,
+      "end": 546.29,
       "text": "어차피 힘이 없죠."
     },
     {
-      "start": 706.52,
-      "end": 707.36,
+      "start": 546.93,
+      "end": 547.77,
       "text": "Just get off."
     },
     {
-      "start": 707.72,
-      "end": 708.24,
+      "start": 548.13,
+      "end": 548.65,
       "text": "그래요."
     },
     {
-      "start": 708.48,
-      "end": 709.84,
+      "start": 548.89,
+      "end": 550.25,
       "text": "만약에 정지가 되는"
     },
     {
-      "start": 709.84,
-      "end": 710.68,
+      "start": 550.25,
+      "end": 551.09,
       "text": "상황이 있더라도"
     },
     {
-      "start": 710.68,
-      "end": 711.7,
+      "start": 551.09,
+      "end": 552.11,
       "text": "절대로"
     },
     {
-      "start": 711.7,
-      "end": 713.6,
+      "start": 552.11,
+      "end": 554.01,
       "text": "너무 놀라시지 마시고"
     },
     {
-      "start": 713.6,
-      "end": 714.4,
+      "start": 554.01,
+      "end": 554.81,
       "text": "우리 크쌤처럼"
     },
     {
-      "start": 714.4,
-      "end": 715.7,
+      "start": 554.81,
+      "end": 556.11,
       "text": "즐기셨으면 좋겠습니다."
     },
     {
-      "start": 715.76,
-      "end": 716.4,
+      "start": 556.17,
+      "end": 556.81,
       "text": "Stay seated."
     },
     {
-      "start": 716.8,
-      "end": 717.38,
+      "start": 557.21,
+      "end": 557.79,
       "text": "Stay calm."
     },
     {
-      "start": 719.04,
-      "end": 720.6,
+      "start": 559.45,
+      "end": 561.01,
       "text": "Your town will be destroyed."
     },
     {
-      "start": 721.08,
-      "end": 723.1,
+      "start": 561.49,
+      "end": 563.51,
       "text": "Your town will be destroyed."
     },
     {
-      "start": 723.6,
-      "end": 724.66,
+      "start": 564.01,
+      "end": 565.07,
       "text": "여러분의 도시가"
     },
     {
-      "start": 724.66,
-      "end": 726.22,
+      "start": 565.07,
+      "end": 566.63,
       "text": "다 파괴될 거라고요."
     },
     {
-      "start": 726.62,
-      "end": 728.36,
+      "start": 567.03,
+      "end": 568.77,
       "text": "Your houses will be ruined."
     },
     {
-      "start": 728.36,
-      "end": 730.26,
+      "start": 568.77,
+      "end": 570.67,
       "text": "사는 집들도"
     },
     {
-      "start": 730.26,
-      "end": 731.74,
+      "start": 570.67,
+      "end": 572.15,
       "text": "다 무너질 거고"
     },
     {
-      "start": 731.74,
-      "end": 733.44,
+      "start": 572.15,
+      "end": 573.85,
       "text": "Fins and your humans"
     },
     {
-      "start": 733.44,
-      "end": 734.42,
+      "start": 573.85,
+      "end": 574.83,
       "text": "will be hurt."
     },
     {
-      "start": 734.88,
-      "end": 737.24,
+      "start": 575.29,
+      "end": 577.65,
       "text": "Fins and your humans"
     },
     {
-      "start": 737.24,
-      "end": 737.84,
+      "start": 577.65,
+      "end": 578.25,
       "text": "라고 했으니까"
     },
     {
-      "start": 737.84,
-      "end": 738.58,
+      "start": 578.25,
+      "end": 578.99,
       "text": "그 Fins들의"
     },
     {
-      "start": 738.58,
-      "end": 739.94,
+      "start": 578.99,
+      "end": 580.35,
       "text": "인간들을"
     },
     {
-      "start": 739.94,
-      "end": 740.84,
+      "start": 580.35,
+      "end": 581.25,
       "text": "이야기하는 거죠."
     },
     {
-      "start": 741.42,
-      "end": 742.4,
+      "start": 581.83,
+      "end": 582.81,
       "text": "여러분의 인간들도"
     },
     {
-      "start": 742.4,
-      "end": 743.4,
+      "start": 582.81,
+      "end": 583.81,
       "text": "will be hurt."
     },
     {
-      "start": 743.72,
-      "end": 744.8,
+      "start": 584.13,
+      "end": 585.21,
       "text": "전부 다 다칠 거야."
     },
     {
-      "start": 745.36,
-      "end": 746.9,
+      "start": 585.77,
+      "end": 587.31,
       "text": "We have got to stop this."
     },
     {
-      "start": 747.28,
-      "end": 748.5,
+      "start": 587.69,
+      "end": 588.91,
       "text": "우리가 이것을"
     },
     {
-      "start": 748.5,
-      "end": 749.92,
+      "start": 588.91,
+      "end": 590.33,
       "text": "got to stop this."
     },
     {
-      "start": 750.1,
-      "end": 750.86,
+      "start": 590.51,
+      "end": 591.27,
       "text": "막아야 해요."
     },
     {
-      "start": 751.52,
-      "end": 752.34,
+      "start": 591.93,
+      "end": 592.75,
       "text": "And we can"
     },
     {
-      "start": 752.34,
-      "end": 753.84,
+      "start": 592.75,
+      "end": 594.25,
       "text": "if we act together."
     },
     {
-      "start": 754.34,
-      "end": 754.72,
+      "start": 594.75,
+      "end": 595.13,
       "text": "Together."
     },
     {
-      "start": 755.14,
-      "end": 756.46,
+      "start": 595.55,
+      "end": 596.87,
       "text": "아주 설득적이에요."
     },
     {
-      "start": 756.46,
-      "end": 757.42,
+      "start": 596.87,
+      "end": 597.83,
       "text": "And we can"
     },
     {
-      "start": 757.42,
-      "end": 759.02,
+      "start": 597.83,
+      "end": 599.43,
       "text": "if we act together."
     },
     {
-      "start": 759.4,
-      "end": 759.92,
+      "start": 599.81,
+      "end": 600.33,
       "text": "그리고 우리가"
     },
     {
-      "start": 759.92,
-      "end": 761.38,
+      "start": 600.33,
+      "end": 601.79,
       "text": "힘을 합치면"
     },
     {
-      "start": 761.38,
-      "end": 762.34,
+      "start": 601.79,
+      "end": 602.75,
       "text": "막을 수 있어요."
     },
     {
-      "start": 762.56,
-      "end": 762.94,
+      "start": 602.97,
+      "end": 603.35,
       "text": "Together."
     },
     {
-      "start": 763.36,
-      "end": 763.94,
+      "start": 603.77,
+      "end": 604.35,
       "text": "함께 합시다."
     },
     {
-      "start": 764.9,
-      "end": 765.2,
+      "start": 605.31,
+      "end": 605.61,
       "text": "Yeah."
     },
     {
-      "start": 765.52,
-      "end": 766.34,
+      "start": 605.93,
+      "end": 606.75,
       "text": "I know it's against"
     },
     {
-      "start": 766.34,
-      "end": 767.38,
+      "start": 606.75,
+      "end": 607.79,
       "text": "all your rules"
     },
     {
-      "start": 767.38,
-      "end": 768.92,
+      "start": 607.79,
+      "end": 609.33,
       "text": "to even talk to me."
     },
     {
-      "start": 769.46,
-      "end": 770.14,
+      "start": 609.87,
+      "end": 610.55,
       "text": "그래요."
     },
     {
-      "start": 770.64,
-      "end": 771.44,
+      "start": 611.05,
+      "end": 611.85,
       "text": "I know"
     },
     {
-      "start": 771.44,
-      "end": 772.44,
+      "start": 611.85,
+      "end": 612.85,
       "text": "it's against"
     },
     {
-      "start": 772.44,
-      "end": 773.8,
+      "start": 612.85,
+      "end": 614.21,
       "text": "all your rules"
     },
     {
-      "start": 773.8,
-      "end": 775.72,
+      "start": 614.21,
+      "end": 616.13,
       "text": "to even talk to me."
     },
     {
-      "start": 776.1,
-      "end": 777.46,
+      "start": 616.51,
+      "end": 617.87,
       "text": "나에게 말하는 것조차"
     },
     {
-      "start": 778.1,
-      "end": 779.22,
+      "start": 618.51,
+      "end": 619.63,
       "text": "여러분의 규칙에"
     },
     {
-      "start": 779.22,
-      "end": 780.22,
+      "start": 619.63,
+      "end": 620.63,
       "text": "어긋난다는 거"
     },
     {
-      "start": 780.22,
-      "end": 780.98,
+      "start": 620.63,
+      "end": 621.39,
       "text": "나도 알아요."
     },
     {
-      "start": 781.46,
-      "end": 781.86,
+      "start": 621.87,
+      "end": 622.27,
       "text": "But"
     },
     {
-      "start": 781.86,
-      "end": 783.48,
+      "start": 622.27,
+      "end": 623.89,
       "text": "Finnick broke the rules"
     },
     {
-      "start": 783.48,
-      "end": 784.7,
+      "start": 623.89,
+      "end": 625.11,
       "text": "and I've broken"
     },
     {
-      "start": 784.7,
-      "end": 785.54,
+      "start": 625.11,
+      "end": 625.95,
       "text": "my rules"
     },
     {
-      "start": 785.54,
-      "end": 786.62,
+      "start": 625.95,
+      "end": 627.03,
       "text": "to never get"
     },
     {
-      "start": 786.62,
-      "end": 787.36,
+      "start": 627.03,
+      "end": 627.77,
       "text": "too comfortable"
     },
     {
-      "start": 787.36,
-      "end": 788.56,
+      "start": 627.77,
+      "end": 628.97,
       "text": "in a new town"
     },
     {
-      "start": 788.56,
-      "end": 789.52,
+      "start": 628.97,
+      "end": 629.93,
       "text": "and never make"
     },
     {
-      "start": 789.52,
-      "end": 790.38,
+      "start": 629.93,
+      "end": 630.79,
       "text": "real friends."
     },
     {
-      "start": 790.6,
-      "end": 791.78,
+      "start": 631.01,
+      "end": 632.19,
       "text": "That's right."
     },
     {
-      "start": 792.12,
-      "end": 793.16,
+      "start": 632.53,
+      "end": 633.57,
       "text": "와, 그러네요."
     },
     {
-      "start": 793.48,
-      "end": 794.44,
+      "start": 633.89,
+      "end": 634.85,
       "text": "But Finnick가"
     },
     {
-      "start": 794.44,
-      "end": 795.72,
+      "start": 634.85,
+      "end": 636.13,
       "text": "broke the rules"
     },
     {
-      "start": 795.72,
-      "end": 797.64,
+      "start": 636.13,
+      "end": 638.05,
       "text": "그 규칙을 깼고"
     },
     {
-      "start": 797.64,
-      "end": 798.86,
+      "start": 638.05,
+      "end": 639.27,
       "text": "and I've broken"
     },
     {
-      "start": 798.86,
-      "end": 799.62,
+      "start": 639.27,
+      "end": 640.03,
       "text": "my rules"
     },
     {
-      "start": 799.62,
-      "end": 800.74,
+      "start": 640.03,
+      "end": 641.15,
       "text": "나 또한"
     },
     {
-      "start": 800.74,
-      "end": 801.5,
+      "start": 641.15,
+      "end": 641.91,
       "text": "내 규칙을"
     },
     {
-      "start": 801.5,
-      "end": 802.08,
+      "start": 641.91,
+      "end": 642.49,
       "text": "깼어요"
     },
     {
-      "start": 802.08,
-      "end": 803.34,
+      "start": 642.49,
+      "end": 643.75,
       "text": "to never get"
     },
     {
-      "start": 803.34,
-      "end": 804.3,
+      "start": 643.75,
+      "end": 644.71,
       "text": "too comfortable"
     },
     {
-      "start": 804.3,
-      "end": 805.54,
+      "start": 644.71,
+      "end": 645.95,
       "text": "in a new town"
     },
     {
-      "start": 805.54,
-      "end": 806.94,
+      "start": 645.95,
+      "end": 647.35,
       "text": "자, 이 부분은요."
     },
     {
-      "start": 807.16,
-      "end": 808.32,
+      "start": 647.57,
+      "end": 648.73,
       "text": "내가 어떤 규칙을"
     },
     {
-      "start": 808.32,
-      "end": 809.12,
+      "start": 648.73,
+      "end": 649.53,
       "text": "깼는지에 대해서"
     },
     {
-      "start": 809.12,
-      "end": 809.9,
+      "start": 649.53,
+      "end": 650.31,
       "text": "부연 설명을"
     },
     {
-      "start": 809.9,
-      "end": 810.4,
+      "start": 650.31,
+      "end": 650.81,
       "text": "해준 겁니다."
     },
     {
-      "start": 810.4,
-      "end": 811.22,
+      "start": 650.81,
+      "end": 651.63,
       "text": "그러니까"
     },
     {
-      "start": 811.22,
-      "end": 812.58,
+      "start": 651.63,
+      "end": 652.99,
       "text": "새 도시에"
     },
     {
-      "start": 812.58,
-      "end": 814.18,
+      "start": 652.99,
+      "end": 654.59,
       "text": "절대로"
     },
     {
-      "start": 814.18,
-      "end": 815.1,
+      "start": 654.59,
+      "end": 655.51,
       "text": "never get"
     },
     {
-      "start": 815.1,
-      "end": 815.94,
+      "start": 655.51,
+      "end": 656.35,
       "text": "too comfortable"
     },
     {
-      "start": 815.94,
-      "end": 817.08,
+      "start": 656.35,
+      "end": 657.49,
       "text": "in a new town"
     },
     {
-      "start": 817.08,
-      "end": 817.72,
+      "start": 657.49,
+      "end": 658.13,
       "text": "이라고 했으니까"
     },
     {
-      "start": 817.72,
-      "end": 819.36,
+      "start": 658.13,
+      "end": 659.77,
       "text": "절대로 정붙이지"
     },
     {
-      "start": 819.36,
-      "end": 820.5,
+      "start": 659.77,
+      "end": 660.91,
       "text": "않는다는 것"
     },
     {
-      "start": 820.5,
-      "end": 822.02,
+      "start": 660.91,
+      "end": 662.43,
       "text": "and never make"
     },
     {
-      "start": 822.02,
-      "end": 822.94,
+      "start": 662.43,
+      "end": 663.35,
       "text": "real friends"
     },
     {
-      "start": 822.94,
-      "end": 823.38,
+      "start": 663.35,
+      "end": 663.79,
       "text": "그리고"
     },
     {
-      "start": 823.38,
-      "end": 824.96,
+      "start": 663.79,
+      "end": 665.37,
       "text": "진정한 친구들을"
     },
     {
-      "start": 824.96,
-      "end": 825.46,
+      "start": 665.37,
+      "end": 665.87,
       "text": "결코"
     },
     {
-      "start": 825.46,
-      "end": 827.0,
+      "start": 665.87,
+      "end": 667.41,
       "text": "사귀지 않는다는 것이죠."
     },
     {
-      "start": 827.38,
-      "end": 828.8,
+      "start": 667.79,
+      "end": 669.21,
       "text": "Her family keeps"
     },
     {
-      "start": 828.8,
-      "end": 829.28,
+      "start": 669.21,
+      "end": 669.69,
       "text": "moving"
     },
     {
-      "start": 829.28,
-      "end": 830.84,
+      "start": 669.69,
+      "end": 671.25,
       "text": "because of that."
     },
     {
-      "start": 831.24,
-      "end": 831.58,
+      "start": 671.65,
+      "end": 671.99,
       "text": "She's like"
     },
     {
-      "start": 831.58,
-      "end": 832.66,
+      "start": 671.99,
+      "end": 673.07,
       "text": "I'm never gonna make"
     },
     {
-      "start": 832.66,
-      "end": 833.38,
+      "start": 673.07,
+      "end": 673.79,
       "text": "real friends."
     },
     {
-      "start": 833.58,
-      "end": 834.64,
+      "start": 673.99,
+      "end": 675.05,
       "text": "I'm never gonna be"
     },
     {
-      "start": 834.64,
-      "end": 835.36,
+      "start": 675.05,
+      "end": 675.77,
       "text": "comfortable."
     },
     {
-      "start": 835.62,
-      "end": 835.88,
+      "start": 676.03,
+      "end": 676.29,
       "text": "맞아요."
     },
     {
-      "start": 836.1,
-      "end": 837.0,
+      "start": 676.51,
+      "end": 677.41,
       "text": "Get comfortable."
     },
     {
-      "start": 837.64,
-      "end": 838.14,
+      "start": 678.05,
+      "end": 678.55,
       "text": "그녀만의"
     },
     {
-      "start": 838.14,
-      "end": 839.06,
+      "start": 678.55,
+      "end": 679.47,
       "text": "그 rules를"
     },
     {
-      "start": 839.06,
-      "end": 840.22,
+      "start": 679.47,
+      "end": 680.63,
       "text": "만들어 놨던 거죠."
     },
     {
-      "start": 840.4,
-      "end": 841.68,
+      "start": 680.81,
+      "end": 682.09,
       "text": "But she became"
     },
     {
-      "start": 841.68,
-      "end": 842.62,
+      "start": 682.09,
+      "end": 683.03,
       "text": "friends with the fin."
     },
     {
-      "start": 842.8,
-      "end": 844.22,
+      "start": 683.21,
+      "end": 684.63,
       "text": "그래서 어긋났네요."
     },
     {
-      "start": 844.92,
-      "end": 846.3,
+      "start": 685.33,
+      "end": 686.71,
       "text": "I'm guilty as charged."
     },
     {
-      "start": 846.64,
-      "end": 847.38,
+      "start": 687.05,
+      "end": 687.79,
       "text": "그래 나도"
     },
     {
-      "start": 847.38,
-      "end": 848.86,
+      "start": 687.79,
+      "end": 689.27,
       "text": "내 잘못 인정해요."
     },
     {
-      "start": 849.2,
-      "end": 850.46,
+      "start": 689.61,
+      "end": 690.87,
       "text": "라고 외쳤습니다."
     },
     {
-      "start": 851.36,
-      "end": 852.5,
+      "start": 691.77,
+      "end": 692.91,
       "text": "이 부분까지"
     },
     {
-      "start": 852.5,
-      "end": 854.0,
+      "start": 692.91,
+      "end": 694.41,
       "text": "설득적인 부분들을"
     },
     {
-      "start": 854.0,
-      "end": 854.92,
+      "start": 694.41,
+      "end": 695.33,
       "text": "다 들어보셨는데"
     },
     {
-      "start": 854.92,
-      "end": 857.8,
+      "start": 695.33,
+      "end": 698.21,
       "text": "I can feel her sincerity."
     },
     {
-      "start": 858.18,
-      "end": 858.56,
+      "start": 698.59,
+      "end": 698.97,
       "text": "Can you?"
     },
     {
-      "start": 858.78,
-      "end": 859.7,
+      "start": 699.19,
+      "end": 700.11,
       "text": "Do you think"
     },
     {
-      "start": 859.7,
-      "end": 860.48,
+      "start": 700.11,
+      "end": 700.89,
       "text": "the fins will"
     },
     {
-      "start": 860.48,
-      "end": 861.62,
+      "start": 700.89,
+      "end": 702.03,
       "text": "show themselves?"
     },
     {
-      "start": 862.22,
-      "end": 862.72,
+      "start": 702.63,
+      "end": 703.13,
       "text": "The phoenix?"
     },
     {
-      "start": 863.0,
-      "end": 863.74,
+      "start": 703.41,
+      "end": 704.15,
       "text": "그랬으면 좋겠어요."
     },
     {
-      "start": 863.8,
-      "end": 865.0,
+      "start": 704.21,
+      "end": 705.41,
       "text": "They're all invisible now."
     },
     {
-      "start": 865.64,
-      "end": 866.24,
+      "start": 706.05,
+      "end": 706.65,
       "text": "They're listening."
     },
     {
-      "start": 866.46,
-      "end": 867.18,
+      "start": 706.87,
+      "end": 707.59,
       "text": "누군가가"
     },
     {
-      "start": 867.18,
-      "end": 868.2,
+      "start": 707.59,
+      "end": 708.61,
       "text": "phoenix의 털을"
     },
     {
-      "start": 868.2,
-      "end": 869.3,
+      "start": 708.61,
+      "end": 709.71,
       "text": "좀 갖다 줬으면 좋겠습니다."
     },
     {
-      "start": 869.3,
-      "end": 871.02,
+      "start": 709.71,
+      "end": 711.43,
       "text": "털 벗겨가지고"
     },
     {
-      "start": 871.02,
-      "end": 872.04,
+      "start": 711.43,
+      "end": 712.45,
       "text": "안 보여서"
     },
     {
-      "start": 872.04,
-      "end": 872.64,
+      "start": 712.45,
+      "end": 713.05,
       "text": "그러게요."
     },
     {
-      "start": 873.22,
-      "end": 873.86,
+      "start": 713.63,
+      "end": 714.27,
       "text": "자 한 번 더"
     },
     {
-      "start": 873.86,
-      "end": 874.6,
+      "start": 714.27,
+      "end": 715.01,
       "text": "확인해 보시죠."
     },
     {
-      "start": 874.6,
-      "end": 876.1,
+      "start": 715.01,
+      "end": 716.51,
       "text": "JB caused"
     },
     {
-      "start": 876.1,
-      "end": 877.1,
+      "start": 716.51,
+      "end": 717.51,
       "text": "all of Burke's"
     },
     {
-      "start": 877.1,
-      "end": 877.6,
+      "start": 717.51,
+      "end": 718.01,
       "text": "disasters."
     },
     {
-      "start": 878.2,
-      "end": 878.54,
+      "start": 718.61,
+      "end": 718.95,
       "text": "Now"
     },
     {
-      "start": 878.54,
-      "end": 879.36,
+      "start": 718.95,
+      "end": 719.77,
       "text": "he plans to"
     },
     {
-      "start": 879.36,
-      "end": 880.1,
+      "start": 719.77,
+      "end": 720.51,
       "text": "crush the whole"
     },
     {
-      "start": 880.1,
-      "end": 880.78,
+      "start": 720.51,
+      "end": 721.19,
       "text": "town with the"
     },
     {
-      "start": 880.78,
-      "end": 881.3,
+      "start": 721.19,
+      "end": 721.71,
       "text": "ferris wheel"
     },
     {
-      "start": 881.3,
-      "end": 882.08,
+      "start": 721.71,
+      "end": 722.49,
       "text": "from the amusement"
     },
     {
-      "start": 882.08,
-      "end": 882.48,
+      "start": 722.49,
+      "end": 722.89,
       "text": "park."
     },
     {
-      "start": 882.88,
-      "end": 883.3,
+      "start": 723.29,
+      "end": 723.71,
       "text": "Your town"
     },
     {
-      "start": 883.3,
-      "end": 884.14,
+      "start": 723.71,
+      "end": 724.55,
       "text": "will be destroyed."
     },
     {
-      "start": 884.54,
-      "end": 885.1,
+      "start": 724.95,
+      "end": 725.51,
       "text": "Your houses"
     },
     {
-      "start": 885.1,
-      "end": 885.9,
+      "start": 725.51,
+      "end": 726.31,
       "text": "will be ruined."
     },
     {
-      "start": 886.28,
-      "end": 886.58,
+      "start": 726.69,
+      "end": 726.99,
       "text": "Finns"
     },
     {
-      "start": 886.58,
-      "end": 887.34,
+      "start": 726.99,
+      "end": 727.75,
       "text": "and your humans"
     },
     {
-      "start": 887.34,
-      "end": 888.12,
+      "start": 727.75,
+      "end": 728.53,
       "text": "will be hurt."
     },
     {
-      "start": 888.48,
-      "end": 888.86,
+      "start": 728.89,
+      "end": 729.27,
       "text": "We have"
     },
     {
-      "start": 888.86,
-      "end": 889.76,
+      "start": 729.27,
+      "end": 730.17,
       "text": "got to stop"
     },
     {
-      "start": 889.76,
-      "end": 890.16,
+      "start": 730.17,
+      "end": 730.57,
       "text": "this."
     },
     {
-      "start": 890.38,
-      "end": 891.1,
+      "start": 730.79,
+      "end": 731.51,
       "text": "And we can"
     },
     {
-      "start": 891.1,
-      "end": 891.74,
+      "start": 731.51,
+      "end": 732.15,
       "text": "if we act"
     },
     {
-      "start": 891.74,
-      "end": 892.34,
+      "start": 732.15,
+      "end": 732.75,
       "text": "together."
     },
     {
-      "start": 892.84,
-      "end": 893.36,
+      "start": 733.25,
+      "end": 733.77,
       "text": "Together!"
     },
     {
-      "start": 893.36,
-      "end": 895.7,
+      "start": 733.77,
+      "end": 736.11,
       "text": "Yeah, I know"
     },
     {
-      "start": 895.7,
-      "end": 896.16,
+      "start": 736.11,
+      "end": 736.57,
       "text": "it's against"
     },
     {
-      "start": 896.16,
-      "end": 897.14,
+      "start": 736.57,
+      "end": 737.55,
       "text": "all your rules"
     },
     {
-      "start": 897.14,
-      "end": 897.68,
+      "start": 737.55,
+      "end": 738.09,
       "text": "to even"
     },
     {
-      "start": 897.68,
-      "end": 898.46,
+      "start": 738.09,
+      "end": 738.87,
       "text": "talk to me."
     },
     {
-      "start": 898.96,
-      "end": 899.12,
+      "start": 739.37,
+      "end": 739.53,
       "text": "But"
     },
     {
-      "start": 899.12,
-      "end": 899.46,
+      "start": 739.53,
+      "end": 739.87,
       "text": "Finnick"
     },
     {
-      "start": 899.46,
-      "end": 899.88,
+      "start": 739.87,
+      "end": 740.29,
       "text": "broke the"
     },
     {
-      "start": 899.88,
-      "end": 900.2,
+      "start": 740.29,
+      "end": 740.61,
       "text": "rules."
     },
     {
-      "start": 900.52,
-      "end": 900.96,
+      "start": 740.93,
+      "end": 741.37,
       "text": "And I've"
     },
     {
-      "start": 900.96,
-      "end": 901.62,
+      "start": 741.37,
+      "end": 742.03,
       "text": "broken my"
     },
     {
-      "start": 901.62,
-      "end": 901.96,
+      "start": 742.03,
+      "end": 742.37,
       "text": "rules"
     },
     {
-      "start": 901.96,
-      "end": 902.42,
+      "start": 742.37,
+      "end": 742.83,
       "text": "to never"
     },
     {
-      "start": 902.42,
-      "end": 902.82,
+      "start": 742.83,
+      "end": 743.23,
       "text": "get too"
     },
     {
-      "start": 902.82,
-      "end": 903.36,
+      "start": 743.23,
+      "end": 743.77,
       "text": "comfortable"
     },
     {
-      "start": 903.36,
-      "end": 903.72,
+      "start": 743.77,
+      "end": 744.13,
       "text": "in a"
     },
     {
-      "start": 903.72,
-      "end": 904.24,
+      "start": 744.13,
+      "end": 744.65,
       "text": "new town"
     },
     {
-      "start": 904.24,
-      "end": 905.0,
+      "start": 744.65,
+      "end": 745.41,
       "text": "and never"
     },
     {
-      "start": 905.0,
-      "end": 905.48,
+      "start": 745.41,
+      "end": 745.89,
       "text": "make real"
     },
     {
-      "start": 905.48,
-      "end": 905.96,
+      "start": 745.89,
+      "end": 746.37,
       "text": "friends."
     },
     {
-      "start": 906.36,
-      "end": 906.88,
+      "start": 746.77,
+      "end": 747.29,
       "text": "I'm guilty"
     },
     {
-      "start": 906.88,
-      "end": 907.58,
+      "start": 747.29,
+      "end": 747.99,
       "text": "as charged."
     },
     {
-      "start": 907.58,
-      "end": 910.84,
+      "start": 747.99,
+      "end": 751.25,
       "text": "네, 금연경님께서"
     },
     {
-      "start": 910.84,
-      "end": 912.22,
+      "start": 751.25,
+      "end": 752.63,
       "text": "크리스쌤"
     },
     {
-      "start": 912.22,
-      "end": 913.44,
+      "start": 752.63,
+      "end": 753.85,
       "text": "늘 재미있으세요."
     },
     {
-      "start": 913.86,
-      "end": 914.4,
+      "start": 754.27,
+      "end": 754.81,
       "text": "아침부터"
     },
     {
-      "start": 914.4,
-      "end": 915.12,
+      "start": 754.81,
+      "end": 755.53,
       "text": "빵빵"
     },
     {
-      "start": 915.12,
-      "end": 916.1,
+      "start": 755.53,
+      "end": 756.51,
       "text": "웃음이 터져요"
     },
     {
-      "start": 916.1,
-      "end": 917.02,
+      "start": 756.51,
+      "end": 757.43,
       "text": "라고 하셨습니다."
     },
     {
-      "start": 917.36,
-      "end": 917.98,
+      "start": 757.77,
+      "end": 758.39,
       "text": "Oh, thank you."
     },
     {
-      "start": 918.24,
-      "end": 919.76,
+      "start": 758.65,
+      "end": 760.17,
       "text": "네, 웃음이 터지셨다니"
     },
     {
-      "start": 919.76,
-      "end": 920.26,
+      "start": 760.17,
+      "end": 760.67,
       "text": "저희들도"
     },
     {
-      "start": 920.26,
-      "end": 921.1,
+      "start": 760.67,
+      "end": 761.51,
       "text": "너무 행복합니다."
     },
     {
-      "start": 921.28,
-      "end": 921.96,
+      "start": 761.69,
+      "end": 762.37,
       "text": "I hope your day"
     },
     {
-      "start": 921.96,
-      "end": 922.86,
+      "start": 762.37,
+      "end": 763.27,
       "text": "is full of laughter"
     },
     {
-      "start": 922.86,
-      "end": 923.64,
+      "start": 763.27,
+      "end": 764.05,
       "text": "and smiles."
     },
     {
-      "start": 923.84,
-      "end": 924.8,
+      "start": 764.25,
+      "end": 765.21,
       "text": "Yeah, 그리고"
     },
     {
-      "start": 924.8,
-      "end": 925.34,
+      "start": 765.21,
+      "end": 765.75,
       "text": "내일도"
     },
     {
-      "start": 925.34,
-      "end": 926.34,
+      "start": 765.75,
+      "end": 766.75,
       "text": "잘 부탁드려요."
     },
     {
-      "start": 926.66,
-      "end": 927.5,
+      "start": 767.07,
+      "end": 767.91,
       "text": "I'll see you tomorrow."
+    },
+    {
+      "start": 768.05,
+      "end": 769.21,
+      "text": "Okay, bye-bye."
+    },
+    {
+      "start": 769.81,
+      "end": 770.55,
+      "text": "노래 한 곡"
+    },
+    {
+      "start": 770.55,
+      "end": 771.63,
+      "text": "듣고 다시 올게요."
+    },
+    {
+      "start": 771.85,
+      "end": 772.75,
+      "text": "Nora Jones의"
+    },
+    {
+      "start": 772.75,
+      "end": 773.59,
+      "text": "Don't Know Why."
+    },
+    {
+      "start": 782.83,
+      "end": 783.43,
+      "text": "조정현의"
+    },
+    {
+      "start": 783.43,
+      "end": 784.37,
+      "text": "Good Morning Pops에서"
+    },
+    {
+      "start": 784.37,
+      "end": 785.41,
+      "text": "준비한 선물입니다."
+    },
+    {
+      "start": 785.41,
+      "end": 787.65,
+      "text": "한국 방송 출판에서"
+    },
+    {
+      "start": 787.65,
+      "end": 789.17,
+      "text": "월간 Good Morning Pops 책"
+    },
+    {
+      "start": 789.17,
+      "end": 790.69,
+      "text": "3개월 구독권을 드립니다."
+    },
+    {
+      "start": 791.15,
+      "end": 810.57,
+      "text": "와 함께하는"
+    },
+    {
+      "start": 810.57,
+      "end": 811.77,
+      "text": "즐거운 영어 시간"
+    },
+    {
+      "start": 811.77,
+      "end": 812.91,
+      "text": "Pops English"
+    },
+    {
+      "start": 812.91,
+      "end": 825.3,
+      "text": "속에 숨겨진"
+    },
+    {
+      "start": 825.3,
+      "end": 826.86,
+      "text": "흥미진진한 표현을"
+    },
+    {
+      "start": 826.86,
+      "end": 828.0,
+      "text": "탐구해보는 시간"
+    },
+    {
+      "start": 828.0,
+      "end": 829.3,
+      "text": "Pops English"
+    },
+    {
+      "start": 829.3,
+      "end": 830.52,
+      "text": "오늘부터"
+    },
+    {
+      "start": 830.52,
+      "end": 831.44,
+      "text": "이틀간"
+    },
+    {
+      "start": 831.44,
+      "end": 832.92,
+      "text": "우리 함께 들어볼 곡은"
+    },
+    {
+      "start": 832.92,
+      "end": 833.76,
+      "text": "캐나다의"
+    },
+    {
+      "start": 833.76,
+      "end": 834.7,
+      "text": "싱어송라이터인"
+    },
+    {
+      "start": 834.7,
+      "end": 835.76,
+      "text": "다니엘 포터의"
+    },
+    {
+      "start": 835.76,
+      "end": 837.02,
+      "text": "Love You Lately"
+    },
+    {
+      "start": 837.02,
+      "end": 837.88,
+      "text": "라는 곡이에요."
+    },
+    {
+      "start": 838.54,
+      "end": 839.16,
+      "text": "이 곡은"
+    },
+    {
+      "start": 839.16,
+      "end": 840.44,
+      "text": "다니엘 파우터가"
+    },
+    {
+      "start": 840.44,
+      "end": 841.66,
+      "text": "2005년에"
+    },
+    {
+      "start": 841.66,
+      "end": 842.3,
+      "text": "발표한"
+    },
+    {
+      "start": 842.3,
+      "end": 843.26,
+      "text": "동명의 앨범에"
+    },
+    {
+      "start": 843.26,
+      "end": 844.16,
+      "text": "수록된 곡입니다."
+    },
+    {
+      "start": 844.82,
+      "end": 845.16,
+      "text": "먼저"
+    },
+    {
+      "start": 845.16,
+      "end": 845.94,
+      "text": "준비된 부분"
+    },
+    {
+      "start": 845.94,
+      "end": 846.32,
+      "text": "듣고"
+    },
+    {
+      "start": 846.32,
+      "end": 847.26,
+      "text": "내용 살펴볼게요."
+    },
+    {
+      "start": 874.27,
+      "end": 875.21,
+      "text": "차근차근"
+    },
+    {
+      "start": 875.21,
+      "end": 875.75,
+      "text": "가사를"
+    },
+    {
+      "start": 875.75,
+      "end": 876.31,
+      "text": "해석을"
+    },
+    {
+      "start": 876.31,
+      "end": 876.79,
+      "text": "해볼게요."
+    },
+    {
+      "start": 877.53,
+      "end": 878.21,
+      "text": "You packed"
+    },
+    {
+      "start": 878.21,
+      "end": 880.35,
+      "text": "your last two bags"
+    },
+    {
+      "start": 880.35,
+      "end": 882.05,
+      "text": "이 부분부터"
+    },
+    {
+      "start": 882.05,
+      "end": 882.99,
+      "text": "해석을 해보면"
+    },
+    {
+      "start": 882.99,
+      "end": 884.11,
+      "text": "당신은"
+    },
+    {
+      "start": 884.11,
+      "end": 884.69,
+      "text": "packed"
+    },
+    {
+      "start": 884.69,
+      "end": 886.57,
+      "text": "P-A-C-K"
+    },
+    {
+      "start": 886.57,
+      "end": 887.39,
+      "text": "이 동사에"
+    },
+    {
+      "start": 887.39,
+      "end": 888.03,
+      "text": "E-D가"
+    },
+    {
+      "start": 888.03,
+      "end": 888.91,
+      "text": "붙어져 있습니다."
+    },
+    {
+      "start": 889.19,
+      "end": 889.99,
+      "text": "과거 동사죠."
+    },
+    {
+      "start": 890.79,
+      "end": 891.71,
+      "text": "당신은"
+    },
+    {
+      "start": 891.71,
+      "end": 892.65,
+      "text": "가방을"
+    },
+    {
+      "start": 892.65,
+      "end": 893.13,
+      "text": "쐈죠."
+    },
+    {
+      "start": 893.37,
+      "end": 893.89,
+      "text": "라고 할 때"
+    },
+    {
+      "start": 893.89,
+      "end": 894.41,
+      "text": "packed"
+    },
+    {
+      "start": 894.41,
+      "end": 895.27,
+      "text": "를 쓴 거예요."
+    },
+    {
+      "start": 895.77,
+      "end": 897.31,
+      "text": "Your last two bags"
+    },
+    {
+      "start": 897.31,
+      "end": 898.83,
+      "text": "남은 두 개의"
+    },
+    {
+      "start": 898.83,
+      "end": 899.45,
+      "text": "가방을"
+    },
+    {
+      "start": 899.45,
+      "end": 899.95,
+      "text": "쐈죠."
+    },
+    {
+      "start": 900.81,
+      "end": 901.95,
+      "text": "A taxi's"
+    },
+    {
+      "start": 901.95,
+      "end": 902.97,
+      "text": "around the bend"
+    },
+    {
+      "start": 902.97,
+      "end": 905.01,
+      "text": "이건 어떤 의미일까요?"
+    },
+    {
+      "start": 905.35,
+      "end": 905.61,
+      "text": "특히"
+    },
+    {
+      "start": 905.61,
+      "end": 906.95,
+      "text": "around the bend"
+    },
+    {
+      "start": 906.95,
+      "end": 908.55,
+      "text": "B-E-N-D"
+    },
+    {
+      "start": 908.55,
+      "end": 909.51,
+      "text": "라는 철자예요."
+    },
+    {
+      "start": 910.11,
+      "end": 910.89,
+      "text": "Around the bend"
+    },
+    {
+      "start": 910.89,
+      "end": 911.49,
+      "text": "라고 하면"
+    },
+    {
+      "start": 911.49,
+      "end": 912.21,
+      "text": "바로"
+    },
+    {
+      "start": 912.21,
+      "end": 913.31,
+      "text": "코앞이에요."
+    },
+    {
+      "start": 914.01,
+      "end": 915.23,
+      "text": "곧 다가와요"
+    },
+    {
+      "start": 915.23,
+      "end": 916.07,
+      "text": "라는 뜻입니다."
+    },
+    {
+      "start": 916.07,
+      "end": 917.25,
+      "text": "그러므로"
+    },
+    {
+      "start": 917.25,
+      "end": 918.11,
+      "text": "택시가"
+    },
+    {
+      "start": 918.11,
+      "end": 919.59,
+      "text": "곧 도착하겠죠"
+    },
+    {
+      "start": 919.59,
+      "end": 920.55,
+      "text": "라는 뜻이에요."
+    },
+    {
+      "start": 921.51,
+      "end": 923.47,
+      "text": "You used to laugh out loud"
+    },
+    {
+      "start": 923.47,
+      "end": 925.33,
+      "text": "예전에 당신은"
+    },
+    {
+      "start": 925.33,
+      "end": 926.53,
+      "text": "큰 소리로"
+    },
+    {
+      "start": 926.53,
+      "end": 927.57,
+      "text": "웃곤 했죠."
+    },
+    {
+      "start": 927.99,
+      "end": 928.49,
+      "text": "Used to"
+    },
+    {
+      "start": 928.49,
+      "end": 929.41,
+      "text": "동사원형"
+    },
+    {
+      "start": 929.41,
+      "end": 929.89,
+      "text": "구조가"
+    },
+    {
+      "start": 929.89,
+      "end": 930.45,
+      "text": "들렸죠."
+    },
+    {
+      "start": 931.27,
+      "end": 931.65,
+      "text": "But"
+    },
+    {
+      "start": 931.65,
+      "end": 932.25,
+      "text": "하지만"
+    },
+    {
+      "start": 932.25,
+      "end": 934.11,
+      "text": "You can't remember when"
+    },
+    {
+      "start": 934.11,
+      "end": 935.17,
+      "text": "당신은"
+    },
+    {
+      "start": 935.17,
+      "end": 936.01,
+      "text": "이제 언제"
+    },
+    {
+      "start": 936.01,
+      "end": 936.85,
+      "text": "그랬는지"
+    },
+    {
+      "start": 936.85,
+      "end": 938.25,
+      "text": "기억하지 못하네요."
+    },
+    {
+      "start": 939.46,
+      "end": 940.88,
+      "text": "You lost your lines"
+    },
+    {
+      "start": 940.88,
+      "end": 942.36,
+      "text": "당신은"
+    },
+    {
+      "start": 942.36,
+      "end": 943.36,
+      "text": "lines가"
+    },
+    {
+      "start": 943.36,
+      "end": 943.64,
+      "text": "여기서"
+    },
+    {
+      "start": 943.64,
+      "end": 944.34,
+      "text": "선이라는"
+    },
+    {
+      "start": 944.34,
+      "end": 944.74,
+      "text": "의미가"
+    },
+    {
+      "start": 944.74,
+      "end": 945.0,
+      "text": "아니고"
+    },
+    {
+      "start": 945.0,
+      "end": 946.4,
+      "text": "할 말"
+    },
+    {
+      "start": 946.4,
+      "end": 947.02,
+      "text": "말들을"
+    },
+    {
+      "start": 947.02,
+      "end": 948.04,
+      "text": "잃어버렸다"
+    },
+    {
+      "start": 948.04,
+      "end": 948.74,
+      "text": "라는 의미로"
+    },
+    {
+      "start": 948.74,
+      "end": 950.2,
+      "text": "할 말에 해당하는"
+    },
+    {
+      "start": 950.2,
+      "end": 950.92,
+      "text": "lines"
+    },
+    {
+      "start": 950.92,
+      "end": 951.8,
+      "text": "로 쓰였습니다."
+    },
+    {
+      "start": 952.4,
+      "end": 953.7,
+      "text": "You lost your lines"
+    },
+    {
+      "start": 953.7,
+      "end": 954.3,
+      "text": "당신은"
+    },
+    {
+      "start": 954.3,
+      "end": 954.84,
+      "text": "할 말을"
+    },
+    {
+      "start": 954.84,
+      "end": 956.2,
+      "text": "잃어버렸고"
+    },
+    {
+      "start": 956.2,
+      "end": 957.04,
+      "text": "It's like"
+    },
+    {
+      "start": 957.04,
+      "end": 957.64,
+      "text": "you're moving"
+    },
+    {
+      "start": 957.64,
+      "end": 958.5,
+      "text": "out of time"
+    },
+    {
+      "start": 958.5,
+      "end": 959.64,
+      "text": "마치"
+    },
+    {
+      "start": 959.64,
+      "end": 960.5,
+      "text": "당신은"
+    },
+    {
+      "start": 960.5,
+      "end": 961.12,
+      "text": "move"
+    },
+    {
+      "start": 961.12,
+      "end": 962.14,
+      "text": "out of time"
+    },
+    {
+      "start": 962.14,
+      "end": 963.4,
+      "text": "시간에서"
+    },
+    {
+      "start": 963.4,
+      "end": 964.8,
+      "text": "나오는 느낌이죠."
+    },
+    {
+      "start": 965.32,
+      "end": 965.6,
+      "text": "그러니까"
+    },
+    {
+      "start": 965.6,
+      "end": 966.38,
+      "text": "시간과"
+    },
+    {
+      "start": 966.38,
+      "end": 967.38,
+      "text": "동떨어져"
+    },
+    {
+      "start": 967.38,
+      "end": 968.34,
+      "text": "움직이는 것"
+    },
+    {
+      "start": 968.34,
+      "end": 968.8,
+      "text": "같아요."
+    },
+    {
+      "start": 969.91,
+      "end": 971.09,
+      "text": "And the whole world"
+    },
+    {
+      "start": 971.09,
+      "end": 972.01,
+      "text": "crumbles"
+    },
+    {
+      "start": 972.01,
+      "end": 972.81,
+      "text": "right"
+    },
+    {
+      "start": 972.81,
+      "end": 973.85,
+      "text": "beneath you"
+    },
+    {
+      "start": 973.85,
+      "end": 975.75,
+      "text": "온 세상이"
+    },
+    {
+      "start": 975.75,
+      "end": 976.95,
+      "text": "crumbles"
+    },
+    {
+      "start": 976.95,
+      "end": 976.99,
+      "text": "crumbles"
+    },
+    {
+      "start": 976.99,
+      "end": 978.13,
+      "text": "crumbles"
+    },
+    {
+      "start": 978.13,
+      "end": 978.15,
+      "text": "crumbles"
+    },
+    {
+      "start": 978.15,
+      "end": 978.17,
+      "text": "crumbles"
+    },
+    {
+      "start": 978.17,
+      "end": 978.19,
+      "text": "crumbles"
+    },
+    {
+      "start": 978.19,
+      "end": 978.21,
+      "text": "crumbles"
+    },
+    {
+      "start": 978.21,
+      "end": 978.23,
+      "text": "crumbles"
+    },
+    {
+      "start": 978.23,
+      "end": 978.25,
+      "text": "crumbles"
+    },
+    {
+      "start": 978.25,
+      "end": 978.27,
+      "text": "crumbles"
+    },
+    {
+      "start": 978.27,
+      "end": 982.13,
+      "text": "crumbles"
+    },
+    {
+      "start": 982.13,
+      "end": 982.49,
+      "text": "right"
+    },
+    {
+      "start": 982.49,
+      "end": 983.23,
+      "text": "beneath you"
+    },
+    {
+      "start": 983.23,
+      "end": 984.33,
+      "text": "당신 발"
+    },
+    {
+      "start": 984.33,
+      "end": 985.51,
+      "text": "바로 아래에서"
+    },
+    {
+      "start": 985.51,
+      "end": 986.67,
+      "text": "무너지고"
+    },
+    {
+      "start": 986.67,
+      "end": 987.21,
+      "text": "있죠"
+    },
+    {
+      "start": 987.21,
+      "end": 988.63,
+      "text": "라고 해석하시면"
+    },
+    {
+      "start": 988.63,
+      "end": 989.19,
+      "text": "되겠습니다."
+    },
+    {
+      "start": 990.01,
+      "end": 990.41,
+      "text": "왠지"
+    },
+    {
+      "start": 990.41,
+      "end": 991.51,
+      "text": "다투고 나서"
+    },
+    {
+      "start": 991.51,
+      "end": 994.13,
+      "text": "누군가가 떠나는"
+    },
+    {
+      "start": 994.13,
+      "end": 995.29,
+      "text": "그런 모습에 대한"
+    },
+    {
+      "start": 995.29,
+      "end": 996.15,
+      "text": "내용인 것 같죠?"
+    },
+    {
+      "start": 996.49,
+      "end": 997.13,
+      "text": "그럼 다시 한번"
+    },
+    {
+      "start": 997.13,
+      "end": 997.85,
+      "text": "들어볼게요."
+    },
+    {
+      "start": 997.85,
+      "end": 1025.0,
+      "text": "오늘 팝스"
+    },
+    {
+      "start": 1025.0,
+      "end": 1025.54,
+      "text": "잉글리쉬는"
+    },
+    {
+      "start": 1025.54,
+      "end": 1026.52,
+      "text": "여기까지예요."
     }
   ]
 }
