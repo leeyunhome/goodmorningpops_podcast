@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "Do a good deed for those in need",
   "movie": "",
-  "duration_sec": 620.81,
+  "duration_sec": 622.93,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-07_screen_english.mp3",
   "script": [
     {
@@ -1582,6 +1582,16 @@
       "start": 618.69,
       "end": 620.81,
       "text": "네, 오늘 Screen English는 여기까지고요."
+    },
+    {
+      "start": 620.95,
+      "end": 621.81,
+      "text": "우린 내일 만나요."
+    },
+    {
+      "start": 622.07,
+      "end": 622.93,
+      "text": "I'll see you then."
     }
   ]
 }
