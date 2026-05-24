@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "I was just wondering that myself",
   "movie": "",
-  "duration_sec": 820.65,
+  "duration_sec": 822.27,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-29_screen_english.mp3",
   "script": [
     {
@@ -1812,6 +1812,16 @@
       "start": 819.05,
       "end": 820.65,
       "text": "우리 크리스 씨는 내일 또 만나요."
+    },
+    {
+      "start": 820.81,
+      "end": 821.59,
+      "text": "I'll see you tomorrow."
+    },
+    {
+      "start": 821.95,
+      "end": 822.27,
+      "text": "Bye."
     }
   ]
 }
