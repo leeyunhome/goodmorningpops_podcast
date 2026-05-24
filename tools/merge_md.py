@@ -58,19 +58,50 @@ def main():
         outfile.write(f"- 생성일: {Path(__file__).parent.parent.name}\n\n")
         outfile.write("---\n\n")
 
+        seen_texts = set()
+        
+        # 특수문자와 공백을 제거하고 순수 텍스트만 추출하는 함수 (시간태그 포함)
+        import re
+        def normalize_for_dedup(text):
+            # 시간 태그 제거: **[00:00:00]** 
+            t = re.sub(r'\*\*(?:\[\d{2}:\d{2}:\d{2}\])\*\*\s*', '', text)
+            # 영어, 한글, 숫자만 남기고 전부 제거
+            t = re.sub(r'[^\w가-힣]', '', t)
+            return t
+
         for i, md_file in enumerate(md_files, 1):
             try:
-                content = md_file.read_text(encoding="utf-8")
+                lines = md_file.read_text(encoding="utf-8").split('\n')
                 
-                # 원본 파일이 이미 # 제목을 가지고 있다면 그대로 쓰고, 
-                # 구분을 위해 파일명 정보를 주석이나 헤더로 추가할 수도 있음.
                 outfile.write(f"<!-- Source: {md_file.name} -->\n")
-                outfile.write(content.strip() + "\n\n")
+                
+                dedup_count = 0
+                for line in lines:
+                    # 헤더나 구분선, 빈 줄은 그대로 통과
+                    if not line.strip() or line.startswith('#') or line.startswith('- '):
+                        outfile.write(line + "\n")
+                        continue
+                        
+                    norm = normalize_for_dedup(line)
+                    
+                    # 텍스트가 너무 짧은 경우(예: 인사말, 단순 동의)는 중복 체크 생략
+                    if len(norm) < 15:
+                        outfile.write(line + "\n")
+                        continue
+                        
+                    # 이미 본 적 있는 문장이면(중복) 스킵
+                    if norm in seen_texts:
+                        dedup_count += 1
+                        continue
+                        
+                    # 처음 보는 문장이면 출력하고 기록에 추가
+                    seen_texts.add(norm)
+                    outfile.write(line + "\n")
                 
                 # 에피소드 간 확실한 구분선 추가
-                outfile.write("---\n\n")
+                outfile.write("\n---\n\n")
                 
-                print(f"  [{i}/{len(md_files)}] 병합 완료: {md_file.name}")
+                print(f"  [{i}/{len(md_files)}] 병합 완료: {md_file.name} (중복 제거된 문장: {dedup_count}개)")
             except Exception as e:
                 print(f"  [오류] {md_file.name} 읽기 실패: {e}", file=sys.stderr)
 
