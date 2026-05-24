@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T21:48:08",
+  "generated_at": "2026-05-24T21:48:14",
   "count": 230,
   "episodes": [
     {
@@ -409,7 +409,7 @@
       "corner_label": "Screen English",
       "title": "You_re an expert in show business",
       "movie": "",
-      "duration_sec": 733.05,
+      "duration_sec": 696.31,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-25_screen_english.mp3"
     },
     {
