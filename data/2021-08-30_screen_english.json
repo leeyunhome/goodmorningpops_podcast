@@ -5,1682 +5,1727 @@
   "corner_label": "Screen English",
   "title": "What are you saying",
   "movie": "",
-  "duration_sec": 794.13,
+  "duration_sec": 841.31,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-30_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 1.1,
+      "end": 5.02,
+      "text": "사연 보내주신 분들 모두 월간 굿모닝팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 5.74,
+      "end": 9.92,
+      "text": "굿모닝팝스에 사연 보내고 싶은 분들 홈페이지 청취자 게시판에 남겨주세요."
+    },
+    {
+      "start": 10.48,
+      "end": 12.98,
+      "text": "GMP로 영어실력 업, 에너지도 업."
+    },
+    {
+      "start": 13.52,
+      "end": 19.88,
+      "text": "이번 주 힘이 불끈불끈 날 수 있게 커피 앤 샌드위치 선물 전해드릴게요."
+    },
+    {
+      "start": 20.56,
+      "end": 23.1,
+      "text": "모바일 쿠폰 총 5장이 준비되어 있고요."
+    },
+    {
+      "start": 23.56,
+      "end": 25.5,
+      "text": "오늘 바로 드실 수 있게 싸드립니다."
+    },
+    {
+      "start": 25.5,
+      "end": 30.78,
+      "text": "단문 50원과 장문 100원에 추가 요금이 부과되는 KBS 쿨 FM 문자 샵 8910"
+    },
+    {
+      "start": 30.78,
+      "end": 34.62,
+      "text": "아니면 KBS 2라디오 문자 샵 1061로 신청하시거나"
+    },
+    {
+      "start": 34.62,
+      "end": 38.34,
+      "text": "무료 KBS 어플리케이션 콩 또는 마이케이로 참여해주세요."
+    },
+    {
+      "start": 47.18,
+      "end": 48.28,
       "text": "스크린 잉글리쉬"
     },
     {
-      "start": 1.1,
-      "end": 22.11,
+      "start": 48.28,
+      "end": 69.29,
       "text": "GMP Morning Theater 스크린 잉글리쉬 타임"
     },
     {
-      "start": 22.11,
-      "end": 28.87,
+      "start": 69.29,
+      "end": 76.05,
       "text": "8월에 함께하고 있는 영화는 누군가 내 꿈을 만들고 있다면 그들은 과연 누구일까요?"
     },
     {
-      "start": 29.61,
-      "end": 30.33,
+      "start": 76.79,
+      "end": 77.51,
       "text": "Dream Builders"
     },
     {
-      "start": 30.33,
-      "end": 32.47,
+      "start": 77.51,
+      "end": 79.65,
       "text": "딩동댕 맞습니다."
     },
     {
-      "start": 32.47,
-      "end": 40.13,
+      "start": 79.65,
+      "end": 87.31,
       "text": "아, 0610님께서 항상 잘 듣고 있지만 문자 보내는 건 오랜만이네요."
     },
     {
-      "start": 40.59,
-      "end": 44.51,
+      "start": 87.77,
+      "end": 91.69,
       "text": "Dream Builder는 이달 초에 영화를 봐서 더 애정이 가네요."
     },
     {
-      "start": 45.07,
-      "end": 49.29,
+      "start": 92.25,
+      "end": 96.47,
       "text": "월요일이라 조금은 우울하지만 모두들 화이팅입니다. 웃음 웃음"
     },
     {
-      "start": 49.29,
-      "end": 50.25,
+      "start": 96.47,
+      "end": 97.43,
       "text": "화이팅!"
     },
     {
-      "start": 50.59,
-      "end": 54.55,
+      "start": 97.77,
+      "end": 101.73,
       "text": "네, 월요병에 시달리시는 분들이 계신가봐요."
     },
     {
-      "start": 54.75,
-      "end": 56.71,
+      "start": 101.93,
+      "end": 103.89,
       "text": "Yeah, you seem a little down today yourself."
     },
     {
-      "start": 57.05,
-      "end": 57.41,
+      "start": 104.23,
+      "end": 104.59,
       "text": "저요?"
     },
     {
-      "start": 57.59,
-      "end": 57.85,
+      "start": 104.77,
+      "end": 105.03,
       "text": "Yeah."
     },
     {
-      "start": 57.91,
-      "end": 58.41,
+      "start": 105.09,
+      "end": 105.59,
       "text": "진짜요?"
     },
     {
-      "start": 58.49,
-      "end": 59.11,
+      "start": 105.67,
+      "end": 106.29,
       "text": "Your voice."
     },
     {
-      "start": 59.11,
-      "end": 64.15,
+      "start": 106.29,
+      "end": 111.33,
       "text": "Oh, 목소리가? 그래요. 난 되게 잘 자고 일어났다고 생각했는데."
     },
     {
-      "start": 64.29,
-      "end": 65.05,
+      "start": 111.47,
+      "end": 112.23,
       "text": "아, 오케이, 오케이."
     },
     {
-      "start": 65.17,
-      "end": 68.35,
+      "start": 112.35,
+      "end": 115.53,
       "text": "너무 잤나? 그럴 수도 있어요."
     },
     {
-      "start": 68.85,
-      "end": 74.89,
+      "start": 116.03,
+      "end": 122.07,
       "text": "아무튼 요즘에 우리 Dream Builders 덕분에 제가 매 밤마다 꿈을 꾸기를 기대하게 된답니다."
     },
     {
-      "start": 75.55,
-      "end": 77.83,
+      "start": 122.73,
+      "end": 125.01,
       "text": "그래서 뭐 이런 생각도 들더라고요."
     },
     {
-      "start": 77.99,
-      "end": 79.91,
+      "start": 125.17,
+      "end": 127.09,
       "text": "Dream Interpretation."
     },
     {
-      "start": 79.97,
-      "end": 80.41,
+      "start": 127.15,
+      "end": 127.59,
       "text": "아!"
     },
     {
-      "start": 80.65,
-      "end": 81.25,
+      "start": 127.83,
+      "end": 128.43,
       "text": "꿈 해몽."
     },
     {
-      "start": 81.83,
-      "end": 82.35,
+      "start": 129.01,
+      "end": 129.53,
       "text": "해몽."
     },
     {
-      "start": 82.45,
-      "end": 82.73,
+      "start": 129.63,
+      "end": 129.91,
       "text": "Yeah."
     },
     {
-      "start": 82.73,
-      "end": 84.03,
+      "start": 129.91,
+      "end": 131.21,
       "text": "Dream Interpretation."
     },
     {
-      "start": 84.11,
-      "end": 86.79,
+      "start": 131.29,
+      "end": 133.97,
       "text": "Yeah, it has a long, long history. 그렇지 않나요?"
     },
     {
-      "start": 86.79,
-      "end": 89.11,
+      "start": 133.97,
+      "end": 136.29,
       "text": "It started way, way, way back when."
     },
     {
-      "start": 89.19,
-      "end": 93.51,
+      "start": 136.37,
+      "end": 140.69,
       "text": "맞아요. 그러면, do Americans also consider dreams important?"
     },
     {
-      "start": 93.91,
-      "end": 97.21,
+      "start": 141.09,
+      "end": 144.39,
       "text": "I think everyone considers dreams somewhat important."
     },
     {
-      "start": 97.31,
-      "end": 97.69,
+      "start": 144.49,
+      "end": 144.87,
       "text": "Yeah."
     },
     {
-      "start": 98.03,
-      "end": 100.19,
+      "start": 145.21,
+      "end": 147.37,
       "text": "Because they tell us something about us."
     },
     {
-      "start": 100.23,
-      "end": 100.73,
+      "start": 147.41,
+      "end": 147.91,
       "text": "맞아요."
     },
     {
-      "start": 100.73,
-      "end": 101.69,
+      "start": 147.91,
+      "end": 148.87,
       "text": "Our subconscious."
     },
     {
-      "start": 102.53,
-      "end": 107.43,
+      "start": 149.71,
+      "end": 154.61,
       "text": "Sometimes we don't even know what we're thinking until we dream it."
     },
     {
-      "start": 107.51,
-      "end": 107.83,
+      "start": 154.69,
+      "end": 155.01,
       "text": "Yeah."
     },
     {
-      "start": 107.83,
-      "end": 110.77,
+      "start": 155.01,
+      "end": 157.95,
       "text": "And then we connect that dream to our reality."
     },
     {
-      "start": 110.77,
-      "end": 115.57,
+      "start": 157.95,
+      "end": 162.75,
       "text": "There are some dreams that I've kept dreaming since I was young."
     },
     {
-      "start": 116.57,
-      "end": 119.63,
+      "start": 163.75,
+      "end": 166.81,
       "text": "For example, the common one is taking a test."
     },
     {
-      "start": 119.79,
-      "end": 121.25,
+      "start": 166.97,
+      "end": 168.43,
       "text": "You show up to school."
     },
     {
-      "start": 121.47,
-      "end": 122.65,
+      "start": 168.65,
+      "end": 169.83,
       "text": "It's test day."
     },
     {
-      "start": 122.93,
-      "end": 124.51,
+      "start": 170.11,
+      "end": 171.69,
       "text": "You didn't know it was a test day."
     },
     {
-      "start": 124.63,
-      "end": 125.85,
+      "start": 171.81,
+      "end": 173.03,
       "text": "You didn't study."
     },
     {
-      "start": 126.37,
-      "end": 127.03,
+      "start": 173.55,
+      "end": 174.21,
       "text": "It's stressful."
     },
     {
-      "start": 127.25,
-      "end": 128.13,
+      "start": 174.43,
+      "end": 175.31,
       "text": "And I start panicking."
     },
     {
-      "start": 128.33,
-      "end": 128.57,
+      "start": 175.51,
+      "end": 175.75,
       "text": "Yeah."
     },
     {
-      "start": 129.11,
-      "end": 130.93,
+      "start": 176.29,
+      "end": 178.11,
       "text": "What does that say about me?"
     },
     {
-      "start": 130.93,
-      "end": 134.07,
+      "start": 178.11,
+      "end": 181.25,
       "text": "저 같은 경우는요, 약간 NG."
     },
     {
-      "start": 134.53,
-      "end": 134.91,
+      "start": 181.71,
+      "end": 182.09,
       "text": "NG?"
     },
     {
-      "start": 135.07,
-      "end": 135.39,
+      "start": 182.25,
+      "end": 182.57,
       "text": "Yeah."
     },
     {
-      "start": 135.65,
-      "end": 138.63,
+      "start": 182.83,
+      "end": 185.81,
       "text": "무한반복 NG나는 그런 꿈을 꿀 때가 있어요."
     },
     {
-      "start": 138.75,
-      "end": 139.35,
+      "start": 185.93,
+      "end": 186.53,
       "text": "Oh, you're good."
     },
     {
-      "start": 139.63,
-      "end": 140.31,
+      "start": 186.81,
+      "end": 187.49,
       "text": "GMP NG."
     },
     {
-      "start": 141.31,
-      "end": 142.09,
+      "start": 188.49,
+      "end": 189.27,
       "text": "Take two."
     },
     {
-      "start": 142.85,
-      "end": 143.51,
+      "start": 190.03,
+      "end": 190.69,
       "text": "Ah, really?"
     },
     {
-      "start": 143.75,
-      "end": 147.25,
+      "start": 190.93,
+      "end": 194.43,
       "text": "아무튼 굉장히 식은땀에 흠뻑 젖어가지고 깨일 때가 많이 있더라고요."
     },
     {
-      "start": 147.25,
-      "end": 155.05,
+      "start": 194.43,
+      "end": 202.23,
       "text": "And sometimes I dream about, a long time ago, showing up in a public place with no clothes on, completely nude."
     },
     {
-      "start": 155.27,
-      "end": 158.37,
+      "start": 202.45,
+      "end": 205.55,
       "text": "This is a common dream for many, many people."
     },
     {
-      "start": 158.43,
-      "end": 158.87,
+      "start": 205.61,
+      "end": 206.05,
       "text": "아, 그래요?"
     },
     {
-      "start": 159.23,
-      "end": 160.25,
+      "start": 206.41,
+      "end": 207.43,
       "text": "You haven't had that one?"
     },
     {
-      "start": 160.71,
-      "end": 164.55,
+      "start": 207.89,
+      "end": 211.73,
       "text": "저는 한 번도 그런 꿈은 꿔본 적이 없어가지고 되게 쇼킹합니다."
     },
     {
-      "start": 164.87,
-      "end": 165.25,
+      "start": 212.05,
+      "end": 212.43,
       "text": "아, 예."
     },
     {
-      "start": 165.39,
-      "end": 166.49,
+      "start": 212.57,
+      "end": 213.67,
       "text": "상당히 당황합니다."
     },
     {
-      "start": 166.63,
-      "end": 166.81,
+      "start": 213.81,
+      "end": 213.99,
       "text": "Yeah."
     },
     {
-      "start": 167.13,
-      "end": 170.75,
+      "start": 214.31,
+      "end": 217.93,
       "text": "Anyway, I heard there are quite many dream interpretation books."
     },
     {
-      "start": 171.25,
-      "end": 172.83,
+      "start": 218.43,
+      "end": 220.01,
       "text": "There are so many books."
     },
     {
-      "start": 172.89,
-      "end": 173.17,
+      "start": 220.07,
+      "end": 220.35,
       "text": "Yeah."
     },
     {
-      "start": 173.39,
-      "end": 175.17,
+      "start": 220.57,
+      "end": 222.35,
       "text": "Such as dream dictionaries."
     },
     {
-      "start": 175.45,
-      "end": 176.37,
+      "start": 222.63,
+      "end": 223.55,
       "text": "이런 것들도 있대요."
     },
     {
-      "start": 176.37,
-      "end": 176.65,
+      "start": 223.55,
+      "end": 223.83,
       "text": "Yeah."
     },
     {
-      "start": 176.71,
-      "end": 181.03,
+      "start": 223.89,
+      "end": 228.21,
       "text": "There was an American lady who wrote a whole dictionary about dreams."
     },
     {
-      "start": 181.39,
-      "end": 186.53,
+      "start": 228.57,
+      "end": 233.71,
       "text": "And she listed the most common dreams we have and how those are connected to our brains."
     },
     {
-      "start": 186.67,
-      "end": 187.25,
+      "start": 233.85,
+      "end": 234.43,
       "text": "Wow, interesting."
     },
     {
-      "start": 187.25,
-      "end": 188.97,
+      "start": 234.43,
+      "end": 236.15,
       "text": "And how they can tell us about ourselves."
     },
     {
-      "start": 189.47,
-      "end": 191.65,
+      "start": 236.65,
+      "end": 238.83,
       "text": "In the U.S., we also have dream catchers."
     },
     {
-      "start": 191.73,
-      "end": 191.99,
+      "start": 238.91,
+      "end": 239.17,
       "text": "Wow."
     },
     {
-      "start": 192.35,
-      "end": 193.73,
+      "start": 239.53,
+      "end": 240.91,
       "text": "They're from 원주민."
     },
     {
-      "start": 194.37,
-      "end": 195.65,
+      "start": 241.55,
+      "end": 242.83,
       "text": "북미 원주민 지대."
     },
     {
-      "start": 196.03,
-      "end": 197.73,
+      "start": 243.21,
+      "end": 244.91,
       "text": "And you hang them on your bed."
     },
     {
-      "start": 197.85,
-      "end": 201.81,
+      "start": 245.03,
+      "end": 248.99,
       "text": "And they're supposed to catch the bad spirits, the bad dreams."
     },
     {
-      "start": 201.93,
-      "end": 203.93,
+      "start": 249.11,
+      "end": 251.11,
       "text": "I saw them several times in the movie."
     },
     {
-      "start": 203.93,
-      "end": 209.09,
+      "start": 251.11,
+      "end": 256.27,
       "text": "When I was a little kid, I had a dream catcher on my bed to catch my nightmares."
     },
     {
-      "start": 209.09,
-      "end": 210.09,
+      "start": 256.27,
+      "end": 257.27,
       "text": "Oh, 그래요."
     },
     {
-      "start": 210.41,
-      "end": 217.05,
+      "start": 257.59,
+      "end": 264.23,
       "text": "게다가 꿈에서 만약에 픽, 돼지를 보면 소위 이제 Lucky Dream이라고 하잖아요."
     },
     {
-      "start": 217.19,
-      "end": 217.59,
+      "start": 264.37,
+      "end": 264.77,
       "text": "Yes."
     },
     {
-      "start": 217.73,
-      "end": 220.21,
+      "start": 264.91,
+      "end": 267.39,
       "text": "미국에도 과연 그럴지 되게 궁금했어요."
     },
     {
-      "start": 220.39,
-      "end": 221.43,
+      "start": 267.57,
+      "end": 268.61,
       "text": "If you dream about a pig?"
     },
     {
-      "start": 221.51,
-      "end": 221.65,
+      "start": 268.69,
+      "end": 268.83,
       "text": "Oh."
     },
     {
-      "start": 222.01,
-      "end": 222.63,
+      "start": 269.19,
+      "end": 269.81,
       "text": "No."
     },
     {
-      "start": 222.81,
-      "end": 222.89,
+      "start": 269.99,
+      "end": 270.07,
       "text": "No."
     },
     {
-      "start": 223.31,
-      "end": 223.87,
+      "start": 270.49,
+      "end": 271.05,
       "text": "Nothing."
     },
     {
-      "start": 224.25,
-      "end": 224.91,
+      "start": 271.43,
+      "end": 272.09,
       "text": "I wish."
     },
     {
-      "start": 224.91,
-      "end": 225.47,
+      "start": 272.09,
+      "end": 272.65,
       "text": "그래요."
     },
     {
-      "start": 225.61,
-      "end": 228.03,
+      "start": 272.79,
+      "end": 275.21,
       "text": "이런 문화적인 차이가 있다라는 거 짚어드립니다."
     },
     {
-      "start": 228.03,
-      "end": 231.21,
+      "start": 275.21,
+      "end": 278.39,
       "text": "아무튼 오늘 장면 먼저 듣고 올게요."
     },
     {
-      "start": 231.25,
-      "end": 233.72,
+      "start": 278.43,
+      "end": 280.9,
       "text": "Can't you see, Helmina?"
     },
     {
-      "start": 234.14,
-      "end": 236.38,
+      "start": 281.32,
+      "end": 283.56,
       "text": "Before we had Jenny, we were happy."
     },
     {
-      "start": 236.82,
-      "end": 238.92,
+      "start": 284.0,
+      "end": 286.1,
       "text": "But now, this whole situation..."
     },
     {
-      "start": 238.92,
-      "end": 239.54,
+      "start": 286.1,
+      "end": 286.72,
       "text": "What are you saying?"
     },
     {
-      "start": 240.1,
-      "end": 241.26,
+      "start": 287.28,
+      "end": 288.44,
       "text": "Hey, listen."
     },
     {
-      "start": 241.94,
-      "end": 243.34,
+      "start": 289.12,
+      "end": 290.52,
       "text": "My mom left me too."
     },
     {
-      "start": 244.06,
-      "end": 245.58,
+      "start": 291.24,
+      "end": 292.76,
       "text": "She chose another life."
     },
     {
-      "start": 245.98,
-      "end": 249.78,
+      "start": 293.16,
+      "end": 296.96,
       "text": "And it's not like your dad and my mom didn't like us."
     },
     {
-      "start": 249.78,
-      "end": 253.72,
+      "start": 296.96,
+      "end": 300.9,
       "text": "I just think they like themselves better."
     },
     {
-      "start": 254.28,
-      "end": 257.5,
+      "start": 301.46,
+      "end": 304.68,
       "text": "If it were up to me, I'd love to be your sister."
     },
     {
-      "start": 258.06,
-      "end": 259.22,
+      "start": 305.24,
+      "end": 306.4,
       "text": "If you'll be mine."
     },
     {
-      "start": 259.98,
-      "end": 262.6,
+      "start": 307.16,
+      "end": 309.78,
       "text": "But that doesn't mean I'll be eating your gross casserole."
     },
     {
-      "start": 263.82,
-      "end": 266.68,
+      "start": 311.0,
+      "end": 313.86,
       "text": "I think they got closer with each other."
     },
     {
-      "start": 266.78,
-      "end": 267.62,
+      "start": 313.96,
+      "end": 314.8,
       "text": "They made up."
     },
     {
-      "start": 267.76,
-      "end": 268.08,
+      "start": 314.94,
+      "end": 315.26,
       "text": "Yeah."
     },
     {
-      "start": 268.18,
-      "end": 270.04,
+      "start": 315.36,
+      "end": 317.22,
       "text": "They went through so much trauma together."
     },
     {
-      "start": 270.28,
-      "end": 273.22,
+      "start": 317.46,
+      "end": 320.4,
       "text": "And now things are looking better."
     },
     {
-      "start": 273.46,
-      "end": 273.74,
+      "start": 320.64,
+      "end": 320.92,
       "text": "Yeah."
     },
     {
-      "start": 273.74,
-      "end": 274.8,
+      "start": 320.92,
+      "end": 321.98,
       "text": "And they're going to be friends."
     },
     {
-      "start": 274.8,
-      "end": 280.92,
+      "start": 321.98,
+      "end": 328.1,
       "text": "Oh, 제니의 악몽을 통해서 이제 미나도 아픔을 서로 이해하게 된 거잖아요."
     },
     {
-      "start": 282.44,
-      "end": 284.18,
+      "start": 329.62,
+      "end": 331.36,
       "text": "자, 주요 표현들 알려주세요."
     },
     {
-      "start": 284.7,
-      "end": 286.36,
+      "start": 331.88,
+      "end": 333.54,
       "text": "This whole situation..."
     },
     {
-      "start": 286.36,
-      "end": 288.77,
+      "start": 333.54,
+      "end": 335.95,
       "text": "이 모든 상황이..."
     },
     {
-      "start": 288.77,
-      "end": 290.45,
+      "start": 335.95,
+      "end": 337.63,
       "text": "If it were up to me..."
     },
     {
-      "start": 290.45,
-      "end": 292.25,
+      "start": 337.63,
+      "end": 339.43,
       "text": "네, 이건 과연 어떻게 해석이 될까요?"
     },
     {
-      "start": 292.29,
-      "end": 294.09,
+      "start": 339.47,
+      "end": 341.27,
       "text": "If it were up to me..."
     },
     {
-      "start": 294.09,
-      "end": 296.39,
+      "start": 341.27,
+      "end": 343.57,
       "text": "It means it's not up to me."
     },
     {
-      "start": 296.51,
-      "end": 298.85,
+      "start": 343.69,
+      "end": 346.03,
       "text": "But if it were my decision..."
     },
     {
-      "start": 298.85,
-      "end": 301.39,
+      "start": 346.03,
+      "end": 348.57,
       "text": "If I could choose what to do..."
     },
     {
-      "start": 301.39,
-      "end": 302.35,
+      "start": 348.57,
+      "end": 349.53,
       "text": "Then..."
     },
     {
-      "start": 302.35,
-      "end": 303.19,
+      "start": 349.53,
+      "end": 350.37,
       "text": "저거, 저거, 저거..."
     },
     {
-      "start": 303.19,
-      "end": 306.29,
+      "start": 350.37,
+      "end": 353.47,
       "text": "네, 아주 명확하게 잘 설명을 해주셨어요."
     },
     {
-      "start": 306.81,
-      "end": 316.05,
+      "start": 353.99,
+      "end": 363.23,
       "text": "내가 결정할 수 있는 일은 아니지만 만약에 내가 결정할 수 있다면, 만약에 나에게 선택권이 있다면 이라는 의미입니다."
     },
     {
-      "start": 316.65,
-      "end": 317.81,
+      "start": 363.83,
+      "end": 364.99,
       "text": "그게 물어보기도 하죠."
     },
     {
-      "start": 318.23,
-      "end": 320.73,
+      "start": 365.41,
+      "end": 367.91,
       "text": "What would you do if you were me?"
     },
     {
-      "start": 320.85,
-      "end": 322.69,
+      "start": 368.03,
+      "end": 369.87,
       "text": "Or if you were in my shoes?"
     },
     {
-      "start": 322.69,
-      "end": 323.05,
+      "start": 369.87,
+      "end": 370.23,
       "text": "그렇죠."
     },
     {
-      "start": 323.51,
-      "end": 328.43,
+      "start": 370.69,
+      "end": 375.61,
       "text": "이렇게 가정을 통해서 반대되는 상황을 이렇게 이야기를 할 수가 있는 거죠."
     },
     {
-      "start": 329.01,
-      "end": 329.57,
+      "start": 376.19,
+      "end": 376.75,
       "text": "Gross."
     },
     {
-      "start": 329.93,
-      "end": 330.61,
+      "start": 377.11,
+      "end": 377.79,
       "text": "Gross."
     },
     {
-      "start": 331.03,
-      "end": 331.67,
+      "start": 378.21,
+      "end": 378.85,
       "text": "많이 들어봤죠?"
     },
     {
-      "start": 331.93,
-      "end": 332.09,
+      "start": 379.11,
+      "end": 379.27,
       "text": "네."
     },
     {
-      "start": 332.09,
-      "end": 332.81,
+      "start": 379.27,
+      "end": 379.99,
       "text": "Gross."
     },
     {
-      "start": 333.21,
-      "end": 333.85,
+      "start": 380.39,
+      "end": 381.03,
       "text": "Casserole."
     },
     {
-      "start": 334.33,
-      "end": 340.95,
+      "start": 381.51,
+      "end": 388.13,
       "text": "Gross라는 것은 아무래도 제니가 종종 이야기를 했었던 단어라서 이제는 확실히 이해를 하실 거예요."
     },
     {
-      "start": 341.33,
-      "end": 341.69,
+      "start": 388.51,
+      "end": 388.87,
       "text": "Yeah."
     },
     {
-      "start": 341.85,
-      "end": 342.05,
+      "start": 389.03,
+      "end": 389.23,
       "text": "Yeah."
     },
     {
-      "start": 342.23,
-      "end": 343.85,
+      "start": 389.41,
+      "end": 391.03,
       "text": "역겨운이라는 의미거든요."
     },
     {
-      "start": 343.91,
-      "end": 345.79,
+      "start": 391.09,
+      "end": 392.97,
       "text": "It's part of her regular vocabulary."
     },
     {
-      "start": 346.51,
-      "end": 347.11,
+      "start": 393.69,
+      "end": 394.29,
       "text": "Gross."
     },
     {
-      "start": 347.29,
-      "end": 349.29,
+      "start": 394.47,
+      "end": 396.47,
       "text": "근데 그 뒤에 나오는 게 뭘까요?"
     },
     {
-      "start": 349.79,
-      "end": 353.03,
+      "start": 396.97,
+      "end": 400.21,
       "text": "Casserole is an all-American dish."
     },
     {
-      "start": 353.91,
-      "end": 357.45,
+      "start": 401.09,
+      "end": 404.63,
       "text": "Many, many Americans like to bake a casserole for dinner."
     },
     {
-      "start": 357.45,
-      "end": 361.83,
+      "start": 404.63,
+      "end": 409.01,
       "text": "It's a very common potluck food when we have potluck parties."
     },
     {
-      "start": 361.95,
-      "end": 362.19,
+      "start": 409.13,
+      "end": 409.37,
       "text": "네."
     },
     {
-      "start": 362.45,
-      "end": 365.35,
+      "start": 409.63,
+      "end": 412.53,
       "text": "약간 찜요리 정도라고 생각하면 될까요, 한국에서?"
     },
     {
-      "start": 365.55,
-      "end": 366.57,
+      "start": 412.73,
+      "end": 413.75,
       "text": "Not 찜요리."
     },
     {
-      "start": 366.69,
-      "end": 368.05,
+      "start": 413.87,
+      "end": 415.23,
       "text": "It's like 구운 요리."
     },
     {
-      "start": 368.17,
-      "end": 368.91,
+      "start": 415.35,
+      "end": 416.09,
       "text": "구운 요리."
     },
     {
-      "start": 368.91,
-      "end": 374.69,
+      "start": 416.09,
+      "end": 421.87,
       "text": "You stick a bunch of ingredients in a pot or a pan and you cook it in the oven."
     },
     {
-      "start": 375.15,
-      "end": 381.47,
+      "start": 422.33,
+      "end": 428.65,
       "text": "Basically, you take all your leftovers, 냉장고에 남은 것들 다 털어서 거기 팬에 넣고 굽는 거예요."
     },
     {
-      "start": 381.47,
-      "end": 382.81,
+      "start": 428.65,
+      "end": 429.99,
       "text": "아, 그렇군요."
     },
     {
-      "start": 382.99,
-      "end": 387.21,
+      "start": 430.17,
+      "end": 434.39,
       "text": "아무튼 종종 미나가 이런 casserole이라는 요리를 했었나 봅니다."
     },
     {
-      "start": 387.67,
-      "end": 392.25,
+      "start": 434.85,
+      "end": 439.43,
       "text": "그랬는데 제니가 한 마리 grossed casserole이라고 이야기를 한 장면이었죠."
     },
     {
-      "start": 392.27,
-      "end": 394.95,
+      "start": 439.45,
+      "end": 442.13,
       "text": "Well, casserole 그 맛의 차이가 상당합니다."
     },
     {
-      "start": 395.51,
-      "end": 398.39,
+      "start": 442.69,
+      "end": 445.57,
       "text": "They can be very amazing or very ugh."
     },
     {
-      "start": 398.41,
-      "end": 401.37,
+      "start": 445.59,
+      "end": 448.55,
       "text": "어떤 음식이 남았느냐에 따라서 달라질 수 있겠네요."
     },
     {
-      "start": 401.43,
-      "end": 401.69,
+      "start": 448.61,
+      "end": 448.87,
       "text": "Yeah."
     },
     {
-      "start": 401.81,
-      "end": 404.75,
+      "start": 448.99,
+      "end": 451.93,
       "text": "So, grossed casserole 충분히 공감 가는 표현이죠."
     },
     {
-      "start": 404.77,
-      "end": 405.05,
+      "start": 451.95,
+      "end": 452.23,
       "text": "아, 그렇군요."
     },
     {
-      "start": 405.17,
-      "end": 405.77,
+      "start": 452.35,
+      "end": 452.95,
       "text": "네, 감사합니다."
     },
     {
-      "start": 406.35,
-      "end": 407.51,
+      "start": 453.53,
+      "end": 454.69,
       "text": "이 내용 한 번 더 들어볼게요."
     },
     {
-      "start": 408.92,
-      "end": 410.04,
+      "start": 456.1,
+      "end": 457.22,
       "text": "Can't you see, 험사?"
     },
     {
-      "start": 410.04,
-      "end": 412.74,
+      "start": 457.22,
+      "end": 459.92,
       "text": "Yeah, before we had Jenny, we were happy."
     },
     {
-      "start": 413.08,
-      "end": 415.24,
+      "start": 460.26,
+      "end": 462.42,
       "text": "But now, this whole situation..."
     },
     {
-      "start": 415.24,
-      "end": 416.0,
+      "start": 462.42,
+      "end": 463.18,
       "text": "What are you saying?"
     },
     {
-      "start": 416.48,
-      "end": 417.6,
+      "start": 463.66,
+      "end": 464.78,
       "text": "Hey, listen."
-    },
-    {
-      "start": 418.2,
-      "end": 419.68,
-      "text": "My mom left me too."
-    },
-    {
-      "start": 420.4,
-      "end": 421.92,
-      "text": "She chose another life."
-    },
-    {
-      "start": 422.3,
-      "end": 426.12,
-      "text": "And it's not like your dad and my mom didn't like us."
-    },
-    {
-      "start": 426.78,
-      "end": 430.06,
-      "text": "I just think they like themselves better."
-    },
-    {
-      "start": 430.64,
-      "end": 433.86,
-      "text": "If it were up to me, I'd love to be your sister."
-    },
-    {
-      "start": 434.4,
-      "end": 435.56,
-      "text": "If you'll be mine."
-    },
-    {
-      "start": 436.02,
-      "end": 438.92,
-      "text": "But that doesn't mean I'll be eating your gross casserole."
-    },
-    {
-      "start": 438.92,
-      "end": 446.16,
-      "text": "네, 참 좋으면서 표현은 약간 반대로 하는 경향이 있는 것 같은 제니의 말이었습니다."
-    },
-    {
-      "start": 446.26,
-      "end": 446.92,
-      "text": "마지막에."
-    },
-    {
-      "start": 447.28,
-      "end": 450.06,
-      "text": "이번에 그 정으로 하는, 정이 많아서 하는 멘트."
-    },
-    {
-      "start": 450.26,
-      "end": 451.36,
-      "text": "아, 딱 그건 것 같아요."
-    },
-    {
-      "start": 451.44,
-      "end": 453.28,
-      "text": "That doesn't mean I'll be eating your gross casserole."
-    },
-    {
-      "start": 453.42,
-      "end": 454.62,
-      "text": "We're friends, though."
-    },
-    {
-      "start": 454.76,
-      "end": 456.02,
-      "text": "We like each other."
-    },
-    {
-      "start": 456.22,
-      "end": 456.36,
-      "text": "네."
-    },
-    {
-      "start": 456.86,
-      "end": 463.3,
-      "text": "자, 일단 제니's dad가 뭐라고 하는지, 그 꿈속에서 만난 제니의 부모님 있잖아요."
-    },
-    {
-      "start": 463.3,
-      "end": 464.82,
-      "text": "They're still in her nightmare."
     },
     {
       "start": 465.38,
-      "end": 466.46,
-      "text": "That horrible nightmare."
-    },
-    {
-      "start": 466.46,
-      "end": 468.48,
-      "text": "그리고 repeat it 계속됩니다."
-    },
-    {
-      "start": 468.98,
-      "end": 471.28,
-      "text": "자, dad가 한 말이 무엇이었는지 들어볼게요."
-    },
-    {
-      "start": 471.72,
-      "end": 473.02,
-      "text": "Can't you see, Helena?"
-    },
-    {
-      "start": 473.6,
-      "end": 474.9,
-      "text": "헬레나, 모르겠어."
-    },
-    {
-      "start": 475.04,
-      "end": 475.68,
-      "text": "Can't you see?"
-    },
-    {
-      "start": 476.3,
-      "end": 479.08,
-      "text": "Before we had 제니, we were happy."
-    },
-    {
-      "start": 479.5,
-      "end": 482.16,
-      "text": "제니가 없었을 때 우리 행복했잖아."
-    },
-    {
-      "start": 482.86,
-      "end": 485.46,
-      "text": "But now, this whole situation."
-    },
-    {
-      "start": 485.8,
-      "end": 488.46,
-      "text": "하지만 지금 이 모든 상황이."
-    },
-    {
-      "start": 488.46,
-      "end": 489.54,
-      "text": "Oh, yes."
-    },
-    {
-      "start": 489.6,
-      "end": 491.74,
-      "text": "These are the words that broke 제니's heart."
-    },
-    {
-      "start": 491.74,
-      "end": 495.8,
-      "text": "She overheard them outside the door, and she was devastated."
-    },
-    {
-      "start": 496.24,
-      "end": 497.76,
-      "text": "Yeah, and or crying."
-    },
-    {
-      "start": 498.18,
-      "end": 499.58,
-      "text": "Yeah, and crushed her."
-    },
-    {
-      "start": 499.74,
-      "end": 502.78,
-      "text": "A little girl, listening to her dad, say,"
-    },
-    {
-      "start": 502.98,
-      "end": 506.34,
-      "text": "We were happy before we had you, before you were born."
-    },
-    {
-      "start": 506.56,
-      "end": 512.74,
-      "text": "정말 가슴 아픈 이야기들을 계속 듣다 보니까 이제 제니가 울기 시작하죠."
-    },
-    {
-      "start": 512.74,
-      "end": 514.84,
-      "text": "What are you saying?"
-    },
-    {
-      "start": 515.08,
-      "end": 518.5,
-      "text": "네, 헬레나가 대답하는 말이 What are you saying?"
-    },
-    {
-      "start": 518.56,
-      "end": 519.18,
-      "text": "What are you saying?"
-    },
-    {
-      "start": 519.62,
-      "end": 522.22,
-      "text": "뭐에 대해서 얘기하는 겁니까? 가 아니겠죠."
-    },
-    {
-      "start": 522.36,
-      "end": 523.08,
-      "text": "뭔 소리야?"
-    },
-    {
-      "start": 523.42,
-      "end": 524.8,
-      "text": "뭐 말 같지도 않은 소리냐?"
-    },
-    {
-      "start": 524.8,
-      "end": 527.1,
-      "text": "네, 딱 이 상황에 어울리는 표현이죠."
-    },
-    {
-      "start": 527.18,
-      "end": 527.78,
-      "text": "What are you saying?"
-    },
-    {
-      "start": 527.94,
-      "end": 529.78,
-      "text": "네, what are you talking about?"
-    },
-    {
-      "start": 529.88,
-      "end": 530.88,
-      "text": "What are you saying?"
-    },
-    {
-      "start": 531.02,
-      "end": 531.98,
-      "text": "둘 다 가능하겠죠."
-    },
-    {
-      "start": 532.16,
-      "end": 533.46,
-      "text": "Yeah, are you kidding me?"
-    },
-    {
-      "start": 533.46,
-      "end": 536.36,
-      "text": "뭐라는 거야? 라는 상황에서"
-    },
-    {
-      "start": 536.36,
-      "end": 538.32,
-      "text": "Yeah, watch your mouth."
-    },
-    {
-      "start": 538.78,
-      "end": 539.54,
-      "text": "Watch your mouth."
-    },
-    {
-      "start": 540.24,
-      "end": 541.08,
-      "text": "입단속 잘해."
-    },
-    {
-      "start": 541.18,
-      "end": 543.2,
-      "text": "조심해. 말 조심해. 라는 상황입니다."
-    },
-    {
-      "start": 544.38,
-      "end": 545.06,
-      "text": "Hey, listen."
-    },
-    {
-      "start": 545.7,
-      "end": 547.2,
+      "end": 466.86,
       "text": "My mom left me too."
     },
     {
-      "start": 547.46,
-      "end": 552.0,
-      "text": "네, 이렇게 중간에 미나가 끼어들어서 제니한테 따로 이야기를 해줍니다."
-    },
-    {
-      "start": 552.46,
-      "end": 553.22,
-      "text": "Hey, listen."
-    },
-    {
-      "start": 553.74,
-      "end": 555.32,
-      "text": "My mom left me too."
-    },
-    {
-      "start": 555.32,
-      "end": 556.54,
-      "text": "자, 들어봐."
-    },
-    {
-      "start": 556.8,
-      "end": 559.52,
-      "text": "우리 엄마도 나의 곁을 떠나셨어."
-    },
-    {
-      "start": 559.98,
-      "end": 561.42,
+      "start": 467.58,
+      "end": 469.1,
       "text": "She chose another life."
     },
     {
-      "start": 561.42,
-      "end": 563.36,
-      "text": "Oh, 엄마는"
-    },
-    {
-      "start": 563.36,
-      "end": 564.04,
-      "text": "Oh, sorry."
-    },
-    {
-      "start": 564.22,
-      "end": 564.72,
-      "text": "Go ahead."
-    },
-    {
-      "start": 564.8,
-      "end": 566.62,
-      "text": "Yeah, she chose another life."
-    },
-    {
-      "start": 567.0,
-      "end": 569.88,
-      "text": "엄마는 다른 인생을 선택하셨어."
-    },
-    {
-      "start": 570.32,
-      "end": 573.92,
+      "start": 469.48,
+      "end": 473.3,
       "text": "And it's not like your dad and my mom didn't like us."
     },
     {
-      "start": 574.1,
-      "end": 578.76,
-      "text": "네, and it's not like your dad and my mom didn't like us."
-    },
-    {
-      "start": 578.92,
-      "end": 580.2,
-      "text": "네, 전체 들으셨죠?"
-    },
-    {
-      "start": 581.12,
-      "end": 585.64,
-      "text": "엄마가 새로운 삶을 선택하고 떠나셨다라는 말은 결국"
-    },
-    {
-      "start": 585.64,
-      "end": 593.06,
-      "text": "너의 엄마와 너의 아빠가 우리를 좋아하지 않아서가 아닌 거야 라는 말입니다."
-    },
-    {
-      "start": 593.26,
-      "end": 594.66,
-      "text": "And then why did they leave us?"
-    },
-    {
-      "start": 594.84,
-      "end": 599.66,
-      "text": "우리 엄마가, 아빠가 우리를 싫어해서 떠난 게 아니야 라는 거죠."
-    },
-    {
-      "start": 599.66,
-      "end": 603.42,
-      "text": "I just think they liked themselves better."
-    },
-    {
-      "start": 604.6,
-      "end": 606.24,
-      "text": "나는 그저 이렇게 생각해."
-    },
-    {
-      "start": 606.38,
-      "end": 609.04,
-      "text": "They liked themselves better."
-    },
-    {
-      "start": 609.26,
-      "end": 611.18,
-      "text": "Oh, that's why they left."
-    },
-    {
-      "start": 611.28,
-      "end": 611.48,
-      "text": "Yeah."
-    },
-    {
-      "start": 611.7,
-      "end": 613.44,
-      "text": "They didn't not like us."
-    },
-    {
-      "start": 613.52,
-      "end": 616.26,
-      "text": "They just liked themselves more than us."
-    },
-    {
-      "start": 616.38,
-      "end": 616.76,
-      "text": "Wow."
-    },
-    {
-      "start": 616.76,
-      "end": 617.52,
-      "text": "They were selfish."
-    },
-    {
-      "start": 617.52,
-      "end": 622.42,
-      "text": "Yeah, 이기적이긴 한데 그 내면을 다 이해할 수 있다라는 것은"
-    },
-    {
-      "start": 622.42,
-      "end": 622.98,
-      "text": "민아가"
-    },
-    {
-      "start": 622.98,
-      "end": 624.14,
-      "text": "She's grown up so well."
-    },
-    {
-      "start": 624.22,
-      "end": 625.32,
-      "text": "She has grown up."
-    },
-    {
-      "start": 625.38,
-      "end": 627.92,
-      "text": "Wow, 굉장히 성숙한 생각이었습니다."
-    },
-    {
-      "start": 627.94,
-      "end": 629.08,
-      "text": "She's comforting Jenny."
-    },
-    {
-      "start": 629.32,
-      "end": 630.9,
-      "text": "She was in the same situation."
-    },
-    {
-      "start": 631.04,
-      "end": 632.5,
-      "text": "이 동병상연 느끼면서"
-    },
-    {
-      "start": 632.5,
-      "end": 633.36,
-      "text": "Wow, 동병상연."
-    },
-    {
-      "start": 633.36,
-      "end": 635.0,
-      "text": "She is encouraging her."
-    },
-    {
-      "start": 636.58,
-      "end": 637.06,
-      "text": "동병상연."
-    },
-    {
-      "start": 637.32,
-      "end": 638.68,
-      "text": "발음 되게 어렵지 않나요?"
-    },
-    {
-      "start": 638.82,
-      "end": 639.26,
-      "text": "어려워요."
-    },
-    {
-      "start": 639.32,
-      "end": 640.44,
-      "text": "저보다 더 잘하시는 것 같아요."
-    },
-    {
-      "start": 640.54,
-      "end": 641.14,
-      "text": "I don't know, no."
-    },
-    {
-      "start": 641.76,
-      "end": 642.16,
-      "text": "동병상연."
-    },
-    {
-      "start": 642.26,
-      "end": 643.06,
-      "text": "너무 잘하는데요?"
-    },
-    {
-      "start": 643.28,
-      "end": 643.92,
-      "text": "It was okay?"
-    },
-    {
-      "start": 644.08,
-      "end": 644.24,
-      "text": "Yeah."
-    },
-    {
-      "start": 644.36,
-      "end": 645.06,
-      "text": "Thank you."
-    },
-    {
-      "start": 645.14,
-      "end": 646.22,
-      "text": "You make me feel better."
-    },
-    {
-      "start": 646.22,
-      "end": 646.5,
-      "text": "Yeah."
-    },
-    {
-      "start": 646.5,
-      "end": 650.28,
-      "text": "Anyway, she is doing a great job encouraging Jenny."
-    },
-    {
-      "start": 650.48,
-      "end": 652.96,
-      "text": "Yeah, 서로 이렇게 위로를 해주는 모습입니다."
-    },
-    {
-      "start": 653.72,
-      "end": 658.56,
-      "text": "그러니까 그들 스스로를 더 사랑하셨을 뿐이야 라고 위로를 해주죠."
-    },
-    {
-      "start": 659.47,
-      "end": 662.41,
-      "text": "If it were up to me, I'd love to be your sister."
-    },
-    {
-      "start": 662.85,
-      "end": 664.88,
-      "text": "참 좋은 말이었어요."
-    },
-    {
-      "start": 665.06,
-      "end": 668.72,
-      "text": "If it were up to me, 만약에 내가 선택할 수만 있다면"
-    },
-    {
-      "start": 668.72,
-      "end": 670.86,
-      "text": "I'd love to be your sister."
-    },
-    {
-      "start": 671.28,
-      "end": 673.6,
-      "text": "나는 너하고 자매가 되고 싶어."
-    },
-    {
-      "start": 673.6,
-      "end": 676.7,
-      "text": "Wow, this is a 180 degree turn."
-    },
-    {
-      "start": 676.94,
-      "end": 680.14,
-      "text": "She could not stand Jenny before this."
-    },
-    {
-      "start": 681.68,
-      "end": 682.78,
-      "text": "If you'll be mine."
-    },
-    {
-      "start": 682.9,
-      "end": 684.34,
-      "text": "이건 과연 어떤 의미일까요?"
-    },
-    {
-      "start": 684.56,
-      "end": 685.32,
-      "text": "아, propose 같아요."
-    },
-    {
-      "start": 685.7,
-      "end": 687.98,
-      "text": "네가 나의 것이 된다면?"
-    },
-    {
-      "start": 688.32,
-      "end": 691.0,
-      "text": "I'll be your sister if you'll be mine."
-    },
-    {
-      "start": 691.12,
-      "end": 694.4,
-      "text": "Wow, 너도 좋다면 이라는 의미로 의역하셔도 좋겠네요."
-    },
-    {
-      "start": 694.54,
-      "end": 694.6,
-      "text": "그렇죠?"
-    },
-    {
-      "start": 694.72,
-      "end": 697.58,
-      "text": "Yeah, 이제 거의 친자매 사이가 됐어요."
-    },
-    {
-      "start": 697.64,
-      "end": 699.68,
-      "text": "네, 너랑 자매가 되고 싶어."
-    },
-    {
-      "start": 699.68,
-      "end": 704.08,
-      "text": "But that doesn't mean I'll be eating your gross casserole."
-    },
-    {
-      "start": 704.14,
-      "end": 706.86,
-      "text": "역시, 약간 산통을 깨는 느낌이 있어요."
-    },
-    {
-      "start": 707.1,
-      "end": 707.38,
-      "text": "그래서"
-    },
-    {
-      "start": 707.38,
-      "end": 713.4,
-      "text": "Yeah, but that doesn't mean I'll be eating your gross casserole."
-    },
-    {
-      "start": 713.6,
-      "end": 714.98,
-      "text": "네, 이렇게 이야기를 했었죠."
-    },
-    {
-      "start": 715.04,
-      "end": 715.88,
-      "text": "Yeah, casserole."
-    },
-    {
-      "start": 715.88,
-      "end": 717.24,
-      "text": "Yeah, she's happy inside."
-    },
-    {
-      "start": 717.58,
-      "end": 717.8,
-      "text": "그렇죠?"
-    },
-    {
-      "start": 717.8,
-      "end": 718.76,
-      "text": "She's what?"
-    },
-    {
-      "start": 718.92,
-      "end": 720.02,
-      "text": "Yeah, happy inside."
-    },
-    {
-      "start": 720.32,
-      "end": 720.74,
-      "text": "Oh, yeah."
-    },
-    {
-      "start": 720.82,
-      "end": 723.16,
-      "text": "Yeah, 속마음하고 달리 나온 것 같아요."
-    },
-    {
-      "start": 723.84,
-      "end": 727.42,
-      "text": "That doesn't mean I'll be eating your gross casserole."
-    },
-    {
-      "start": 727.64,
-      "end": 728.44,
-      "text": "네, 해석되시죠?"
-    },
-    {
-      "start": 729.06,
-      "end": 733.08,
-      "text": "그렇다고 해서 네가 만든 casserole을 먹겠다는 거는 아니야."
-    },
-    {
-      "start": 733.5,
-      "end": 734.92,
-      "text": "라고 못을 박습니다."
-    },
-    {
-      "start": 734.92,
-      "end": 736.4,
-      "text": "Some things don't change."
-    },
-    {
-      "start": 736.92,
-      "end": 738.6,
-      "text": "My taste buds don't change."
-    },
-    {
-      "start": 738.94,
-      "end": 741.48,
-      "text": "I don't like that gross casserole and I never will."
-    },
-    {
-      "start": 741.62,
-      "end": 742.58,
-      "text": "참 도도하네요."
-    },
-    {
-      "start": 742.66,
-      "end": 744.34,
-      "text": "Some casserole are really good there."
-    },
-    {
-      "start": 744.42,
-      "end": 745.84,
-      "text": "Oh, casserole."
-    },
-    {
-      "start": 746.06,
-      "end": 747.04,
-      "text": "좀 땡기는 날입니다."
-    },
-    {
-      "start": 747.16,
-      "end": 749.1,
-      "text": "My grandma made the best casserole."
-    },
-    {
-      "start": 749.5,
-      "end": 750.24,
-      "text": "좀 땡기죠."
-    },
-    {
-      "start": 750.4,
-      "end": 753.14,
-      "text": "네, casserole 생각하시면서 한 번 더 들어보세요."
-    },
-    {
-      "start": 754.53,
-      "end": 755.71,
-      "text": "Can't you see, Helena?"
-    },
-    {
-      "start": 756.19,
-      "end": 758.43,
-      "text": "Before we had Jenny, we were happy."
-    },
-    {
-      "start": 758.85,
-      "end": 760.47,
-      "text": "But now, this whole situation..."
-    },
-    {
-      "start": 761.17,
-      "end": 761.75,
-      "text": "What are you saying?"
-    },
-    {
-      "start": 762.25,
-      "end": 763.29,
-      "text": "Hey, listen."
-    },
-    {
-      "start": 763.97,
-      "end": 765.41,
-      "text": "My mom left me too."
-    },
-    {
-      "start": 766.09,
-      "end": 767.63,
-      "text": "She chose another life."
-    },
-    {
-      "start": 768.01,
-      "end": 771.81,
-      "text": "And it's not like your dad and my mom didn't like us."
-    },
-    {
-      "start": 772.49,
-      "end": 775.77,
+      "start": 473.96,
+      "end": 477.24,
       "text": "I just think they like themselves better."
     },
     {
-      "start": 776.43,
-      "end": 779.57,
+      "start": 477.82,
+      "end": 481.04,
       "text": "If it were up to me, I'd love to be your sister."
     },
     {
-      "start": 780.11,
-      "end": 781.25,
+      "start": 481.58,
+      "end": 482.74,
       "text": "If you'll be mine."
     },
     {
-      "start": 782.03,
-      "end": 784.65,
+      "start": 483.2,
+      "end": 486.1,
       "text": "But that doesn't mean I'll be eating your gross casserole."
     },
     {
-      "start": 785.47,
-      "end": 789.65,
-      "text": "네, 아무래도 둘이 정말 좋은 자매가 될 것 같은 예감입니다."
+      "start": 486.1,
+      "end": 493.34,
+      "text": "네, 참 좋으면서 표현은 약간 반대로 하는 경향이 있는 것 같은 제니의 말이었습니다."
     },
     {
-      "start": 789.91,
-      "end": 790.23,
+      "start": 493.44,
+      "end": 494.1,
+      "text": "마지막에."
+    },
+    {
+      "start": 494.46,
+      "end": 497.24,
+      "text": "이번에 그 정으로 하는, 정이 많아서 하는 멘트."
+    },
+    {
+      "start": 497.44,
+      "end": 498.54,
+      "text": "아, 딱 그건 것 같아요."
+    },
+    {
+      "start": 498.62,
+      "end": 500.46,
+      "text": "That doesn't mean I'll be eating your gross casserole."
+    },
+    {
+      "start": 500.6,
+      "end": 501.8,
+      "text": "We're friends, though."
+    },
+    {
+      "start": 501.94,
+      "end": 503.2,
+      "text": "We like each other."
+    },
+    {
+      "start": 503.4,
+      "end": 503.54,
+      "text": "네."
+    },
+    {
+      "start": 504.04,
+      "end": 510.48,
+      "text": "자, 일단 제니's dad가 뭐라고 하는지, 그 꿈속에서 만난 제니의 부모님 있잖아요."
+    },
+    {
+      "start": 510.48,
+      "end": 512.0,
+      "text": "They're still in her nightmare."
+    },
+    {
+      "start": 512.56,
+      "end": 513.64,
+      "text": "That horrible nightmare."
+    },
+    {
+      "start": 513.64,
+      "end": 515.66,
+      "text": "그리고 repeat it 계속됩니다."
+    },
+    {
+      "start": 516.16,
+      "end": 518.46,
+      "text": "자, dad가 한 말이 무엇이었는지 들어볼게요."
+    },
+    {
+      "start": 518.9,
+      "end": 520.2,
+      "text": "Can't you see, Helena?"
+    },
+    {
+      "start": 520.78,
+      "end": 522.08,
+      "text": "헬레나, 모르겠어."
+    },
+    {
+      "start": 522.22,
+      "end": 522.86,
+      "text": "Can't you see?"
+    },
+    {
+      "start": 523.48,
+      "end": 526.26,
+      "text": "Before we had 제니, we were happy."
+    },
+    {
+      "start": 526.68,
+      "end": 529.34,
+      "text": "제니가 없었을 때 우리 행복했잖아."
+    },
+    {
+      "start": 530.04,
+      "end": 532.64,
+      "text": "But now, this whole situation."
+    },
+    {
+      "start": 532.98,
+      "end": 535.64,
+      "text": "하지만 지금 이 모든 상황이."
+    },
+    {
+      "start": 535.64,
+      "end": 536.72,
+      "text": "Oh, yes."
+    },
+    {
+      "start": 536.78,
+      "end": 538.92,
+      "text": "These are the words that broke 제니's heart."
+    },
+    {
+      "start": 538.92,
+      "end": 542.98,
+      "text": "She overheard them outside the door, and she was devastated."
+    },
+    {
+      "start": 543.42,
+      "end": 544.94,
+      "text": "Yeah, and or crying."
+    },
+    {
+      "start": 545.36,
+      "end": 546.76,
+      "text": "Yeah, and crushed her."
+    },
+    {
+      "start": 546.92,
+      "end": 549.96,
+      "text": "A little girl, listening to her dad, say,"
+    },
+    {
+      "start": 550.16,
+      "end": 553.52,
+      "text": "We were happy before we had you, before you were born."
+    },
+    {
+      "start": 553.74,
+      "end": 559.92,
+      "text": "정말 가슴 아픈 이야기들을 계속 듣다 보니까 이제 제니가 울기 시작하죠."
+    },
+    {
+      "start": 559.92,
+      "end": 562.02,
+      "text": "What are you saying?"
+    },
+    {
+      "start": 562.26,
+      "end": 565.68,
+      "text": "네, 헬레나가 대답하는 말이 What are you saying?"
+    },
+    {
+      "start": 565.74,
+      "end": 566.36,
+      "text": "What are you saying?"
+    },
+    {
+      "start": 566.8,
+      "end": 569.4,
+      "text": "뭐에 대해서 얘기하는 겁니까? 가 아니겠죠."
+    },
+    {
+      "start": 569.54,
+      "end": 570.26,
+      "text": "뭔 소리야?"
+    },
+    {
+      "start": 570.6,
+      "end": 571.98,
+      "text": "뭐 말 같지도 않은 소리냐?"
+    },
+    {
+      "start": 571.98,
+      "end": 574.28,
+      "text": "네, 딱 이 상황에 어울리는 표현이죠."
+    },
+    {
+      "start": 574.36,
+      "end": 574.96,
+      "text": "What are you saying?"
+    },
+    {
+      "start": 575.12,
+      "end": 576.96,
+      "text": "네, what are you talking about?"
+    },
+    {
+      "start": 577.06,
+      "end": 578.06,
+      "text": "What are you saying?"
+    },
+    {
+      "start": 578.2,
+      "end": 579.16,
+      "text": "둘 다 가능하겠죠."
+    },
+    {
+      "start": 579.34,
+      "end": 580.64,
+      "text": "Yeah, are you kidding me?"
+    },
+    {
+      "start": 580.64,
+      "end": 583.54,
+      "text": "뭐라는 거야? 라는 상황에서"
+    },
+    {
+      "start": 583.54,
+      "end": 585.5,
+      "text": "Yeah, watch your mouth."
+    },
+    {
+      "start": 585.96,
+      "end": 586.72,
+      "text": "Watch your mouth."
+    },
+    {
+      "start": 587.42,
+      "end": 588.26,
+      "text": "입단속 잘해."
+    },
+    {
+      "start": 588.36,
+      "end": 590.38,
+      "text": "조심해. 말 조심해. 라는 상황입니다."
+    },
+    {
+      "start": 591.56,
+      "end": 592.24,
+      "text": "Hey, listen."
+    },
+    {
+      "start": 592.88,
+      "end": 594.38,
+      "text": "My mom left me too."
+    },
+    {
+      "start": 594.64,
+      "end": 599.18,
+      "text": "네, 이렇게 중간에 미나가 끼어들어서 제니한테 따로 이야기를 해줍니다."
+    },
+    {
+      "start": 599.64,
+      "end": 600.4,
+      "text": "Hey, listen."
+    },
+    {
+      "start": 600.92,
+      "end": 602.5,
+      "text": "My mom left me too."
+    },
+    {
+      "start": 602.5,
+      "end": 603.72,
+      "text": "자, 들어봐."
+    },
+    {
+      "start": 603.98,
+      "end": 606.7,
+      "text": "우리 엄마도 나의 곁을 떠나셨어."
+    },
+    {
+      "start": 607.16,
+      "end": 608.6,
+      "text": "She chose another life."
+    },
+    {
+      "start": 608.6,
+      "end": 610.54,
+      "text": "Oh, 엄마는"
+    },
+    {
+      "start": 610.54,
+      "end": 611.22,
+      "text": "Oh, sorry."
+    },
+    {
+      "start": 611.4,
+      "end": 611.9,
+      "text": "Go ahead."
+    },
+    {
+      "start": 611.98,
+      "end": 613.8,
+      "text": "Yeah, she chose another life."
+    },
+    {
+      "start": 614.18,
+      "end": 617.06,
+      "text": "엄마는 다른 인생을 선택하셨어."
+    },
+    {
+      "start": 617.5,
+      "end": 621.1,
+      "text": "And it's not like your dad and my mom didn't like us."
+    },
+    {
+      "start": 621.28,
+      "end": 625.94,
+      "text": "네, and it's not like your dad and my mom didn't like us."
+    },
+    {
+      "start": 626.1,
+      "end": 627.38,
+      "text": "네, 전체 들으셨죠?"
+    },
+    {
+      "start": 628.3,
+      "end": 632.82,
+      "text": "엄마가 새로운 삶을 선택하고 떠나셨다라는 말은 결국"
+    },
+    {
+      "start": 632.82,
+      "end": 640.24,
+      "text": "너의 엄마와 너의 아빠가 우리를 좋아하지 않아서가 아닌 거야 라는 말입니다."
+    },
+    {
+      "start": 640.44,
+      "end": 641.84,
+      "text": "And then why did they leave us?"
+    },
+    {
+      "start": 642.02,
+      "end": 646.84,
+      "text": "우리 엄마가, 아빠가 우리를 싫어해서 떠난 게 아니야 라는 거죠."
+    },
+    {
+      "start": 646.84,
+      "end": 650.6,
+      "text": "I just think they liked themselves better."
+    },
+    {
+      "start": 651.78,
+      "end": 653.42,
+      "text": "나는 그저 이렇게 생각해."
+    },
+    {
+      "start": 653.56,
+      "end": 656.22,
+      "text": "They liked themselves better."
+    },
+    {
+      "start": 656.44,
+      "end": 658.36,
+      "text": "Oh, that's why they left."
+    },
+    {
+      "start": 658.46,
+      "end": 658.66,
       "text": "Yeah."
     },
     {
-      "start": 790.79,
-      "end": 794.13,
+      "start": 658.88,
+      "end": 660.62,
+      "text": "They didn't not like us."
+    },
+    {
+      "start": 660.7,
+      "end": 663.44,
+      "text": "They just liked themselves more than us."
+    },
+    {
+      "start": 663.56,
+      "end": 663.94,
+      "text": "Wow."
+    },
+    {
+      "start": 663.94,
+      "end": 664.7,
+      "text": "They were selfish."
+    },
+    {
+      "start": 664.7,
+      "end": 669.6,
+      "text": "Yeah, 이기적이긴 한데 그 내면을 다 이해할 수 있다라는 것은"
+    },
+    {
+      "start": 669.6,
+      "end": 670.16,
+      "text": "민아가"
+    },
+    {
+      "start": 670.16,
+      "end": 671.32,
+      "text": "She's grown up so well."
+    },
+    {
+      "start": 671.4,
+      "end": 672.5,
+      "text": "She has grown up."
+    },
+    {
+      "start": 672.56,
+      "end": 675.1,
+      "text": "Wow, 굉장히 성숙한 생각이었습니다."
+    },
+    {
+      "start": 675.12,
+      "end": 676.26,
+      "text": "She's comforting Jenny."
+    },
+    {
+      "start": 676.5,
+      "end": 678.08,
+      "text": "She was in the same situation."
+    },
+    {
+      "start": 678.22,
+      "end": 679.68,
+      "text": "이 동병상연 느끼면서"
+    },
+    {
+      "start": 679.68,
+      "end": 680.54,
+      "text": "Wow, 동병상연."
+    },
+    {
+      "start": 680.54,
+      "end": 682.18,
+      "text": "She is encouraging her."
+    },
+    {
+      "start": 683.76,
+      "end": 684.24,
+      "text": "동병상연."
+    },
+    {
+      "start": 684.5,
+      "end": 685.86,
+      "text": "발음 되게 어렵지 않나요?"
+    },
+    {
+      "start": 686.0,
+      "end": 686.44,
+      "text": "어려워요."
+    },
+    {
+      "start": 686.5,
+      "end": 687.62,
+      "text": "저보다 더 잘하시는 것 같아요."
+    },
+    {
+      "start": 687.72,
+      "end": 688.32,
+      "text": "I don't know, no."
+    },
+    {
+      "start": 688.94,
+      "end": 689.34,
+      "text": "동병상연."
+    },
+    {
+      "start": 689.44,
+      "end": 690.24,
+      "text": "너무 잘하는데요?"
+    },
+    {
+      "start": 690.46,
+      "end": 691.1,
+      "text": "It was okay?"
+    },
+    {
+      "start": 691.26,
+      "end": 691.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 691.54,
+      "end": 692.24,
+      "text": "Thank you."
+    },
+    {
+      "start": 692.32,
+      "end": 693.4,
+      "text": "You make me feel better."
+    },
+    {
+      "start": 693.4,
+      "end": 693.68,
+      "text": "Yeah."
+    },
+    {
+      "start": 693.68,
+      "end": 697.46,
+      "text": "Anyway, she is doing a great job encouraging Jenny."
+    },
+    {
+      "start": 697.66,
+      "end": 700.14,
+      "text": "Yeah, 서로 이렇게 위로를 해주는 모습입니다."
+    },
+    {
+      "start": 700.9,
+      "end": 705.74,
+      "text": "그러니까 그들 스스로를 더 사랑하셨을 뿐이야 라고 위로를 해주죠."
+    },
+    {
+      "start": 706.65,
+      "end": 709.59,
+      "text": "If it were up to me, I'd love to be your sister."
+    },
+    {
+      "start": 710.03,
+      "end": 712.06,
+      "text": "참 좋은 말이었어요."
+    },
+    {
+      "start": 712.24,
+      "end": 715.9,
+      "text": "If it were up to me, 만약에 내가 선택할 수만 있다면"
+    },
+    {
+      "start": 715.9,
+      "end": 718.04,
+      "text": "I'd love to be your sister."
+    },
+    {
+      "start": 718.46,
+      "end": 720.78,
+      "text": "나는 너하고 자매가 되고 싶어."
+    },
+    {
+      "start": 720.78,
+      "end": 723.88,
+      "text": "Wow, this is a 180 degree turn."
+    },
+    {
+      "start": 724.12,
+      "end": 727.32,
+      "text": "She could not stand Jenny before this."
+    },
+    {
+      "start": 728.86,
+      "end": 729.96,
+      "text": "If you'll be mine."
+    },
+    {
+      "start": 730.08,
+      "end": 731.52,
+      "text": "이건 과연 어떤 의미일까요?"
+    },
+    {
+      "start": 731.74,
+      "end": 732.5,
+      "text": "아, propose 같아요."
+    },
+    {
+      "start": 732.88,
+      "end": 735.16,
+      "text": "네가 나의 것이 된다면?"
+    },
+    {
+      "start": 735.5,
+      "end": 738.18,
+      "text": "I'll be your sister if you'll be mine."
+    },
+    {
+      "start": 738.3,
+      "end": 741.58,
+      "text": "Wow, 너도 좋다면 이라는 의미로 의역하셔도 좋겠네요."
+    },
+    {
+      "start": 741.72,
+      "end": 741.78,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 741.9,
+      "end": 744.76,
+      "text": "Yeah, 이제 거의 친자매 사이가 됐어요."
+    },
+    {
+      "start": 744.82,
+      "end": 746.86,
+      "text": "네, 너랑 자매가 되고 싶어."
+    },
+    {
+      "start": 746.86,
+      "end": 751.26,
+      "text": "But that doesn't mean I'll be eating your gross casserole."
+    },
+    {
+      "start": 751.32,
+      "end": 754.04,
+      "text": "역시, 약간 산통을 깨는 느낌이 있어요."
+    },
+    {
+      "start": 754.28,
+      "end": 754.56,
+      "text": "그래서"
+    },
+    {
+      "start": 754.56,
+      "end": 760.58,
+      "text": "Yeah, but that doesn't mean I'll be eating your gross casserole."
+    },
+    {
+      "start": 760.78,
+      "end": 762.16,
+      "text": "네, 이렇게 이야기를 했었죠."
+    },
+    {
+      "start": 762.22,
+      "end": 763.06,
+      "text": "Yeah, casserole."
+    },
+    {
+      "start": 763.06,
+      "end": 764.42,
+      "text": "Yeah, she's happy inside."
+    },
+    {
+      "start": 764.76,
+      "end": 764.98,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 764.98,
+      "end": 765.94,
+      "text": "She's what?"
+    },
+    {
+      "start": 766.1,
+      "end": 767.2,
+      "text": "Yeah, happy inside."
+    },
+    {
+      "start": 767.5,
+      "end": 767.92,
+      "text": "Oh, yeah."
+    },
+    {
+      "start": 768.0,
+      "end": 770.34,
+      "text": "Yeah, 속마음하고 달리 나온 것 같아요."
+    },
+    {
+      "start": 771.02,
+      "end": 774.6,
+      "text": "That doesn't mean I'll be eating your gross casserole."
+    },
+    {
+      "start": 774.82,
+      "end": 775.62,
+      "text": "네, 해석되시죠?"
+    },
+    {
+      "start": 776.24,
+      "end": 780.26,
+      "text": "그렇다고 해서 네가 만든 casserole을 먹겠다는 거는 아니야."
+    },
+    {
+      "start": 780.68,
+      "end": 782.1,
+      "text": "라고 못을 박습니다."
+    },
+    {
+      "start": 782.1,
+      "end": 783.58,
+      "text": "Some things don't change."
+    },
+    {
+      "start": 784.1,
+      "end": 785.78,
+      "text": "My taste buds don't change."
+    },
+    {
+      "start": 786.12,
+      "end": 788.66,
+      "text": "I don't like that gross casserole and I never will."
+    },
+    {
+      "start": 788.8,
+      "end": 789.76,
+      "text": "참 도도하네요."
+    },
+    {
+      "start": 789.84,
+      "end": 791.52,
+      "text": "Some casserole are really good there."
+    },
+    {
+      "start": 791.6,
+      "end": 793.02,
+      "text": "Oh, casserole."
+    },
+    {
+      "start": 793.24,
+      "end": 794.22,
+      "text": "좀 땡기는 날입니다."
+    },
+    {
+      "start": 794.34,
+      "end": 796.28,
+      "text": "My grandma made the best casserole."
+    },
+    {
+      "start": 796.68,
+      "end": 797.42,
+      "text": "좀 땡기죠."
+    },
+    {
+      "start": 797.58,
+      "end": 800.32,
+      "text": "네, casserole 생각하시면서 한 번 더 들어보세요."
+    },
+    {
+      "start": 801.71,
+      "end": 802.89,
+      "text": "Can't you see, Helena?"
+    },
+    {
+      "start": 803.37,
+      "end": 805.61,
+      "text": "Before we had Jenny, we were happy."
+    },
+    {
+      "start": 806.03,
+      "end": 807.65,
+      "text": "But now, this whole situation..."
+    },
+    {
+      "start": 808.35,
+      "end": 808.93,
+      "text": "What are you saying?"
+    },
+    {
+      "start": 809.43,
+      "end": 810.47,
+      "text": "Hey, listen."
+    },
+    {
+      "start": 811.15,
+      "end": 812.59,
+      "text": "My mom left me too."
+    },
+    {
+      "start": 813.27,
+      "end": 814.81,
+      "text": "She chose another life."
+    },
+    {
+      "start": 815.19,
+      "end": 818.99,
+      "text": "And it's not like your dad and my mom didn't like us."
+    },
+    {
+      "start": 819.67,
+      "end": 822.95,
+      "text": "I just think they like themselves better."
+    },
+    {
+      "start": 823.61,
+      "end": 826.75,
+      "text": "If it were up to me, I'd love to be your sister."
+    },
+    {
+      "start": 827.29,
+      "end": 828.43,
+      "text": "If you'll be mine."
+    },
+    {
+      "start": 829.21,
+      "end": 831.83,
+      "text": "But that doesn't mean I'll be eating your gross casserole."
+    },
+    {
+      "start": 832.65,
+      "end": 836.83,
+      "text": "네, 아무래도 둘이 정말 좋은 자매가 될 것 같은 예감입니다."
+    },
+    {
+      "start": 837.09,
+      "end": 837.41,
+      "text": "Yeah."
+    },
+    {
+      "start": 837.97,
+      "end": 841.31,
       "text": "오늘 Screen English 여기에서 마무리해 보도록 할게요."
     }
   ]
