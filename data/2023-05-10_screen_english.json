@@ -5,1518 +5,1578 @@
   "corner_label": "Screen English",
   "title": "Better late than never",
   "movie": "",
-  "duration_sec": 827.14,
+  "duration_sec": 869.38,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-10_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 5.38,
+      "end": 5.26,
+      "text": "오늘 사연 소개되신 두 분께는 월간 굿모닝 팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 6.1,
+      "end": 8.16,
+      "text": "피곤한 G&Beard의 에너지를 업!"
+    },
+    {
+      "start": 8.32,
+      "end": 9.32,
+      "text": "해드릴 이벤트!"
+    },
+    {
+      "start": 9.68,
+      "end": 10.98,
+      "text": "G&P로 영어실력 업!"
+    },
+    {
+      "start": 11.28,
+      "end": 12.04,
+      "text": "에너지도 업!"
+    },
+    {
+      "start": 12.52,
+      "end": 16.24,
+      "text": "오늘은 아이스 아메리카노 두 잔 모바일 쿠폰 준비했어요."
+    },
+    {
+      "start": 16.6,
+      "end": 20.78,
+      "text": "신청 메시지 보내주신 분들 중에 다섯 분께 뽑아서 보내드립니다."
+    },
+    {
+      "start": 21.56,
+      "end": 25.7,
+      "text": "단문 50원과 장문 100원에 추가 요금이 부과되는 문자 샵 8910"
+    },
+    {
+      "start": 25.7,
+      "end": 31.34,
+      "text": "아니면 샵 1061로 신청하시거나 무료인 콩 또는 마이케이로 참여해주세요."
+    },
+    {
+      "start": 37.94,
+      "end": 43.32,
       "text": "아침 6시 조정현의 굿모닝"
     },
     {
-      "start": 5.38,
-      "end": 10.13,
+      "start": 43.32,
+      "end": 48.07,
       "text": "해봐요 굿모닝"
     },
     {
-      "start": 10.13,
-      "end": 18.99,
+      "start": 48.07,
+      "end": 56.93,
       "text": "조정현의 조정현의 굿모닝 팝"
     },
     {
-      "start": 18.99,
-      "end": 60.49,
+      "start": 56.93,
+      "end": 98.43,
       "text": "5월에 함께하고 있는 영화는 실버타운에서 울려퍼진 당당한 응원의 메시지"
     },
     {
-      "start": 60.49,
-      "end": 66.33,
+      "start": 98.43,
+      "end": 104.27,
       "text": "엄청난 에너지와 함께 와주셨습니다."
     },
     {
-      "start": 66.33,
-      "end": 69.03,
+      "start": 104.27,
+      "end": 106.97,
       "text": "그냥 cheerleading 클럽 해도 될걸?"
     },
     {
-      "start": 69.17,
-      "end": 74.61,
+      "start": 107.11,
+      "end": 112.55,
       "text": "그렇죠. 그런데 이제 palms 이거 굉장히 중독적인 제목인 것 같습니다."
     },
     {
-      "start": 74.77,
-      "end": 75.47,
+      "start": 112.71,
+      "end": 113.41,
       "text": "팜팜스"
     },
     {
-      "start": 75.47,
-      "end": 81.03,
+      "start": 113.41,
+      "end": 118.97,
       "text": "이렇게 응원을 가득해드리면서 시작해보고 싶고요."
     },
     {
-      "start": 81.71,
-      "end": 88.21,
+      "start": 119.65,
+      "end": 126.15,
       "text": "김진옥님께서도 안녕하세요 조크쌤 오늘도 굿모닝 해주셨어요."
     },
     {
-      "start": 88.45,
-      "end": 89.51,
+      "start": 126.39,
+      "end": 127.45,
       "text": "굿모닝"
     },
     {
-      "start": 89.51,
-      "end": 92.29,
+      "start": 127.45,
+      "end": 130.23,
       "text": "아주 신나는 그런 기분이 듭니다."
     },
     {
-      "start": 92.39,
-      "end": 93.21,
+      "start": 130.33,
+      "end": 131.15,
       "text": "You can do it"
     },
     {
-      "start": 93.21,
-      "end": 98.91,
+      "start": 131.15,
+      "end": 136.85,
       "text": "네 그럼요. 오늘도 마음을 활짝 열고 오늘 영화 내용을 들여다볼 텐데요."
     },
     {
-      "start": 98.91,
-      "end": 104.55,
+      "start": 136.85,
+      "end": 142.49,
       "text": "다이언 키튼이라는 배우가 플레이스 메인 캐릭터 마르사의 역할을 맡았잖아요."
     },
     {
-      "start": 104.55,
-      "end": 105.11,
+      "start": 142.49,
+      "end": 143.05,
       "text": "Yeah."
     },
     {
-      "start": 105.33,
-      "end": 109.67,
+      "start": 143.27,
+      "end": 147.61,
       "text": "And I heard she felt something very special about this movie."
     },
     {
-      "start": 109.93,
-      "end": 110.45,
+      "start": 147.87,
+      "end": 148.39,
       "text": "She did."
     },
     {
-      "start": 110.63,
-      "end": 110.95,
+      "start": 148.57,
+      "end": 148.89,
       "text": "Yeah."
     },
     {
-      "start": 111.15,
-      "end": 114.09,
+      "start": 149.09,
+      "end": 152.03,
       "text": "She is a senior citizen herself."
     },
     {
-      "start": 114.33,
-      "end": 117.91,
+      "start": 152.27,
+      "end": 155.85,
       "text": "맞아요. 실제로도 she is in her 70s."
     },
     {
-      "start": 118.11,
-      "end": 120.67,
+      "start": 156.05,
+      "end": 158.61,
       "text": "70s. She looks great for her age."
     },
     {
-      "start": 120.75,
-      "end": 127.65,
+      "start": 158.69,
+      "end": 165.59,
       "text": "그렇죠. 그러다 보니까 이 영화에 맡은 배역에 더 많이 몰입을 할 수 있었던 것 같습니다."
     },
     {
-      "start": 128.05,
-      "end": 130.07,
+      "start": 165.99,
+      "end": 168.01,
       "text": "Yeah. She talked about it herself."
     },
     {
-      "start": 130.07,
-      "end": 135.51,
+      "start": 168.01,
+      "end": 173.45,
       "text": "As she gets older, she's thinking about issues that older people encounter."
     },
     {
-      "start": 135.71,
-      "end": 140.49,
+      "start": 173.65,
+      "end": 178.43,
       "text": "Like discrimination or feeling lonely. Very lonely."
     },
     {
-      "start": 140.85,
-      "end": 143.41,
+      "start": 178.79,
+      "end": 181.35,
       "text": "I know my own grandma feels very lonely."
     },
     {
-      "start": 143.77,
-      "end": 146.81,
+      "start": 181.71,
+      "end": 184.75,
       "text": "She lived all by herself until like 93."
     },
     {
-      "start": 147.13,
-      "end": 147.45,
+      "start": 185.07,
+      "end": 185.39,
       "text": "93."
     },
     {
-      "start": 147.45,
-      "end": 152.09,
+      "start": 185.39,
+      "end": 190.03,
       "text": "And now she just went to a senior living facility like the one in this movie."
     },
     {
-      "start": 152.21,
-      "end": 152.51,
+      "start": 190.15,
+      "end": 190.45,
       "text": "Yeah."
     },
     {
-      "start": 152.61,
-      "end": 154.49,
+      "start": 190.55,
+      "end": 192.43,
       "text": "So she has a lot of friends now."
     },
     {
-      "start": 154.63,
-      "end": 156.39,
+      "start": 192.57,
+      "end": 194.33,
       "text": "Oh. Ah. Good news."
     },
     {
-      "start": 156.41,
-      "end": 157.33,
+      "start": 194.35,
+      "end": 195.27,
       "text": "Yeah. Great news."
     },
     {
-      "start": 157.37,
-      "end": 161.81,
+      "start": 195.31,
+      "end": 199.75,
       "text": "그렇죠. 지금 되게 많은 친구분들이 생기셨다고 하니까 너무 다행입니다."
     },
     {
-      "start": 161.81,
-      "end": 171.91,
+      "start": 199.75,
+      "end": 209.85,
       "text": "And for Diane Keaton, her brother, she has a younger brother, but he actually was diagnosed with dementia, even though he's younger than her."
     },
     {
-      "start": 172.01,
-      "end": 176.77,
+      "start": 209.95,
+      "end": 214.71,
       "text": "And he went to live in a facility like this himself in California."
     },
     {
-      "start": 177.03,
-      "end": 177.35,
+      "start": 214.97,
+      "end": 215.29,
       "text": "Yeah."
     },
     {
-      "start": 177.35,
-      "end": 183.69,
+      "start": 215.29,
+      "end": 221.63,
       "text": "And she visits him every week and experiences the life there and watches the senior citizens."
     },
     {
-      "start": 184.21,
-      "end": 194.21,
+      "start": 222.15,
+      "end": 232.15,
       "text": "So she felt something special and she felt that this movie could have a positive message about the elderly living in facilities like this."
     },
     {
-      "start": 194.31,
-      "end": 194.91,
+      "start": 232.25,
+      "end": 232.85,
       "text": "맞아요."
     },
     {
-      "start": 194.91,
-      "end": 200.37,
+      "start": 232.85,
+      "end": 238.31,
       "text": "Yeah. You know, many people feel like they get rejected just because they're old."
     },
     {
-      "start": 200.47,
-      "end": 201.93,
+      "start": 238.41,
+      "end": 239.87,
       "text": "They don't have any friends."
     },
     {
-      "start": 202.27,
-      "end": 208.51,
+      "start": 240.21,
+      "end": 246.45,
       "text": "For my grandma, all her friends, her husband, three boyfriends, everybody died."
     },
     {
-      "start": 208.73,
-      "end": 210.49,
+      "start": 246.67,
+      "end": 248.43,
       "text": "Her own daughter passed away."
     },
     {
-      "start": 211.05,
-      "end": 213.63,
+      "start": 248.99,
+      "end": 251.57,
       "text": "My mom, she's the only one alive."
     },
     {
-      "start": 213.77,
-      "end": 214.81,
+      "start": 251.71,
+      "end": 252.75,
       "text": "So she's so lonely."
     },
     {
-      "start": 215.07,
-      "end": 215.35,
+      "start": 253.01,
+      "end": 253.29,
       "text": "Yeah."
     },
     {
-      "start": 215.67,
-      "end": 218.09,
+      "start": 253.61,
+      "end": 256.03,
       "text": "And she wanted to live by herself."
     },
     {
-      "start": 218.33,
-      "end": 221.79,
+      "start": 256.27,
+      "end": 259.73,
       "text": "계속 꼬집 부리면서 혼자 살아야겠다 하는데 막상 거기 가니까"
     },
     {
-      "start": 221.79,
-      "end": 222.59,
+      "start": 259.73,
+      "end": 260.53,
       "text": "너무 행복해."
     },
     {
-      "start": 222.59,
-      "end": 224.91,
+      "start": 260.53,
+      "end": 262.85,
       "text": "친구들이 많고 뭐 다 있어요."
     },
     {
-      "start": 225.45,
-      "end": 227.57,
+      "start": 263.39,
+      "end": 265.51,
       "text": "음식 막 거의 미셀린급으로 나오고."
     },
     {
-      "start": 227.59,
-      "end": 228.27,
+      "start": 265.53,
+      "end": 266.21,
       "text": "그래요?"
     },
     {
-      "start": 228.37,
-      "end": 229.73,
+      "start": 266.31,
+      "end": 267.67,
       "text": "네. 월세 조금 비싼데."
     },
     {
-      "start": 230.13,
-      "end": 232.79,
+      "start": 268.07,
+      "end": 270.73,
       "text": "She's living a much higher quality life."
     },
     {
-      "start": 233.23,
-      "end": 243.09,
+      "start": 271.17,
+      "end": 281.03,
       "text": "약간 제가 약간 중간에 emotional하게 되었다가 마지막에 그래도 행복하게 최근 소식을 들려주시니까 기분이 다시 좋아졌어요."
     },
     {
-      "start": 243.09,
-      "end": 244.83,
+      "start": 281.03,
+      "end": 282.77,
       "text": "Oh, okay. Don't be sad."
     },
     {
-      "start": 244.97,
-      "end": 245.97,
+      "start": 282.91,
+      "end": 283.91,
       "text": "She's doing well."
     },
     {
-      "start": 246.05,
-      "end": 246.89,
+      "start": 283.99,
+      "end": 284.83,
       "text": "네. 너무 다행입니다."
     },
     {
-      "start": 246.89,
-      "end": 248.15,
+      "start": 284.83,
+      "end": 286.09,
       "text": "She's going to live to be 120."
     },
     {
-      "start": 248.63,
-      "end": 251.15,
+      "start": 286.57,
+      "end": 289.09,
       "text": "Oh, yeah. Go for it."
     },
     {
-      "start": 251.19,
-      "end": 251.91,
+      "start": 289.13,
+      "end": 289.85,
       "text": "That's what I told her."
     },
     {
-      "start": 251.91,
-      "end": 254.17,
+      "start": 289.85,
+      "end": 292.11,
       "text": "She's like, who wants to live to be that old?"
     },
     {
-      "start": 254.27,
-      "end": 255.35,
+      "start": 292.21,
+      "end": 293.29,
       "text": "I don't want to live that."
     },
     {
-      "start": 255.37,
-      "end": 258.63,
+      "start": 293.31,
+      "end": 296.57,
       "text": "아마 건강하게 그 이상 장수하실 거라고 생각합니다."
     },
     {
-      "start": 258.79,
-      "end": 259.63,
+      "start": 296.73,
+      "end": 297.57,
       "text": "건강이 제일이에요."
     },
     {
-      "start": 259.71,
-      "end": 260.21,
+      "start": 297.65,
+      "end": 298.15,
       "text": "그럼요."
     },
     {
-      "start": 260.59,
-      "end": 265.01,
+      "start": 298.53,
+      "end": 302.95,
       "text": "사실 우리가 이렇게 getting old 한다는 것은 굉장히 natural한 일이긴 한데"
     },
     {
-      "start": 265.01,
-      "end": 270.31,
+      "start": 302.95,
+      "end": 308.25,
       "text": "가끔 우리도 좀 scary하다라고 느껴질 때가 있잖아요."
     },
     {
-      "start": 270.57,
-      "end": 271.97,
+      "start": 308.51,
+      "end": 309.91,
       "text": "It's also scary though."
     },
     {
-      "start": 272.13,
-      "end": 272.91,
+      "start": 310.07,
+      "end": 310.85,
       "text": "Yeah, definitely."
     },
     {
-      "start": 272.91,
-      "end": 277.27,
+      "start": 310.85,
+      "end": 315.21,
       "text": "그래서 더욱더 이 영화가 의미있게 다가오는 것 같습니다."
     },
     {
-      "start": 277.27,
-      "end": 281.91,
+      "start": 315.21,
+      "end": 319.85,
       "text": "She also said it's like being an old person is like being a homeless person."
     },
     {
-      "start": 282.59,
-      "end": 284.57,
+      "start": 320.53,
+      "end": 322.51,
       "text": "You're frequently seen as a toss-away."
     },
     {
-      "start": 285.43,
-      "end": 285.83,
+      "start": 323.37,
+      "end": 323.77,
       "text": "You're old."
     },
     {
-      "start": 285.91,
-      "end": 287.77,
+      "start": 323.85,
+      "end": 325.71,
       "text": "Just because you're old, you're useless."
     },
     {
-      "start": 288.15,
-      "end": 289.33,
+      "start": 326.09,
+      "end": 327.27,
       "text": "And you're going to die."
     },
     {
-      "start": 289.91,
-      "end": 292.85,
+      "start": 327.85,
+      "end": 330.79,
       "text": "So we sometimes forget that is us."
     },
     {
-      "start": 293.05,
-      "end": 293.75,
+      "start": 330.99,
+      "end": 331.69,
       "text": "That's me."
     },
     {
-      "start": 293.97,
-      "end": 294.71,
+      "start": 331.91,
+      "end": 332.65,
       "text": "That's you."
     },
     {
-      "start": 294.71,
-      "end": 296.07,
+      "start": 332.65,
+      "end": 334.01,
       "text": "in a few years."
     },
     {
-      "start": 296.35,
-      "end": 300.69,
+      "start": 334.29,
+      "end": 338.63,
       "text": "So we should think about things in a bigger picture."
     },
     {
-      "start": 300.81,
-      "end": 301.11,
+      "start": 338.75,
+      "end": 339.05,
       "text": "맞아요."
     },
     {
-      "start": 301.17,
-      "end": 303.15,
+      "start": 339.11,
+      "end": 341.09,
       "text": "역지사지로 생각할 필요가 있죠."
     },
     {
-      "start": 303.27,
-      "end": 303.51,
+      "start": 341.21,
+      "end": 341.45,
       "text": "맞아요."
     },
     {
-      "start": 303.85,
-      "end": 304.59,
+      "start": 341.79,
+      "end": 342.53,
       "text": "다 거기서 거기."
     },
     {
-      "start": 304.67,
-      "end": 304.99,
+      "start": 342.61,
+      "end": 342.93,
       "text": "다 우리."
     },
     {
-      "start": 305.17,
-      "end": 305.89,
+      "start": 343.11,
+      "end": 343.83,
       "text": "우리 모습인데."
     },
     {
-      "start": 306.01,
-      "end": 306.87,
+      "start": 343.95,
+      "end": 344.81,
       "text": "우리 인생사인데."
     },
     {
-      "start": 307.03,
-      "end": 307.39,
+      "start": 344.97,
+      "end": 345.33,
       "text": "그렇죠."
     },
     {
-      "start": 307.63,
-      "end": 311.45,
+      "start": 345.57,
+      "end": 349.39,
       "text": "이 영화를 계기로 좀 큰 그림을 그려보는 것도 좋을 것 같습니다."
     },
     {
-      "start": 311.55,
-      "end": 312.13,
+      "start": 349.49,
+      "end": 350.07,
       "text": "멋있게."
     },
     {
-      "start": 312.35,
-      "end": 313.67,
+      "start": 350.29,
+      "end": 351.61,
       "text": "그 노래 생각이 나죠."
     },
     {
-      "start": 313.77,
-      "end": 314.21,
+      "start": 351.71,
+      "end": 352.15,
       "text": "네, 뭐예요?"
     },
     {
-      "start": 314.31,
-      "end": 315.15,
+      "start": 352.25,
+      "end": 353.09,
       "text": "그 노사이 아닌가?"
     },
     {
-      "start": 315.65,
-      "end": 317.23,
+      "start": 353.59,
+      "end": 355.17,
       "text": "오히려 그 넓어가는 게 아니고."
     },
     {
-      "start": 317.35,
-      "end": 317.55,
+      "start": 355.29,
+      "end": 355.49,
       "text": "네."
     },
     {
-      "start": 317.75,
-      "end": 318.47,
+      "start": 355.69,
+      "end": 356.41,
       "text": "익어가는 겁니다."
     },
     {
-      "start": 318.71,
-      "end": 319.89,
+      "start": 356.65,
+      "end": 357.83,
       "text": "와인같이, 포도주같이."
     },
     {
-      "start": 319.89,
-      "end": 320.63,
+      "start": 357.83,
+      "end": 358.57,
       "text": "어머어머."
     },
     {
-      "start": 320.79,
-      "end": 322.43,
+      "start": 358.73,
+      "end": 360.37,
       "text": "네, 이런 묘사 너무 좋네요."
     },
     {
-      "start": 323.11,
-      "end": 324.77,
+      "start": 361.05,
+      "end": 362.71,
       "text": "네, 그럼 오늘 장면 듣고 오시죠."
     },
     {
-      "start": 324.77,
-      "end": 326.61,
+      "start": 362.71,
+      "end": 364.55,
       "text": "내 이름은 senior year."
     },
     {
-      "start": 327.71,
-      "end": 328.89,
+      "start": 365.65,
+      "end": 366.83,
       "text": "I made the varsity squad."
     },
     {
-      "start": 329.17,
-      "end": 330.19,
+      "start": 367.11,
+      "end": 368.13,
       "text": "Better late than never."
     },
     {
-      "start": 330.51,
-      "end": 330.77,
+      "start": 368.45,
+      "end": 368.71,
       "text": "Yeah."
     },
     {
-      "start": 331.13,
-      "end": 332.83,
+      "start": 369.07,
+      "end": 370.77,
       "text": "On the day before our first game,"
     },
     {
-      "start": 333.39,
-      "end": 337.87,
+      "start": 371.33,
+      "end": 375.81,
       "text": "I found out that my mother was very sick, so."
     },
     {
-      "start": 338.55,
-      "end": 342.19,
+      "start": 376.49,
+      "end": 380.13,
       "text": "I quit the team, you know, just start to take care of her."
     },
     {
-      "start": 342.95,
-      "end": 344.27,
+      "start": 380.89,
+      "end": 382.21,
       "text": "Man, you know, oh my God."
     },
     {
-      "start": 344.75,
-      "end": 348.93,
+      "start": 382.69,
+      "end": 386.87,
       "text": "I, you know, I never, I never did perform."
     },
     {
-      "start": 348.93,
-      "end": 354.29,
+      "start": 386.87,
+      "end": 392.23,
       "text": "Now, that's, maybe you should give it another shot."
     },
     {
-      "start": 354.79,
-      "end": 357.23,
+      "start": 392.73,
+      "end": 395.17,
       "text": "Yeah, maybe the Dallas Cowgirls have an opening, right?"
     },
     {
-      "start": 358.59,
-      "end": 365.13,
+      "start": 396.53,
+      "end": 403.07,
       "text": "자, 이렇게 주거 침입 사건 이후에, 이렇게 Marissa가 finally opened up to Cheryl."
     },
     {
-      "start": 365.67,
-      "end": 366.01,
+      "start": 403.61,
+      "end": 403.95,
       "text": "Yeah."
     },
     {
-      "start": 366.13,
-      "end": 366.29,
+      "start": 404.07,
+      "end": 404.23,
       "text": "Yeah."
     },
     {
-      "start": 366.51,
-      "end": 367.49,
+      "start": 404.45,
+      "end": 405.43,
       "text": "오히려 좋았어."
     },
     {
-      "start": 367.65,
-      "end": 367.79,
+      "start": 405.59,
+      "end": 405.73,
       "text": "네."
     },
     {
-      "start": 368.07,
-      "end": 371.53,
+      "start": 406.01,
+      "end": 409.47,
       "text": "It's a good thing she broke into her house in the middle of the night."
     },
     {
-      "start": 371.71,
-      "end": 377.41,
+      "start": 409.65,
+      "end": 415.35,
       "text": "아마도 이 Marissa가 must have felt Cheryl's sincere heart를 느낀 게 아닌가."
     },
     {
-      "start": 377.57,
-      "end": 378.55,
+      "start": 415.51,
+      "end": 416.49,
       "text": "Yeah, she has a good heart."
     },
     {
-      "start": 378.67,
-      "end": 378.89,
+      "start": 416.61,
+      "end": 416.83,
       "text": "Yeah."
     },
     {
-      "start": 378.89,
-      "end": 383.79,
+      "start": 416.83,
+      "end": 421.73,
       "text": "She's a little too much sometimes, a little too nosy, a little too much, you know,"
     },
     {
-      "start": 384.03,
-      "end": 385.31,
+      "start": 421.97,
+      "end": 423.25,
       "text": "but she has a good heart."
     },
     {
-      "start": 385.39,
-      "end": 385.83,
+      "start": 423.33,
+      "end": 423.77,
       "text": "그럼요."
     },
     {
-      "start": 385.87,
-      "end": 386.35,
+      "start": 423.81,
+      "end": 424.29,
       "text": "그 중에서."
     },
     {
-      "start": 386.65,
-      "end": 389.91,
+      "start": 424.59,
+      "end": 427.85,
       "text": "네, 진심으로 자신을 걱정해 준 것을 느낀 것 같습니다."
     },
     {
-      "start": 390.43,
-      "end": 397.63,
+      "start": 428.37,
+      "end": 435.57,
       "text": "그래서 이제 Marissa가 talked about her dream, cheerleader가 되고 싶었던 과거에 대해서 이야기를 하는 거죠."
     },
     {
-      "start": 397.75,
-      "end": 403.45,
+      "start": 435.69,
+      "end": 441.39,
       "text": "Yeah, she really opened up, finally, over a glass of wine in the middle of the night."
     },
     {
-      "start": 403.45,
-      "end": 407.61,
+      "start": 441.39,
+      "end": 445.55,
       "text": "아, 역시, a glass of wine, 이게 좀 좋은 매개체가 된 것 같습니다."
     },
     {
-      "start": 407.79,
-      "end": 410.01,
+      "start": 445.73,
+      "end": 447.95,
       "text": "네, 술과, 뭐, 술?"
     },
     {
-      "start": 410.41,
-      "end": 411.79,
+      "start": 448.35,
+      "end": 449.73,
       "text": "In the middle of the night."
     },
     {
-      "start": 411.91,
-      "end": 412.77,
+      "start": 449.85,
+      "end": 450.71,
       "text": "아, 새벽."
     },
     {
-      "start": 412.91,
-      "end": 414.19,
+      "start": 450.85,
+      "end": 452.13,
       "text": "아, 정말 퍼펙트하네요."
     },
     {
-      "start": 414.33,
-      "end": 416.57,
+      "start": 452.27,
+      "end": 454.51,
       "text": "아, 술 말고 또 다른 생각이 안 하가지고."
     },
     {
-      "start": 416.97,
-      "end": 417.29,
+      "start": 454.91,
+      "end": 455.23,
       "text": "오케이."
     },
     {
-      "start": 417.55,
-      "end": 418.37,
+      "start": 455.49,
+      "end": 456.31,
       "text": "In the middle of the night."
     },
     {
-      "start": 418.49,
-      "end": 419.49,
+      "start": 456.43,
+      "end": 457.43,
       "text": "네, 그러면."
     },
     {
-      "start": 419.71,
-      "end": 420.59,
+      "start": 457.65,
+      "end": 458.53,
       "text": "아, 힘든 과거."
     },
     {
-      "start": 420.71,
-      "end": 422.45,
+      "start": 458.65,
+      "end": 460.39,
       "text": "힘든 과거에 훨씬 탄핵하게."
     },
     {
-      "start": 422.51,
-      "end": 422.77,
+      "start": 460.45,
+      "end": 460.71,
       "text": "네."
     },
     {
-      "start": 422.77,
-      "end": 423.97,
+      "start": 460.71,
+      "end": 461.91,
       "text": "네, 떨어넘는, 떨어넘는."
     },
     {
-      "start": 423.97,
-      "end": 424.13,
+      "start": 461.91,
+      "end": 462.07,
       "text": "그렇죠."
     },
     {
-      "start": 424.49,
-      "end": 425.93,
+      "start": 462.43,
+      "end": 463.87,
       "text": "네, 이렇게 허심탄회하게."
     },
     {
-      "start": 425.95,
-      "end": 426.71,
+      "start": 463.89,
+      "end": 464.65,
       "text": "네, 그거 핵심이죠."
     },
     {
-      "start": 426.75,
-      "end": 427.03,
+      "start": 464.69,
+      "end": 464.97,
       "text": "그러면."
     },
     {
-      "start": 427.03,
-      "end": 428.73,
+      "start": 464.97,
+      "end": 466.67,
       "text": "술은 뭐 있구나, 없구나."
     },
     {
-      "start": 429.33,
-      "end": 432.27,
+      "start": 467.27,
+      "end": 470.21,
       "text": "네, 그러면 주요 표현 첫 번째, 뭘까요?"
     },
     {
-      "start": 432.77,
-      "end": 434.43,
+      "start": 470.71,
+      "end": 472.37,
       "text": "Made the varsity squad."
     },
     {
-      "start": 434.89,
-      "end": 438.35,
+      "start": 472.83,
+      "end": 476.29,
       "text": "아, 여기에서 varsity라는 단어가 들렸어요."
     },
     {
-      "start": 438.47,
-      "end": 442.27,
+      "start": 476.41,
+      "end": 480.21,
       "text": "그리고 squad라는 단어하고 같이 이렇게 많이 쓰이잖아요."
     },
     {
-      "start": 442.75,
-      "end": 447.17,
+      "start": 480.69,
+      "end": 485.11,
       "text": "Varsity squad 하면 대학 대표팀이라고 해석하면 되겠죠?"
     },
     {
-      "start": 447.17,
-      "end": 452.25,
+      "start": 485.11,
+      "end": 490.19,
       "text": "Or high school, varsity, there's a varsity team in high school."
     },
     {
-      "start": 452.63,
-      "end": 454.15,
+      "start": 490.57,
+      "end": 492.09,
       "text": "Junior varsity, varsity."
     },
     {
-      "start": 454.29,
-      "end": 454.53,
+      "start": 492.23,
+      "end": 492.47,
       "text": "맞아요."
     },
     {
-      "start": 454.67,
-      "end": 455.81,
+      "start": 492.61,
+      "end": 493.75,
       "text": "Go 1, go 2, junior varsity."
     },
     {
-      "start": 455.91,
-      "end": 457.77,
+      "start": 493.85,
+      "end": 495.71,
       "text": "3, 4, 보통 varsity로 가요."
     },
     {
-      "start": 457.89,
-      "end": 458.77,
+      "start": 495.83,
+      "end": 496.71,
       "text": "실력 좀 좋으면."
     },
     {
-      "start": 459.31,
-      "end": 460.51,
+      "start": 497.25,
+      "end": 498.45,
       "text": "대학교도 마찬가지."
     },
     {
-      "start": 460.67,
-      "end": 467.75,
+      "start": 498.61,
+      "end": 505.69,
       "text": "네, 이렇게 어떤 학교의 대표팀을 지칭할 때 the varsity squad 이렇게 표현을 할 수가 있는 거고"
     },
     {
-      "start": 467.75,
-      "end": 472.29,
+      "start": 505.69,
+      "end": 510.23,
       "text": "그 앞에 made가 같이 쓰였으니까 대표팀에 들어갔다라는 거죠."
     },
     {
-      "start": 472.39,
-      "end": 473.11,
+      "start": 510.33,
+      "end": 511.05,
       "text": "She made it."
     },
     {
-      "start": 473.13,
-      "end": 474.15,
+      "start": 511.07,
+      "end": 512.09,
       "text": "정말 어려운데."
     },
     {
-      "start": 474.27,
-      "end": 474.51,
+      "start": 512.21,
+      "end": 512.45,
       "text": "Yeah."
     },
     {
-      "start": 474.93,
-      "end": 475.73,
+      "start": 512.87,
+      "end": 513.67,
       "text": "Audition 보고."
     },
     {
-      "start": 475.73,
-      "end": 477.63,
+      "start": 513.67,
+      "end": 515.57,
       "text": "뭔가 재능이 있는 것 같아요."
     },
     {
-      "start": 477.79,
-      "end": 478.47,
+      "start": 515.73,
+      "end": 516.41,
       "text": "She's good."
     },
     {
-      "start": 479.53,
-      "end": 480.87,
+      "start": 517.47,
+      "end": 518.81,
       "text": "Better late than never."
     },
     {
-      "start": 481.11,
-      "end": 483.21,
+      "start": 519.05,
+      "end": 521.15,
       "text": "오, 이것도 되게 좋은 말입니다."
     },
     {
-      "start": 483.53,
-      "end": 484.93,
+      "start": 521.47,
+      "end": 522.87,
       "text": "Better late than never."
     },
     {
-      "start": 485.41,
-      "end": 488.41,
+      "start": 523.35,
+      "end": 526.35,
       "text": "안 하는 것보단 늦게라도 하는 게 낫다라는 거죠."
     },
     {
-      "start": 488.53,
-      "end": 489.29,
+      "start": 526.47,
+      "end": 527.23,
       "text": "Better late than never."
     },
     {
-      "start": 490.03,
-      "end": 491.07,
+      "start": 527.97,
+      "end": 529.01,
       "text": "Give it another shot."
     },
     {
-      "start": 491.19,
-      "end": 492.29,
+      "start": 529.13,
+      "end": 530.23,
       "text": "오, 이 말도 좋아요, 그죠?"
     },
     {
-      "start": 492.43,
-      "end": 493.69,
+      "start": 530.37,
+      "end": 531.63,
       "text": "너무 긍정적인 말이 많아요."
     },
     {
-      "start": 493.73,
-      "end": 494.09,
+      "start": 531.67,
+      "end": 532.03,
       "text": "그쵸."
     },
     {
-      "start": 494.13,
-      "end": 494.81,
+      "start": 532.07,
+      "end": 532.75,
       "text": "보석같은 말들."
     },
     {
-      "start": 494.87,
-      "end": 496.57,
+      "start": 532.81,
+      "end": 534.51,
       "text": "Yeah, give it another shot."
     },
     {
-      "start": 496.95,
-      "end": 499.29,
+      "start": 534.89,
+      "end": 537.23,
       "text": "다시 시도해봐 라는 의미입니다."
     },
     {
-      "start": 499.51,
-      "end": 500.05,
+      "start": 537.45,
+      "end": 537.99,
       "text": "Come on."
     },
     {
-      "start": 500.09,
-      "end": 502.27,
+      "start": 538.03,
+      "end": 540.21,
       "text": "Yeah, give it a shot라고도 할 수 있는데"
     },
     {
-      "start": 502.27,
-      "end": 505.63,
+      "start": 540.21,
+      "end": 543.57,
       "text": "give it another shot라고 이번 대화에서는 들렸어요."
     },
     {
-      "start": 505.73,
-      "end": 507.91,
+      "start": 543.67,
+      "end": 545.85,
       "text": "If you miss the first shot, give it another shot."
     },
     {
-      "start": 507.93,
-      "end": 508.41,
+      "start": 545.87,
+      "end": 546.35,
       "text": "그럼요."
     },
     {
-      "start": 508.41,
-      "end": 509.11,
+      "start": 546.35,
+      "end": 547.05,
       "text": "And then another shot."
     },
     {
-      "start": 509.19,
-      "end": 511.73,
+      "start": 547.13,
+      "end": 549.67,
       "text": "오, 이런 긍정적인 느낌 너무 좋습니다."
     },
     {
-      "start": 512.21,
-      "end": 513.77,
+      "start": 550.15,
+      "end": 551.71,
       "text": "그럼 이 내용 다시 한번 들어보시죠."
     },
     {
-      "start": 513.77,
-      "end": 517.85,
+      "start": 551.71,
+      "end": 555.79,
       "text": "My name, my senior year, I made the varsity squad."
     },
     {
-      "start": 518.05,
-      "end": 519.07,
+      "start": 555.99,
+      "end": 557.01,
       "text": "Better late than never."
     },
     {
-      "start": 519.37,
-      "end": 519.67,
+      "start": 557.31,
+      "end": 557.61,
       "text": "Yeah."
     },
     {
-      "start": 519.99,
-      "end": 528.81,
+      "start": 557.93,
+      "end": 566.75,
       "text": "On the day before our first game, I found out that my mother was very sick, so I quit"
     },
     {
-      "start": 528.81,
-      "end": 531.07,
+      "start": 566.75,
+      "end": 569.01,
       "text": "the team, you know, just trying to take care of her."
     },
     {
-      "start": 531.83,
-      "end": 537.97,
+      "start": 569.77,
+      "end": 575.91,
       "text": "Yeah, and you know, oh my God, I, you know, I never, I never did perform."
     },
     {
-      "start": 537.97,
-      "end": 543.17,
+      "start": 575.91,
+      "end": 581.11,
       "text": "No, that's, maybe you should give it another shot."
     },
     {
-      "start": 543.67,
-      "end": 546.09,
+      "start": 581.61,
+      "end": 584.03,
       "text": "Yeah, maybe the Dallas Cowgirls have an opening, right?"
     },
     {
-      "start": 547.38,
-      "end": 551.78,
+      "start": 585.32,
+      "end": 589.72,
       "text": "네, 이 둘의 진솔한 대화를 처음으로 느낀 장면입니다."
     },
     {
-      "start": 552.54,
-      "end": 555.0,
+      "start": 590.48,
+      "end": 592.94,
       "text": "그럼 마르타가 먼저 뭐라고 하는지 들어볼까요?"
     },
     {
-      "start": 555.0,
-      "end": 559.28,
+      "start": 592.94,
+      "end": 597.22,
       "text": "Finally, in my senior year, I made the varsity squad."
     },
     {
-      "start": 559.68,
-      "end": 564.94,
+      "start": 597.62,
+      "end": 602.88,
       "text": "드디어, in my senior year, 내가 3학년 때, I made the varsity squad."
     },
     {
-      "start": 565.6,
-      "end": 568.18,
+      "start": 603.54,
+      "end": 606.12,
       "text": "이 대학 대표팀 응원단에 들어갔어요."
     },
     {
-      "start": 568.54,
-      "end": 570.94,
+      "start": 606.48,
+      "end": 608.88,
       "text": "아, 안 봐, 그 고등학교 얘기하는 것 같아요."
     },
     {
-      "start": 570.96,
-      "end": 571.32,
+      "start": 608.9,
+      "end": 609.26,
       "text": "아, 고등학교."
     },
     {
-      "start": 571.44,
-      "end": 571.96,
+      "start": 609.38,
+      "end": 609.9,
       "text": "High school."
     },
     {
-      "start": 572.26,
-      "end": 575.52,
+      "start": 610.2,
+      "end": 613.46,
       "text": "Yeah, many high school, cheerleading is a huge thing."
     },
     {
-      "start": 575.52,
-      "end": 579.32,
+      "start": 613.46,
+      "end": 617.26,
       "text": "and the varsity squad is like the main cheerleading squad"
     },
     {
-      "start": 579.32,
-      "end": 583.0,
+      "start": 617.26,
+      "end": 620.94,
       "text": "that roots at all the football games and basketball games."
     },
     {
-      "start": 583.5,
-      "end": 584.84,
+      "start": 621.44,
+      "end": 622.78,
       "text": "그래서 많은 사람들이 그대로 가고 싶어요."
     },
     {
-      "start": 584.88,
-      "end": 585.62,
+      "start": 622.82,
+      "end": 623.56,
       "text": "그렇군요."
     },
     {
-      "start": 585.8,
-      "end": 586.74,
+      "start": 623.74,
+      "end": 624.68,
       "text": "그대로 했는데."
     },
     {
-      "start": 586.96,
-      "end": 591.46,
+      "start": 624.9,
+      "end": 629.4,
       "text": "네, 고등학교에 그렇게 아주 훌륭한 재능을 보여가지고"
     },
     {
-      "start": 591.46,
-      "end": 595.0,
+      "start": 629.4,
+      "end": 632.94,
       "text": "대표팀 응원단에 들어갔다라는 추억을 이야기하네요."
     },
     {
-      "start": 595.66,
-      "end": 596.78,
+      "start": 633.6,
+      "end": 634.72,
       "text": "Better late than never."
     },
     {
-      "start": 597.0,
-      "end": 599.66,
+      "start": 634.94,
+      "end": 637.6,
       "text": "그랬더니 쉐리 리, better late than never."
     },
     {
-      "start": 599.88,
-      "end": 602.3,
+      "start": 637.82,
+      "end": 640.24,
       "text": "안 하는 것보단 늦게라도 들어가는 게 낫죠."
     },
     {
-      "start": 602.3,
-      "end": 608.46,
+      "start": 640.24,
+      "end": 646.4,
       "text": "Yeah, on the day before our first game, I found out that my mother was very sick."
     },
     {
-      "start": 608.72,
-      "end": 611.26,
+      "start": 646.66,
+      "end": 649.2,
       "text": "음, 이번에 말서의 대답이었습니다."
     },
     {
-      "start": 611.76,
-      "end": 618.02,
+      "start": 649.7,
+      "end": 655.96,
       "text": "그래요, on the day before our first game, 근데 첫 경기 하루 전날에"
     },
     {
-      "start": 618.02,
-      "end": 621.06,
+      "start": 655.96,
+      "end": 659.0,
       "text": "I found out that my mother was very sick."
     },
     {
-      "start": 621.62,
-      "end": 624.94,
+      "start": 659.56,
+      "end": 662.88,
       "text": "우리 엄마가 많이 편찮으시다는 걸 알게 되었어요."
     },
     {
-      "start": 625.52,
-      "end": 630.78,
+      "start": 663.46,
+      "end": 668.72,
       "text": "So, I quit the team, you know, just so I could take care of her."
     },
     {
-      "start": 630.78,
-      "end": 637.72,
+      "start": 668.72,
+      "end": 675.66,
       "text": "So, I quit the team, you know, 그래서 팀을 그만두었죠."
     },
     {
-      "start": 637.92,
-      "end": 639.54,
+      "start": 675.86,
+      "end": 677.48,
       "text": "팀에서 탈퇴했죠."
     },
     {
-      "start": 639.74,
-      "end": 641.24,
+      "start": 677.68,
+      "end": 679.18,
       "text": "Just so I could take care of her."
     },
     {
-      "start": 641.66,
-      "end": 643.58,
+      "start": 679.6,
+      "end": 681.52,
       "text": "엄마를 간호하기 위해서예요."
     },
     {
-      "start": 643.88,
-      "end": 645.0,
+      "start": 681.82,
+      "end": 682.94,
       "text": "Well, that's not common."
     },
     {
-      "start": 645.6,
-      "end": 647.42,
+      "start": 683.54,
+      "end": 685.36,
       "text": "미국에서 또 효도라는 개념."
     },
     {
-      "start": 647.64,
-      "end": 648.18,
+      "start": 685.58,
+      "end": 686.12,
       "text": "없잖아요."
     },
     {
-      "start": 648.76,
-      "end": 650.18,
+      "start": 686.7,
+      "end": 688.12,
       "text": "이런 경우 처음 들어왔어요."
     },
     {
-      "start": 650.56,
-      "end": 652.18,
+      "start": 688.5,
+      "end": 690.12,
       "text": "Quit to take care of your mom and dad."
     },
     {
-      "start": 652.38,
-      "end": 652.78,
+      "start": 690.32,
+      "end": 690.72,
       "text": "그래요?"
     },
     {
-      "start": 652.92,
-      "end": 654.08,
+      "start": 690.86,
+      "end": 692.02,
       "text": "Mom and dad, 알아서 하셨죠."
     },
     {
-      "start": 654.46,
-      "end": 654.98,
+      "start": 692.4,
+      "end": 692.92,
       "text": "당황스럽네."
     },
     {
-      "start": 655.68,
-      "end": 657.28,
+      "start": 693.62,
+      "end": 695.22,
       "text": "이런 경우 처음 들어보셨네요."
     },
     {
-      "start": 657.28,
-      "end": 657.72,
+      "start": 695.22,
+      "end": 695.66,
       "text": "Yes."
     },
     {
-      "start": 657.94,
-      "end": 661.76,
+      "start": 695.88,
+      "end": 699.7,
       "text": "Some people quit because they get in a fight or they don't like it."
     },
     {
-      "start": 662.0,
-      "end": 663.1,
+      "start": 699.94,
+      "end": 701.04,
       "text": "You know, rivalries?"
     },
     {
-      "start": 663.42,
-      "end": 665.52,
+      "start": 701.36,
+      "end": 703.46,
       "text": "But this is very sweet."
     },
     {
-      "start": 665.64,
-      "end": 666.02,
+      "start": 703.58,
+      "end": 703.96,
       "text": "그렇죠."
     },
     {
-      "start": 666.16,
-      "end": 670.76,
+      "start": 704.1,
+      "end": 708.7,
       "text": "아, 약간 전생의 효도 아닌 한국 양반 아니었나요?"
     },
     {
-      "start": 671.02,
-      "end": 673.5,
+      "start": 708.96,
+      "end": 711.44,
       "text": "아, 정말 어디로 튈지 모르네, 우리 크쌤."
     },
     {
-      "start": 673.6,
-      "end": 675.24,
+      "start": 711.54,
+      "end": 713.18,
       "text": "네, 묘사 너무너무 재밌습니다."
     },
     {
-      "start": 675.86,
-      "end": 680.56,
+      "start": 713.8,
+      "end": 718.5,
       "text": "어쨌든 우리 이 마라사의 효심을 우리가 들여다볼 수가 있었어요."
     },
     {
-      "start": 680.56,
-      "end": 685.89,
+      "start": 718.5,
+      "end": 723.83,
       "text": "Yeah, and you know, I never, I never did perform."
     },
     {
-      "start": 686.11,
-      "end": 690.47,
+      "start": 724.05,
+      "end": 728.41,
       "text": "아, 결국, you know, I never, I never did perform."
     },
     {
-      "start": 691.03,
-      "end": 694.19,
+      "start": 728.97,
+      "end": 732.13,
       "text": "나는 결국 단 한 번도 공연을 못한 거죠."
     },
     {
-      "start": 694.87,
-      "end": 695.69,
+      "start": 732.81,
+      "end": 733.63,
       "text": "Oh, no."
     },
     {
-      "start": 696.07,
-      "end": 697.19,
+      "start": 734.01,
+      "end": 735.13,
       "text": "그러니까, 쉐리디."
     },
     {
-      "start": 697.51,
-      "end": 698.23,
+      "start": 735.45,
+      "end": 736.17,
       "text": "오, 철언."
     },
     {
-      "start": 698.89,
-      "end": 699.59,
+      "start": 736.83,
+      "end": 737.53,
       "text": "That's..."
     },
     {
-      "start": 699.59,
-      "end": 702.77,
+      "start": 737.53,
+      "end": 740.71,
       "text": "뭔가를 좀 더 설명하려고, 뭐, 이 정도로 이야기를 합니다."
     },
     {
-      "start": 702.99,
-      "end": 704.89,
+      "start": 740.93,
+      "end": 742.83,
       "text": "And Cheryl, 바로 친구 들어가죠?"
     },
     {
-      "start": 704.93,
-      "end": 705.07,
+      "start": 742.87,
+      "end": 743.01,
       "text": "네."
     },
     {
-      "start": 705.45,
-      "end": 707.71,
+      "start": 743.39,
+      "end": 745.65,
       "text": "Maybe you should give it another shot."
     },
     {
-      "start": 707.83,
-      "end": 710.85,
+      "start": 745.77,
+      "end": 748.79,
       "text": "오, 이런 초긍정 메시지를 전달을 해줬어요."
     },
     {
-      "start": 710.91,
-      "end": 711.47,
+      "start": 748.85,
+      "end": 749.41,
       "text": "I like it."
     },
     {
-      "start": 711.47,
-      "end": 714.37,
+      "start": 749.41,
+      "end": 752.31,
       "text": "Yeah, maybe you should give it another shot."
     },
     {
-      "start": 714.71,
-      "end": 716.51,
+      "start": 752.65,
+      "end": 754.45,
       "text": "오, 다시 도전해봐야 하지 않아요?"
     },
     {
-      "start": 717.15,
-      "end": 720.91,
+      "start": 755.09,
+      "end": 758.85,
       "text": "Yeah, maybe the Dallas Cowgirls have an opening, right?"
     },
     {
-      "start": 721.37,
-      "end": 722.55,
+      "start": 759.31,
+      "end": 760.49,
       "text": "그랬더니 말사가,"
     },
     {
-      "start": 723.19,
-      "end": 724.57,
+      "start": 761.13,
+      "end": 762.51,
       "text": "Yeah, oh, maybe."
     },
     {
-      "start": 724.99,
-      "end": 726.53,
+      "start": 762.93,
+      "end": 764.47,
       "text": "아, 어쩌면 그..."
     },
     {
-      "start": 726.53,
-      "end": 728.71,
+      "start": 764.47,
+      "end": 766.65,
       "text": "The Dallas Cowgirls have an opening, right?"
     },
     {
-      "start": 729.17,
-      "end": 732.27,
+      "start": 767.11,
+      "end": 770.21,
       "text": "그 Dallas Cowgirls가 오프닝 무대를 장식하려나요?"
     },
     {
-      "start": 732.59,
-      "end": 734.71,
+      "start": 770.53,
+      "end": 772.65,
       "text": "아, sarcasm."
     },
     {
-      "start": 734.71,
-      "end": 738.01,
+      "start": 772.65,
+      "end": 775.95,
       "text": "Yeah, it's kind of a sarcastic joke가 되는 거죠?"
     },
     {
-      "start": 738.27,
-      "end": 738.53,
+      "start": 776.21,
+      "end": 776.47,
       "text": "Yeah."
     },
     {
-      "start": 738.71,
-      "end": 741.33,
+      "start": 776.65,
+      "end": 779.27,
       "text": "She's like, 뭐, 꿈 못 깨."
     },
     {
-      "start": 741.47,
-      "end": 743.43,
+      "start": 779.41,
+      "end": 781.37,
       "text": "How can I do that?"
     },
     {
-      "start": 743.43,
-      "end": 747.85,
+      "start": 781.37,
+      "end": 785.79,
       "text": "Yeah, 지금까지는 이제 정말 농담으로 받아친 정도였습니다."
     },
     {
-      "start": 748.17,
-      "end": 750.19,
+      "start": 786.11,
+      "end": 788.13,
       "text": "Dallas Cowboys cheerleading team."
     },
     {
-      "start": 750.35,
-      "end": 752.59,
+      "start": 788.29,
+      "end": 790.53,
       "text": "Dallas Cowgirls이라고 한나봐요."
     },
     {
-      "start": 752.65,
-      "end": 752.81,
+      "start": 790.59,
+      "end": 790.75,
       "text": "네."
     },
     {
-      "start": 753.13,
-      "end": 756.69,
+      "start": 791.07,
+      "end": 794.63,
       "text": "Cowboys are a very popular football team."
     },
     {
-      "start": 756.69,
-      "end": 758.05,
+      "start": 794.63,
+      "end": 795.99,
       "text": "아메리칸 풋볼."
     },
     {
-      "start": 758.25,
-      "end": 758.49,
+      "start": 796.19,
+      "end": 796.43,
       "text": "Yeah."
     },
     {
-      "start": 758.49,
-      "end": 759.25,
+      "start": 796.43,
+      "end": 797.19,
       "text": "음식 축구죠."
     },
     {
-      "start": 759.37,
-      "end": 759.55,
+      "start": 797.31,
+      "end": 797.49,
       "text": "네."
     },
     {
-      "start": 760.19,
-      "end": 767.17,
+      "start": 798.13,
+      "end": 805.11,
       "text": "이렇게 농담처럼 받아치고는 있지만 그래도 왠지 제가 예측하기로는 she's gonna dream it again."
     },
     {
-      "start": 767.17,
-      "end": 769.43,
+      "start": 805.11,
+      "end": 807.37,
       "text": "Oh, it's never too late."
     },
     {
-      "start": 769.63,
-      "end": 771.31,
+      "start": 807.57,
+      "end": 809.25,
       "text": "She's gonna pick it up again."
     },
     {
-      "start": 771.37,
-      "end": 771.53,
+      "start": 809.31,
+      "end": 809.47,
       "text": "그럼요."
     },
     {
-      "start": 771.65,
-      "end": 771.83,
+      "start": 809.59,
+      "end": 809.77,
       "text": "네."
     },
     {
-      "start": 772.33,
-      "end": 774.49,
+      "start": 810.27,
+      "end": 812.43,
       "text": "응원해주고 싶은 마음이 가득합니다."
     },
     {
-      "start": 774.59,
-      "end": 775.33,
+      "start": 812.53,
+      "end": 813.27,
       "text": "You can do it."
     },
     {
-      "start": 775.49,
-      "end": 775.89,
+      "start": 813.43,
+      "end": 813.83,
       "text": "그럼요."
     },
     {
-      "start": 775.89,
-      "end": 777.85,
+      "start": 813.83,
+      "end": 815.79,
       "text": "그럼 한 번 더 확인해보시죠."
     },
     {
-      "start": 777.85,
-      "end": 779.67,
+      "start": 815.79,
+      "end": 817.61,
       "text": "My name is my senior year."
     },
     {
-      "start": 780.76,
-      "end": 781.92,
+      "start": 818.7,
+      "end": 819.86,
       "text": "I made the varsity squad."
     },
     {
-      "start": 782.2,
-      "end": 783.24,
+      "start": 820.14,
+      "end": 821.18,
       "text": "Better late than never."
     },
     {
-      "start": 783.54,
-      "end": 783.82,
+      "start": 821.48,
+      "end": 821.76,
       "text": "Yeah."
     },
     {
-      "start": 784.2,
-      "end": 790.32,
+      "start": 822.14,
+      "end": 828.26,
       "text": "On the day before our first game, I found out that my mother was very sick."
     },
     {
-      "start": 790.32,
-      "end": 795.22,
+      "start": 828.26,
+      "end": 833.16,
       "text": "So, I quit the team, you know, just started to take care of her."
     },
     {
-      "start": 795.22,
-      "end": 797.34,
+      "start": 833.16,
+      "end": 835.28,
       "text": "Yeah, you know, oh my god."
     },
     {
-      "start": 797.78,
-      "end": 802.14,
+      "start": 835.72,
+      "end": 840.08,
       "text": "You know, I never, I never did perform."
     },
     {
-      "start": 803.8,
-      "end": 807.33,
+      "start": 841.74,
+      "end": 845.27,
       "text": "Now, that's maybe you should give it another shot."
     },
     {
-      "start": 807.83,
-      "end": 810.21,
+      "start": 845.77,
+      "end": 848.15,
       "text": "Yeah, maybe the Dallas Cowgirls have an opening, right?"
     },
     {
-      "start": 811.4,
-      "end": 819.66,
+      "start": 849.34,
+      "end": 857.6,
       "text": "네, 오늘은 우리의 마음에 뭔가 독려해주는, 꿈을 장려해주는 그런 메시지로 가득한 내용이었습니다."
     },
     {
-      "start": 819.88,
-      "end": 821.06,
+      "start": 857.82,
+      "end": 859.0,
       "text": "Let's follow our dreams."
     },
     {
-      "start": 821.24,
-      "end": 822.14,
+      "start": 859.18,
+      "end": 860.08,
       "text": "Never too late."
     },
     {
-      "start": 822.14,
-      "end": 825.32,
+      "start": 860.08,
+      "end": 863.26,
       "text": "Yeah, 오늘 이렇게 가슴 속에 담아보시고요."
     },
     {
-      "start": 825.78,
-      "end": 827.14,
+      "start": 863.72,
+      "end": 865.08,
       "text": "우리는 see you tomorrow."
+    },
+    {
+      "start": 865.46,
+      "end": 866.44,
+      "text": "Have a lovely day."
+    },
+    {
+      "start": 866.52,
+      "end": 867.16,
+      "text": "Thank you."
+    },
+    {
+      "start": 867.6,
+      "end": 869.38,
+      "text": "노래 한 곡 들어볼게요."
     }
   ]
 }
