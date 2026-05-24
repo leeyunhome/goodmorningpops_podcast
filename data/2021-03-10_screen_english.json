@@ -1,0 +1,1612 @@
+{
+  "id": "2021-03-10_screen_english",
+  "date": "2021-03-10",
+  "corner": "screen_english",
+  "corner_label": "Screen English",
+  "title": "It was a little inappropriate",
+  "movie": "",
+  "duration_sec": 856.79,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-10_screen_english.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "수험생활 잘할 수 있을까 걱정하면서 뒤척이다가 우연히 굿모닝 팝스를 듣게 됐어요."
+    },
+    {
+      "start": 6.2,
+      "end": 7.72,
+      "text": "재밌게 잘 듣고 있습니다."
+    },
+    {
+      "start": 8.5,
+      "end": 12.2,
+      "text": "아하, 5976님이 고3이군요."
+    },
+    {
+      "start": 12.56,
+      "end": 14.2,
+      "text": "네, 생각이 많아지는 시기죠."
+    },
+    {
+      "start": 14.2,
+      "end": 23.86,
+      "text": "저도 여태까지 쭉 살아오면서 생각이 많아지는 시기가 언제였을까 손가락으로 꼽아보자면"
+    },
+    {
+      "start": 23.86,
+      "end": 33.28,
+      "text": "고3, 그리고 대학교 3학년 때, 그리고 대학원 박사과정 1학기 때, 이럴 때 그랬던 것 같아요."
+    },
+    {
+      "start": 33.28,
+      "end": 39.24,
+      "text": "그 당시에는요. 아, 도대체 나의 질풍노도의 시기는 언제 없어지는 걸까?"
+    },
+    {
+      "start": 39.88,
+      "end": 43.12,
+      "text": "사춘기, 오춘기, 육춘기, 이러다가 또 7춘기 오는 거 아니야?"
+    },
+    {
+      "start": 43.24,
+      "end": 45.08,
+      "text": "막 이러면서 생각을 해보고 그랬는데"
+    },
+    {
+      "start": 45.08,
+      "end": 49.88,
+      "text": "그 이후에는 그냥 매일 매 순간을 충실하게 살자."
+    },
+    {
+      "start": 50.14,
+      "end": 52.48,
+      "text": "이런 모토를 가지고 살아가고 있습니다."
+    },
+    {
+      "start": 52.48,
+      "end": 57.66,
+      "text": "저는 우리 5976님의 지금 고민하는 순간이요."
+    },
+    {
+      "start": 58.16,
+      "end": 61.42,
+      "text": "참 소중한 때라고 생각해요. 응원합니다."
+    },
+    {
+      "start": 62.18,
+      "end": 65.24,
+      "text": "아무튼 이 고민 덕분에 굿모닝 팝스도 듣게 되고"
+    },
+    {
+      "start": 65.24,
+      "end": 71.62,
+      "text": "이제 우리 함께하면서 밝고 긍정적인 생각으로 가득가득 채워보면 어떨까요?"
+    },
+    {
+      "start": 71.88,
+      "end": 76.8,
+      "text": "오늘 사연 소개되신 분들 모두 월간 굿모닝 팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 77.52,
+      "end": 81.7,
+      "text": "굿모닝 팝스에 사연 보내고 싶으신 분들 홈페이지 청취자 게시판에 남겨주세요."
+    },
+    {
+      "start": 81.7,
+      "end": 84.82,
+      "text": "커피 알람 인증 메시지가 왔어요."
+    },
+    {
+      "start": 85.94,
+      "end": 87.9,
+      "text": "6939님께서 보내주셨어요."
+    },
+    {
+      "start": 88.62,
+      "end": 92.52,
+      "text": "안녕하세요 웃음 웃음. 커피 너무너무 감사히 잘 받았습니다."
+    },
+    {
+      "start": 93.28,
+      "end": 95.54,
+      "text": "날마다 행복하소서."
+    },
+    {
+      "start": 96.14,
+      "end": 98.88,
+      "text": "아 행복한 메시지를 보내주셨네요."
+    },
+    {
+      "start": 99.52,
+      "end": 103.18,
+      "text": "해피 바이러스가 숨어있는 GMP 커피 알람."
+    },
+    {
+      "start": 103.74,
+      "end": 106.78,
+      "text": "오늘 신청 메시지 보내주신 분들 중에서 10분 뽑아서"
+    },
+    {
+      "start": 106.78,
+      "end": 109.9,
+      "text": "내일 아침 6시에 커피 모바일 쿠폰 보내드릴게요."
+    },
+    {
+      "start": 109.9,
+      "end": 113.18,
+      "text": "단문 50원과 장문 100원에 추가 요금이 부과되는"
+    },
+    {
+      "start": 113.18,
+      "end": 115.66,
+      "text": "KBS 콜 FM 문자 샵 8910"
+    },
+    {
+      "start": 115.66,
+      "end": 119.7,
+      "text": "아니면 KBS 2라디오 문자 샵 1061로 신청하시거나"
+    },
+    {
+      "start": 119.7,
+      "end": 123.28,
+      "text": "무료 KBS 어플리케이션 콩 또는 마이케이로 참여해주세요."
+    },
+    {
+      "start": 123.28,
+      "end": 158.41,
+      "text": "3월에 함께하고 있는 영화는 어디갔어 버나데드?"
+    },
+    {
+      "start": 158.63,
+      "end": 161.69,
+      "text": "베이스던 마리아 샘플's book of the same title"
+    },
+    {
+      "start": 161.69,
+      "end": 163.77,
+      "text": "Where'd you go? 버나데드?"
+    },
+    {
+      "start": 163.91,
+      "end": 164.67,
+      "text": "요겁니다."
+    },
+    {
+      "start": 165.03,
+      "end": 165.85,
+      "text": "Good morning, Chris."
+    },
+    {
+      "start": 166.09,
+      "end": 167.17,
+      "text": "Good morning, good morning."
+    },
+    {
+      "start": 167.29,
+      "end": 168.99,
+      "text": "네, 어머 메시지가 와있어요."
+    },
+    {
+      "start": 168.99,
+      "end": 173.55,
+      "text": "이광재님께서 귀요미, 크리스쌤, 장현쌤."
+    },
+    {
+      "start": 174.27,
+      "end": 176.37,
+      "text": "아, 우리가 또 큐트한가요?"
+    },
+    {
+      "start": 176.89,
+      "end": 178.43,
+      "text": "버나데드 would not like that."
+    },
+    {
+      "start": 178.91,
+      "end": 180.69,
+      "text": "버나데드 does not like anything cute."
+    },
+    {
+      "start": 180.83,
+      "end": 181.07,
+      "text": "Yeah."
+    },
+    {
+      "start": 181.23,
+      "end": 182.13,
+      "text": "She has no 애교."
+    },
+    {
+      "start": 182.27,
+      "end": 184.27,
+      "text": "아주 포인트를 딱 짚어주셨어요."
+    },
+    {
+      "start": 184.27,
+      "end": 185.99,
+      "text": "우리 싫어하겠어요."
+    },
+    {
+      "start": 186.19,
+      "end": 189.07,
+      "text": "네, 어쨌거나 어쨌거나 우리가 이 영화는"
+    },
+    {
+      "start": 189.07,
+      "end": 195.95,
+      "text": "이 마리아 샘플이라는 작가의 원작 소설을 기반으로 한 영화다라는 이야기를 나눴잖잖아요."
+    },
+    {
+      "start": 196.01,
+      "end": 196.87,
+      "text": "It's based on the book."
+    },
+    {
+      "start": 196.99,
+      "end": 201.53,
+      "text": "There's one big difference between the novel and this movie."
+    },
+    {
+      "start": 201.65,
+      "end": 205.95,
+      "text": "There are always many differences between a book and a movie based on a book."
+    },
+    {
+      "start": 206.03,
+      "end": 206.27,
+      "text": "Yeah."
+    },
+    {
+      "start": 206.41,
+      "end": 207.85,
+      "text": "But yes, there is a big difference."
+    },
+    {
+      "start": 207.91,
+      "end": 208.29,
+      "text": "맞아요."
+    },
+    {
+      "start": 208.37,
+      "end": 209.61,
+      "text": "One particular difference."
+    },
+    {
+      "start": 209.61,
+      "end": 213.81,
+      "text": "그게 뭐냐면 이게 첫 장면에서, 이 영화의 첫 장면에서는"
+    },
+    {
+      "start": 213.81,
+      "end": 215.95,
+      "text": "남극 장면이 나왔잖아요."
+    },
+    {
+      "start": 216.39,
+      "end": 220.03,
+      "text": "그래서 버나데드이 카누를 타고 있는 그 장면으로 시작했단 말이죠."
+    },
+    {
+      "start": 220.49,
+      "end": 225.27,
+      "text": "그런데 소설에서는 이 버나데드이 정말 어디로 사라지는지."
+    },
+    {
+      "start": 225.41,
+      "end": 228.11,
+      "text": "그래서 제목이 Where'd you go, 버나데드 이거잖아요."
+    },
+    {
+      "start": 228.65,
+      "end": 229.69,
+      "text": "어디 갔어, 버나데드?"
+    },
+    {
+      "start": 229.83,
+      "end": 230.91,
+      "text": "어, 도대체 어디 갔어?"
+    },
+    {
+      "start": 230.97,
+      "end": 233.15,
+      "text": "So the book starts without 버나데드."
+    },
+    {
+      "start": 233.19,
+      "end": 233.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 233.55,
+      "end": 234.73,
+      "text": "버나데드 is already gone."
+    },
+    {
+      "start": 235.45,
+      "end": 242.17,
+      "text": "그래서 어디에 있는지를 알려면 정말 수십 페이지를 넘겨야지 알아낼 수 있대요."
+    },
+    {
+      "start": 242.29,
+      "end": 243.69,
+      "text": "Yeah, it takes dozens of pages."
+    },
+    {
+      "start": 243.81,
+      "end": 248.21,
+      "text": "You have to read a lot to find out actually anything about 버나데드"
+    },
+    {
+      "start": 248.21,
+      "end": 249.35,
+      "text": "and where she went."
+    },
+    {
+      "start": 249.95,
+      "end": 250.95,
+      "text": "That is the book."
+    },
+    {
+      "start": 251.03,
+      "end": 251.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 251.55,
+      "end": 252.83,
+      "text": "But the movie is different."
+    },
+    {
+      "start": 253.47,
+      "end": 258.45,
+      "text": "그런데 첫 장면에 이렇게 카누 타고 남극에 있는 버나데드을 보여줬기 때문에"
+    },
+    {
+      "start": 258.45,
+      "end": 261.11,
+      "text": "it was good for me to know the conclusion first."
+    },
+    {
+      "start": 261.31,
+      "end": 262.85,
+      "text": "Ah, you felt comforted?"
+    },
+    {
+      "start": 262.99,
+      "end": 263.29,
+      "text": "Yeah."
+    },
+    {
+      "start": 264.03,
+      "end": 268.25,
+      "text": "훨씬 더 뭔가 이 맥락을 짚어갔는데 저한테는 되게 도움이 많이 됐어요."
+    },
+    {
+      "start": 268.25,
+      "end": 271.71,
+      "text": "And she's the star of the movie after all."
+    },
+    {
+      "start": 271.71,
+      "end": 271.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 271.79,
+      "end": 272.89,
+      "text": "Kate Blanchett."
+    },
+    {
+      "start": 272.89,
+      "end": 275.79,
+      "text": "I mean, she's a big star, world star."
+    },
+    {
+      "start": 275.85,
+      "end": 276.21,
+      "text": "Of course."
+    },
+    {
+      "start": 276.31,
+      "end": 278.05,
+      "text": "She is starring in this movie."
+    },
+    {
+      "start": 278.05,
+      "end": 281.21,
+      "text": "So, why would we want to wait to see her?"
+    },
+    {
+      "start": 281.21,
+      "end": 282.09,
+      "text": "그럼요."
+    },
+    {
+      "start": 282.89,
+      "end": 286.63,
+      "text": "당연히 가장 많은 포션을 차지해야 되는 배우가 아니겠습니까?"
+    },
+    {
+      "start": 287.07,
+      "end": 288.29,
+      "text": "의도가 있었겠죠, 그죠?"
+    },
+    {
+      "start": 288.41,
+      "end": 292.61,
+      "text": "The director actually, Richard Linklater, the director, he said something similar."
+    },
+    {
+      "start": 293.19,
+      "end": 297.23,
+      "text": "He said, you don't cast Kate Blanchett, Blanch it."
+    },
+    {
+      "start": 297.23,
+      "end": 298.67,
+      "text": "아, 발음이 안 나왔네요."
+    },
+    {
+      "start": 299.09,
+      "end": 301.05,
+      "text": "Kate Blanchett, 이렇게 하는 거예요."
+    },
+    {
+      "start": 301.17,
+      "end": 301.83,
+      "text": "Ah, okay."
+    },
+    {
+      "start": 301.83,
+      "end": 306.11,
+      "text": "You don't cast Kate Blanchett to have her be in a small portion of the movie."
+    },
+    {
+      "start": 306.35,
+      "end": 307.45,
+      "text": "아, 그래요."
+    },
+    {
+      "start": 307.75,
+      "end": 310.63,
+      "text": "딱 제가 생각한 거하고 같은 생각을 했군요."
+    },
+    {
+      "start": 310.71,
+      "end": 313.95,
+      "text": "그렇게 큰 출연을 주고, 조그만 역할 시키면."
+    },
+    {
+      "start": 314.07,
+      "end": 315.17,
+      "text": "돈 낭비예요, 이거."
+    },
+    {
+      "start": 315.17,
+      "end": 315.59,
+      "text": "그럼요."
+    },
+    {
+      "start": 315.75,
+      "end": 319.43,
+      "text": "영화 보시는 분들도, Kate Blanchett."
+    },
+    {
+      "start": 319.55,
+      "end": 319.99,
+      "text": "Blanchett."
+    },
+    {
+      "start": 320.03,
+      "end": 321.51,
+      "text": "아, 이렇게 발음해야 된다는 거군요."
+    },
+    {
+      "start": 321.53,
+      "end": 321.97,
+      "text": "Blanchett."
+    },
+    {
+      "start": 321.97,
+      "end": 324.97,
+      "text": "여태까지 Kate Blanchett이라고 발음했는데,"
+    },
+    {
+      "start": 325.39,
+      "end": 326.79,
+      "text": "Chet이 아니라 Chet."
+    },
+    {
+      "start": 327.23,
+      "end": 327.81,
+      "text": "Smooth."
+    },
+    {
+      "start": 328.17,
+      "end": 329.07,
+      "text": "Kate Blanchett."
+    },
+    {
+      "start": 329.21,
+      "end": 331.59,
+      "text": "네, 좀 더 부드럽게 발음을 하면 되겠습니다."
+    },
+    {
+      "start": 331.93,
+      "end": 336.23,
+      "text": "어쨌든 이 Kate Blanchett이니까 우리가 많이 볼수록 좋겠죠."
+    },
+    {
+      "start": 336.83,
+      "end": 338.47,
+      "text": "먼저 오늘 장면 듣고 오겠습니다."
+    },
+    {
+      "start": 339.49,
+      "end": 341.81,
+      "text": "Bernadette, just get out once in a while."
+    },
+    {
+      "start": 341.95,
+      "end": 343.95,
+      "text": "Be in the real world and interact with people."
+    },
+    {
+      "start": 344.03,
+      "end": 345.63,
+      "text": "Maybe that would make you not so paranoid."
+    },
+    {
+      "start": 345.89,
+      "end": 346.69,
+      "text": "I think we're done here."
+    },
+    {
+      "start": 346.77,
+      "end": 347.79,
+      "text": "No, we are not done."
+    },
+    {
+      "start": 347.95,
+      "end": 349.21,
+      "text": "We are not, we are not done here."
+    },
+    {
+      "start": 349.21,
+      "end": 351.19,
+      "text": "Again, I want to apologize for the sign."
+    },
+    {
+      "start": 351.19,
+      "end": 354.91,
+      "text": "It was a little inappropriate and I intend to take full responsibility, okay?"
+    },
+    {
+      "start": 354.91,
+      "end": 357.91,
+      "text": "Oh, 지금 싸움난 거죠?"
+    },
+    {
+      "start": 358.29,
+      "end": 359.47,
+      "text": "It sounds like a fight."
+    },
+    {
+      "start": 359.65,
+      "end": 359.85,
+      "text": "Oh."
+    },
+    {
+      "start": 360.07,
+      "end": 362.51,
+      "text": "I hear some very intense emotions."
+    },
+    {
+      "start": 362.63,
+      "end": 362.91,
+      "text": "Yeah."
+    },
+    {
+      "start": 363.35,
+      "end": 364.63,
+      "text": "그리고 말이 엄청 빨라요."
+    },
+    {
+      "start": 364.87,
+      "end": 365.59,
+      "text": "부럽습니다."
+    },
+    {
+      "start": 365.97,
+      "end": 367.17,
+      "text": "싸울 때 빨라지지 않아요?"
+    },
+    {
+      "start": 367.57,
+      "end": 368.47,
+      "text": "Oh, 그런가?"
+    },
+    {
+      "start": 368.75,
+      "end": 370.33,
+      "text": "약간 그런 것 같기도 하고."
+    },
+    {
+      "start": 370.87,
+      "end": 373.83,
+      "text": "근데 싸울 때 약간 말이 없어지는 경향도 있어요."
+    },
+    {
+      "start": 373.83,
+      "end": 379.69,
+      "text": "That is actually a wise thing to do, but sometimes I can't help it, start talking fast."
+    },
+    {
+      "start": 379.91,
+      "end": 385.77,
+      "text": "But especially for a couple, when I fight with my wife, the less I talk, the better the situation."
+    },
+    {
+      "start": 385.83,
+      "end": 386.21,
+      "text": "그렇죠."
+    },
+    {
+      "start": 386.85,
+      "end": 387.41,
+      "text": "현명하십니다."
+    },
+    {
+      "start": 387.47,
+      "end": 387.83,
+      "text": "You agree."
+    },
+    {
+      "start": 388.67,
+      "end": 393.63,
+      "text": "우리가 지난주에 말이에요, we've talked about blackberry vines."
+    },
+    {
+      "start": 393.87,
+      "end": 394.21,
+      "text": "Yes."
+    },
+    {
+      "start": 394.21,
+      "end": 398.57,
+      "text": "근데 Audrey가요, 이유신 Audrey가 complained about the vines."
+    },
+    {
+      "start": 398.91,
+      "end": 402.71,
+      "text": "So, Bernadette이 아주 화끈하게 agreed to get rid of them."
+    },
+    {
+      "start": 402.77,
+      "end": 403.07,
+      "text": "Okay."
+    },
+    {
+      "start": 403.31,
+      "end": 405.27,
+      "text": "I'll just get rid of all of them."
+    },
+    {
+      "start": 405.33,
+      "end": 405.59,
+      "text": "Yeah."
+    },
+    {
+      "start": 405.85,
+      "end": 408.29,
+      "text": "그래서 그 가든어하고 같이 다 뽑아버렸단 말이죠."
+    },
+    {
+      "start": 408.63,
+      "end": 408.99,
+      "text": "Yes."
+    },
+    {
+      "start": 409.03,
+      "end": 412.31,
+      "text": "근데 there was a landslide when Audrey held a party."
+    },
+    {
+      "start": 412.75,
+      "end": 414.85,
+      "text": "There was a huge landslide."
+    },
+    {
+      "start": 415.27,
+      "end": 417.89,
+      "text": "Audrey, her neighbor, was having a brunch party."
+    },
+    {
+      "start": 417.89,
+      "end": 426.87,
+      "text": "All her friends, parents, and kids were at her house enjoying a nice party when the landslide, it was a mud slide."
+    },
+    {
+      "start": 426.93,
+      "end": 427.57,
+      "text": "Oh, my God."
+    },
+    {
+      "start": 427.59,
+      "end": 429.59,
+      "text": "So, it was raining, heavy, heavy rain."
+    },
+    {
+      "start": 429.87,
+      "end": 430.75,
+      "text": "되게 위험했겠어요."
+    },
+    {
+      "start": 430.91,
+      "end": 432.33,
+      "text": "And the land gave way."
+    },
+    {
+      "start": 432.43,
+      "end": 437.27,
+      "text": "All those blackberry vines, they were holding the land in place, but now they're gone."
+    },
+    {
+      "start": 437.43,
+      "end": 442.49,
+      "text": "So, the mud came right in the window and just ruined the party."
+    },
+    {
+      "start": 442.49,
+      "end": 442.89,
+      "text": "Yeah."
+    },
+    {
+      "start": 443.37,
+      "end": 451.17,
+      "text": "아, 근데 생각을 해보니까 이 blackberry vines를 제거해달라고 항의를 했던 사람이 바로바로 Audrey란 말이죠."
+    },
+    {
+      "start": 451.33,
+      "end": 451.99,
+      "text": "바로 그분인데."
+    },
+    {
+      "start": 452.15,
+      "end": 455.25,
+      "text": "근데 지금 화를 또 내는 사람이 Audrey란 말이죠."
+    },
+    {
+      "start": 455.33,
+      "end": 458.49,
+      "text": "Hey, isn't this a little hypocritical?"
+    },
+    {
+      "start": 458.63,
+      "end": 459.21,
+      "text": "아, 맞아요."
+    },
+    {
+      "start": 459.97,
+      "end": 461.81,
+      "text": "위선을 좀 보이고 있는 것 같습니다."
+    },
+    {
+      "start": 462.15,
+      "end": 463.23,
+      "text": "This is a huge fight."
+    },
+    {
+      "start": 463.29,
+      "end": 465.03,
+      "text": "This is the biggest fight in the movie, I think."
+    },
+    {
+      "start": 465.09,
+      "end": 465.33,
+      "text": "Yeah."
+    },
+    {
+      "start": 465.83,
+      "end": 468.17,
+      "text": "어떤 표현들이 있었는지 먼저 알려주세요."
+    },
+    {
+      "start": 468.71,
+      "end": 470.23,
+      "text": "Interact with people."
+    },
+    {
+      "start": 470.23,
+      "end": 474.15,
+      "text": "아하, interact, interact라는 단어죠."
+    },
+    {
+      "start": 474.59,
+      "end": 479.19,
+      "text": "그래서 interact with people, 사람들과 소통하다, 교류하다 라는 의미입니다."
+    },
+    {
+      "start": 479.35,
+      "end": 481.37,
+      "text": "그러네, 그 T, 첫 T 안 들리네요."
+    },
+    {
+      "start": 481.47,
+      "end": 481.71,
+      "text": "Yeah."
+    },
+    {
+      "start": 481.73,
+      "end": 482.29,
+      "text": "Interact."
+    },
+    {
+      "start": 482.39,
+      "end": 482.95,
+      "text": "아, 그렇죠."
+    },
+    {
+      "start": 483.13,
+      "end": 483.81,
+      "text": "Interact."
+    },
+    {
+      "start": 483.89,
+      "end": 485.39,
+      "text": "아, flapping 한 거죠, 그렇죠?"
+    },
+    {
+      "start": 485.69,
+      "end": 486.05,
+      "text": "Interact."
+    },
+    {
+      "start": 486.51,
+      "end": 487.07,
+      "text": "Flapping."
+    },
+    {
+      "start": 487.21,
+      "end": 488.37,
+      "text": "아, 연음."
+    },
+    {
+      "start": 488.47,
+      "end": 490.71,
+      "text": "아, flapping이라고 하는군요."
+    },
+    {
+      "start": 490.71,
+      "end": 494.39,
+      "text": "특히 이 T라는 발음을 약화시키는 거."
+    },
+    {
+      "start": 494.61,
+      "end": 495.49,
+      "text": "flapping sound."
+    },
+    {
+      "start": 495.61,
+      "end": 496.47,
+      "text": "Interact with people."
+    },
+    {
+      "start": 497.75,
+      "end": 498.39,
+      "text": "Inappropriate."
+    },
+    {
+      "start": 498.39,
+      "end": 501.87,
+      "text": "아하, appropriate 말고 앞에 in이 붙었어요."
+    },
+    {
+      "start": 502.17,
+      "end": 504.41,
+      "text": "그러니까 반의어라고 생각하시면 되겠죠."
+    },
+    {
+      "start": 504.59,
+      "end": 505.43,
+      "text": "Not appropriate."
+    },
+    {
+      "start": 505.53,
+      "end": 505.79,
+      "text": "Yeah."
+    },
+    {
+      "start": 506.09,
+      "end": 509.47,
+      "text": "그래서 inappropriate, 부적절한, 이라는 의미입니다."
+    },
+    {
+      "start": 510.25,
+      "end": 511.81,
+      "text": "Take full responsibility."
+    },
+    {
+      "start": 512.03,
+      "end": 515.71,
+      "text": "아, take responsibility만 들어도 책임을 지다인데,"
+    },
+    {
+      "start": 516.17,
+      "end": 521.17,
+      "text": "full이라는 게 가운데 들어져 있으니까 모든 책임을 지다라고 해석하시면 되겠네요."
+    },
+    {
+      "start": 521.17,
+      "end": 522.85,
+      "text": "I'll take full responsibility."
+    },
+    {
+      "start": 522.95,
+      "end": 524.41,
+      "text": "모든 책임을 지겠어요."
+    },
+    {
+      "start": 524.65,
+      "end": 527.11,
+      "text": "라는 어마무시한 말이 되겠네요."
+    },
+    {
+      "start": 527.49,
+      "end": 528.91,
+      "text": "자, 이 장면 한 번 더 들어보겠습니다."
+    },
+    {
+      "start": 528.91,
+      "end": 548.76,
+      "text": "네, 엄청 빨라요, 다시 들어도."
+    },
+    {
+      "start": 548.76,
+      "end": 549.82,
+      "text": "So fast."
+    },
+    {
+      "start": 550.04,
+      "end": 553.18,
+      "text": "What percentage can you understand of this conversation?"
+    },
+    {
+      "start": 553.54,
+      "end": 557.58,
+      "text": "특히 이 초반에 Audrey가 한 말을 들어보면요."
+    },
+    {
+      "start": 557.72,
+      "end": 559.24,
+      "text": "그래도 뭐, it's quite right."
+    },
+    {
+      "start": 559.64,
+      "end": 561.18,
+      "text": "옳은 소리 한 것 같기는 해요."
+    },
+    {
+      "start": 561.68,
+      "end": 569.44,
+      "text": "그런데 너무 하지는 말아야 하는 말까지, 선을 넘어버린 그런 대화이기도 했습니다."
+    },
+    {
+      "start": 569.44,
+      "end": 574.16,
+      "text": "And remember, Bernadette had just taken her daughter home from school."
+    },
+    {
+      "start": 575.0,
+      "end": 577.18,
+      "text": "Her daughter is sitting next to her in the car."
+    },
+    {
+      "start": 577.88,
+      "end": 581.9,
+      "text": "And things get really ugly when the neighbor mentions her daughter."
+    },
+    {
+      "start": 582.16,
+      "end": 583.74,
+      "text": "She brings the daughter into the fight."
+    },
+    {
+      "start": 584.18,
+      "end": 585.36,
+      "text": "그때 화를 돋궜죠."
+    },
+    {
+      "start": 585.4,
+      "end": 587.54,
+      "text": "Yes, then it gets really, really ugly."
+    },
+    {
+      "start": 588.58,
+      "end": 590.64,
+      "text": "But that's 여기 없네요."
+    },
+    {
+      "start": 590.94,
+      "end": 591.44,
+      "text": "그 다음."
+    },
+    {
+      "start": 591.52,
+      "end": 592.54,
+      "text": "다음 장면이에요."
+    },
+    {
+      "start": 592.58,
+      "end": 594.16,
+      "text": "스포까지 해주셨어요."
+    },
+    {
+      "start": 594.28,
+      "end": 594.84,
+      "text": "어마어마합니다."
+    },
+    {
+      "start": 595.84,
+      "end": 596.48,
+      "text": "기대하라고."
+    },
+    {
+      "start": 596.64,
+      "end": 598.66,
+      "text": "네, 오늘 장면 먼저 알아볼게요."
+    },
+    {
+      "start": 599.44,
+      "end": 602.62,
+      "text": "Bernadette, just get out once in a while."
+    },
+    {
+      "start": 603.02,
+      "end": 608.26,
+      "text": "Bernadette, Audrey가 굉장히 화를 담아서 이야기해주는 문장들이었어요."
+    },
+    {
+      "start": 608.72,
+      "end": 611.8,
+      "text": "Bernadette, just get out once in a while."
+    },
+    {
+      "start": 613.58,
+      "end": 618.3,
+      "text": "가끔은, 가끔씩은 좀 세상 밖으로 나와요라는 이야기입니다."
+    },
+    {
+      "start": 618.36,
+      "end": 619.46,
+      "text": "Get out once in a while."
+    },
+    {
+      "start": 619.46,
+      "end": 621.54,
+      "text": "Don't just stay in your house all the time."
+    },
+    {
+      "start": 622.7,
+      "end": 626.0,
+      "text": "Be in the real world and interact with people."
+    },
+    {
+      "start": 626.78,
+      "end": 627.82,
+      "text": "여기까지는 좋아요."
+    },
+    {
+      "start": 627.82,
+      "end": 629.84,
+      "text": "여기까지는 옳은 말을 한 것 같아요."
+    },
+    {
+      "start": 630.28,
+      "end": 631.9,
+      "text": "Be in the real world."
+    },
+    {
+      "start": 632.6,
+      "end": 634.2,
+      "text": "현실에서 좀 살고."
+    },
+    {
+      "start": 634.5,
+      "end": 635.94,
+      "text": "And interact with people."
+    },
+    {
+      "start": 636.34,
+      "end": 638.36,
+      "text": "사람들과 좀 소통 좀 하라고요."
+    },
+    {
+      "start": 639.3,
+      "end": 642.56,
+      "text": "Maybe that would make you not so paranoid."
+    },
+    {
+      "start": 642.78,
+      "end": 643.2,
+      "text": "아하!"
+    },
+    {
+      "start": 644.2,
+      "end": 647.68,
+      "text": "여기에서 이 paranoid라는 단어가 저는 굉장히 걸렸어요."
+    },
+    {
+      "start": 647.78,
+      "end": 648.76,
+      "text": "This is a mistake."
+    },
+    {
+      "start": 649.0,
+      "end": 650.12,
+      "text": "Warning, warning."
+    },
+    {
+      "start": 650.12,
+      "end": 652.88,
+      "text": "정말 she should have chosen the word carefully."
+    },
+    {
+      "start": 652.98,
+      "end": 654.4,
+      "text": "아, 약간 시비거는 느낌이죠."
+    },
+    {
+      "start": 654.46,
+      "end": 654.68,
+      "text": "그렇죠."
+    },
+    {
+      "start": 654.68,
+      "end": 655.2,
+      "text": "여기서부터."
+    },
+    {
+      "start": 655.4,
+      "end": 659.24,
+      "text": "이 paranoid가 무슨 의미냐면, 피해망상이라는 단어거든요."
+    },
+    {
+      "start": 659.8,
+      "end": 663.7,
+      "text": "이 단어를 썼다라는 것은 이제 뭐, 막장을 가자 라는 거죠."
+    },
+    {
+      "start": 663.82,
+      "end": 664.76,
+      "text": "예, 막 싸우자."
+    },
+    {
+      "start": 665.34,
+      "end": 668.04,
+      "text": "Maybe that would make you not so paranoid."
+    },
+    {
+      "start": 668.04,
+      "end": 672.78,
+      "text": "라고 했으니까, 어쩌면 그러면 피해망상이 좀 나아질 수도 있겠죠."
+    },
+    {
+      "start": 673.0,
+      "end": 673.66,
+      "text": "라는 말입니다."
+    },
+    {
+      "start": 673.66,
+      "end": 675.3,
+      "text": "Yeah, uh-oh."
+    },
+    {
+      "start": 675.44,
+      "end": 676.74,
+      "text": "Things are getting ugly."
+    },
+    {
+      "start": 677.68,
+      "end": 679.44,
+      "text": "I think we're done here."
+    },
+    {
+      "start": 679.64,
+      "end": 680.84,
+      "text": "그랬더니 버르데드시,"
+    },
+    {
+      "start": 681.34,
+      "end": 684.68,
+      "text": "아, 여기서 그만하죠? 라고 단호하게 이야기합니다."
+    },
+    {
+      "start": 685.83,
+      "end": 687.49,
+      "text": "No, we are not done."
+    },
+    {
+      "start": 687.79,
+      "end": 688.77,
+      "text": "We're not done here."
+    },
+    {
+      "start": 688.85,
+      "end": 692.51,
+      "text": "네, 여기서 끝낼 생각이 전혀 없는 오드리의 말이었어요."
+    },
+    {
+      "start": 692.77,
+      "end": 694.15,
+      "text": "No, we are not done."
+    },
+    {
+      "start": 694.33,
+      "end": 695.25,
+      "text": "We are not done here."
+    },
+    {
+      "start": 695.95,
+      "end": 696.81,
+      "text": "안 끝났어요."
+    },
+    {
+      "start": 696.91,
+      "end": 697.85,
+      "text": "나 그만 못해요."
+    },
+    {
+      "start": 698.07,
+      "end": 698.63,
+      "text": "라는 말입니다."
+    },
+    {
+      "start": 698.63,
+      "end": 701.51,
+      "text": "Remember, her house just got flooded with mud."
+    },
+    {
+      "start": 701.63,
+      "end": 701.91,
+      "text": "그렇죠."
+    },
+    {
+      "start": 702.01,
+      "end": 702.91,
+      "text": "갯벌 같은 거예요."
+    },
+    {
+      "start": 703.49,
+      "end": 704.73,
+      "text": "She is so angry."
+    },
+    {
+      "start": 705.05,
+      "end": 706.49,
+      "text": "갯벌 집으로 쳐들어왔으니까."
+    },
+    {
+      "start": 707.19,
+      "end": 708.29,
+      "text": "갯벌 같았어요."
+    },
+    {
+      "start": 708.49,
+      "end": 709.53,
+      "text": "정말 갯벌 같았어요."
+    },
+    {
+      "start": 709.55,
+      "end": 709.81,
+      "text": "맞아요."
+    },
+    {
+      "start": 711.09,
+      "end": 713.89,
+      "text": "Again, I want to apologize for the sign."
+    },
+    {
+      "start": 714.11,
+      "end": 717.29,
+      "text": "아, 여기서 버르데드시, again, 다시 말하지만,"
+    },
+    {
+      "start": 717.45,
+      "end": 720.11,
+      "text": "I want to apologize for the sign."
+    },
+    {
+      "start": 720.71,
+      "end": 722.17,
+      "text": "Apologize for 이라고 하면,"
+    },
+    {
+      "start": 722.27,
+      "end": 724.39,
+      "text": "~~에 대해서 사과하다 라는 거잖아요."
+    },
+    {
+      "start": 724.65,
+      "end": 726.71,
+      "text": "네, 특히 the sign이라고 했습니다."
+    },
+    {
+      "start": 726.71,
+      "end": 729.53,
+      "text": "표지판에 대해서는 사과할게요."
+    },
+    {
+      "start": 729.65,
+      "end": 730.61,
+      "text": "Remember the sign?"
+    },
+    {
+      "start": 730.89,
+      "end": 731.23,
+      "text": "Remember?"
+    },
+    {
+      "start": 731.33,
+      "end": 731.87,
+      "text": "Do you remember?"
+    },
+    {
+      "start": 732.05,
+      "end": 734.05,
+      "text": "It was a very mean sign."
+    },
+    {
+      "start": 734.17,
+      "end": 734.87,
+      "text": "아, 맞아요."
+    },
+    {
+      "start": 735.35,
+      "end": 739.57,
+      "text": "그 표지판에 큰 대문자로 private property?"
+    },
+    {
+      "start": 739.83,
+      "end": 740.93,
+      "text": "Private property."
+    },
+    {
+      "start": 741.01,
+      "end": 741.85,
+      "text": "네, 네, property."
+    },
+    {
+      "start": 742.19,
+      "end": 743.15,
+      "text": "아, 이렇게 써 있었구나."
+    },
+    {
+      "start": 743.21,
+      "end": 744.43,
+      "text": "그런 거 미국에서 흔한데,"
+    },
+    {
+      "start": 744.55,
+      "end": 747.39,
+      "text": "private property만 쓴 게 아니고."
+    },
+    {
+      "start": 747.39,
+      "end": 752.99,
+      "text": "그 아래에 굉장히 mean한 그런 단어들이 연달아 나왔었던 걸로 기억합니다."
+    },
+    {
+      "start": 753.13,
+      "end": 754.71,
+      "text": "Yes, you will go to jail까지."
+    },
+    {
+      "start": 754.89,
+      "end": 755.27,
+      "text": "맞아요."
+    },
+    {
+      "start": 755.27,
+      "end": 756.65,
+      "text": "I'm going to take you to jail."
+    },
+    {
+      "start": 756.75,
+      "end": 758.97,
+      "text": "와, 어떻게 그런 것까지 다 기억을 하고 계십니까?"
+    },
+    {
+      "start": 759.45,
+      "end": 759.97,
+      "text": "천재예요."
+    },
+    {
+      "start": 760.15,
+      "end": 761.65,
+      "text": "It was a very unusual sign."
+    },
+    {
+      "start": 761.83,
+      "end": 762.11,
+      "text": "아, 그래서?"
+    },
+    {
+      "start": 762.41,
+      "end": 763.29,
+      "text": "It caught my eye."
+    },
+    {
+      "start": 763.35,
+      "end": 764.45,
+      "text": "아, 그렇군요."
+    },
+    {
+      "start": 764.75,
+      "end": 767.65,
+      "text": "어쨌든, 그 표지판에 대해서는 내가 사과하고 싶어요."
+    },
+    {
+      "start": 767.77,
+      "end": 768.51,
+      "text": "라는 말이었어요."
+    },
+    {
+      "start": 768.85,
+      "end": 770.79,
+      "text": "It was a little inappropriate."
+    },
+    {
+      "start": 771.51,
+      "end": 773.73,
+      "text": "A little이라는 게 참 독특하네요, 그렇죠?"
+    },
+    {
+      "start": 773.85,
+      "end": 774.69,
+      "text": "Just a little inappropriate."
+    },
+    {
+      "start": 775.29,
+      "end": 776.73,
+      "text": "It was a little inappropriate."
+    },
+    {
+      "start": 777.31,
+      "end": 779.31,
+      "text": "아, 그건 조금 부적절한 것 같아요."
+    },
+    {
+      "start": 779.31,
+      "end": 783.77,
+      "text": "And I intend to take full responsibility, okay?"
+    },
+    {
+      "start": 783.77,
+      "end": 787.73,
+      "text": "아, 이제 거의 갯벌같이 집이 망쳐졌으니까"
+    },
+    {
+      "start": 787.73,
+      "end": 790.75,
+      "text": "And I intend to take full responsibility, okay?"
+    },
+    {
+      "start": 791.07,
+      "end": 791.99,
+      "text": "라고 이야기합니다."
+    },
+    {
+      "start": 792.43,
+      "end": 797.95,
+      "text": "제가 take full responsibility, 전적으로 책임을 질게요, okay?"
+    },
+    {
+      "start": 798.41,
+      "end": 798.89,
+      "text": "알겠죠?"
+    },
+    {
+      "start": 799.31,
+      "end": 800.53,
+      "text": "라고 대답을 했어요."
+    },
+    {
+      "start": 800.53,
+      "end": 802.93,
+      "text": "Okay, she said the right thing."
+    },
+    {
+      "start": 803.25,
+      "end": 805.21,
+      "text": "They should go their separate ways."
+    },
+    {
+      "start": 805.45,
+      "end": 806.53,
+      "text": "The fight should be over."
+    },
+    {
+      "start": 807.51,
+      "end": 810.79,
+      "text": "근데 여기서 끝내고자 하는 의지가 전혀 없었죠, 우리 오드리는."
+    },
+    {
+      "start": 811.05,
+      "end": 811.49,
+      "text": "Yeah."
+    },
+    {
+      "start": 812.09,
+      "end": 812.87,
+      "text": "She's angry."
+    },
+    {
+      "start": 812.87,
+      "end": 815.33,
+      "text": "그거는 아까 스포를 살짝 해드렸는데"
+    },
+    {
+      "start": 815.33,
+      "end": 817.05,
+      "text": "내일 이어가 볼까요?"
+    },
+    {
+      "start": 817.11,
+      "end": 817.91,
+      "text": "네, 기대하라고."
+    },
+    {
+      "start": 818.45,
+      "end": 820.37,
+      "text": "네, 오늘 장면 한 번 더 들어보겠습니다."
+    },
+    {
+      "start": 837.53,
+      "end": 840.61,
+      "text": "네, 이제는 싸움도 이렇게 말이 빨라도"
+    },
+    {
+      "start": 840.61,
+      "end": 842.61,
+      "text": "귀에 쏙쏙 들어옵니다, 그렇죠?"
+    },
+    {
+      "start": 843.19,
+      "end": 845.57,
+      "text": "어쨌거나 이웃 간에 이렇게 싸움이 일어나면"
+    },
+    {
+      "start": 845.57,
+      "end": 849.51,
+      "text": "정말 big trouble, 아주 난감할 것 같아요."
+    },
+    {
+      "start": 849.85,
+      "end": 851.67,
+      "text": "Yeah, let's try to get along with our neighbors."
+    },
+    {
+      "start": 851.91,
+      "end": 852.59,
+      "text": "맞아요."
+    },
+    {
+      "start": 852.79,
+      "end": 853.73,
+      "text": "Be kind to your neighbors."
+    },
+    {
+      "start": 853.97,
+      "end": 854.49,
+      "text": "그럼요."
+    },
+    {
+      "start": 854.83,
+      "end": 856.79,
+      "text": "자, 오늘 스크린 잉글리쉬는 여기까지입니다."
+    }
+  ]
+}
