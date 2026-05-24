@@ -5,1557 +5,1707 @@
   "corner_label": "Screen English",
   "title": "I have nowhere else to go",
   "movie": "",
-  "duration_sec": 618.3,
+  "duration_sec": 769.08,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-25_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 1.0,
+      "end": 6.24,
+      "text": "웬만하면 이런 글 안 쓰는데 얼마 전에 알게 된 굿모닝 팝스가 너무 좋아서 사연 보냅니다."
+    },
+    {
+      "start": 6.96,
+      "end": 11.92,
+      "text": "귀에 쏙쏙 들어오는 영어에 조정현님의 부드러운 목소리까지 대박!"
+    },
+    {
+      "start": 12.92,
+      "end": 15.28,
+      "text": "아, 대박이네요. 윤미눅님."
+    },
+    {
+      "start": 15.28,
+      "end": 24.26,
+      "text": "예를 들어서 저도 웬만하면 상품을 구매한 다음에 후기를 잘 안 쓰는 편입니다."
+    },
+    {
+      "start": 24.66,
+      "end": 30.92,
+      "text": "근데 진짜 진짜 좋으면 자발적으로 진심을 다해가지고 쓰는 경우가 있거든요."
+    },
+    {
+      "start": 31.54,
+      "end": 34.72,
+      "text": "지금 그 경우와 비슷한 상황이라고 봐도 되는 거죠."
+    },
+    {
+      "start": 34.72,
+      "end": 39.8,
+      "text": "지금 베트남에서 열심히 일하고 계시는 윤미눅님인데"
+    },
+    {
+      "start": 39.8,
+      "end": 46.16,
+      "text": "방송 들으시면서 외롭지 않으시게 더 힘차게 일하시길 응원합니다."
+    },
+    {
+      "start": 47.87,
+      "end": 51.85,
+      "text": "0059님, 싱가포르에 사는 우리 딸이 출산했어요."
+    },
+    {
+      "start": 52.45,
+      "end": 56.27,
+      "text": "몸 잘 추스르고 아이도 잘 키울 수 있게 응원해주세요."
+    },
+    {
+      "start": 56.27,
+      "end": 62.93,
+      "text": "저는 외국인 사위랑 자유롭게 소통할 수 있는 그날을 위해 열심히 굿모닝 팝스 듣겠습니다."
+    },
+    {
+      "start": 64.55,
+      "end": 68.13,
+      "text": "0059님 따님이 싱가포르에 있나보네요."
+    },
+    {
+      "start": 69.23,
+      "end": 73.63,
+      "text": "외국에서 출산을 하니까 아무래도 마음이 정말 많이 쓰이셨겠어요."
+    },
+    {
+      "start": 74.41,
+      "end": 79.19,
+      "text": "그래도 그만큼 사위분이 옆에서 더 자상하게 잘 챙겨줄 것 같아요."
+    },
+    {
+      "start": 80.01,
+      "end": 83.99,
+      "text": "외국인 사위분과 이제 커뮤니케이션을 나누셔야 되는데"
+    },
+    {
+      "start": 83.99,
+      "end": 88.33,
+      "text": "우리 굿모닝 팝스가 좋은 연결 다리가 되어드릴게요."
+    },
+    {
+      "start": 89.27,
+      "end": 94.61,
+      "text": "하루에 한 단어 혹은 한 문장씩 그렇게 조금씩 조금씩 늘려가시면 됩니다."
+    },
+    {
+      "start": 95.31,
+      "end": 96.99,
+      "text": "따님 출산 진심으로 축하드리고요."
+    },
+    {
+      "start": 98.13,
+      "end": 102.49,
+      "text": "사연 보내주신 분들 모두 월간 굿모닝 팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 103.19,
+      "end": 107.87,
+      "text": "굿모닝 팝스에 사연 보내고 싶으신 분들 공식 홈페이지 청취자 게시판에 남겨주세요."
+    },
+    {
+      "start": 107.87,
+      "end": 113.47,
+      "text": "이른 아침에 웨이크업컬 서비스 GMP 커피 알람 이벤트"
+    },
+    {
+      "start": 113.47,
+      "end": 116.89,
+      "text": "내일 아침 6시 정각에 일어나고 싶으시면"
+    },
+    {
+      "start": 116.89,
+      "end": 118.95,
+      "text": "저 꼭 깨워주세요."
+    },
+    {
+      "start": 119.49,
+      "end": 122.25,
+      "text": "이렇게 간단하게 신청 메시지 보내주시면 됩니다."
+    },
+    {
+      "start": 122.87,
+      "end": 126.61,
+      "text": "굿모닝 팝스 시작 시간에 맞춰서 커피 모바일 쿠폰 보내드릴 건데요."
+    },
+    {
+      "start": 126.93,
+      "end": 128.75,
+      "text": "행운의 주인공은 총 10분입니다."
+    },
+    {
+      "start": 129.25,
+      "end": 131.91,
+      "text": "단문 50원과 장문 100원의 추가 요금이 부과되는"
+    },
+    {
+      "start": 131.91,
+      "end": 134.33,
+      "text": "KBS 쿨 FM 문자 샵 8910"
+    },
+    {
+      "start": 134.33,
+      "end": 138.11,
+      "text": "아니면 KBS e라디오 문자 샵 1061로 신청하시거나"
+    },
+    {
+      "start": 138.11,
+      "end": 141.61,
+      "text": "무료 KBS 어플리케이션 콩 또는 마이케이로 참여해주세요."
+    },
+    {
+      "start": 150.78,
+      "end": 151.78,
       "text": "스크린 잉글리쉬"
     },
     {
-      "start": 1.0,
-      "end": 20.76,
+      "start": 151.78,
+      "end": 171.54,
       "text": "The best way to enjoy a movie."
     },
     {
-      "start": 21.1,
-      "end": 22.58,
+      "start": 171.88,
+      "end": 173.36,
       "text": "스크린 잉글리쉬 타임."
     },
     {
-      "start": 22.96,
-      "end": 26.1,
+      "start": 173.74,
+      "end": 176.88,
       "text": "3월에 함께하고 있는 영화는 어디갔어 버나데드"
     },
     {
-      "start": 26.1,
-      "end": 27.0,
+      "start": 176.88,
+      "end": 177.78,
       "text": "Where do you go?"
     },
     {
-      "start": 27.18,
-      "end": 27.9,
+      "start": 177.96,
+      "end": 178.68,
       "text": "버나데드"
     },
     {
-      "start": 27.9,
-      "end": 30.04,
+      "start": 178.68,
+      "end": 180.82,
       "text": "그렇죠? 바로 이 영화입니다."
     },
     {
-      "start": 30.1,
-      "end": 34.1,
+      "start": 180.88,
+      "end": 184.88,
       "text": "8509님께서 크리스님 발음 굿"
     },
     {
-      "start": 34.1,
-      "end": 39.84,
+      "start": 184.88,
+      "end": 190.62,
       "text": "모든 외국인분들이 크리스님처럼 발음하시면 영어 배우기 편할텐데 라고 하셨어요."
     },
     {
-      "start": 40.36,
-      "end": 41.44,
+      "start": 191.14,
+      "end": 192.22,
       "text": "와우, what a compliment."
     },
     {
-      "start": 41.74,
-      "end": 42.08,
+      "start": 192.52,
+      "end": 192.86,
       "text": "그쵸."
     },
     {
-      "start": 42.12,
-      "end": 43.16,
+      "start": 192.9,
+      "end": 193.94,
       "text": "아주 극찬의 말씀입니다."
     },
     {
-      "start": 43.16,
-      "end": 47.6,
+      "start": 193.94,
+      "end": 198.38,
       "text": "아우, 역시 우리 크리스씨. 제가 다 자랑스러워집니다."
     },
     {
-      "start": 47.7,
-      "end": 49.5,
+      "start": 198.48,
+      "end": 200.28,
       "text": "막 자부심이 뿜뿜하고 있어요."
     },
     {
-      "start": 49.56,
-      "end": 49.96,
+      "start": 200.34,
+      "end": 200.74,
       "text": "아, 그래요?"
     },
     {
-      "start": 50.12,
-      "end": 50.34,
+      "start": 200.9,
+      "end": 201.12,
       "text": "네."
     },
     {
-      "start": 50.6,
-      "end": 51.34,
+      "start": 201.38,
+      "end": 202.12,
       "text": "아, thank you."
     },
     {
-      "start": 51.42,
-      "end": 53.54,
+      "start": 202.2,
+      "end": 204.32,
       "text": "네, 팔이 이렇게 안으로 굽는 게 맞는가봐요."
     },
     {
-      "start": 54.74,
-      "end": 56.36,
+      "start": 205.52,
+      "end": 207.14,
       "text": "자, 이제 시작을 해볼게요."
     },
     {
-      "start": 57.14,
-      "end": 58.84,
+      "start": 207.92,
+      "end": 209.62,
       "text": "주인공에 대해서 생각을 해보면"
     },
     {
-      "start": 58.84,
-      "end": 60.5,
+      "start": 209.62,
+      "end": 211.28,
       "text": "On one hand, I can say"
     },
     {
-      "start": 60.5,
-      "end": 62.14,
+      "start": 211.28,
+      "end": 212.92,
       "text": "Bernadette Fox has it all."
     },
     {
-      "start": 62.68,
-      "end": 63.58,
+      "start": 213.46,
+      "end": 214.36,
       "text": "Everything, 그쵸?"
     },
     {
-      "start": 63.7,
-      "end": 66.02,
+      "start": 214.48,
+      "end": 216.8,
       "text": "She does have a loving husband, LG,"
     },
     {
-      "start": 66.32,
-      "end": 68.14,
+      "start": 217.1,
+      "end": 218.92,
       "text": "and a brilliant daughter."
     },
     {
-      "start": 68.38,
-      "end": 69.86,
+      "start": 219.16,
+      "end": 220.64,
       "text": "But there's one thing missing."
     },
     {
-      "start": 70.42,
-      "end": 71.68,
+      "start": 221.2,
+      "end": 222.46,
       "text": "That is her."
     },
     {
-      "start": 72.38,
-      "end": 72.86,
+      "start": 223.16,
+      "end": 223.64,
       "text": "Herself."
     },
     {
-      "start": 72.86,
-      "end": 73.46,
+      "start": 223.64,
+      "end": 224.24,
       "text": "Herself."
     },
     {
-      "start": 73.62,
-      "end": 73.74,
+      "start": 224.4,
+      "end": 224.52,
       "text": "Yeah."
     },
     {
-      "start": 73.94,
-      "end": 74.72,
+      "start": 224.72,
+      "end": 225.5,
       "text": "She doesn't know herself."
     },
     {
-      "start": 74.92,
-      "end": 75.22,
+      "start": 225.7,
+      "end": 226.0,
       "text": "맞아요."
     },
     {
-      "start": 75.78,
-      "end": 77.2,
+      "start": 226.56,
+      "end": 227.98,
       "text": "어느 순간, who am I?"
     },
     {
-      "start": 77.42,
-      "end": 78.28,
+      "start": 228.2,
+      "end": 229.06,
       "text": "Where am I?"
     },
     {
-      "start": 78.38,
-      "end": 80.14,
+      "start": 229.16,
+      "end": 230.92,
       "text": "이런 질문을 하게 되는 때가 있잖아요."
     },
     {
-      "start": 80.36,
-      "end": 81.16,
+      "start": 231.14,
+      "end": 231.94,
       "text": "Do you have those times?"
     },
     {
-      "start": 81.4,
-      "end": 81.8,
+      "start": 232.18,
+      "end": 232.58,
       "text": "저요?"
     },
     {
-      "start": 82.04,
-      "end": 84.12,
+      "start": 232.82,
+      "end": 234.9,
       "text": "When you get up and look in the mirror in the morning."
     },
     {
-      "start": 84.28,
-      "end": 85.12,
+      "start": 235.06,
+      "end": 235.9,
       "text": "What am I doing?"
     },
     {
-      "start": 85.6,
-      "end": 87.02,
+      "start": 236.38,
+      "end": 237.8,
       "text": "가끔 그럴 때 있는 것 같아요."
     },
     {
-      "start": 87.48,
-      "end": 89.5,
+      "start": 238.26,
+      "end": 240.28,
       "text": "언제라고 딱 꼬집어 이야기할 수는 없지만"
     },
     {
-      "start": 89.5,
-      "end": 90.96,
+      "start": 240.28,
+      "end": 241.74,
       "text": "있었던 적이 있었어요."
     },
     {
-      "start": 91.96,
-      "end": 94.4,
+      "start": 242.74,
+      "end": 245.18,
       "text": "공허함도 느끼게 되는 순간이 있죠."
     },
     {
-      "start": 94.9,
-      "end": 95.42,
+      "start": 245.68,
+      "end": 246.2,
       "text": "인간인지라."
     },
     {
-      "start": 95.86,
-      "end": 97.28,
+      "start": 246.64,
+      "end": 248.06,
       "text": "그런데, fortunately,"
     },
     {
-      "start": 97.86,
-      "end": 100.18,
+      "start": 248.64,
+      "end": 250.96,
       "text": "Bernadette found herself again in Antarctica."
     },
     {
-      "start": 100.18,
-      "end": 100.82,
+      "start": 250.96,
+      "end": 251.6,
       "text": "Yes."
     },
     {
-      "start": 100.98,
-      "end": 101.22,
+      "start": 251.76,
+      "end": 252.0,
       "text": "Yeah."
     },
     {
-      "start": 101.54,
-      "end": 103.84,
+      "start": 252.32,
+      "end": 254.62,
       "text": "She did go to Antarctica by herself."
     },
     {
-      "start": 104.52,
-      "end": 106.28,
+      "start": 255.3,
+      "end": 257.06,
       "text": "And she went to find herself."
     },
     {
-      "start": 106.76,
-      "end": 108.6,
+      "start": 257.54,
+      "end": 259.38,
       "text": "And she became creative again."
     },
     {
-      "start": 108.74,
-      "end": 109.08,
+      "start": 259.52,
+      "end": 259.86,
       "text": "Yeah."
     },
     {
-      "start": 109.24,
-      "end": 111.38,
+      "start": 260.02,
+      "end": 262.16,
       "text": "She found another architectural project"
     },
     {
-      "start": 111.38,
-      "end": 112.6,
+      "start": 262.16,
+      "end": 263.38,
       "text": "and started working."
     },
     {
-      "start": 112.86,
-      "end": 114.04,
+      "start": 263.64,
+      "end": 264.82,
       "text": "And she was so happy."
     },
     {
-      "start": 114.2,
-      "end": 114.46,
+      "start": 264.98,
+      "end": 265.24,
       "text": "Yeah."
     },
     {
-      "start": 114.46,
-      "end": 118.14,
+      "start": 265.24,
+      "end": 268.92,
       "text": "그러면 크리스 씨는 가고 싶은 여행지가 있어요?"
     },
     {
-      "start": 118.24,
-      "end": 118.76,
+      "start": 269.02,
+      "end": 269.54,
       "text": "막연함에?"
     },
     {
-      "start": 119.36,
-      "end": 120.28,
+      "start": 270.14,
+      "end": 271.06,
       "text": "막연하게나마?"
     },
     {
-      "start": 120.58,
-      "end": 122.42,
+      "start": 271.36,
+      "end": 273.2,
       "text": "아, 막연하게나마?"
     },
     {
-      "start": 122.5,
-      "end": 123.06,
+      "start": 273.28,
+      "end": 273.84,
       "text": "네, 네, 네."
     },
     {
-      "start": 123.1,
-      "end": 124.22,
+      "start": 273.88,
+      "end": 275.0,
       "text": "Just for fun."
     },
     {
-      "start": 124.38,
-      "end": 125.32,
+      "start": 275.16,
+      "end": 276.1,
       "text": "그냥 만약에."
     },
     {
-      "start": 125.38,
-      "end": 126.84,
+      "start": 276.16,
+      "end": 277.62,
       "text": "If I could go by myself."
     },
     {
-      "start": 126.94,
-      "end": 128.06,
+      "start": 277.72,
+      "end": 278.84,
       "text": "Just leave my family?"
     },
     {
-      "start": 128.66,
-      "end": 129.18,
+      "start": 279.44,
+      "end": 279.96,
       "text": "Yeah."
     },
     {
-      "start": 129.38,
-      "end": 130.14,
+      "start": 280.16,
+      "end": 280.92,
       "text": "Go all by myself?"
     },
     {
-      "start": 130.9,
-      "end": 131.38,
+      "start": 281.68,
+      "end": 282.16,
       "text": "Wow."
     },
     {
-      "start": 131.54,
-      "end": 131.78,
+      "start": 282.32,
+      "end": 282.56,
       "text": "Wow."
     },
     {
-      "start": 132.14,
-      "end": 132.82,
+      "start": 282.92,
+      "end": 283.6,
       "text": "너무 좋아하는 거 아니에요?"
     },
     {
-      "start": 133.02,
-      "end": 134.02,
+      "start": 283.8,
+      "end": 284.8,
       "text": "That makes me excited."
     },
     {
-      "start": 134.12,
-      "end": 135.14,
+      "start": 284.9,
+      "end": 285.92,
       "text": "Just thinking about that."
     },
     {
-      "start": 135.22,
-      "end": 136.02,
+      "start": 286.0,
+      "end": 286.8,
       "text": "Where would I go?"
     },
     {
-      "start": 136.34,
-      "end": 137.26,
+      "start": 287.12,
+      "end": 288.04,
       "text": "I would probably,"
     },
     {
-      "start": 137.38,
-      "end": 138.36,
+      "start": 288.16,
+      "end": 289.14,
       "text": "well, to find myself"
     },
     {
-      "start": 138.36,
-      "end": 140.38,
+      "start": 289.14,
+      "end": 291.16,
       "text": "in a philosophical way,"
     },
     {
-      "start": 140.38,
-      "end": 142.5,
+      "start": 291.16,
+      "end": 293.28,
       "text": "I would probably go back home"
     },
     {
-      "start": 142.5,
-      "end": 144.56,
+      "start": 293.28,
+      "end": 295.34,
       "text": "or back to my original country,"
     },
     {
-      "start": 144.96,
-      "end": 145.54,
+      "start": 295.74,
+      "end": 296.32,
       "text": "the USA,"
     },
     {
-      "start": 145.78,
-      "end": 148.64,
+      "start": 296.56,
+      "end": 299.42,
       "text": "because you can find yourself at home"
     },
     {
-      "start": 148.64,
-      "end": 150.42,
+      "start": 299.42,
+      "end": 301.2,
       "text": "and I would probably"
     },
     {
-      "start": 150.42,
-      "end": 152.98,
+      "start": 301.2,
+      "end": 303.76,
       "text": "take a long cross-country trip"
     },
     {
-      "start": 152.98,
-      "end": 156.22,
+      "start": 303.76,
+      "end": 307.0,
       "text": "and meet family and friends on the way"
     },
     {
-      "start": 156.22,
-      "end": 158.02,
+      "start": 307.0,
+      "end": 308.8,
       "text": "or just take them with me"
     },
     {
-      "start": 158.02,
-      "end": 160.88,
+      "start": 308.8,
+      "end": 311.66,
       "text": "and walk and drive and hitchhike"
     },
     {
-      "start": 160.88,
-      "end": 162.9,
+      "start": 311.66,
+      "end": 313.68,
       "text": "and take many forms of transportation."
     },
     {
-      "start": 163.28,
-      "end": 166.68,
+      "start": 314.06,
+      "end": 317.46,
       "text": "와, 정말 다양한 일들을 할 수 있겠네요."
     },
     {
-      "start": 167.18,
-      "end": 169.12,
+      "start": 317.96,
+      "end": 319.9,
       "text": "미국이 워낙 넓으니까, 그렇죠?"
     },
     {
-      "start": 169.12,
-      "end": 170.84,
+      "start": 319.9,
+      "end": 321.62,
       "text": "Cross the country 하려면"
     },
     {
-      "start": 170.84,
-      "end": 171.96,
+      "start": 321.62,
+      "end": 322.74,
       "text": "정말 오래 걸리겠어요."
     },
     {
-      "start": 172.02,
-      "end": 173.78,
+      "start": 322.8,
+      "end": 324.56,
       "text": "I'm going to need at least a year."
     },
     {
-      "start": 174.32,
-      "end": 175.3,
+      "start": 325.1,
+      "end": 326.08,
       "text": "I'm going to take a year off."
     },
     {
-      "start": 175.38,
-      "end": 175.62,
+      "start": 326.16,
+      "end": 326.4,
       "text": "그렇죠."
     },
     {
-      "start": 176.02,
-      "end": 176.82,
+      "start": 326.8,
+      "end": 327.6,
       "text": "완전 넓으니까."
     },
     {
-      "start": 176.84,
-      "end": 176.92,
+      "start": 327.62,
+      "end": 327.7,
       "text": "아, no, no."
     },
     {
-      "start": 177.1,
-      "end": 178.04,
+      "start": 327.88,
+      "end": 328.82,
       "text": "Family 파괴되니까."
     },
     {
-      "start": 178.26,
-      "end": 179.4,
+      "start": 329.04,
+      "end": 330.18,
       "text": "네, 안 가실 거죠?"
     },
     {
-      "start": 179.56,
-      "end": 180.0,
+      "start": 330.34,
+      "end": 330.78,
       "text": "Two weeks."
     },
     {
-      "start": 181.36,
-      "end": 181.92,
+      "start": 332.14,
+      "end": 332.7,
       "text": "좋아요."
     },
     {
-      "start": 182.14,
-      "end": 182.6,
+      "start": 332.92,
+      "end": 333.38,
       "text": "못 가요."
     },
     {
-      "start": 182.76,
-      "end": 183.54,
+      "start": 333.54,
+      "end": 334.32,
       "text": "아, 참."
     },
     {
-      "start": 183.64,
-      "end": 184.72,
+      "start": 334.42,
+      "end": 335.5,
       "text": "오늘 내용 듣고 오겠습니다."
     },
     {
-      "start": 185.4,
-      "end": 187.61,
+      "start": 336.18,
+      "end": 338.39,
       "text": "Everything's so screwed up."
     },
     {
-      "start": 188.27,
-      "end": 191.23,
+      "start": 339.05,
+      "end": 342.01,
       "text": "I am really, really sorry"
     },
     {
-      "start": 191.23,
-      "end": 193.55,
+      "start": 342.01,
+      "end": 344.33,
       "text": "about your house"
     },
     {
-      "start": 193.55,
-      "end": 195.68,
+      "start": 344.33,
+      "end": 346.46,
       "text": "and the sign."
     },
     {
-      "start": 197.01,
-      "end": 197.61,
+      "start": 347.79,
+      "end": 348.39,
       "text": "Don't worry."
     },
     {
-      "start": 198.03,
-      "end": 199.21,
+      "start": 348.81,
+      "end": 349.99,
       "text": "Nobody will look for me here."
     },
     {
-      "start": 200.56,
-      "end": 201.8,
+      "start": 351.34,
+      "end": 352.58,
       "text": "Look, I know I'm not your friend."
     },
     {
-      "start": 202.28,
-      "end": 203.06,
+      "start": 353.06,
+      "end": 353.84,
       "text": "I'm nobody's friend."
     },
     {
-      "start": 203.16,
-      "end": 203.78,
+      "start": 353.94,
+      "end": 354.56,
       "text": "Let's face it."
     },
     {
-      "start": 204.28,
-      "end": 206.58,
+      "start": 355.06,
+      "end": 357.36,
       "text": "But when I was running from my house,"
     },
     {
-      "start": 206.64,
-      "end": 208.64,
+      "start": 357.42,
+      "end": 359.42,
       "text": "I thought maybe I could come here."
     },
     {
-      "start": 209.57,
-      "end": 210.61,
+      "start": 360.35,
+      "end": 361.39,
       "text": "I have nowhere else to go."
     },
     {
-      "start": 211.27,
-      "end": 213.41,
+      "start": 362.05,
+      "end": 364.19,
       "text": "I don't know anyone in Seattle."
     },
     {
-      "start": 213.41,
-      "end": 217.1,
+      "start": 364.19,
+      "end": 367.88,
       "text": "네, 오늘은 가슴이 찡해지는 장면이었어요."
     },
     {
-      "start": 217.7,
-      "end": 221.02,
+      "start": 368.48,
+      "end": 371.8,
       "text": "She left her house through the bathroom's window."
     },
     {
-      "start": 221.14,
-      "end": 223.22,
+      "start": 371.92,
+      "end": 374.0,
       "text": "She escaped through the bathroom window."
     },
     {
-      "start": 223.28,
-      "end": 223.58,
+      "start": 374.06,
+      "end": 374.36,
       "text": "Yeah."
     },
     {
-      "start": 223.68,
-      "end": 224.54,
+      "start": 374.46,
+      "end": 375.32,
       "text": "I need to go to the bathroom."
     },
     {
-      "start": 224.84,
-      "end": 225.96,
+      "start": 375.62,
+      "end": 376.74,
       "text": "She never came back."
     },
     {
-      "start": 226.02,
-      "end": 226.26,
+      "start": 376.8,
+      "end": 377.04,
       "text": "그렇죠."
     },
     {
-      "start": 227.26,
-      "end": 228.98,
+      "start": 378.04,
+      "end": 379.76,
       "text": "화장실에 있는 창문을 통해서"
     },
     {
-      "start": 228.98,
-      "end": 232.04,
+      "start": 379.76,
+      "end": 382.82,
       "text": "이웃집 오드리네 집에 가가지고"
     },
     {
-      "start": 232.04,
-      "end": 233.28,
+      "start": 382.82,
+      "end": 384.06,
       "text": "문을 두드리고"
     },
     {
-      "start": 233.28,
-      "end": 236.76,
+      "start": 384.06,
+      "end": 387.54,
       "text": "또 지금 숨겨달라고 부탁하는 장면이었어요."
     },
     {
-      "start": 236.76,
-      "end": 237.68,
+      "start": 387.54,
+      "end": 388.46,
       "text": "And who is Audrey?"
     },
     {
-      "start": 238.08,
-      "end": 239.58,
+      "start": 388.86,
+      "end": 390.36,
       "text": "Audrey is that neighbor."
     },
     {
-      "start": 239.78,
-      "end": 241.12,
+      "start": 390.56,
+      "end": 391.9,
       "text": "That neighbor who"
     },
     {
-      "start": 241.12,
-      "end": 243.22,
+      "start": 391.9,
+      "end": 394.0,
       "text": "K-Pol 사건 당했던"
     },
     {
-      "start": 243.22,
-      "end": 244.56,
+      "start": 394.0,
+      "end": 395.34,
       "text": "That neighbor,"
     },
     {
-      "start": 244.72,
-      "end": 246.28,
+      "start": 395.5,
+      "end": 397.06,
       "text": "they are enemies."
     },
     {
-      "start": 246.28,
-      "end": 246.6,
+      "start": 397.06,
+      "end": 397.38,
       "text": "그렇죠."
     },
     {
-      "start": 247.16,
-      "end": 248.68,
+      "start": 397.94,
+      "end": 399.46,
       "text": "분명 평소에는"
     },
     {
-      "start": 248.68,
-      "end": 250.0,
+      "start": 399.46,
+      "end": 400.78,
       "text": "enemy였단 말이죠."
     },
     {
-      "start": 250.42,
-      "end": 251.14,
+      "start": 401.2,
+      "end": 401.92,
       "text": "근데 지금은"
     },
     {
-      "start": 251.14,
-      "end": 253.22,
+      "start": 401.92,
+      "end": 404.0,
       "text": "이렇게 도움을 구하고 있어요."
     },
     {
-      "start": 253.58,
-      "end": 254.54,
+      "start": 404.36,
+      "end": 405.32,
       "text": "이런 거 보면"
     },
     {
-      "start": 254.54,
-      "end": 258.36,
+      "start": 405.32,
+      "end": 409.14,
       "text": "완전 나쁜 적은 없는 것 같다라는 생각도 듭니다."
     },
     {
-      "start": 258.46,
-      "end": 259.42,
+      "start": 409.24,
+      "end": 410.2,
       "text": "That's a good point."
     },
     {
-      "start": 259.64,
-      "end": 259.68,
+      "start": 410.42,
+      "end": 410.46,
       "text": "그렇죠."
     },
     {
-      "start": 259.68,
-      "end": 261.5,
+      "start": 410.46,
+      "end": 412.28,
       "text": "Sometimes you need your enemies."
     },
     {
-      "start": 261.78,
-      "end": 263.9,
+      "start": 412.56,
+      "end": 414.68,
       "text": "Sometimes your enemies can be your friends."
     },
     {
-      "start": 264.02,
-      "end": 265.38,
+      "start": 414.8,
+      "end": 416.16,
       "text": "Depending on the situation."
     },
     {
-      "start": 265.58,
-      "end": 265.68,
+      "start": 416.36,
+      "end": 416.46,
       "text": "그렇죠."
     },
     {
-      "start": 266.08,
-      "end": 269.4,
+      "start": 416.86,
+      "end": 420.18,
       "text": "충분히 회복될 수 있는 상황들이 있는 것 같아요."
     },
     {
-      "start": 269.9,
-      "end": 271.38,
+      "start": 420.68,
+      "end": 422.16,
       "text": "자, 어떤 표현들이 있었나요?"
     },
     {
-      "start": 271.72,
-      "end": 272.48,
+      "start": 422.5,
+      "end": 423.26,
       "text": "Screwed up!"
     },
     {
-      "start": 272.7,
-      "end": 273.76,
+      "start": 423.48,
+      "end": 424.54,
       "text": "아, screwed up."
     },
     {
-      "start": 273.78,
-      "end": 274.82,
+      "start": 424.56,
+      "end": 425.6,
       "text": "This is a common expression."
     },
     {
-      "start": 275.02,
-      "end": 275.1,
+      "start": 425.8,
+      "end": 425.88,
       "text": "그렇죠."
     },
     {
-      "start": 275.24,
-      "end": 276.02,
+      "start": 426.02,
+      "end": 426.8,
       "text": "I screwed up."
     },
     {
-      "start": 276.86,
-      "end": 279.92,
+      "start": 427.64,
+      "end": 430.7,
       "text": "망쳤다, 엉망이 됐다 라는 의미였어요."
     },
     {
-      "start": 280.68,
-      "end": 281.8,
+      "start": 431.46,
+      "end": 432.58,
       "text": "Let's face it."
     },
     {
-      "start": 281.98,
-      "end": 283.92,
+      "start": 432.76,
+      "end": 434.7,
       "text": "페이스가 여기서는 동사로 쓰인 거죠."
     },
     {
-      "start": 284.06,
-      "end": 284.92,
+      "start": 434.84,
+      "end": 435.7,
       "text": "This is a good one too."
     },
     {
-      "start": 285.04,
-      "end": 285.3,
+      "start": 435.82,
+      "end": 436.08,
       "text": "그렇죠."
     },
     {
-      "start": 285.96,
-      "end": 288.78,
+      "start": 436.74,
+      "end": 439.56,
       "text": "직면하다라는 페이스라는 동사가 쓰였습니다."
     },
     {
-      "start": 288.78,
-      "end": 290.08,
+      "start": 439.56,
+      "end": 440.86,
       "text": "Let's face it."
     },
     {
-      "start": 290.58,
-      "end": 292.86,
+      "start": 441.36,
+      "end": 443.64,
       "text": "그것에 직면합시다 라는 거니까"
     },
     {
-      "start": 292.86,
-      "end": 294.1,
+      "start": 443.64,
+      "end": 444.88,
       "text": "뭐 인정할게요."
     },
     {
-      "start": 294.6,
-      "end": 297.04,
+      "start": 445.38,
+      "end": 447.82,
       "text": "아니면 frankly를 대신해서 쓸 수 있죠."
     },
     {
-      "start": 297.2,
-      "end": 298.04,
+      "start": 447.98,
+      "end": 448.82,
       "text": "아, 솔까말로."
     },
     {
-      "start": 298.22,
-      "end": 299.36,
+      "start": 449.0,
+      "end": 450.14,
       "text": "솔직하게 말하자."
     },
     {
-      "start": 299.38,
-      "end": 300.08,
+      "start": 450.16,
+      "end": 450.86,
       "text": "깜짝아."
     },
     {
-      "start": 300.72,
-      "end": 301.78,
+      "start": 451.5,
+      "end": 452.56,
       "text": "예상치 못한 표현이었어요."
     },
     {
-      "start": 302.42,
-      "end": 303.18,
+      "start": 453.2,
+      "end": 453.96,
       "text": "그 말이에요."
     },
     {
-      "start": 303.28,
-      "end": 304.16,
+      "start": 454.06,
+      "end": 454.94,
       "text": "Hey, let's face it."
     },
     {
-      "start": 304.24,
-      "end": 304.62,
+      "start": 455.02,
+      "end": 455.4,
       "text": "아, 네."
     },
     {
-      "start": 305.46,
-      "end": 307.1,
+      "start": 456.24,
+      "end": 457.88,
       "text": "제가 유행어를 더 모르는 것 같아요."
     },
     {
-      "start": 307.38,
-      "end": 308.68,
+      "start": 458.16,
+      "end": 459.46,
       "text": "아, 유행어인가?"
     },
     {
-      "start": 308.74,
-      "end": 309.26,
+      "start": 459.52,
+      "end": 460.04,
       "text": "솔까?"
     },
     {
-      "start": 309.84,
-      "end": 310.56,
+      "start": 460.62,
+      "end": 461.34,
       "text": "솔까예요?"
     },
     {
-      "start": 310.82,
-      "end": 311.04,
+      "start": 461.6,
+      "end": 461.82,
       "text": "예."
     },
     {
-      "start": 311.34,
-      "end": 313.04,
+      "start": 462.12,
+      "end": 463.82,
       "text": "솔직하게 말하자면 이거죠?"
     },
     {
-      "start": 313.12,
-      "end": 313.78,
+      "start": 463.9,
+      "end": 464.56,
       "text": "솔까말로."
     },
     {
-      "start": 314.02,
-      "end": 315.26,
+      "start": 464.8,
+      "end": 466.04,
       "text": "Yes, that one."
     },
     {
-      "start": 315.38,
-      "end": 315.94,
+      "start": 466.16,
+      "end": 466.72,
       "text": "아, 정말."
     },
     {
-      "start": 316.06,
-      "end": 317.4,
+      "start": 466.84,
+      "end": 468.18,
       "text": "Let's face it 하고 똑같아요."
     },
     {
-      "start": 317.4,
-      "end": 317.72,
+      "start": 468.18,
+      "end": 468.5,
       "text": "네."
     },
     {
-      "start": 317.72,
-      "end": 318.2,
+      "start": 468.5,
+      "end": 468.98,
       "text": "뉘앙스."
     },
     {
-      "start": 318.78,
-      "end": 319.88,
+      "start": 469.56,
+      "end": 470.66,
       "text": "Come on, let's face it."
     },
     {
-      "start": 319.92,
-      "end": 320.82,
+      "start": 470.7,
+      "end": 471.6,
       "text": "I'm getting old."
     },
     {
-      "start": 322.88,
-      "end": 323.78,
+      "start": 473.66,
+      "end": 474.56,
       "text": "뭐로 할까?"
     },
     {
-      "start": 325.08,
-      "end": 325.48,
+      "start": 475.86,
+      "end": 476.26,
       "text": "뉘앙스."
     },
     {
-      "start": 325.48,
-      "end": 325.64,
+      "start": 476.26,
+      "end": 476.42,
       "text": "뉘앙스."
     },
     {
-      "start": 325.64,
-      "end": 326.04,
+      "start": 476.42,
+      "end": 476.82,
       "text": "뉘앙스."
     },
     {
-      "start": 326.04,
-      "end": 326.24,
+      "start": 476.82,
+      "end": 477.02,
       "text": "뉘앙스."
     },
     {
-      "start": 326.24,
-      "end": 326.36,
+      "start": 477.02,
+      "end": 477.14,
       "text": "뉘앙스."
     },
     {
-      "start": 326.36,
-      "end": 326.52,
+      "start": 477.14,
+      "end": 477.3,
       "text": "뉘앙스."
     },
     {
-      "start": 326.52,
-      "end": 326.76,
+      "start": 477.3,
+      "end": 477.54,
       "text": "뉘앙스."
     },
     {
-      "start": 326.76,
-      "end": 326.86,
+      "start": 477.54,
+      "end": 477.64,
       "text": "뉘앙스."
     },
     {
-      "start": 326.86,
-      "end": 329.4,
+      "start": 477.64,
+      "end": 480.18,
       "text": "정말, let's face it 해야 되겠네요."
     },
     {
-      "start": 329.6,
-      "end": 331.02,
+      "start": 480.38,
+      "end": 481.8,
       "text": "Let's face reality."
     },
     {
-      "start": 332.23,
-      "end": 333.59,
+      "start": 483.01,
+      "end": 484.37,
       "text": "Nowhere else to go."
     },
     {
-      "start": 333.83,
-      "end": 335.49,
+      "start": 484.61,
+      "end": 486.27,
       "text": "Nowhere else to go."
     },
     {
-      "start": 335.61,
-      "end": 339.19,
+      "start": 486.39,
+      "end": 489.97,
       "text": "라고 했으니까 달리 갈 곳 없는 이라는 의미입니다."
     },
     {
-      "start": 339.67,
-      "end": 341.59,
+      "start": 490.45,
+      "end": 492.37,
       "text": "자, 오늘 장면 한 번 더 들어볼게요."
     },
     {
-      "start": 341.59,
-      "end": 344.39,
+      "start": 492.37,
+      "end": 495.17,
       "text": "Everything's so screwed up."
     },
     {
-      "start": 344.39,
-      "end": 352.43,
+      "start": 495.17,
+      "end": 503.21,
       "text": "I am really, really sorry about your house and the sign."
     },
     {
-      "start": 353.56,
-      "end": 354.38,
+      "start": 504.34,
+      "end": 505.16,
       "text": "Don't worry."
     },
     {
-      "start": 354.82,
-      "end": 355.96,
+      "start": 505.6,
+      "end": 506.74,
       "text": "Nobody will look for me here."
     },
     {
-      "start": 356.96,
-      "end": 358.61,
+      "start": 507.74,
+      "end": 509.39,
       "text": "Look, I know I'm not your friend."
     },
     {
-      "start": 358.99,
-      "end": 359.85,
+      "start": 509.77,
+      "end": 510.63,
       "text": "I'm nobody's friend."
     },
     {
-      "start": 359.93,
-      "end": 360.55,
+      "start": 510.71,
+      "end": 511.33,
       "text": "Let's face it."
     },
     {
-      "start": 360.55,
-      "end": 365.43,
+      "start": 511.33,
+      "end": 516.21,
       "text": "But when I was running from my house, I thought maybe I could come here."
     },
     {
-      "start": 366.39,
-      "end": 367.39,
+      "start": 517.17,
+      "end": 518.17,
       "text": "I have nowhere else to go."
     },
     {
-      "start": 368.05,
-      "end": 370.19,
+      "start": 518.83,
+      "end": 520.97,
       "text": "I don't know anyone in Seattle."
     },
     {
-      "start": 371.22,
-      "end": 372.84,
+      "start": 522.0,
+      "end": 523.62,
       "text": "I fell for her."
     },
     {
-      "start": 373.4,
-      "end": 374.76,
+      "start": 524.18,
+      "end": 525.54,
       "text": "I fell for her too."
     },
     {
-      "start": 375.0,
-      "end": 377.9,
+      "start": 525.78,
+      "end": 528.68,
       "text": "She's going through a really, really hard and difficult time."
     },
     {
-      "start": 377.9,
-      "end": 380.92,
+      "start": 528.68,
+      "end": 531.7,
       "text": "Yeah, 진심을 전하고 있는 장면입니다."
     },
     {
-      "start": 381.52,
-      "end": 383.3,
+      "start": 532.3,
+      "end": 534.08,
       "text": "Bernadette이 뭐라고 했는지 들어볼게요."
     },
     {
-      "start": 384.3,
-      "end": 386.3,
+      "start": 535.08,
+      "end": 537.08,
       "text": "Everything's so screwed up."
     },
     {
-      "start": 386.5,
-      "end": 386.78,
+      "start": 537.28,
+      "end": 537.56,
       "text": "그렇죠."
     },
     {
-      "start": 387.1,
-      "end": 389.22,
+      "start": 537.88,
+      "end": 540.0,
       "text": "모든 게 so screwed up."
     },
     {
-      "start": 389.58,
-      "end": 390.66,
+      "start": 540.36,
+      "end": 541.44,
       "text": "엉망이 됐어요."
     },
     {
-      "start": 390.78,
-      "end": 391.86,
+      "start": 541.56,
+      "end": 542.64,
       "text": "라는 문장이었고요."
     },
     {
-      "start": 392.28,
-      "end": 395.98,
+      "start": 543.06,
+      "end": 546.76,
       "text": "여기에서 screwed up이라는 부분에 철자가 어떻게 생겼냐면"
     },
     {
-      "start": 395.98,
-      "end": 402.78,
+      "start": 546.76,
+      "end": 553.56,
       "text": "s-c-r-e-w-e-d 라고 해서 지금 pp 형태로 나와 있는 경우입니다."
     },
     {
-      "start": 402.9,
-      "end": 403.96,
+      "start": 553.68,
+      "end": 554.74,
       "text": "엄청 많이 씁니다."
     },
     {
-      "start": 404.22,
-      "end": 405.28,
+      "start": 555.0,
+      "end": 556.06,
       "text": "시험 망칠 때도."
     },
     {
-      "start": 405.48,
-      "end": 405.8,
+      "start": 556.26,
+      "end": 556.58,
       "text": "Yeah."
     },
     {
-      "start": 406.16,
-      "end": 407.16,
+      "start": 556.94,
+      "end": 557.94,
       "text": "I screwed up."
     },
     {
-      "start": 407.16,
-      "end": 408.88,
+      "start": 557.94,
+      "end": 559.66,
       "text": "Oh, 생각만 해도 슬프네요."
     },
     {
-      "start": 409.88,
-      "end": 411.18,
+      "start": 560.66,
+      "end": 561.96,
       "text": "다 그럴 때가 있어요."
     },
     {
-      "start": 411.36,
-      "end": 411.92,
+      "start": 562.14,
+      "end": 562.7,
       "text": "그럼요."
     },
     {
-      "start": 412.02,
-      "end": 414.86,
+      "start": 562.8,
+      "end": 565.64,
       "text": "I studied hard, but I really screwed up on that test."
     },
     {
-      "start": 414.98,
-      "end": 416.94,
+      "start": 565.76,
+      "end": 567.72,
       "text": "Yeah, 굉장히 실용적인 표현입니다."
     },
     {
-      "start": 417.72,
-      "end": 421.82,
+      "start": 568.5,
+      "end": 572.6,
       "text": "I am really, really sorry about your house and the sign."
     },
     {
-      "start": 421.82,
-      "end": 426.56,
+      "start": 572.6,
+      "end": 577.34,
       "text": "네, 그러면서 전에 있었던 일들에 대해서 사과를 진심으로 하고 있어요."
     },
     {
-      "start": 426.96,
-      "end": 429.86,
+      "start": 577.74,
+      "end": 580.64,
       "text": "I'm really, really sorry about your house and the sign."
     },
     {
-      "start": 430.32,
-      "end": 434.72,
+      "start": 581.1,
+      "end": 585.5,
       "text": "당신의 집과 그 sign, 표지판에 대해서 정말, 정말, 정말 미안해요."
     },
     {
-      "start": 434.72,
-      "end": 435.96,
+      "start": 585.5,
+      "end": 586.74,
       "text": "Don't worry."
     },
     {
-      "start": 436.46,
-      "end": 437.88,
+      "start": 587.24,
+      "end": 588.66,
       "text": "Nobody will look for me here."
     },
     {
-      "start": 437.88,
-      "end": 442.82,
+      "start": 588.66,
+      "end": 593.6,
       "text": "그럴 때 이제 Audrey가요, 바깥에 창문을 막 살펴보고 있었거든요."
     },
     {
-      "start": 443.04,
-      "end": 443.74,
+      "start": 593.82,
+      "end": 594.52,
       "text": "Uh-oh. Who's coming for her?"
     },
     {
-      "start": 443.94,
-      "end": 444.68,
+      "start": 594.72,
+      "end": 595.46,
       "text": "Is someone coming?"
     },
     {
-      "start": 444.88,
-      "end": 445.88,
+      "start": 595.66,
+      "end": 596.66,
       "text": "네, 두려우니까."
     },
     {
-      "start": 446.2,
-      "end": 446.66,
+      "start": 596.98,
+      "end": 597.44,
       "text": "Don't worry."
     },
     {
-      "start": 446.78,
-      "end": 447.86,
+      "start": 597.56,
+      "end": 598.64,
       "text": "걱정하지 마요, Audrey."
     },
     {
-      "start": 448.14,
-      "end": 449.98,
+      "start": 598.92,
+      "end": 600.76,
       "text": "Nobody will look for me here."
     },
     {
-      "start": 450.82,
-      "end": 454.24,
+      "start": 601.6,
+      "end": 605.02,
       "text": "아무도 내가 여기 있는 거 찾지 않을 거예요."
     },
     {
-      "start": 454.24,
-      "end": 455.0,
+      "start": 605.02,
+      "end": 605.78,
       "text": "모를 거예요."
     },
     {
-      "start": 455.14,
-      "end": 458.16,
+      "start": 605.92,
+      "end": 608.94,
       "text": "She knows that everyone knows that they're enemies."
     },
     {
-      "start": 458.4,
-      "end": 460.12,
+      "start": 609.18,
+      "end": 610.9,
       "text": "Why would she go to her enemy's house?"
     },
     {
-      "start": 461.57,
-      "end": 463.83,
+      "start": 612.35,
+      "end": 614.61,
       "text": "Look, I know I'm not your friend."
     },
     {
-      "start": 464.63,
-      "end": 465.23,
+      "start": 615.41,
+      "end": 616.01,
       "text": "알아요."
     },
     {
-      "start": 465.71,
-      "end": 467.15,
+      "start": 616.49,
+      "end": 617.93,
       "text": "난 당신의 친구가 아니죠."
     },
     {
-      "start": 467.63,
-      "end": 469.09,
+      "start": 618.41,
+      "end": 619.87,
       "text": "I'm nobody's friend."
     },
     {
-      "start": 469.45,
-      "end": 470.27,
+      "start": 620.23,
+      "end": 621.05,
       "text": "Let's face it."
     },
     {
-      "start": 470.83,
-      "end": 471.47,
+      "start": 621.61,
+      "end": 622.25,
       "text": "슬픕니다."
     },
     {
-      "start": 471.81,
-      "end": 473.03,
+      "start": 622.59,
+      "end": 623.81,
       "text": "I'm nobody's friend."
     },
     {
-      "start": 473.45,
-      "end": 475.29,
+      "start": 624.23,
+      "end": 626.07,
       "text": "나는 누구와도 친구가 아니죠."
     },
     {
-      "start": 475.49,
-      "end": 476.37,
+      "start": 626.27,
+      "end": 627.15,
       "text": "Let's face it."
     },
     {
-      "start": 477.23,
-      "end": 477.91,
+      "start": 628.01,
+      "end": 628.69,
       "text": "인정할게요."
     },
     {
-      "start": 478.23,
-      "end": 478.55,
+      "start": 629.01,
+      "end": 629.33,
       "text": "솔직히."
     },
     {
-      "start": 478.55,
-      "end": 484.51,
+      "start": 629.33,
+      "end": 635.29,
       "text": "But, when I was running from my house, I thought maybe I could come here."
     },
     {
-      "start": 485.31,
-      "end": 491.97,
+      "start": 636.09,
+      "end": 642.75,
       "text": "But, 하지만, when I was running from my house, 내가 집에서 도망쳐 나올 때, I thought, 난 생각했어요."
     },
     {
-      "start": 492.21,
-      "end": 494.73,
+      "start": 642.99,
+      "end": 645.51,
       "text": "Maybe, 아마도, I could come here."
     },
     {
-      "start": 495.13,
-      "end": 498.03,
+      "start": 645.91,
+      "end": 648.81,
       "text": "내가 여기로 오면 되겠다, 라는 생각을 했어요."
     },
     {
-      "start": 498.51,
-      "end": 499.91,
+      "start": 649.29,
+      "end": 650.69,
       "text": "I have nowhere else to go."
     },
     {
-      "start": 500.55,
-      "end": 502.21,
+      "start": 651.33,
+      "end": 652.99,
       "text": "달리 갈 데가 없더라고요."
     },
     {
-      "start": 502.55,
-      "end": 504.43,
+      "start": 653.33,
+      "end": 655.21,
       "text": "I have nowhere else to go."
     },
     {
-      "start": 504.43,
-      "end": 505.47,
+      "start": 655.21,
+      "end": 656.25,
       "text": "No friends."
     },
     {
-      "start": 505.89,
-      "end": 506.75,
+      "start": 656.67,
+      "end": 657.53,
       "text": "Nowhere else to go."
     },
     {
-      "start": 507.13,
-      "end": 508.07,
+      "start": 657.91,
+      "end": 658.85,
       "text": "She is desperate."
     },
     {
-      "start": 508.65,
-      "end": 509.37,
+      "start": 659.43,
+      "end": 660.15,
       "text": "Poor lady."
     },
     {
-      "start": 510.19,
-      "end": 512.25,
+      "start": 660.97,
+      "end": 663.03,
       "text": "I don't know anyone in Seattle."
     },
     {
-      "start": 512.47,
-      "end": 515.19,
+      "start": 663.25,
+      "end": 665.97,
       "text": "네, 그러면서, I don't know anyone in Seattle."
     },
     {
-      "start": 515.63,
-      "end": 518.11,
+      "start": 666.41,
+      "end": 668.89,
       "text": "나는 시애틀에 아는 사람이 한 명도 없어요."
     },
     {
-      "start": 518.49,
-      "end": 519.23,
+      "start": 669.27,
+      "end": 670.01,
       "text": "라고 이야기합니다."
     },
     {
-      "start": 519.37,
-      "end": 520.11,
+      "start": 670.15,
+      "end": 670.89,
       "text": "In the whole city."
     },
     {
-      "start": 520.37,
-      "end": 523.31,
+      "start": 671.15,
+      "end": 674.09,
       "text": "네, 이 말을 듣고서 오드리의 표정 보셨어요?"
     },
     {
-      "start": 523.45,
-      "end": 523.99,
+      "start": 674.23,
+      "end": 674.77,
       "text": "기억나세요?"
     },
     {
-      "start": 524.57,
-      "end": 527.85,
+      "start": 675.35,
+      "end": 678.63,
       "text": "오드리도 저처럼 fell for her 한 것 같았어요."
     },
     {
-      "start": 527.97,
-      "end": 528.41,
+      "start": 678.75,
+      "end": 679.19,
       "text": "Yes."
     },
     {
-      "start": 528.91,
-      "end": 535.83,
+      "start": 679.69,
+      "end": 686.61,
       "text": "You know, when we are vulnerable, when we show our vulnerabilities, even our enemy might feel sorry for us."
     },
     {
-      "start": 535.83,
-      "end": 539.27,
+      "start": 686.61,
+      "end": 690.05,
       "text": "그래서, so let her in, her house."
     },
     {
-      "start": 539.37,
-      "end": 539.61,
+      "start": 690.15,
+      "end": 690.39,
       "text": "Yes."
     },
     {
-      "start": 539.79,
-      "end": 541.71,
+      "start": 690.57,
+      "end": 692.49,
       "text": "Opened her heart and her door."
     },
     {
-      "start": 541.89,
-      "end": 543.13,
+      "start": 692.67,
+      "end": 693.91,
       "text": "Okay, you can stay."
     },
     {
-      "start": 543.33,
-      "end": 544.67,
+      "start": 694.11,
+      "end": 695.45,
       "text": "네, 그래서 지켜줬죠."
     },
     {
-      "start": 544.79,
-      "end": 545.55,
+      "start": 695.57,
+      "end": 696.33,
       "text": "보호해줬죠."
     },
     {
-      "start": 546.01,
-      "end": 547.59,
+      "start": 696.79,
+      "end": 698.37,
       "text": "자, 이 장면 한 번 더 들어보겠습니다."
     },
     {
-      "start": 547.59,
-      "end": 550.59,
+      "start": 698.37,
+      "end": 701.37,
       "text": "Everything's so screwed up."
     },
     {
-      "start": 551.13,
-      "end": 558.64,
+      "start": 701.91,
+      "end": 709.42,
       "text": "I am really, really sorry about your house and the sign."
     },
     {
-      "start": 559.46,
-      "end": 560.56,
+      "start": 710.24,
+      "end": 711.34,
       "text": "Don't worry."
     },
     {
-      "start": 561.0,
-      "end": 562.14,
+      "start": 711.78,
+      "end": 712.92,
       "text": "Nobody will look for me here."
     },
     {
-      "start": 563.58,
-      "end": 564.78,
+      "start": 714.36,
+      "end": 715.56,
       "text": "Look, I know I'm not your friend."
     },
     {
-      "start": 565.24,
-      "end": 566.02,
+      "start": 716.02,
+      "end": 716.8,
       "text": "I'm nobody's friend."
     },
     {
-      "start": 566.12,
-      "end": 566.7,
+      "start": 716.9,
+      "end": 717.48,
       "text": "Let's face it."
     },
     {
-      "start": 567.24,
-      "end": 571.6,
+      "start": 718.02,
+      "end": 722.38,
       "text": "But when I was running from my house, I thought maybe I could come here."
     },
     {
-      "start": 572.56,
-      "end": 573.56,
+      "start": 723.34,
+      "end": 724.34,
       "text": "I have nowhere else to go."
     },
     {
-      "start": 574.2,
-      "end": 576.36,
+      "start": 724.98,
+      "end": 727.14,
       "text": "I don't know anyone in Seattle."
     },
     {
-      "start": 576.36,
-      "end": 581.12,
+      "start": 727.14,
+      "end": 731.9,
       "text": "네, 9637님께서요."
     },
     {
-      "start": 581.52,
-      "end": 587.42,
+      "start": 732.3,
+      "end": 738.2,
       "text": "크리스님, 지난번 마지막에 인사하실 때 Wonderful day! 라고 하셨잖아요."
     },
     {
-      "start": 588.26,
-      "end": 592.7,
+      "start": 739.04,
+      "end": 743.48,
       "text": "진짜 요즘 괜히 울적하고 힘들었는데 그 말 듣고 힘이 났어요."
     },
     {
-      "start": 593.62,
-      "end": 598.36,
+      "start": 744.4,
+      "end": 749.14,
       "text": "새벽 운동하면서 듣다가 멋진 하루가 돼보자고 계속 생각했네요."
     },
     {
-      "start": 598.64,
-      "end": 599.7,
+      "start": 749.42,
+      "end": 750.48,
       "text": "오늘도 화이팅 할게요."
     },
     {
-      "start": 599.92,
-      "end": 601.28,
+      "start": 750.7,
+      "end": 752.06,
       "text": "I'm really glad to hear that."
     },
     {
-      "start": 601.38,
-      "end": 602.44,
+      "start": 752.16,
+      "end": 753.22,
       "text": "오늘도 화이팅 합시다."
     },
     {
-      "start": 602.44,
-      "end": 607.44,
+      "start": 753.22,
+      "end": 758.22,
       "text": "네, 정말 이 말 한마디에 우리의 진심이 담기지 않습니까?"
     },
     {
-      "start": 607.84,
-      "end": 609.44,
+      "start": 758.62,
+      "end": 760.22,
       "text": "오늘도 외쳐주세요."
     },
     {
-      "start": 609.74,
-      "end": 610.8,
+      "start": 760.52,
+      "end": 761.58,
       "text": "Have a wonderful day!"
     },
     {
-      "start": 610.94,
-      "end": 611.72,
+      "start": 761.72,
+      "end": 762.5,
       "text": "Have a wonderful!"
     },
     {
-      "start": 612.26,
-      "end": 612.84,
+      "start": 763.04,
+      "end": 763.62,
       "text": "Brilliant!"
     },
     {
-      "start": 613.34,
-      "end": 614.38,
+      "start": 764.12,
+      "end": 765.16,
       "text": "Amazing day!"
     },
     {
-      "start": 614.5,
-      "end": 615.88,
+      "start": 765.28,
+      "end": 766.66,
       "text": "오늘 더 힘이 나시죠?"
     },
     {
-      "start": 616.3,
-      "end": 618.3,
+      "start": 767.08,
+      "end": 769.08,
       "text": "오늘 스크린 잉글리쉬는 여기까지입니다."
     }
   ]
