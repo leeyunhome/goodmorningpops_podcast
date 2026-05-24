@@ -1,0 +1,777 @@
+{
+  "id": "2023-05-28_review_time_screen",
+  "date": "2023-05-28",
+  "corner": "review_time_screen",
+  "corner_label": "Review Time Screen",
+  "title": "",
+  "movie": "",
+  "duration_sec": 310.15,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-28_review_time_screen.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 4.55,
+      "text": "네, 이제 리뷰타임 수요일 장면은"
+    },
+    {
+      "start": 4.55,
+      "end": 6.67,
+      "text": "노래 한 곡 듣고 다시 만나보겠습니다."
+    },
+    {
+      "start": 7.41,
+      "end": 9.03,
+      "text": "Elvis Costello의 She"
+    },
+    {
+      "start": 9.03,
+      "end": 13.43,
+      "text": "여러분은 지금 KBS 라디오 조정현의 Good Morning Pops"
+    },
+    {
+      "start": 13.43,
+      "end": 14.83,
+      "text": "함께하고 계십니다."
+    },
+    {
+      "start": 15.23,
+      "end": 18.99,
+      "text": "계속해서 5월 24일 수요일에 만나본 장면인데요."
+    },
+    {
+      "start": 19.85,
+      "end": 22.65,
+      "text": "학교에서 cheerleading 리허설을 하던 도중에"
+    },
+    {
+      "start": 22.65,
+      "end": 24.33,
+      "text": "부상자가 발생하게 됩니다."
+    },
+    {
+      "start": 25.13,
+      "end": 27.67,
+      "text": "결국 동아리를 계속 이어나갈지에 대해서"
+    },
+    {
+      "start": 27.67,
+      "end": 29.05,
+      "text": "투표를 하게 되죠."
+    },
+    {
+      "start": 29.05,
+      "end": 33.4,
+      "text": "Then let's put it to a vote"
+    },
+    {
+      "start": 33.4,
+      "end": 36.43,
+      "text": "Then let's put it to a vote"
+    },
+    {
+      "start": 36.43,
+      "end": 38.89,
+      "text": "이 중에 put it to a vote"
+    },
+    {
+      "start": 38.89,
+      "end": 41.73,
+      "text": "이 부분이 표결에 붙이다"
+    },
+    {
+      "start": 41.73,
+      "end": 44.27,
+      "text": "라고 쓰이는 동사 구입니다."
+    },
+    {
+      "start": 44.77,
+      "end": 45.55,
+      "text": "Put it to a vote"
+    },
+    {
+      "start": 45.55,
+      "end": 46.61,
+      "text": "Put it to a vote"
+    },
+    {
+      "start": 46.61,
+      "end": 48.47,
+      "text": "그 앞에다가 let's"
+    },
+    {
+      "start": 48.47,
+      "end": 50.21,
+      "text": "이거 하나만 덧붙인 거예요."
+    },
+    {
+      "start": 50.83,
+      "end": 51.87,
+      "text": "Let's put it to a vote"
+    },
+    {
+      "start": 51.87,
+      "end": 53.93,
+      "text": "그럼 표결에 붙이자"
+    },
+    {
+      "start": 53.93,
+      "end": 56.01,
+      "text": "라는 청유형 문장이었습니다."
+    },
+    {
+      "start": 56.77,
+      "end": 58.35,
+      "text": "이 부분 한 번 더 들어보시죠."
+    },
+    {
+      "start": 58.35,
+      "end": 60.35,
+      "text": "I blame myself"
+    },
+    {
+      "start": 60.35,
+      "end": 62.63,
+      "text": "I mean this is just the sort of thing"
+    },
+    {
+      "start": 62.63,
+      "end": 63.85,
+      "text": "that I knew would happen"
+    },
+    {
+      "start": 63.85,
+      "end": 66.53,
+      "text": "not only has one of our residents"
+    },
+    {
+      "start": 66.53,
+      "end": 68.89,
+      "text": "suffered a serious injury"
+    },
+    {
+      "start": 68.89,
+      "end": 70.89,
+      "text": "but now her son"
+    },
+    {
+      "start": 70.89,
+      "end": 73.09,
+      "text": "is threatening a lawsuit"
+    },
+    {
+      "start": 73.09,
+      "end": 75.51,
+      "text": "is there anything that you ladies"
+    },
+    {
+      "start": 75.51,
+      "end": 76.59,
+      "text": "care to say?"
+    },
+    {
+      "start": 76.85,
+      "end": 77.41,
+      "text": "No."
+    },
+    {
+      "start": 78.15,
+      "end": 79.87,
+      "text": "Then let's put it to a vote"
+    },
+    {
+      "start": 79.87,
+      "end": 82.65,
+      "text": "All of those in favor of the band"
+    },
+    {
+      "start": 82.65,
+      "end": 85.32,
+      "text": "It's unanimous"
+    },
+    {
+      "start": 85.32,
+      "end": 87.59,
+      "text": "You will hear by order"
+    },
+    {
+      "start": 87.59,
+      "end": 89.51,
+      "text": "to cease all club activities"
+    },
+    {
+      "start": 89.51,
+      "end": 91.09,
+      "text": "Thank you"
+    },
+    {
+      "start": 91.09,
+      "end": 94.54,
+      "text": "네, 다음으로는 5월 25일"
+    },
+    {
+      "start": 94.54,
+      "end": 96.1,
+      "text": "목요일에 함께한 표현인데요."
+    },
+    {
+      "start": 96.92,
+      "end": 98.72,
+      "text": "엎친 데 덮친 격으로"
+    },
+    {
+      "start": 98.72,
+      "end": 100.78,
+      "text": "cheerleading 클럽의 연습 영상이"
+    },
+    {
+      "start": 100.78,
+      "end": 102.38,
+      "text": "온라인상으로 퍼지게 되고"
+    },
+    {
+      "start": 102.38,
+      "end": 105.04,
+      "text": "많은 사람들로부터 조롱을 받게 됩니다."
+    },
+    {
+      "start": 105.5,
+      "end": 105.82,
+      "text": "그러나"
+    },
+    {
+      "start": 105.82,
+      "end": 107.36,
+      "text": "Marthorne와 Sheryl은"
+    },
+    {
+      "start": 107.36,
+      "end": 109.96,
+      "text": "영상을 찍은 클로이에게 찾아가서"
+    },
+    {
+      "start": 109.96,
+      "end": 112.7,
+      "text": "cheerleading 안무를 알려달라고 부탁하죠."
+    },
+    {
+      "start": 112.7,
+      "end": 117.33,
+      "text": "We're putting our squad back together"
+    },
+    {
+      "start": 117.33,
+      "end": 121.12,
+      "text": "We're putting our squad back together"
+    },
+    {
+      "start": 121.12,
+      "end": 123.16,
+      "text": "Squad라는 것이"
+    },
+    {
+      "start": 123.16,
+      "end": 127.0,
+      "text": "응원단, 집단, 팀이라는 뜻입니다."
+    },
+    {
+      "start": 127.44,
+      "end": 127.78,
+      "text": "그러니까"
+    },
+    {
+      "start": 127.78,
+      "end": 130.24,
+      "text": "We're putting our squad back together"
+    },
+    {
+      "start": 130.24,
+      "end": 133.04,
+      "text": "다시 조립하다 라고 할 때"
+    },
+    {
+      "start": 133.04,
+      "end": 134.28,
+      "text": "이렇게 put it back together"
+    },
+    {
+      "start": 134.28,
+      "end": 136.48,
+      "text": "이라는 동사구를 활용을 하거든요."
+    },
+    {
+      "start": 137.68,
+      "end": 140.1,
+      "text": "팀원들을 다시 불러 모을 거야"
+    },
+    {
+      "start": 140.1,
+      "end": 141.78,
+      "text": "라는 해석이 되는 거죠."
+    },
+    {
+      "start": 142.48,
+      "end": 144.48,
+      "text": "아주 멋진 할머니들이었습니다."
+    },
+    {
+      "start": 144.48,
+      "end": 146.18,
+      "text": "그럼 한 번 더 확인해 보시죠."
+    },
+    {
+      "start": 146.8,
+      "end": 148.5,
+      "text": "I didn't know they were going to post it."
+    },
+    {
+      "start": 148.52,
+      "end": 149.4,
+      "text": "I promise."
+    },
+    {
+      "start": 149.68,
+      "end": 151.5,
+      "text": "God, you must hate me."
+    },
+    {
+      "start": 151.76,
+      "end": 153.4,
+      "text": "Oh, we don't hate you."
+    },
+    {
+      "start": 154.36,
+      "end": 155.97,
+      "text": "Actually, we need you."
+    },
+    {
+      "start": 156.97,
+      "end": 158.2,
+      "text": "For what?"
+    },
+    {
+      "start": 158.88,
+      "end": 160.22,
+      "text": "Well, we want you to be our choreographer."
+    },
+    {
+      "start": 160.94,
+      "end": 161.18,
+      "text": "Yeah."
+    },
+    {
+      "start": 161.82,
+      "end": 162.38,
+      "text": "That's right."
+    },
+    {
+      "start": 162.72,
+      "end": 165.12,
+      "text": "We're putting our squad back together."
+    },
+    {
+      "start": 165.3,
+      "end": 166.26,
+      "text": "And as you may have noticed,"
+    },
+    {
+      "start": 166.36,
+      "end": 167.64,
+      "text": "we have a few rough edges,"
+    },
+    {
+      "start": 167.76,
+      "end": 168.68,
+      "text": "but we've seen you."
+    },
+    {
+      "start": 168.76,
+      "end": 169.24,
+      "text": "We have."
+    },
+    {
+      "start": 169.7,
+      "end": 170.38,
+      "text": "You're good."
+    },
+    {
+      "start": 170.78,
+      "end": 172.22,
+      "text": "And we need some of that."
+    },
+    {
+      "start": 172.64,
+      "end": 174.5,
+      "text": "But with school and"
+    },
+    {
+      "start": 174.5,
+      "end": 175.06,
+      "text": "and cheering,"
+    },
+    {
+      "start": 175.24,
+      "end": 177.28,
+      "text": "I just don't have the time."
+    },
+    {
+      "start": 178.95,
+      "end": 179.73,
+      "text": "네, 여기까지"
+    },
+    {
+      "start": 179.73,
+      "end": 182.11,
+      "text": "Screen English 복습 해봤습니다."
+    },
+    {
+      "start": 183.03,
+      "end": 183.63,
+      "text": "이렇게"
+    },
+    {
+      "start": 183.63,
+      "end": 185.67,
+      "text": "cheerleading 클럽이"
+    },
+    {
+      "start": 185.67,
+      "end": 187.15,
+      "text": "아주 최악의 상황에"
+    },
+    {
+      "start": 187.15,
+      "end": 188.09,
+      "text": "직면해 있는데요."
+    },
+    {
+      "start": 188.09,
+      "end": 189.67,
+      "text": "여기에 쿨하지 않고"
+    },
+    {
+      "start": 189.67,
+      "end": 190.99,
+      "text": "Marthorne와 Sheryl은"
+    },
+    {
+      "start": 190.99,
+      "end": 192.59,
+      "text": "다시 이 응원단을"
+    },
+    {
+      "start": 192.59,
+      "end": 194.09,
+      "text": "성공적으로 재결성할 수 있을지"
+    },
+    {
+      "start": 194.77,
+      "end": 195.71,
+      "text": "내일부터"
+    },
+    {
+      "start": 195.71,
+      "end": 197.05,
+      "text": "함께 알아보시죠."
+    },
+    {
+      "start": 197.61,
+      "end": 198.97,
+      "text": "그럼 노래 한 곡 들려드릴게요."
+    },
+    {
+      "start": 198.97,
+      "end": 201.25,
+      "text": "토토의 I'll be over you."
+    },
+    {
+      "start": 211.0,
+      "end": 212.76,
+      "text": "조정현의 굿모닝 팝스에서"
+    },
+    {
+      "start": 212.76,
+      "end": 213.8,
+      "text": "준비한 선물입니다."
+    },
+    {
+      "start": 214.58,
+      "end": 216.04,
+      "text": "한국 방송 출판에서"
+    },
+    {
+      "start": 216.04,
+      "end": 217.56,
+      "text": "월간 굿모닝 팝스 책"
+    },
+    {
+      "start": 217.56,
+      "end": 219.04,
+      "text": "3개월 구독권을 드립니다."
+    },
+    {
+      "start": 228.74,
+      "end": 229.54,
+      "text": "4872님"
+    },
+    {
+      "start": 229.54,
+      "end": 231.56,
+      "text": "굿모닝 GMP"
+    },
+    {
+      "start": 231.56,
+      "end": 233.5,
+      "text": "오늘은 일찍 일어나서"
+    },
+    {
+      "start": 233.5,
+      "end": 234.9,
+      "text": "나의 오랜 버신"
+    },
+    {
+      "start": 234.9,
+      "end": 236.22,
+      "text": "굿모닝 팝스 켜놓고"
+    },
+    {
+      "start": 236.22,
+      "end": 237.96,
+      "text": "아침 시작하고 있어요."
+    },
+    {
+      "start": 238.32,
+      "end": 239.32,
+      "text": "Let's hit the road!"
+    },
+    {
+      "start": 239.62,
+      "end": 240.32,
+      "text": "하트 세계"
+    },
+    {
+      "start": 240.32,
+      "end": 243.18,
+      "text": "오늘도 왠지"
+    },
+    {
+      "start": 243.18,
+      "end": 244.52,
+      "text": "Let's hit the road!"
+    },
+    {
+      "start": 244.62,
+      "end": 245.88,
+      "text": "이렇게 외쳐주시니까"
+    },
+    {
+      "start": 245.88,
+      "end": 248.22,
+      "text": "리듬이 막 울려 퍼져야 할 것 같은"
+    },
+    {
+      "start": 248.22,
+      "end": 249.4,
+      "text": "기분이 듭니다."
+    },
+    {
+      "start": 250.14,
+      "end": 251.88,
+      "text": "우리 4872님"
+    },
+    {
+      "start": 251.88,
+      "end": 254.22,
+      "text": "늘 이렇게 함께해 주셔서"
+    },
+    {
+      "start": 254.22,
+      "end": 255.02,
+      "text": "너무 감사해요."
+    },
+    {
+      "start": 255.62,
+      "end": 257.6,
+      "text": "복습도 즐겁게 해보세요."
+    },
+    {
+      "start": 258.69,
+      "end": 259.73,
+      "text": "이윤호님"
+    },
+    {
+      "start": 259.73,
+      "end": 262.11,
+      "text": "요즘 동생이 아파서"
+    },
+    {
+      "start": 262.11,
+      "end": 264.27,
+      "text": "병원에서 병간호를 하고 있어요."
+    },
+    {
+      "start": 265.13,
+      "end": 265.81,
+      "text": "운전하면서"
+    },
+    {
+      "start": 265.81,
+      "end": 267.23,
+      "text": "동생이랑 같이"
+    },
+    {
+      "start": 267.23,
+      "end": 268.45,
+      "text": "굿모닝 팝스 들으며"
+    },
+    {
+      "start": 268.45,
+      "end": 269.39,
+      "text": "따라하곤 했는데"
+    },
+    {
+      "start": 269.39,
+      "end": 271.01,
+      "text": "얼른 회복해서"
+    },
+    {
+      "start": 271.01,
+      "end": 271.79,
+      "text": "같이"
+    },
+    {
+      "start": 271.79,
+      "end": 273.17,
+      "text": "영어 표현을"
+    },
+    {
+      "start": 273.17,
+      "end": 274.79,
+      "text": "다시 따라할 수 있으면 좋겠네요."
+    },
+    {
+      "start": 275.51,
+      "end": 276.93,
+      "text": "기다려지는 아침 루틴"
+    },
+    {
+      "start": 276.93,
+      "end": 277.91,
+      "text": "굿모닝 팝스"
+    },
+    {
+      "start": 277.91,
+      "end": 278.67,
+      "text": "고맙습니다."
+    },
+    {
+      "start": 280.39,
+      "end": 281.65,
+      "text": "우리 이윤호님"
+    },
+    {
+      "start": 281.65,
+      "end": 283.65,
+      "text": "동생분"
+    },
+    {
+      "start": 283.65,
+      "end": 285.33,
+      "text": "금방 회복하실 겁니다."
+    },
+    {
+      "start": 286.37,
+      "end": 287.35,
+      "text": "두 분이 우애가"
+    },
+    {
+      "start": 287.35,
+      "end": 288.75,
+      "text": "정말 좋으신 것 같은데요."
+    },
+    {
+      "start": 289.03,
+      "end": 289.27,
+      "text": "그리고"
+    },
+    {
+      "start": 289.27,
+      "end": 290.81,
+      "text": "이 진심을"
+    },
+    {
+      "start": 290.81,
+      "end": 293.03,
+      "text": "동생분도 다 느끼시고"
+    },
+    {
+      "start": 293.03,
+      "end": 294.47,
+      "text": "더 빨리"
+    },
+    {
+      "start": 294.47,
+      "end": 295.55,
+      "text": "더 힘차게"
+    },
+    {
+      "start": 295.55,
+      "end": 296.89,
+      "text": "일어나실 거라고"
+    },
+    {
+      "start": 296.89,
+      "end": 297.65,
+      "text": "믿습니다."
+    },
+    {
+      "start": 297.65,
+      "end": 299.59,
+      "text": "두 분 다"
+    },
+    {
+      "start": 299.59,
+      "end": 300.93,
+      "text": "건강하게"
+    },
+    {
+      "start": 300.93,
+      "end": 302.03,
+      "text": "또 앞으로도"
+    },
+    {
+      "start": 302.03,
+      "end": 303.35,
+      "text": "굳건한 애청자"
+    },
+    {
+      "start": 303.35,
+      "end": 304.17,
+      "text": "되어주세요."
+    },
+    {
+      "start": 304.43,
+      "end": 305.03,
+      "text": "힘내세요."
+    },
+    {
+      "start": 305.97,
+      "end": 307.35,
+      "text": "사연 소개 되신 두 분께는"
+    },
+    {
+      "start": 307.35,
+      "end": 308.47,
+      "text": "월간 굿모닝 팝"
+    },
+    {
+      "start": 308.47,
+      "end": 309.47,
+      "text": "3개월 구독권"
+    },
+    {
+      "start": 309.47,
+      "end": 310.15,
+      "text": "보내드릴게요."
+    }
+  ]
+}
