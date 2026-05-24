@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "You_d have lines down the block",
   "movie": "",
-  "duration_sec": 781.17,
+  "duration_sec": 781.87,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-13_screen_english.mp3",
   "script": [
     {
@@ -1932,6 +1932,11 @@
       "start": 780.27,
       "end": 781.17,
       "text": "See you tomorrow"
+    },
+    {
+      "start": 781.17,
+      "end": 781.87,
+      "text": "Bye bye"
     }
   ]
 }
