@@ -1,0 +1,902 @@
+{
+  "id": "2021-04-04_review_time_screen",
+  "date": "2021-04-04",
+  "corner": "review_time_screen",
+  "corner_label": "Review Time Screen",
+  "title": "",
+  "movie": "",
+  "duration_sec": 498.22,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-04_review_time_screen.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 4.1,
+      "text": "사연 소개되신 두 분 모두 월간 굿모닝팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 4.9,
+      "end": 6.84,
+      "text": "굿모닝팝스에 사연 보내고 싶은 분들"
+    },
+    {
+      "start": 6.84,
+      "end": 8.88,
+      "text": "홈페이지 청취자 게시판에 남겨주세요."
+    },
+    {
+      "start": 8.88,
+      "end": 12.86,
+      "text": "지금 본방 듣고 계신 분들은 바로 참여하실 수 있어요."
+    },
+    {
+      "start": 13.3,
+      "end": 15.98,
+      "text": "단문 50원과 장문 100원의 추가요금이 부과되는"
+    },
+    {
+      "start": 15.98,
+      "end": 18.22,
+      "text": "KBS 쿨 FM 문자샵 8910"
+    },
+    {
+      "start": 18.22,
+      "end": 22.2,
+      "text": "아니면 KBS e라디오 문자샵 1061로 보내주시거나"
+    },
+    {
+      "start": 22.2,
+      "end": 25.84,
+      "text": "무료 KBS 어플리케이션 콩 또는 MyK로 참여해주세요."
+    },
+    {
+      "start": 25.84,
+      "end": 38.59,
+      "text": "일아침 여섯시 조정현의 굿모닝팝스"
+    },
+    {
+      "start": 38.59,
+      "end": 42.91,
+      "text": "해봐요 굿모닝"
+    },
+    {
+      "start": 42.91,
+      "end": 48.91,
+      "text": "조정현의 굿모닝팝스"
+    },
+    {
+      "start": 48.91,
+      "end": 55.5,
+      "text": "조정현의 굿모닝팝스"
+    },
+    {
+      "start": 55.5,
+      "end": 59.12,
+      "text": "네, 노래 한 곡 듣고 이번 주에 만난 표현 복습 시작할게요."
+    },
+    {
+      "start": 59.3,
+      "end": 61.3,
+      "text": "캠윤 로긴스의 Danger Zone"
+    },
+    {
+      "start": 61.3,
+      "end": 92.53,
+      "text": "3월의 영화 어디갔어 버나데드"
+    },
+    {
+      "start": 92.53,
+      "end": 94.65,
+      "text": "where'd you go 버나데드"
+    },
+    {
+      "start": 94.65,
+      "end": 98.31,
+      "text": "과 4월의 영화 밀리언 달러 트러블"
+    },
+    {
+      "start": 98.31,
+      "end": 103.81,
+      "text": "트러블 이라는 제목으로 두 영화를 주중에 배워봤잖아요."
+    },
+    {
+      "start": 103.81,
+      "end": 108.89,
+      "text": "3월 29일 월요일부터 4월 1일 목요일까지 배운 표현들"
+    },
+    {
+      "start": 108.89,
+      "end": 111.53,
+      "text": "이 시간에 한꺼번에 다 만나볼게요."
+    },
+    {
+      "start": 112.25,
+      "end": 115.15,
+      "text": "올타임 레전드 영어 실력 만들기"
+    },
+    {
+      "start": 115.15,
+      "end": 117.57,
+      "text": "스텝 1. 복습 들어갑니다."
+    },
+    {
+      "start": 118.11,
+      "end": 120.25,
+      "text": "먼저 어디갔어 버나데드"
+    },
+    {
+      "start": 120.25,
+      "end": 122.09,
+      "text": "where'd you go 버나데드"
+    },
+    {
+      "start": 122.09,
+      "end": 124.21,
+      "text": "영화의 월요일 장면이었어요."
+    },
+    {
+      "start": 124.91,
+      "end": 127.83,
+      "text": "버나데드이 혼자서 남극 여행을 하게 됩니다."
+    },
+    {
+      "start": 128.51,
+      "end": 130.23,
+      "text": "이 카약 보트를 탄 채"
+    },
+    {
+      "start": 130.23,
+      "end": 132.59,
+      "text": "바다 한가운데에 떠있는 버나데드한테"
+    },
+    {
+      "start": 132.59,
+      "end": 134.75,
+      "text": "베키라는 인물이 다가와서"
+    },
+    {
+      "start": 134.75,
+      "end": 138.79,
+      "text": "who are you? 라고 누구냐? 라고 물어보죠."
+    },
+    {
+      "start": 139.05,
+      "end": 140.89,
+      "text": "그러자 버나데드이 이렇게 말합니다."
+    },
+    {
+      "start": 144.1,
+      "end": 145.74,
+      "text": "I was just wondering that myself."
+    },
+    {
+      "start": 145.74,
+      "end": 152.68,
+      "text": "나도 막 그걸 궁금해하고 있었어요."
+    },
+    {
+      "start": 153.12,
+      "end": 155.54,
+      "text": "내 자신을 이라는 의미죠."
+    },
+    {
+      "start": 155.64,
+      "end": 156.72,
+      "text": "순차적으로 해석하면"
+    },
+    {
+      "start": 156.72,
+      "end": 159.2,
+      "text": "I was just wondering that myself."
+    },
+    {
+      "start": 159.2,
+      "end": 161.92,
+      "text": "I was just wondering that myself."
+    },
+    {
+      "start": 162.7,
+      "end": 165.94,
+      "text": "이렇게 통째로 외워두셔도 유용할 것 같습니다."
+    },
+    {
+      "start": 166.64,
+      "end": 169.46,
+      "text": "나도 내 자신에게 그걸 묻고 있었어요."
+    },
+    {
+      "start": 169.66,
+      "end": 170.44,
+      "text": "라는 해석이 됩니다."
+    },
+    {
+      "start": 171.36,
+      "end": 172.74,
+      "text": "이 대화 한 번 더 들어볼게요."
+    },
+    {
+      "start": 172.74,
+      "end": 180.13,
+      "text": "I was just wondering that myself."
+    },
+    {
+      "start": 180.63,
+      "end": 183.41,
+      "text": "When you're on a boat in Antarctica"
+    },
+    {
+      "start": 183.41,
+      "end": 185.35,
+      "text": "and there's no night"
+    },
+    {
+      "start": 185.35,
+      "end": 187.63,
+      "text": "who are you?"
+    },
+    {
+      "start": 189.55,
+      "end": 191.53,
+      "text": "I'm thinking I'm a ghost"
+    },
+    {
+      "start": 191.53,
+      "end": 192.63,
+      "text": "and a ghost ship"
+    },
+    {
+      "start": 192.63,
+      "end": 193.93,
+      "text": "and a ghost land."
+    },
+    {
+      "start": 195.57,
+      "end": 197.33,
+      "text": "You really need to be helping me take"
+    },
+    {
+      "start": 197.33,
+      "end": 198.41,
+      "text": "phyto plankton samples."
+    },
+    {
+      "start": 198.41,
+      "end": 199.68,
+      "text": "Come on."
+    },
+    {
+      "start": 200.79,
+      "end": 201.81,
+      "text": "I'll take the water samples"
+    },
+    {
+      "start": 201.81,
+      "end": 203.15,
+      "text": "and you can write my labels."
+    },
+    {
+      "start": 205.14,
+      "end": 206.5,
+      "text": "네, 화요일 장면입니다."
+    },
+    {
+      "start": 206.86,
+      "end": 208.88,
+      "text": "버나데드은 남극점 기지를"
+    },
+    {
+      "start": 208.88,
+      "end": 211.52,
+      "text": "다시 짓는다는 이야기를 우연히 듣게 되죠."
+    },
+    {
+      "start": 212.06,
+      "end": 213.98,
+      "text": "그래서 기지 관계자한테"
+    },
+    {
+      "start": 213.98,
+      "end": 217.92,
+      "text": "자신이 그 일에 꼭 참여할 수 있게 해달라고 부탁을 합니다."
+    },
+    {
+      "start": 218.66,
+      "end": 221.44,
+      "text": "관계자가 그리 탐탁지 않은 태도를 보이자"
+    },
+    {
+      "start": 221.44,
+      "end": 224.04,
+      "text": "이렇게 말하면서 꼭 하고 싶다고 하죠."
+    },
+    {
+      "start": 224.04,
+      "end": 235.26,
+      "text": "그냥 좀 더 짧게"
+    },
+    {
+      "start": 235.26,
+      "end": 238.14,
+      "text": "우리가 실생활 속에서 쓸 수 있는 문장으로"
+    },
+    {
+      "start": 238.14,
+      "end": 242.92,
+      "text": "이렇게도 잘 쓰일 수 있겠죠."
+    },
+    {
+      "start": 243.34,
+      "end": 247.08,
+      "text": "내가 좀 흥분했나 봐"
+    },
+    {
+      "start": 247.08,
+      "end": 248.18,
+      "text": "이런 의미거든요."
+    },
+    {
+      "start": 248.18,
+      "end": 250.64,
+      "text": "그런데 이 영화 장면에서는"
+    },
+    {
+      "start": 250.64,
+      "end": 253.22,
+      "text": "I probably라는 부사가 하나 들어가고"
+    },
+    {
+      "start": 253.22,
+      "end": 255.06,
+      "text": "그리고 did라고 해서"
+    },
+    {
+      "start": 255.06,
+      "end": 257.76,
+      "text": "여기서는 강조적인 용법으로"
+    },
+    {
+      "start": 257.76,
+      "end": 260.22,
+      "text": "두 동사가 활용이 되었습니다."
+    },
+    {
+      "start": 260.76,
+      "end": 263.58,
+      "text": "I probably did get a little carried away."
+    },
+    {
+      "start": 264.06,
+      "end": 266.54,
+      "text": "제가 좀 흥분을 했었나 봐요."
+    },
+    {
+      "start": 267.0,
+      "end": 267.94,
+      "text": "라는 의미였죠."
+    },
+    {
+      "start": 268.44,
+      "end": 269.92,
+      "text": "이 부분 한 번 더 확인해 보시죠."
+    },
+    {
+      "start": 270.89,
+      "end": 271.63,
+      "text": "I googled you."
+    },
+    {
+      "start": 272.05,
+      "end": 272.85,
+      "text": "So why are you here?"
+    },
+    {
+      "start": 273.53,
+      "end": 277.13,
+      "text": "I am trying not to be a menace to society anymore."
+    },
+    {
+      "start": 277.13,
+      "end": 279.21,
+      "text": "and look, I probably did get a little carried away"
+    },
+    {
+      "start": 279.21,
+      "end": 281.91,
+      "text": "but Ellen, I would really like a shot"
+    },
+    {
+      "start": 281.91,
+      "end": 283.95,
+      "text": "at designing this new station at 90SELF."
+    },
+    {
+      "start": 284.37,
+      "end": 285.67,
+      "text": "What do you know about that?"
+    },
+    {
+      "start": 286.15,
+      "end": 288.35,
+      "text": "Well, I know they're dismantling it"
+    },
+    {
+      "start": 288.35,
+      "end": 289.47,
+      "text": "and they're going to build a new one."
+    },
+    {
+      "start": 290.19,
+      "end": 291.63,
+      "text": "You know, anyone who's going to have a shot"
+    },
+    {
+      "start": 291.63,
+      "end": 292.29,
+      "text": "at re-designing it,"
+    },
+    {
+      "start": 292.31,
+      "end": 293.23,
+      "text": "they're going to have to go visit"
+    },
+    {
+      "start": 293.23,
+      "end": 294.59,
+      "text": "and see it for themselves."
+    },
+    {
+      "start": 296.16,
+      "end": 297.42,
+      "text": "네, 잘 들리시죠?"
+    },
+    {
+      "start": 297.84,
+      "end": 299.74,
+      "text": "이제 리뷰타임 수요일 장면은"
+    },
+    {
+      "start": 299.74,
+      "end": 301.32,
+      "text": "노래 듣고 와서 다시 만나볼게요."
+    },
+    {
+      "start": 301.98,
+      "end": 303.46,
+      "text": "셀린 디온, Ashes."
+    },
+    {
+      "start": 303.82,
+      "end": 306.16,
+      "text": "여러분은 지금 KBS 라디오 조정현의"
+    },
+    {
+      "start": 306.16,
+      "end": 308.12,
+      "text": "굿모닝 팝스 함께하고 계십니다."
+    },
+    {
+      "start": 308.76,
+      "end": 310.68,
+      "text": "Screen English Review Time."
+    },
+    {
+      "start": 311.16,
+      "end": 312.56,
+      "text": "이제 수요일 장면인데요."
+    },
+    {
+      "start": 313.22,
+      "end": 314.44,
+      "text": "버나데스는 드디어"
+    },
+    {
+      "start": 314.44,
+      "end": 317.1,
+      "text": "남극점 기지 건설에 합류해도 좋다"
+    },
+    {
+      "start": 317.1,
+      "end": 318.62,
+      "text": "라는 이야기를 듣고"
+    },
+    {
+      "start": 318.62,
+      "end": 320.64,
+      "text": "가족들에게 전화를 합니다."
+    },
+    {
+      "start": 321.7,
+      "end": 323.9,
+      "text": "그동안 버나데스를 찾아나선"
+    },
+    {
+      "start": 323.9,
+      "end": 326.42,
+      "text": "남편 LG와 딸 B"
+    },
+    {
+      "start": 326.42,
+      "end": 329.58,
+      "text": "이렇게 총 세 사람이 드디어 만나게 되는데요."
+    },
+    {
+      "start": 330.1,
+      "end": 332.08,
+      "text": "LG가 그녀에게 이런 말을 합니다."
+    },
+    {
+      "start": 332.08,
+      "end": 343.82,
+      "text": "당신에게는 훨씬 더 많은 기적이"
+    },
+    {
+      "start": 343.82,
+      "end": 346.1,
+      "text": "남아있어라는 말이었죠."
+    },
+    {
+      "start": 346.6,
+      "end": 348.74,
+      "text": "You got a lot more"
+    },
+    {
+      "start": 348.74,
+      "end": 349.44,
+      "text": "이라고 해서"
+    },
+    {
+      "start": 349.44,
+      "end": 351.18,
+      "text": "이 more이라는 비교급 앞에"
+    },
+    {
+      "start": 351.18,
+      "end": 352.52,
+      "text": "a lot가 들렸으니까"
+    },
+    {
+      "start": 352.52,
+      "end": 355.3,
+      "text": "훨씬이라고 강조적으로 해석하시면 되겠죠."
+    },
+    {
+      "start": 355.86,
+      "end": 356.1,
+      "text": "그리고"
+    },
+    {
+      "start": 356.1,
+      "end": 358.18,
+      "text": "miracles, 기적들이"
+    },
+    {
+      "start": 358.18,
+      "end": 358.74,
+      "text": "left"
+    },
+    {
+      "start": 358.74,
+      "end": 361.4,
+      "text": "남아있는 기적들이 훨씬 더 많아"
+    },
+    {
+      "start": 361.4,
+      "end": 364.2,
+      "text": "이와 같이 해석하시면 되는 문장이었습니다."
+    },
+    {
+      "start": 364.82,
+      "end": 366.2,
+      "text": "전체 대화 내용 들으면서"
+    },
+    {
+      "start": 366.2,
+      "end": 367.58,
+      "text": "한 번 더 확인해 볼게요."
+    },
+    {
+      "start": 368.46,
+      "end": 371.06,
+      "text": "I'll be gone for five weeks"
+    },
+    {
+      "start": 371.06,
+      "end": 373.54,
+      "text": "but I will only go if it's okay with you guys"
+    },
+    {
+      "start": 373.54,
+      "end": 375.7,
+      "text": "so would you please call me"
+    },
+    {
+      "start": 375.7,
+      "end": 378.45,
+      "text": "here's the number"
+    },
+    {
+      "start": 378.45,
+      "end": 379.99,
+      "text": "I can be reached at"
+    },
+    {
+      "start": 379.99,
+      "end": 381.09,
+      "text": "go to Denver"
+    },
+    {
+      "start": 381.09,
+      "end": 382.05,
+      "text": "believe it or not"
+    },
+    {
+      "start": 382.05,
+      "end": 383.94,
+      "text": "three zero three"
+    },
+    {
+      "start": 383.94,
+      "end": 385.04,
+      "text": "two nine five"
+    },
+    {
+      "start": 385.04,
+      "end": 385.42,
+      "text": "mom"
+    },
+    {
+      "start": 385.42,
+      "end": 387.2,
+      "text": "you can go"
+    },
+    {
+      "start": 387.2,
+      "end": 390.47,
+      "text": "I don't want to"
+    },
+    {
+      "start": 390.47,
+      "end": 392.49,
+      "text": "how did you"
+    },
+    {
+      "start": 392.49,
+      "end": 395.02,
+      "text": "how did you get here"
+    },
+    {
+      "start": 395.02,
+      "end": 397.23,
+      "text": "dad brought you something"
+    },
+    {
+      "start": 397.23,
+      "end": 398.58,
+      "text": "you did"
+    },
+    {
+      "start": 398.58,
+      "end": 400.04,
+      "text": "we decided"
+    },
+    {
+      "start": 400.04,
+      "end": 402.43,
+      "text": "there's no way I could have taken up"
+    },
+    {
+      "start": 402.43,
+      "end": 403.37,
+      "text": "all 16 miracles"
+    },
+    {
+      "start": 403.37,
+      "end": 407.22,
+      "text": "you got a lot more miracles left"
+    },
+    {
+      "start": 407.22,
+      "end": 410.59,
+      "text": "네 이번에는 4월의 영화"
+    },
+    {
+      "start": 410.59,
+      "end": 412.59,
+      "text": "Million Dollar Trouble"
+    },
+    {
+      "start": 412.59,
+      "end": 413.99,
+      "text": "영화를 살펴볼게요"
+    },
+    {
+      "start": 413.99,
+      "end": 416.75,
+      "text": "우리가 목요일에 만난 장면인데요"
+    },
+    {
+      "start": 416.75,
+      "end": 419.49,
+      "text": "주인공 강아지 트러블은"
+    },
+    {
+      "start": 419.49,
+      "end": 421.03,
+      "text": "대걸 같은 집에서"
+    },
+    {
+      "start": 421.03,
+      "end": 422.05,
+      "text": "주인 할머니에게"
+    },
+    {
+      "start": 422.05,
+      "end": 423.83,
+      "text": "무한 사랑을 받았죠"
+    },
+    {
+      "start": 423.83,
+      "end": 425.99,
+      "text": "근데 할머니가 돌아가시고 나서는"
+    },
+    {
+      "start": 425.99,
+      "end": 427.63,
+      "text": "모든 환경이 뒤바뀝니다"
+    },
+    {
+      "start": 427.63,
+      "end": 429.95,
+      "text": "할머니의 유일한 친척인"
+    },
+    {
+      "start": 429.95,
+      "end": 431.71,
+      "text": "조카들이 집에 찾아와서"
+    },
+    {
+      "start": 431.71,
+      "end": 434.83,
+      "text": "할머니가 영상으로 남긴 유언을 보게 되는데"
+    },
+    {
+      "start": 434.83,
+      "end": 438.31,
+      "text": "이 트러블을 잘 돌보라는 할머니 말에"
+    },
+    {
+      "start": 438.31,
+      "end": 441.43,
+      "text": "조카 노벌트가 이런 반응을 보이죠"
+    },
+    {
+      "start": 441.43,
+      "end": 451.51,
+      "text": "그동안 정말 트러블의 존재조차"
+    },
+    {
+      "start": 451.51,
+      "end": 452.79,
+      "text": "모르고 있었다는 것을"
+    },
+    {
+      "start": 452.79,
+      "end": 454.53,
+      "text": "알게 하는 문장이었습니다"
+    },
+    {
+      "start": 454.53,
+      "end": 457.17,
+      "text": "누가 곤경에 처했어?"
+    },
+    {
+      "start": 457.71,
+      "end": 459.11,
+      "text": "누가 곤경에 처한 거야?"
+    },
+    {
+      "start": 459.51,
+      "end": 461.43,
+      "text": "라고 해석하면 되는 문장이었죠"
+    },
+    {
+      "start": 461.43,
+      "end": 463.35,
+      "text": "네 확인 한번 더 해볼게요"
+    },
+    {
+      "start": 463.35,
+      "end": 468.03,
+      "text": "With my fortune comes a great responsibility"
+    },
+    {
+      "start": 468.03,
+      "end": 471.39,
+      "text": "You must be willing and able"
+    },
+    {
+      "start": 471.39,
+      "end": 473.93,
+      "text": "to take care of my loyal companion"
+    },
+    {
+      "start": 473.93,
+      "end": 474.89,
+      "text": "Trouble"
+    },
+    {
+      "start": 474.89,
+      "end": 476.07,
+      "text": "Trouble?"
+    },
+    {
+      "start": 476.39,
+      "end": 477.53,
+      "text": "Who's in trouble?"
+    },
+    {
+      "start": 478.29,
+      "end": 478.81,
+      "text": "No one"
+    },
+    {
+      "start": 478.81,
+      "end": 480.19,
+      "text": "Trouble is the dog"
+    },
+    {
+      "start": 480.19,
+      "end": 482.75,
+      "text": "Who cares about the dog?"
+    },
+    {
+      "start": 483.07,
+      "end": 483.65,
+      "text": "You do"
+    },
+    {
+      "start": 483.65,
+      "end": 485.51,
+      "text": "He's in your care"
+    },
+    {
+      "start": 485.51,
+      "end": 486.17,
+      "text": "Oh no"
+    },
+    {
+      "start": 486.17,
+      "end": 487.45,
+      "text": "No no no no no"
+    },
+    {
+      "start": 487.45,
+      "end": 488.05,
+      "text": "No"
+    },
+    {
+      "start": 488.05,
+      "end": 490.43,
+      "text": "I am not a dog person"
+    },
+    {
+      "start": 490.43,
+      "end": 490.93,
+      "text": "No"
+    },
+    {
+      "start": 490.93,
+      "end": 492.67,
+      "text": "Then I'm afraid"
+    },
+    {
+      "start": 492.67,
+      "end": 495.43,
+      "text": "You forfeit the rights to the entire fortune"
+    },
+    {
+      "start": 495.43,
+      "end": 498.22,
+      "text": "네 여기까지 스크린 잉글리시"
+    }
+  ]
+}
