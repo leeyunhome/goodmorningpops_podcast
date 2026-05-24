@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "I knew it was gonna end like this",
   "movie": "",
-  "duration_sec": 811.67,
+  "duration_sec": 812.07,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-13_screen_english.mp3",
   "script": [
     {
@@ -1802,6 +1802,11 @@
       "start": 811.01,
       "end": 811.67,
       "text": "I'll see you tomorrow."
+    },
+    {
+      "start": 811.83,
+      "end": 812.07,
+      "text": "Bye!"
     }
   ]
 }
