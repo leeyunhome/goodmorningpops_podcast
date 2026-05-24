@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T22:14:18",
-  "count": 272,
+  "generated_at": "2026-05-24T22:14:30",
+  "count": 273,
   "episodes": [
     {
       "id": "2023-06-28_screen_english",
@@ -51,6 +51,16 @@
       "movie": "",
       "duration_sec": 781.17,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-13_screen_english.mp3"
+    },
+    {
+      "id": "2023-06-12_screen_english",
+      "date": "2023-06-12",
+      "corner": "screen_english",
+      "corner_label": "Screen English",
+      "title": "You got some serious knife skills",
+      "movie": "",
+      "duration_sec": 908.35,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-12_screen_english.mp3"
     },
     {
       "id": "2023-06-11_review_time_screen",
