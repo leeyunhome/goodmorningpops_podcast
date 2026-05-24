@@ -5,2278 +5,2563 @@
   "corner_label": "Screen English",
   "title": "Nobody touches our nuts",
   "movie": "",
-  "duration_sec": 895.93,
+  "duration_sec": 1151.26,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-05_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 10.17,
+      "end": 2.04,
+      "text": "조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 2.04,
+      "end": 18.38,
+      "text": "Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time."
+    },
+    {
+      "start": 19.22,
+      "end": 27.0,
+      "text": "할 수 없을 것 같은 일을 하라. 실패하라. 그리고 다시 도전하라. 이번에는 더 잘 해보라."
+    },
+    {
+      "start": 27.77,
+      "end": 30.05,
+      "text": "방송인 오프라 윈프리가 한 말입니다."
+    },
+    {
+      "start": 31.02,
+      "end": 36.22,
+      "text": "꿈에 부풀어 새로운 도전을 했는데 실패하면 하늘이 무너지는 것 같겠죠."
+    },
+    {
+      "start": 36.22,
+      "end": 43.74,
+      "text": "근데 만약 시간을 거꾸로 돌릴 수 있다면 여러분은 아예 처음부터 도전을 안 하실 건가요?"
+    },
+    {
+      "start": 44.22,
+      "end": 47.68,
+      "text": "아니면 더 잘할 수 있는 방법으로 다시 도전하실 건가요?"
+    },
+    {
+      "start": 48.56,
+      "end": 52.18,
+      "text": "당연히 더 잘할 수 있는 방법을 찾는 게 맞는 거겠죠."
+    },
+    {
+      "start": 53.1,
+      "end": 59.58,
+      "text": "시간을 다시 돌릴 순 없지만 다시 잘해볼 수 있는 기회는 항상 남아있다는 거 잊지 마시고요."
+    },
+    {
+      "start": 59.58,
+      "end": 67.3,
+      "text": "Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time."
+    },
+    {
+      "start": 67.96,
+      "end": 71.72,
+      "text": "4월 5일 월요일 조정현의 굿모닝 팝스 시작하겠습니다."
+    },
+    {
+      "start": 73.74,
+      "end": 78.6,
+      "text": "네, 월요일 첫 곡으로 Counting Crow의 Accidentally in Love 들어보셨어요."
+    },
+    {
+      "start": 79.56,
+      "end": 82.2,
+      "text": "네, 아주 희망찬 월요일이 시작이 되었습니다."
+    },
+    {
+      "start": 82.2,
+      "end": 90.3,
+      "text": "이채영님. 매번 팟캐스트로 듣다가 드디어 6시 전에 일어나서 본방사수합니다."
+    },
+    {
+      "start": 91.1,
+      "end": 93.42,
+      "text": "목소리가 유독 상큼하게 들리네요."
+    },
+    {
+      "start": 94.08,
+      "end": 97.88,
+      "text": "내일도 모레도 꾸준히 같은 시간에 일어나고 싶어요."
+    },
+    {
+      "start": 98.54,
+      "end": 105.08,
+      "text": "아하, 분명 같은 목소리인데 이른 아침에 들으면 더 상큼하게 느껴지시나요?"
+    },
+    {
+      "start": 105.08,
+      "end": 110.56,
+      "text": "이채영님이 상큼한 분이어서 더 그럴 거라고 생각합니다."
+    },
+    {
+      "start": 111.64,
+      "end": 121.16,
+      "text": "본방사수하시면 아침 공기와 어우러져가지고 하루 종일 매일매일 더 상큼상큼하게 보내실 수 있을 거예요."
+    },
+    {
+      "start": 121.8,
+      "end": 123.26,
+      "text": "기대할게요, 이채영님."
+    },
+    {
+      "start": 124.97,
+      "end": 125.97,
+      "text": "5150님."
+    },
+    {
+      "start": 126.53,
+      "end": 133.25,
+      "text": "알람소리 듣고 졸린 눈 비비면서 일어나 방송 듣는 엄마를 한 달쯤 지켜보던 초딩딸."
+    },
+    {
+      "start": 133.25,
+      "end": 136.39,
+      "text": "이젠 저보다 먼저 일어나서 방송 틀어주네요."
+    },
+    {
+      "start": 136.95,
+      "end": 139.55,
+      "text": "같이 들으니까 더 재밌어요, 웃음 웃음."
+    },
+    {
+      "start": 139.89,
+      "end": 142.05,
+      "text": "우와, 5150님."
+    },
+    {
+      "start": 142.57,
+      "end": 145.23,
+      "text": "몸소 본보기를 보여주신 거네요."
+    },
+    {
+      "start": 146.13,
+      "end": 149.09,
+      "text": "초등학생 따님이 먼저 일어나서 방송을 틀어주는"
+    },
+    {
+      "start": 149.09,
+      "end": 153.45,
+      "text": "아주 바람직하고 사랑스러운 가정이십니다."
+    },
+    {
+      "start": 153.83,
+      "end": 155.63,
+      "text": "앞으로가 더 기대가 되네요."
+    },
+    {
+      "start": 156.33,
+      "end": 160.75,
+      "text": "사연 보내주신 분들 모두 월간 굿모닝팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 160.75,
+      "end": 165.43,
+      "text": "굿모닝팝스에 사연 보내고 싶은 분들 홈페이지 청취자 게시판에 남겨주세요."
+    },
+    {
+      "start": 166.23,
+      "end": 172.29,
+      "text": "여러분, 이제 청취율 조사 기간을 맞이해서 아주 특별한 시간을 마련했습니다."
+    },
+    {
+      "start": 173.07,
+      "end": 180.59,
+      "text": "바로 내일, 4월 6일 화요일부터 19일 월요일까지 커피 알람 이벤트는 쉬어가고요."
+    },
+    {
+      "start": 181.11,
+      "end": 184.43,
+      "text": "봄맞이 스페셜 이벤트가 준비되어 있습니다."
+    },
+    {
+      "start": 184.43,
+      "end": 187.09,
+      "text": "Spring is something."
+    },
+    {
+      "start": 187.67,
+      "end": 190.05,
+      "text": "그러니까 봄은 땡땡이다."
+    },
+    {
+      "start": 190.79,
+      "end": 194.23,
+      "text": "혹은 봄 하면 떠오르는 영어 단어가 무엇인지"
+    },
+    {
+      "start": 194.23,
+      "end": 197.71,
+      "text": "그 이유와 함께 적어서 보내주시면 됩니다."
+    },
+    {
+      "start": 198.59,
+      "end": 201.13,
+      "text": "먼저 샘플로 제가 한번 해볼까요?"
+    },
+    {
+      "start": 201.91,
+      "end": 203.65,
+      "text": "저에게 봄은"
+    },
+    {
+      "start": 203.65,
+      "end": 205.87,
+      "text": "Spring is popcorn?"
+    },
+    {
+      "start": 205.87,
+      "end": 208.77,
+      "text": "이유는 과연 무엇일까요?"
+    },
+    {
+      "start": 209.37,
+      "end": 211.81,
+      "text": "그래요. 여러분, 예상하신 그대로 맞습니다."
+    },
+    {
+      "start": 212.77,
+      "end": 216.23,
+      "text": "벚꽃이 봄의 시작을 제대로 보여주는 것 같잖아요."
+    },
+    {
+      "start": 216.65,
+      "end": 221.57,
+      "text": "그래서 팝콘같이 생겨서 저는 Spring is popcorn 이렇게 묘사하고 싶네요."
+    },
+    {
+      "start": 222.15,
+      "end": 225.65,
+      "text": "이와 같이 자유롭게 여러분들의 생각을 보내주시면 됩니다."
+    },
+    {
+      "start": 225.65,
+      "end": 230.65,
+      "text": "이벤트 기간 내에 평일에 매일 5분 뽑아서 소개를 해드리고요."
+    },
+    {
+      "start": 231.59,
+      "end": 234.47,
+      "text": "이번엔 편의점 모바일 상품권 쏩니다."
+    },
+    {
+      "start": 235.35,
+      "end": 238.27,
+      "text": "지금 생각나시는 분들 바로 참여해주셔도 좋아요."
+    },
+    {
+      "start": 238.73,
+      "end": 241.31,
+      "text": "단문 50원과 장문 100원의 추가요금이 부과되는"
+    },
+    {
+      "start": 241.31,
+      "end": 243.89,
+      "text": "KBS 쿨 FM 문자샵 8910"
+    },
+    {
+      "start": 243.89,
+      "end": 247.77,
+      "text": "아니면 KBS e라디오 문자샵 1061로 보내주시거나"
+    },
+    {
+      "start": 247.77,
+      "end": 251.39,
+      "text": "무료 KBS 어플리케이션 콩 또는 마이케이로 참여해주세요."
+    },
+    {
+      "start": 251.39,
+      "end": 261.56,
       "text": "Screen English"
     },
     {
-      "start": 10.17,
-      "end": 31.55,
+      "start": 261.56,
+      "end": 282.94,
       "text": "Good morning theater. Screen English time."
     },
     {
-      "start": 31.95,
-      "end": 33.93,
+      "start": 283.34,
+      "end": 285.32,
       "text": "4월에 함께하고 있는 영화는"
     },
     {
-      "start": 33.93,
-      "end": 35.25,
+      "start": 285.32,
+      "end": 286.64,
       "text": "I gotta rap."
     },
     {
-      "start": 35.69,
-      "end": 36.95,
+      "start": 287.08,
+      "end": 288.34,
       "text": "Yo, my name is Trouble."
     },
     {
-      "start": 37.31,
-      "end": 37.91,
+      "start": 288.7,
+      "end": 289.3,
       "text": "Yo, yo, yo."
     },
     {
-      "start": 38.37,
-      "end": 43.03,
+      "start": 289.76,
+      "end": 294.42,
       "text": "매일매일 special pizza를 flex하는 royal 강아지"
     },
     {
-      "start": 43.03,
-      "end": 45.81,
+      "start": 294.42,
+      "end": 297.2,
       "text": "Trouble! With a capital T."
     },
     {
-      "start": 45.99,
-      "end": 47.31,
+      "start": 297.38,
+      "end": 298.7,
       "text": "네네, Trouble."
     },
     {
-      "start": 47.79,
-      "end": 48.61,
+      "start": 299.18,
+      "end": 300.0,
       "text": "요 영화입니다."
     },
     {
-      "start": 49.17,
-      "end": 49.73,
+      "start": 300.56,
+      "end": 301.12,
       "text": "Nice rap."
     },
     {
-      "start": 49.89,
-      "end": 50.87,
+      "start": 301.28,
+      "end": 302.26,
       "text": "Yeah. 아, 정말요?"
     },
     {
-      "start": 51.27,
-      "end": 52.23,
+      "start": 302.66,
+      "end": 303.62,
       "text": "Really? Do you think so?"
     },
     {
-      "start": 52.23,
-      "end": 53.23,
+      "start": 303.62,
+      "end": 304.62,
       "text": "정말 뭐."
     },
     {
-      "start": 53.25,
-      "end": 53.83,
+      "start": 304.64,
+      "end": 305.22,
       "text": "Are you sure?"
     },
     {
-      "start": 53.95,
-      "end": 54.19,
+      "start": 305.34,
+      "end": 305.58,
       "text": "그냥."
     },
     {
-      "start": 54.19,
-      "end": 56.93,
+      "start": 305.58,
+      "end": 308.32,
       "text": "I like your, I appreciate your effort."
     },
     {
-      "start": 57.77,
-      "end": 60.03,
+      "start": 309.16,
+      "end": 311.42,
       "text": "만약에 크리스가 랩을 한다면 어떻게 할 것 같아요?"
     },
     {
-      "start": 60.39,
-      "end": 61.93,
+      "start": 311.78,
+      "end": 313.32,
       "text": "My name is Chris with the capital K."
     },
     {
-      "start": 62.09,
-      "end": 62.33,
+      "start": 313.48,
+      "end": 313.72,
       "text": "Yeah."
-    },
-    {
-      "start": 62.67,
-      "end": 64.61,
-      "text": "I come from California where I got no pay."
-    },
-    {
-      "start": 64.75,
-      "end": 67.29,
-      "text": "Wow. 완전 프로페셔널한데요."
-    },
-    {
-      "start": 67.41,
-      "end": 70.91,
-      "text": "I used to rap for fun during lunch time in high school."
-    },
-    {
-      "start": 70.95,
-      "end": 71.45,
-      "text": "Wow. Sounds good."
-    },
-    {
-      "start": 71.93,
-      "end": 74.33,
-      "text": "I was terrible, but it was so much fun."
-    },
-    {
-      "start": 74.39,
-      "end": 75.51,
-      "text": "너무 잘하는데요?"
-    },
-    {
-      "start": 75.77,
-      "end": 76.99,
-      "text": "맨날 막 랩해드라고."
-    },
-    {
-      "start": 76.99,
-      "end": 78.71,
-      "text": "아, 네. 그렇군요."
-    },
-    {
-      "start": 78.73,
-      "end": 79.61,
-      "text": "Those were the days."
-    },
-    {
-      "start": 79.73,
-      "end": 79.99,
-      "text": "Yeah."
-    },
-    {
-      "start": 80.53,
-      "end": 83.13,
-      "text": "과거를 회상하는 아주 신나는 시간입니다."
-    },
-    {
-      "start": 83.13,
-      "end": 86.61,
-      "text": "네. 이 트러블에 관련된 영화를 우리가 살펴볼 텐데"
-    },
-    {
-      "start": 86.61,
-      "end": 89.99,
-      "text": "먼저 백준현님께서 인사를 나눠주셨어요."
-    },
-    {
-      "start": 90.45,
-      "end": 93.05,
-      "text": "언제나 싱글벙글 크리스님 어서 오세요."
-    },
-    {
-      "start": 93.17,
-      "end": 93.89,
-      "text": "방가방가."
-    },
-    {
-      "start": 94.29,
-      "end": 97.07,
-      "text": "한국 사람보다 더 한국적인 외국인, 크크."
-    },
-    {
-      "start": 97.39,
-      "end": 100.21,
-      "text": "얼마 전에 이웃집 찰일스 출연한 거 봤어요."
-    },
-    {
-      "start": 100.21,
-      "end": 101.83,
-      "text": "아우, 방가방가."
-    },
-    {
-      "start": 101.91,
-      "end": 102.17,
-      "text": "Yeah."
-    },
-    {
-      "start": 102.45,
-      "end": 103.33,
-      "text": "Thank you very much."
-    },
-    {
-      "start": 103.85,
-      "end": 105.13,
-      "text": "아우, 참 감사합니다."
-    },
-    {
-      "start": 105.49,
-      "end": 105.95,
-      "text": "Good morning."
-    },
-    {
-      "start": 106.15,
-      "end": 107.13,
-      "text": "네, good morning."
-    },
-    {
-      "start": 107.27,
-      "end": 108.21,
-      "text": "인사를 나누고요."
-    },
-    {
-      "start": 108.31,
-      "end": 108.89,
-      "text": "아, 예민합니다."
-    },
-    {
-      "start": 109.13,
-      "end": 110.03,
-      "text": "문자 받을 때마다."
-    },
-    {
-      "start": 110.23,
-      "end": 110.53,
-      "text": "그렇죠."
-    },
-    {
-      "start": 111.19,
-      "end": 113.21,
-      "text": "아니, 근데 아까 제가 말씀드린 거 있잖아요."
-    },
-    {
-      "start": 113.59,
-      "end": 117.61,
-      "text": "매일매일 스페셜 피자를 플렉스한다라고 들으셨잖아요."
-    },
-    {
-      "start": 118.19,
-      "end": 121.31,
-      "text": "They set a gay for dogs to eat a whole pizza a day."
-    },
-    {
-      "start": 121.53,
-      "end": 122.43,
-      "text": "A whole pizza?"
-    },
-    {
-      "start": 122.67,
-      "end": 124.35,
-      "text": "I was worried about that."
-    },
-    {
-      "start": 124.43,
-      "end": 124.89,
-      "text": "Yeah."
-    },
-    {
-      "start": 124.89,
-      "end": 130.79,
-      "text": "Well, if they like it, 그건 뭐, 개팔자가 상팔자 딱 올리는 그런 말이니까."
-    },
-    {
-      "start": 130.97,
-      "end": 134.49,
-      "text": "I agree, but is there a similar English proverb, just as you said?"
-    },
-    {
-      "start": 134.73,
-      "end": 135.85,
-      "text": "개팔자가 상팔자."
-    },
-    {
-      "start": 136.17,
-      "end": 140.71,
-      "text": "In English, I would say, dogs have the life."
-    },
-    {
-      "start": 140.93,
-      "end": 142.57,
-      "text": "Oh, dogs have the life."
-    },
-    {
-      "start": 142.61,
-      "end": 143.99,
-      "text": "He has the life."
-    },
-    {
-      "start": 144.71,
-      "end": 146.17,
-      "text": "그만의 인생이 있는 거예요."
-    },
-    {
-      "start": 146.33,
-      "end": 146.95,
-      "text": "이런 느낌인가요?"
-    },
-    {
-      "start": 147.01,
-      "end": 148.67,
-      "text": "He's got a good life."
-    },
-    {
-      "start": 148.69,
-      "end": 149.29,
-      "text": "A good life."
-    },
-    {
-      "start": 149.29,
-      "end": 149.99,
-      "text": "The life."
-    },
-    {
-      "start": 150.41,
-      "end": 151.25,
-      "text": "이, D 중요해요."
-    },
-    {
-      "start": 151.37,
-      "end": 151.51,
-      "text": "네."
-    },
-    {
-      "start": 151.93,
-      "end": 153.91,
-      "text": "그냥 has life 하면 엉터리고."
-    },
-    {
-      "start": 153.91,
-      "end": 156.69,
-      "text": "Positively, 뭔가 emphasize 하는 그런 느낌인 거죠?"
-    },
-    {
-      "start": 156.91,
-      "end": 157.25,
-      "text": "Yes."
-    },
-    {
-      "start": 157.77,
-      "end": 158.37,
-      "text": "알겠습니다."
-    },
-    {
-      "start": 158.65,
-      "end": 159.27,
-      "text": "막 부러울 정도로."
-    },
-    {
-      "start": 159.47,
-      "end": 160.17,
-      "text": "아, 부럽다."
-    },
-    {
-      "start": 160.25,
-      "end": 161.15,
-      "text": "He has the life."
-    },
-    {
-      "start": 161.45,
-      "end": 162.61,
-      "text": "He has it made."
-    },
-    {
-      "start": 162.89,
-      "end": 164.01,
-      "text": "이런 표현도 하고요."
-    },
-    {
-      "start": 164.09,
-      "end": 165.53,
-      "text": "He has it made."
-    },
-    {
-      "start": 165.73,
-      "end": 166.03,
-      "text": "좋아요."
-    },
-    {
-      "start": 166.27,
-      "end": 167.33,
-      "text": "Make 과거형이에요."
-    },
-    {
-      "start": 167.43,
-      "end": 167.83,
-      "text": "알겠습니다."
-    },
-    {
-      "start": 167.85,
-      "end": 168.31,
-      "text": "Made."
-    },
-    {
-      "start": 168.65,
-      "end": 169.55,
-      "text": "He has it made."
-    },
-    {
-      "start": 169.79,
-      "end": 171.41,
-      "text": "너무 편하게 잘 산다."
-    },
-    {
-      "start": 171.51,
-      "end": 177.63,
-      "text": "개팔자가 상팔자를 영어로 이렇게 translation을 할 수 있다라는 팁까지 전수를 해 주셨는데요."
-    },
-    {
-      "start": 178.31,
-      "end": 179.95,
-      "text": "트러블은 그렇게 살았어요."
-    },
-    {
-      "start": 180.11,
-      "end": 182.65,
-      "text": "정말 개팔자가 상팔자처럼 살았는데."
-    },
-    {
-      "start": 182.65,
-      "end": 184.31,
-      "text": "He had it made."
-    },
-    {
-      "start": 184.57,
-      "end": 184.73,
-      "text": "네."
-    },
-    {
-      "start": 184.85,
-      "end": 185.19,
-      "text": "Had."
-    },
-    {
-      "start": 185.55,
-      "end": 186.65,
-      "text": "He had it made."
-    },
-    {
-      "start": 186.67,
-      "end": 187.33,
-      "text": "과거형으로."
-    },
-    {
-      "start": 187.45,
-      "end": 188.67,
-      "text": "이제는 모르겠고."
-    },
-    {
-      "start": 189.61,
-      "end": 196.33,
-      "text": "하지만 우리 이 트러블의 인생도 주인의 인생과 같이 변화하게 됩니다."
-    },
-    {
-      "start": 196.81,
-      "end": 200.03,
-      "text": "왜냐하면 그 주인이 돌아가셨잖아요."
-    },
-    {
-      "start": 200.15,
-      "end": 201.43,
-      "text": "할머니가 돌아가셨잖아요."
-    },
-    {
-      "start": 202.09,
-      "end": 204.25,
-      "text": "그 다음에 과연 what will happen next?"
-    },
-    {
-      "start": 204.53,
-      "end": 204.79,
-      "text": "Yeah."
-    },
-    {
-      "start": 204.83,
-      "end": 205.97,
-      "text": "He's all on his own."
-    },
-    {
-      "start": 205.97,
-      "end": 211.77,
-      "text": "앞으로 어떤 일이 펼쳐질지 너무너무 궁금한데 오늘 장면 먼저 듣고 올게요."
-    },
-    {
-      "start": 211.77,
-      "end": 216.27,
-      "text": "Nobody touches our nuts."
-    },
-    {
-      "start": 216.85,
-      "end": 220.65,
-      "text": "I have a butler that can vacuum those up for you in a jiffy."
-    },
-    {
-      "start": 221.13,
-      "end": 224.73,
-      "text": "Somebody has assaulted our nuts."
-    },
-    {
-      "start": 225.41,
-      "end": 227.31,
-      "text": "You might need to work on your worrying a little."
-    },
-    {
-      "start": 228.39,
-      "end": 228.99,
-      "text": "James!"
-    },
-    {
-      "start": 229.23,
-      "end": 229.61,
-      "text": "Help!"
-    },
-    {
-      "start": 229.61,
-      "end": 230.03,
-      "text": "Help!"
-    },
-    {
-      "start": 230.55,
-      "end": 232.97,
-      "text": "Mr. was all here to save up those nuts."
-    },
-    {
-      "start": 233.29,
-      "end": 234.07,
-      "text": "And now they're gone."
-    },
-    {
-      "start": 234.87,
-      "end": 236.67,
-      "text": "Nuts just grow on trees or something?"
-    },
-    {
-      "start": 236.67,
-      "end": 244.76,
-      "text": "아주 박진감이 넘쳤어요."
-    },
-    {
-      "start": 245.02,
-      "end": 245.34,
-      "text": "Whoa."
-    },
-    {
-      "start": 245.56,
-      "end": 245.94,
-      "text": "스릴."
-    },
-    {
-      "start": 246.3,
-      "end": 248.12,
-      "text": "원래 이 장면 바로 이전에"
-    },
-    {
-      "start": 248.12,
-      "end": 249.1,
-      "text": "트러블이요."
-    },
-    {
-      "start": 249.22,
-      "end": 250.92,
-      "text": "Was put in a huge truck."
-    },
-    {
-      "start": 251.2,
-      "end": 252.7,
-      "text": "그 다음에 갑자기"
-    },
-    {
-      "start": 252.7,
-      "end": 255.62,
-      "text": "an accidentally fell off the truck again."
-    },
-    {
-      "start": 255.7,
-      "end": 255.84,
-      "text": "Yeah."
-    },
-    {
-      "start": 255.86,
-      "end": 257.36,
-      "text": "The whole thing was an accident."
-    },
-    {
-      "start": 257.5,
-      "end": 257.82,
-      "text": "맞아요."
-    },
-    {
-      "start": 258.08,
-      "end": 259.86,
-      "text": "They didn't mean to put him in the truck."
-    },
-    {
-      "start": 259.98,
-      "end": 261.12,
-      "text": "너무 급작스럽게."
-    },
-    {
-      "start": 261.12,
-      "end": 264.46,
-      "text": "So he was in the truck with all his former owner's belongings."
-    },
-    {
-      "start": 265.24,
-      "end": 265.92,
-      "text": "All her stuff."
-    },
-    {
-      "start": 266.6,
-      "end": 270.04,
-      "text": "And he got out of the truck and he's on his own."
-    },
-    {
-      "start": 270.04,
-      "end": 270.3,
-      "text": "네."
-    },
-    {
-      "start": 270.46,
-      "end": 274.08,
-      "text": "그래서 숲속에 이제 콩콩콩콩 이렇게 떨어지거든요."
-    },
-    {
-      "start": 274.22,
-      "end": 276.24,
-      "text": "그러면서 하룻밤을 보내게 되는데"
-    },
-    {
-      "start": 276.24,
-      "end": 277.34,
-      "text": "어디에서 보냈냐면"
-    },
-    {
-      "start": 277.34,
-      "end": 280.72,
-      "text": "그 트러블의 헤드가, 머리가요."
-    },
-    {
-      "start": 281.36,
-      "end": 283.88,
-      "text": "Just got stuck in a hole in a big tree."
-    },
-    {
-      "start": 284.12,
-      "end": 284.92,
-      "text": "Do you remember?"
-    },
-    {
-      "start": 285.32,
-      "end": 285.7,
-      "text": "Yes."
-    },
-    {
-      "start": 285.8,
-      "end": 286.4,
-      "text": "Poor Trouble."
-    },
-    {
-      "start": 286.68,
-      "end": 288.1,
-      "text": "아직 나오면 개고생한다."
-    },
-    {
-      "start": 288.2,
-      "end": 288.5,
-      "text": "맞아요."
-    },
-    {
-      "start": 288.66,
-      "end": 289.86,
-      "text": "이런 말이 딱 어울리는 것 같아요."
-    },
-    {
-      "start": 289.88,
-      "end": 289.96,
-      "text": "네."
-    },
-    {
-      "start": 289.96,
-      "end": 291.98,
-      "text": "그게 딱 어울리는 표현이었습니다."
-    },
-    {
-      "start": 292.26,
-      "end": 293.46,
-      "text": "그리고 나서 이제"
-    },
-    {
-      "start": 293.46,
-      "end": 296.36,
-      "text": "Squirrels, 다람쥐들을 만나게 되는데"
-    },
-    {
-      "start": 296.36,
-      "end": 298.8,
-      "text": "그래서 오늘 아까 들으신 대화 장면 중에"
-    },
-    {
-      "start": 298.8,
-      "end": 302.88,
-      "text": "막 이렇게 짓궂은 약간 악랄한"
-    },
-    {
-      "start": 302.88,
-      "end": 304.92,
-      "text": "그런 비슷한 목소리를 낸 친구들이 바로"
-    },
-    {
-      "start": 304.92,
-      "end": 306.3,
-      "text": "Squirrels였거든요."
-    },
-    {
-      "start": 306.38,
-      "end": 309.64,
-      "text": "Little cute squirrels, but their behavior is not so cute."
-    },
-    {
-      "start": 309.72,
-      "end": 310.06,
-      "text": "그러니까."
-    },
-    {
-      "start": 310.22,
-      "end": 311.16,
-      "text": "They're like a gang."
-    },
-    {
-      "start": 311.3,
-      "end": 311.76,
-      "text": "맞아요."
-    },
-    {
-      "start": 311.84,
-      "end": 312.54,
-      "text": "A mean gang."
-    },
-    {
-      "start": 312.7,
-      "end": 314.06,
-      "text": "원래 normally하게 보면"
     },
     {
       "start": 314.06,
-      "end": 316.24,
-      "text": "Squirrels는 have some good images."
+      "end": 316.0,
+      "text": "I come from California where I got no pay."
     },
     {
-      "start": 316.64,
-      "end": 318.18,
-      "text": "근데 여기서는 확실히"
+      "start": 316.14,
+      "end": 318.68,
+      "text": "Wow. 완전 프로페셔널한데요."
     },
     {
-      "start": 318.18,
-      "end": 320.0,
-      "text": "different한 그런 상황입니다."
+      "start": 318.8,
+      "end": 322.3,
+      "text": "I used to rap for fun during lunch time in high school."
     },
     {
-      "start": 320.0,
-      "end": 321.32,
-      "text": "악당 역할을 하는 것 같아요."
+      "start": 322.34,
+      "end": 322.84,
+      "text": "Wow. Sounds good."
     },
     {
-      "start": 321.74,
-      "end": 322.64,
-      "text": "너무 악해요."
+      "start": 323.32,
+      "end": 325.72,
+      "text": "I was terrible, but it was so much fun."
     },
     {
-      "start": 322.64,
-      "end": 323.04,
-      "text": "맞아요."
+      "start": 325.78,
+      "end": 326.9,
+      "text": "너무 잘하는데요?"
     },
     {
-      "start": 323.24,
-      "end": 325.34,
-      "text": "왜냐하면 이게 다람쥐들의 집을"
+      "start": 327.16,
+      "end": 328.38,
+      "text": "맨날 막 랩해드라고."
     },
     {
-      "start": 325.34,
-      "end": 327.26,
-      "text": "우리 트러블이 건드려가지고"
+      "start": 328.38,
+      "end": 330.1,
+      "text": "아, 네. 그렇군요."
     },
     {
-      "start": 327.26,
-      "end": 329.8,
-      "text": "1년 동안 다 모아놓은 도토리들이"
+      "start": 330.12,
+      "end": 331.0,
+      "text": "Those were the days."
     },
     {
-      "start": 329.8,
-      "end": 331.22,
-      "text": "다 날라가 버렸잖아요."
-    },
-    {
-      "start": 331.32,
-      "end": 332.36,
-      "text": "All those acorns."
-    },
-    {
-      "start": 332.54,
-      "end": 332.86,
+      "start": 331.12,
+      "end": 331.38,
       "text": "Yeah."
     },
     {
-      "start": 332.98,
-      "end": 334.38,
-      "text": "They live off of acorns."
+      "start": 331.92,
+      "end": 334.52,
+      "text": "과거를 회상하는 아주 신나는 시간입니다."
     },
     {
-      "start": 334.5,
-      "end": 334.66,
+      "start": 334.52,
+      "end": 338.0,
+      "text": "네. 이 트러블에 관련된 영화를 우리가 살펴볼 텐데"
+    },
+    {
+      "start": 338.0,
+      "end": 341.38,
+      "text": "먼저 백준현님께서 인사를 나눠주셨어요."
+    },
+    {
+      "start": 341.84,
+      "end": 344.44,
+      "text": "언제나 싱글벙글 크리스님 어서 오세요."
+    },
+    {
+      "start": 344.56,
+      "end": 345.28,
+      "text": "방가방가."
+    },
+    {
+      "start": 345.68,
+      "end": 348.46,
+      "text": "한국 사람보다 더 한국적인 외국인, 크크."
+    },
+    {
+      "start": 348.78,
+      "end": 351.6,
+      "text": "얼마 전에 이웃집 찰일스 출연한 거 봤어요."
+    },
+    {
+      "start": 351.6,
+      "end": 353.22,
+      "text": "아우, 방가방가."
+    },
+    {
+      "start": 353.3,
+      "end": 353.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 353.84,
+      "end": 354.72,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 355.24,
+      "end": 356.52,
+      "text": "아우, 참 감사합니다."
+    },
+    {
+      "start": 356.88,
+      "end": 357.34,
+      "text": "Good morning."
+    },
+    {
+      "start": 357.54,
+      "end": 358.52,
+      "text": "네, good morning."
+    },
+    {
+      "start": 358.66,
+      "end": 359.6,
+      "text": "인사를 나누고요."
+    },
+    {
+      "start": 359.7,
+      "end": 360.28,
+      "text": "아, 예민합니다."
+    },
+    {
+      "start": 360.52,
+      "end": 361.42,
+      "text": "문자 받을 때마다."
+    },
+    {
+      "start": 361.62,
+      "end": 361.92,
       "text": "그렇죠."
     },
     {
-      "start": 334.82,
-      "end": 335.38,
-      "text": "acorns."
+      "start": 362.58,
+      "end": 364.6,
+      "text": "아니, 근데 아까 제가 말씀드린 거 있잖아요."
     },
     {
-      "start": 335.5,
-      "end": 338.2,
-      "text": "도토리에 해당하는 단어까지 들어보셨네요."
-    },
-    {
-      "start": 338.86,
-      "end": 340.54,
-      "text": "자, 어떤 표현들이 들렸죠?"
-    },
-    {
-      "start": 340.98,
-      "end": 341.5,
-      "text": "Nuts."
-    },
-    {
-      "start": 341.92,
-      "end": 342.28,
-      "text": "Nuts."
-    },
-    {
-      "start": 342.28,
-      "end": 344.94,
-      "text": "Acorn보다 very general하게"
-    },
-    {
-      "start": 344.94,
-      "end": 346.0,
-      "text": "Nuts."
-    },
-    {
-      "start": 346.44,
-      "end": 347.78,
-      "text": "Nuts라고 하면 소위"
-    },
-    {
-      "start": 347.78,
-      "end": 349.4,
-      "text": "견과라고 할 수가 있으니까"
-    },
-    {
-      "start": 349.4,
-      "end": 351.56,
-      "text": "이게 다 뭐 도토리까지"
-    },
-    {
-      "start": 351.56,
-      "end": 353.02,
-      "text": "다 포함할 수가 있는 거잖아요."
-    },
-    {
-      "start": 353.14,
-      "end": 354.08,
-      "text": "Do you have a favorite nut?"
-    },
-    {
-      "start": 354.54,
-      "end": 355.68,
-      "text": "저는 almond."
-    },
-    {
-      "start": 356.22,
-      "end": 356.66,
-      "text": "Almonds."
-    },
-    {
-      "start": 357.32,
-      "end": 359.36,
-      "text": "California almonds are amazing."
-    },
-    {
-      "start": 359.48,
-      "end": 360.48,
-      "text": "I'm from California."
-    },
-    {
-      "start": 360.78,
-      "end": 361.06,
-      "text": "Yeah."
-    },
-    {
-      "start": 361.42,
-      "end": 362.72,
-      "text": "Walnuts are really good too."
-    },
-    {
-      "start": 362.82,
-      "end": 363.14,
-      "text": "Yeah."
-    },
-    {
-      "start": 363.32,
-      "end": 363.84,
-      "text": "Pecans."
-    },
-    {
-      "start": 364.4,
-      "end": 365.96,
-      "text": "Also pistachios."
-    },
-    {
-      "start": 366.74,
-      "end": 368.12,
-      "text": "Pastachio라고 하는 줄 알았는데"
-    },
-    {
-      "start": 368.12,
+      "start": 364.98,
       "end": 369.0,
-      "text": "발음이 다르네요."
+      "text": "매일매일 스페셜 피자를 플렉스한다라고 들으셨잖아요."
     },
     {
-      "start": 369.06,
-      "end": 369.96,
-      "text": "너무 다르다."
+      "start": 369.58,
+      "end": 372.7,
+      "text": "They set a gay for dogs to eat a whole pizza a day."
     },
     {
-      "start": 370.82,
-      "end": 371.46,
-      "text": "Pistachio."
+      "start": 372.92,
+      "end": 373.82,
+      "text": "A whole pizza?"
     },
     {
-      "start": 371.46,
-      "end": 373.54,
-      "text": "Pistachio."
+      "start": 374.06,
+      "end": 375.74,
+      "text": "I was worried about that."
     },
     {
-      "start": 373.72,
-      "end": 374.24,
-      "text": "Pistachio."
-    },
-    {
-      "start": 374.26,
-      "end": 374.46,
+      "start": 375.82,
+      "end": 376.28,
       "text": "Yeah."
     },
     {
-      "start": 375.16,
-      "end": 375.68,
-      "text": "Pistachio."
+      "start": 376.28,
+      "end": 382.18,
+      "text": "Well, if they like it, 그건 뭐, 개팔자가 상팔자 딱 올리는 그런 말이니까."
     },
     {
-      "start": 376.08,
-      "end": 377.12,
-      "text": "좀 soft한 발음."
+      "start": 382.36,
+      "end": 385.88,
+      "text": "I agree, but is there a similar English proverb, just as you said?"
     },
     {
-      "start": 377.14,
-      "end": 377.94,
-      "text": "Oh, 그렇군요."
+      "start": 386.12,
+      "end": 387.24,
+      "text": "개팔자가 상팔자."
     },
     {
-      "start": 378.04,
-      "end": 379.9,
-      "text": "Anyway, California is famous for nuts."
+      "start": 387.56,
+      "end": 392.1,
+      "text": "In English, I would say, dogs have the life."
     },
     {
-      "start": 380.02,
-      "end": 380.28,
-      "text": "Yeah."
+      "start": 392.32,
+      "end": 393.96,
+      "text": "Oh, dogs have the life."
     },
     {
-      "start": 380.36,
-      "end": 381.1,
-      "text": "So I'm a nut lover."
+      "start": 394.0,
+      "end": 395.38,
+      "text": "He has the life."
     },
     {
-      "start": 381.12,
-      "end": 381.54,
-      "text": "Okay."
+      "start": 396.1,
+      "end": 397.56,
+      "text": "그만의 인생이 있는 거예요."
     },
     {
-      "start": 381.86,
-      "end": 383.04,
-      "text": "Pistachios are really good."
+      "start": 397.72,
+      "end": 398.34,
+      "text": "이런 느낌인가요?"
     },
     {
-      "start": 383.2,
-      "end": 383.5,
-      "text": "Yeah."
+      "start": 398.4,
+      "end": 400.06,
+      "text": "He's got a good life."
     },
     {
-      "start": 383.92,
-      "end": 385.32,
-      "text": "Nuts 견과였습니다."
+      "start": 400.08,
+      "end": 400.68,
+      "text": "A good life."
     },
     {
-      "start": 386.16,
-      "end": 387.04,
-      "text": "In a jiffy."
+      "start": 400.68,
+      "end": 401.38,
+      "text": "The life."
     },
     {
-      "start": 387.32,
-      "end": 388.98,
-      "text": "Oh, in a jiffy라는 것은"
+      "start": 401.8,
+      "end": 402.64,
+      "text": "이, D 중요해요."
     },
     {
-      "start": 388.98,
-      "end": 391.54,
-      "text": "순식간에 즉시 라는 의미죠."
-    },
-    {
-      "start": 391.6,
-      "end": 393.28,
-      "text": "This is a really fun expression."
-    },
-    {
-      "start": 393.48,
-      "end": 394.3,
-      "text": "Oh, why do you think so?"
-    },
-    {
-      "start": 394.54,
-      "end": 395.7,
-      "text": "It's very useful."
-    },
-    {
-      "start": 395.86,
-      "end": 397.54,
-      "text": "And it's kind of cute."
-    },
-    {
-      "start": 397.84,
-      "end": 398.4,
-      "text": "Jiffy."
-    },
-    {
-      "start": 398.64,
-      "end": 399.46,
-      "text": "발음 자체가."
-    },
-    {
-      "start": 399.46,
-      "end": 401.4,
-      "text": "I'll have that for you in a jiffy."
-    },
-    {
-      "start": 401.46,
-      "end": 402.86,
-      "text": "금방 드릴게요."
-    },
-    {
-      "start": 403.06,
-      "end": 403.96,
-      "text": "In a jiffy."
-    },
-    {
-      "start": 404.12,
-      "end": 408.98,
-      "text": "왠지 어린 아이들도 되게 사용하기 좋아할 법한 그런 표현일 것 같아요."
-    },
-    {
-      "start": 409.48,
-      "end": 412.12,
-      "text": "Well, 어린 아이들이 쓰기 좀 어려운데."
-    },
-    {
-      "start": 412.14,
-      "end": 412.72,
-      "text": "어려워요?"
-    },
-    {
-      "start": 413.02,
-      "end": 416.7,
-      "text": "Usually my mom or my grandma would say this."
-    },
-    {
-      "start": 416.76,
-      "end": 417.84,
-      "text": "I'm hungry."
-    },
-    {
-      "start": 418.16,
-      "end": 419.4,
-      "text": "Where's my breakfast?"
-    },
-    {
-      "start": 420.08,
-      "end": 421.3,
-      "text": "Hey, hold on."
-    },
-    {
-      "start": 421.36,
-      "end": 423.02,
-      "text": "I'll have it up for you in a jiffy."
-    },
-    {
-      "start": 423.12,
-      "end": 423.32,
-      "text": "Jiffy."
-    },
-    {
-      "start": 423.5,
-      "end": 424.3,
-      "text": "I got it."
-    },
-    {
-      "start": 424.3,
-      "end": 428.48,
-      "text": "뭐 반대로, 반대는 아니고 비슷하게 쓰일 수 있는 표현이 뭐가 있을까요?"
-    },
-    {
-      "start": 428.64,
-      "end": 429.78,
-      "text": "In a jerk는 어때요?"
-    },
-    {
-      "start": 429.86,
-      "end": 430.36,
-      "text": "In a jerk?"
-    },
-    {
-      "start": 430.56,
-      "end": 431.22,
-      "text": "아, 그거 안 돼요."
-    },
-    {
-      "start": 431.34,
-      "end": 431.68,
-      "text": "안 돼요?"
-    },
-    {
-      "start": 431.76,
-      "end": 434.66,
-      "text": "아, jerk은 녀석, 나쁜 놈."
-    },
-    {
-      "start": 434.84,
-      "end": 435.54,
-      "text": "그 말인데."
-    },
-    {
-      "start": 435.62,
-      "end": 437.7,
-      "text": "그 주의해야 되는 표현이네요."
-    },
-    {
-      "start": 437.9,
-      "end": 438.66,
-      "text": "In a second."
-    },
-    {
-      "start": 438.92,
-      "end": 440.0,
-      "text": "아, in a second."
-    },
-    {
-      "start": 440.0,
-      "end": 440.88,
-      "text": "In a moment."
-    },
-    {
-      "start": 440.98,
-      "end": 441.68,
-      "text": "네, in a moment."
-    },
-    {
-      "start": 441.88,
-      "end": 443.4,
-      "text": "In a jerk 왜 그거 생각했어요?"
-    },
-    {
-      "start": 443.56,
-      "end": 450.0,
-      "text": "왜냐하면 이게 뭐 즉시, 순식간에 라고 사전적으로 찾아보면 이렇게 나오기도 하거든요."
-    },
-    {
-      "start": 450.0,
-      "end": 456.1,
-      "text": "그래서 우리 한국 분들은 혹시 잘못 사용하실 수 있을까봐 짚어드리고 싶었지요."
-    },
-    {
-      "start": 456.1,
-      "end": 457.0,
-      "text": "Yes, 사용하지 마이소."
-    },
-    {
-      "start": 457.68,
-      "end": 459.2,
-      "text": "네, 사용하지 마이소."
-    },
-    {
-      "start": 459.44,
-      "end": 460.02,
-      "text": "In a second."
-    },
-    {
-      "start": 460.28,
-      "end": 460.9,
-      "text": "In a moment."
-    },
-    {
-      "start": 461.04,
-      "end": 462.04,
-      "text": "In a jiffy."
-    },
-    {
-      "start": 462.12,
-      "end": 463.44,
-      "text": "이게 much better 하답니다."
-    },
-    {
-      "start": 463.44,
-      "end": 465.7,
-      "text": "네, save up."
-    },
-    {
-      "start": 465.94,
-      "end": 470.1,
-      "text": "네, save up이라는 표현도 들으실 텐데, 모으다라는 의미예요."
-    },
-    {
-      "start": 470.32,
-      "end": 473.04,
-      "text": "뭐, 저금하다라는 의미로도 쓰일 수가 있겠는데,"
-    },
-    {
-      "start": 473.18,
-      "end": 476.94,
-      "text": "여기서는 무언가를 모으다라는 의미로 들리게 됩니다."
-    },
-    {
-      "start": 477.42,
-      "end": 478.62,
-      "text": "이 장면 한 번 더 들어볼게요."
-    },
-    {
-      "start": 478.62,
-      "end": 483.09,
-      "text": "Nobody touches our nuts."
-    },
-    {
-      "start": 483.65,
-      "end": 487.47,
-      "text": "I have a butler that can vacuum those up for you in a jiffy."
-    },
-    {
-      "start": 487.85,
-      "end": 490.39,
-      "text": "Somebody has assaulted you."
-    },
-    {
-      "start": 490.71,
-      "end": 491.49,
-      "text": "Our nuts."
-    },
-    {
-      "start": 492.21,
-      "end": 494.09,
-      "text": "You might need to work on your worrying room."
-    },
-    {
-      "start": 494.53,
-      "end": 496.81,
-      "text": "Chains, help!"
-    },
-    {
-      "start": 497.51,
-      "end": 499.77,
-      "text": "This was all year to save up those nuts."
-    },
-    {
-      "start": 500.11,
-      "end": 500.87,
-      "text": "And now they're gone."
-    },
-    {
-      "start": 501.71,
-      "end": 503.45,
-      "text": "What do you think, nuts just grow on trees or something?"
-    },
-    {
-      "start": 505.48,
-      "end": 506.12,
-      "text": "Next."
-    },
-    {
-      "start": 508.63,
-      "end": 515.01,
-      "text": "네, 이렇게 박진감 넘치는 음악과 함께 이 다람쥐들이 계속해서 스텝을 밟으면서"
-    },
-    {
-      "start": 515.01,
-      "end": 516.87,
-      "text": "They dance so well."
-    },
-    {
-      "start": 517.21,
-      "end": 518.01,
-      "text": "They're dancing."
-    },
-    {
-      "start": 518.21,
-      "end": 519.49,
-      "text": "항상 춤을 추더라고요."
-    },
-    {
-      "start": 519.55,
-      "end": 520.19,
-      "text": "군대면서."
-    },
-    {
-      "start": 520.41,
-      "end": 520.85,
-      "text": "완전."
-    },
-    {
-      "start": 521.11,
-      "end": 521.81,
-      "text": "춤추는 거네요."
-    },
-    {
-      "start": 521.81,
-      "end": 525.05,
-      "text": "네, 춤을 추면서 아주 호되게 야단을 치고 있습니다."
-    },
-    {
-      "start": 525.05,
-      "end": 526.53,
-      "text": "뭐라고 야단을 쳤죠?"
-    },
-    {
-      "start": 526.67,
-      "end": 528.67,
-      "text": "Nobody touches our nuts."
-    },
-    {
-      "start": 528.85,
-      "end": 529.01,
-      "text": "그렇죠."
-    },
-    {
-      "start": 529.33,
-      "end": 529.69,
-      "text": "Nobody."
-    },
-    {
-      "start": 530.31,
-      "end": 531.33,
-      "text": "아무도 touches."
-    },
-    {
-      "start": 531.87,
-      "end": 532.53,
-      "text": "만질 수 없어."
-    },
-    {
-      "start": 532.81,
-      "end": 533.53,
-      "text": "Our nuts."
-    },
-    {
-      "start": 533.77,
-      "end": 534.67,
-      "text": "우리의 견과류를."
-    },
-    {
-      "start": 535.11,
-      "end": 536.67,
-      "text": "This is a funny expression."
-    },
-    {
-      "start": 537.33,
-      "end": 539.05,
-      "text": "Nuts can have several meanings."
-    },
-    {
-      "start": 539.15,
-      "end": 539.57,
-      "text": "아, 네."
-    },
-    {
-      "start": 539.97,
-      "end": 542.15,
-      "text": "여기서는 이제 도토리를 건드릴 수 없어."
-    },
-    {
-      "start": 542.39,
-      "end": 544.19,
-      "text": "라고 이야기하고 있는 장면이었어요."
-    },
-    {
-      "start": 544.19,
-      "end": 546.15,
-      "text": "Literally, they're talking about nuts."
-    },
-    {
-      "start": 546.61,
-      "end": 547.09,
-      "text": "Acorns."
-    },
-    {
-      "start": 547.71,
-      "end": 547.95,
-      "text": "Yeah."
-    },
-    {
-      "start": 549.18,
-      "end": 553.04,
-      "text": "I have a butler who can vacuum those up for you in a jiffy."
-    },
-    {
-      "start": 553.04,
-      "end": 554.8,
-      "text": "와, 너무 잘 들렸죠?"
-    },
-    {
-      "start": 554.94,
-      "end": 561.1,
-      "text": "미리 배웠더니 끝부분에 in a jiffy라는 것이 들렸고 지금 트러블이 하는 말이었는데 너무 재밌어요."
-    },
-    {
-      "start": 561.38,
-      "end": 562.28,
-      "text": "I have a butler."
-    },
-    {
-      "start": 562.44,
-      "end": 564.26,
-      "text": "오, 벌써, 와, butler?"
-    },
-    {
-      "start": 564.42,
-      "end": 566.44,
-      "text": "정말 로열한 강아지 많네요."
-    },
-    {
-      "start": 566.68,
-      "end": 568.1,
-      "text": "Yeah, he's a different breed."
-    },
-    {
-      "start": 568.26,
-      "end": 568.66,
-      "text": "그쵸."
-    },
-    {
-      "start": 568.68,
-      "end": 569.74,
-      "text": "He comes from wealth."
-    },
-    {
-      "start": 569.92,
-      "end": 570.36,
-      "text": "와우."
-    },
-    {
-      "start": 570.54,
-      "end": 572.1,
-      "text": "I have a butler 이라고 했어요."
-    },
-    {
-      "start": 572.42,
-      "end": 573.86,
-      "text": "나에겐 집사가 있어."
-    },
-    {
-      "start": 574.04,
-      "end": 574.5,
-      "text": "라는 거예요."
-    },
-    {
-      "start": 574.94,
-      "end": 577.4,
-      "text": "Who can vacuum those up for you?"
-    },
-    {
-      "start": 577.6,
-      "end": 578.12,
-      "text": "Vacuum."
-    },
-    {
-      "start": 578.34,
-      "end": 579.02,
-      "text": "아, vacuum."
-    },
-    {
-      "start": 579.4,
-      "end": 579.88,
-      "text": "Vacuum."
-    },
-    {
-      "start": 579.98,
-      "end": 583.52,
-      "text": "네, vacuum 하면 원래 이제 machine이 떠오르잖아요."
-    },
-    {
-      "start": 583.6,
-      "end": 583.82,
-      "text": "Yeah."
-    },
-    {
-      "start": 584.32,
-      "end": 584.88,
-      "text": "진공청소기."
-    },
-    {
-      "start": 584.96,
-      "end": 585.48,
-      "text": "Vacuum."
-    },
-    {
-      "start": 585.48,
-      "end": 585.8,
-      "text": "Yeah."
-    },
-    {
-      "start": 586.12,
-      "end": 592.06,
-      "text": "근데 뭔가 그 진공청소기라고 하면 어떤 상황이 떠오르냐면 뭔가 다 흡입하는 거, 빨아들이는 거."
-    },
-    {
-      "start": 592.12,
-      "end": 592.34,
-      "text": "Yeah."
-    },
-    {
-      "start": 592.74,
-      "end": 596.58,
-      "text": "그래서 도토리들을 즉시 흡입을 해준다라는 거죠."
-    },
-    {
-      "start": 597.04,
-      "end": 602.8,
-      "text": "그러니까 조금 더 의역하자면 모아준다라는 의미로 해석하시면 어울릴 것 같아요."
-    },
-    {
-      "start": 603.08,
-      "end": 606.48,
-      "text": "Or he's literally, he takes out a vacuum and he's gonna..."
-    },
-    {
-      "start": 607.16,
-      "end": 608.53,
-      "text": "He's gonna vacuum."
-    },
-    {
-      "start": 608.99,
-      "end": 609.69,
-      "text": "Yeah, 그거요."
-    },
-    {
-      "start": 609.93,
-      "end": 610.41,
-      "text": "그렇구나."
-    },
-    {
-      "start": 610.41,
-      "end": 612.17,
-      "text": "Butler니까 집안일 잘 할 거 아니에요."
-    },
-    {
-      "start": 612.17,
-      "end": 612.95,
-      "text": "아, 그래요."
-    },
-    {
-      "start": 613.21,
-      "end": 617.63,
-      "text": "나에겐 집사가 있어서 그가 저 도토리들 청소기로 다 빨아줄 거야."
-    },
-    {
-      "start": 617.87,
-      "end": 618.57,
-      "text": "걱정 마."
-    },
-    {
-      "start": 618.95,
-      "end": 619.11,
+      "start": 402.76,
+      "end": 402.9,
       "text": "네."
     },
     {
-      "start": 619.21,
-      "end": 620.83,
-      "text": "청소기 가까워, butler님."
+      "start": 403.32,
+      "end": 405.3,
+      "text": "그냥 has life 하면 엉터리고."
     },
     {
-      "start": 620.87,
-      "end": 622.29,
-      "text": "네, 그러면 in a jiffy."
+      "start": 405.3,
+      "end": 408.08,
+      "text": "Positively, 뭔가 emphasize 하는 그런 느낌인 거죠?"
     },
     {
-      "start": 622.39,
-      "end": 624.99,
-      "text": "순식간에 달걀대라고 이야기하고 있습니다."
+      "start": 408.3,
+      "end": 408.64,
+      "text": "Yes."
     },
     {
-      "start": 625.13,
-      "end": 625.73,
-      "text": "In a jiffy."
+      "start": 409.16,
+      "end": 409.76,
+      "text": "알겠습니다."
     },
     {
-      "start": 625.79,
-      "end": 625.97,
+      "start": 410.04,
+      "end": 410.66,
+      "text": "막 부러울 정도로."
+    },
+    {
+      "start": 410.86,
+      "end": 411.56,
+      "text": "아, 부럽다."
+    },
+    {
+      "start": 411.64,
+      "end": 412.54,
+      "text": "He has the life."
+    },
+    {
+      "start": 412.84,
+      "end": 414.0,
+      "text": "He has it made."
+    },
+    {
+      "start": 414.28,
+      "end": 415.4,
+      "text": "이런 표현도 하고요."
+    },
+    {
+      "start": 415.48,
+      "end": 416.92,
+      "text": "He has it made."
+    },
+    {
+      "start": 417.12,
+      "end": 417.42,
+      "text": "좋아요."
+    },
+    {
+      "start": 417.66,
+      "end": 418.72,
+      "text": "Make 과거형이에요."
+    },
+    {
+      "start": 418.82,
+      "end": 419.22,
+      "text": "알겠습니다."
+    },
+    {
+      "start": 419.24,
+      "end": 419.7,
+      "text": "Made."
+    },
+    {
+      "start": 420.04,
+      "end": 420.94,
+      "text": "He has it made."
+    },
+    {
+      "start": 421.18,
+      "end": 422.8,
+      "text": "너무 편하게 잘 산다."
+    },
+    {
+      "start": 422.9,
+      "end": 429.02,
+      "text": "개팔자가 상팔자를 영어로 이렇게 translation을 할 수 있다라는 팁까지 전수를 해 주셨는데요."
+    },
+    {
+      "start": 429.7,
+      "end": 431.34,
+      "text": "트러블은 그렇게 살았어요."
+    },
+    {
+      "start": 431.5,
+      "end": 434.04,
+      "text": "정말 개팔자가 상팔자처럼 살았는데."
+    },
+    {
+      "start": 434.04,
+      "end": 435.7,
+      "text": "He had it made."
+    },
+    {
+      "start": 435.96,
+      "end": 436.12,
+      "text": "네."
+    },
+    {
+      "start": 436.24,
+      "end": 436.58,
+      "text": "Had."
+    },
+    {
+      "start": 436.94,
+      "end": 438.04,
+      "text": "He had it made."
+    },
+    {
+      "start": 438.06,
+      "end": 438.72,
+      "text": "과거형으로."
+    },
+    {
+      "start": 438.84,
+      "end": 440.06,
+      "text": "이제는 모르겠고."
+    },
+    {
+      "start": 441.0,
+      "end": 447.72,
+      "text": "하지만 우리 이 트러블의 인생도 주인의 인생과 같이 변화하게 됩니다."
+    },
+    {
+      "start": 448.2,
+      "end": 451.42,
+      "text": "왜냐하면 그 주인이 돌아가셨잖아요."
+    },
+    {
+      "start": 451.54,
+      "end": 452.82,
+      "text": "할머니가 돌아가셨잖아요."
+    },
+    {
+      "start": 453.48,
+      "end": 455.64,
+      "text": "그 다음에 과연 what will happen next?"
+    },
+    {
+      "start": 455.92,
+      "end": 456.18,
       "text": "Yeah."
     },
     {
-      "start": 626.45,
-      "end": 628.19,
-      "text": "Oh, will the squirrels like that?"
+      "start": 456.22,
+      "end": 457.36,
+      "text": "He's all on his own."
     },
     {
-      "start": 629.29,
-      "end": 632.17,
+      "start": 457.36,
+      "end": 463.16,
+      "text": "앞으로 어떤 일이 펼쳐질지 너무너무 궁금한데 오늘 장면 먼저 듣고 올게요."
+    },
+    {
+      "start": 463.16,
+      "end": 467.66,
+      "text": "Nobody touches our nuts."
+    },
+    {
+      "start": 468.24,
+      "end": 472.04,
+      "text": "I have a butler that can vacuum those up for you in a jiffy."
+    },
+    {
+      "start": 472.52,
+      "end": 476.12,
       "text": "Somebody has assaulted our nuts."
     },
     {
-      "start": 632.33,
-      "end": 635.61,
-      "text": "네, 아주 비상사태를 이제 포고하고 있는 것 같은데."
-    },
-    {
-      "start": 635.61,
-      "end": 639.45,
-      "text": "Somebody, 누군가가 has assaulted our nuts."
-    },
-    {
-      "start": 639.45,
-      "end": 643.95,
-      "text": "우리의 nuts, 도토리를 assault라는 동사가 들렸잖아요."
-    },
-    {
-      "start": 644.17,
-      "end": 650.35,
-      "text": "여기서는 완료 시제로 응용이 되었는데 A-S-S-A-U-L-T라는 철자입니다."
-    },
-    {
-      "start": 650.61,
-      "end": 651.53,
-      "text": "그래서 공격하다."
-    },
-    {
-      "start": 651.93,
-      "end": 652.39,
-      "text": "그쵸?"
-    },
-    {
-      "start": 652.45,
-      "end": 653.73,
-      "text": "He's exaggerating."
-    },
-    {
-      "start": 654.09,
-      "end": 655.55,
-      "text": "Assaulted our nuts?"
-    },
-    {
-      "start": 655.55,
-      "end": 661.59,
-      "text": "아, 사람도 아니고 우리의 도토리를 공격한다라고 이야기를 하고 있네요."
-    },
-    {
-      "start": 661.73,
-      "end": 662.55,
-      "text": "Drama boy."
-    },
-    {
-      "start": 662.63,
-      "end": 662.93,
-      "text": "Yeah."
-    },
-    {
-      "start": 663.25,
-      "end": 664.27,
-      "text": "Yeah, 오바하면서."
-    },
-    {
-      "start": 664.43,
-      "end": 664.85,
-      "text": "그쵸."
-    },
-    {
-      "start": 664.89,
-      "end": 666.45,
-      "text": "Assaulted our nuts."
-    },
-    {
-      "start": 666.65,
-      "end": 669.51,
-      "text": "There were literally thousands of nuts."
-    },
-    {
-      "start": 669.71,
-      "end": 670.55,
-      "text": "정말 많았어요."
-    },
-    {
-      "start": 670.57,
-      "end": 671.11,
-      "text": "In that tree."
-    },
-    {
-      "start": 671.27,
-      "end": 671.89,
-      "text": "Did you see those?"
-    },
-    {
-      "start": 671.89,
-      "end": 672.45,
-      "text": "Unbelievable."
-    },
-    {
-      "start": 673.21,
-      "end": 673.85,
-      "text": "Unbelievable."
-    },
-    {
-      "start": 674.85,
-      "end": 678.1,
+      "start": 476.8,
+      "end": 478.7,
       "text": "You might need to work on your worrying a little."
     },
     {
-      "start": 678.7,
-      "end": 679.94,
-      "text": "James, help!"
+      "start": 479.78,
+      "end": 480.38,
+      "text": "James!"
     },
     {
-      "start": 679.94,
-      "end": 686.02,
-      "text": "맨 마지막에 이제 James라고 이름을 부르는 거는 여기서는 이제 Butler 이름이 되겠습니다."
+      "start": 480.62,
+      "end": 481.0,
+      "text": "Help!"
     },
     {
-      "start": 686.22,
-      "end": 687.54,
-      "text": "Mr. James the butler."
+      "start": 481.0,
+      "end": 481.42,
+      "text": "Help!"
     },
     {
-      "start": 687.62,
-      "end": 688.14,
-      "text": "그쵸."
-    },
-    {
-      "start": 688.24,
-      "end": 689.52,
-      "text": "He's not even around though."
-    },
-    {
-      "start": 689.58,
-      "end": 690.02,
-      "text": "그러니까."
-    },
-    {
-      "start": 690.4,
-      "end": 691.38,
-      "text": "He misses James."
-    },
-    {
-      "start": 691.68,
-      "end": 693.84,
-      "text": "Life was good when he had a butler."
-    },
-    {
-      "start": 693.94,
-      "end": 694.28,
-      "text": "그쵸."
-    },
-    {
-      "start": 694.3,
-      "end": 695.86,
-      "text": "Who could take care of everything."
-    },
-    {
-      "start": 696.08,
-      "end": 698.16,
-      "text": "집 나오면 이렇게 고생을 한다니까요."
-    },
-    {
-      "start": 698.34,
-      "end": 699.28,
-      "text": "이렇게 고생이에요."
-    },
-    {
-      "start": 699.28,
-      "end": 701.34,
-      "text": "네, 뭐라고 했냐면"
-    },
-    {
-      "start": 701.34,
-      "end": 706.6,
-      "text": "You might need to work on your worrying a little 이라는 문장을 들으셨어요."
-    },
-    {
-      "start": 706.9,
-      "end": 711.58,
-      "text": "그러니까 너는 그렇게 need to work on your worrying a little"
-    },
-    {
-      "start": 711.58,
-      "end": 716.34,
-      "text": "그렇게 근심, 걱정에 힘을 쓸 필요는 없어 라는 이야기."
-    },
-    {
-      "start": 716.64,
-      "end": 717.48,
-      "text": "이거 괜찮죠?"
-    },
-    {
-      "start": 717.68,
-      "end": 719.12,
-      "text": "Work on your worrying."
-    },
-    {
-      "start": 719.26,
-      "end": 721.56,
-      "text": "How can you work on your worrying?"
-    },
-    {
-      "start": 722.12,
-      "end": 727.9,
-      "text": "뭔가 걱정하는 것에 몰두한 그런 상상을 하게 하는 표현이었던 것 같아요."
-    },
-    {
-      "start": 727.9,
-      "end": 728.62,
-      "text": "그쵸."
-    },
-    {
-      "start": 728.98,
-      "end": 731.92,
-      "text": "그렇게까지 근심, 걱정에 힘을 쓸 필요는 없어."
-    },
-    {
-      "start": 732.42,
-      "end": 733.14,
-      "text": "Oh, interesting."
-    },
-    {
-      "start": 733.44,
-      "end": 733.6,
-      "text": "Yeah."
-    },
-    {
-      "start": 733.78,
-      "end": 734.6,
-      "text": "Interesting expression."
-    },
-    {
-      "start": 734.72,
-      "end": 734.9,
-      "text": "맞아요."
-    },
-    {
-      "start": 735.16,
-      "end": 736.08,
-      "text": "And James, help!"
-    },
-    {
-      "start": 736.42,
-      "end": 737.52,
-      "text": "Where's James?"
-    },
-    {
-      "start": 737.66,
-      "end": 738.26,
-      "text": "도와줘요!"
-    },
-    {
-      "start": 739.2,
-      "end": 742.62,
-      "text": "It took us a whole year to save up those nuts."
-    },
-    {
-      "start": 742.78,
-      "end": 745.24,
-      "text": "화가 난 이유를 좀 이해는 하겠네요."
-    },
-    {
-      "start": 745.92,
-      "end": 746.9,
-      "text": "다람쥐가 하는 말이었습니다."
-    },
-    {
-      "start": 747.68,
-      "end": 750.22,
-      "text": "It took us a whole year 이라고 했으니까"
-    },
-    {
-      "start": 750.22,
-      "end": 753.34,
-      "text": "어떠어떠한 시간이 걸리다라는 의미로"
-    },
-    {
-      "start": 753.34,
-      "end": 757.38,
-      "text": "took라는 동사가 과거 시제로 took가 들렸고요."
-    },
-    {
-      "start": 757.9,
-      "end": 759.56,
-      "text": "It took us a whole year"
-    },
-    {
-      "start": 759.56,
-      "end": 761.96,
-      "text": "일년 내내 걸렸어"
-    },
-    {
-      "start": 761.96,
-      "end": 763.68,
-      "text": "to save up those nuts."
-    },
-    {
-      "start": 764.04,
-      "end": 766.58,
-      "text": "저 도토리들 모으는데 우리가 일년 내내 걸렸거든"
-    },
-    {
-      "start": 766.58,
-      "end": 767.36,
-      "text": "이라는 거예요."
-    },
-    {
-      "start": 767.36,
-      "end": 767.44,
-      "text": "Okay."
-    },
-    {
-      "start": 767.62,
-      "end": 769.96,
-      "text": "Now we understand why they're so angry."
-    },
-    {
-      "start": 769.98,
-      "end": 770.42,
-      "text": "Angry, right."
-    },
-    {
-      "start": 770.5,
-      "end": 771.34,
-      "text": "A whole year."
-    },
-    {
-      "start": 771.62,
-      "end": 772.94,
-      "text": "That's a lot of work."
-    },
-    {
-      "start": 773.06,
-      "end": 773.46,
-      "text": "완전."
-    },
-    {
-      "start": 773.82,
-      "end": 776.36,
-      "text": "And all those nuts were gone in just a flash."
-    },
-    {
-      "start": 776.42,
-      "end": 776.8,
-      "text": "완전."
-    },
-    {
-      "start": 777.0,
-      "end": 777.92,
-      "text": "하나도 안 남고."
-    },
-    {
-      "start": 778.04,
-      "end": 778.38,
-      "text": "그쵸."
-    },
-    {
-      "start": 778.38,
-      "end": 780.84,
-      "text": "And now they're gone."
-    },
-    {
-      "start": 781.14,
-      "end": 783.24,
-      "text": "그리고 도토리들은 다 사라졌지."
-    },
-    {
-      "start": 784.36,
-      "end": 784.86,
-      "text": "What?"
-    },
-    {
-      "start": 785.28,
-      "end": 788.26,
-      "text": "Do you think nuts just grow on trees or something?"
-    },
-    {
-      "start": 788.56,
-      "end": 789.78,
-      "text": "Don't they grow on trees?"
-    },
-    {
-      "start": 790.4,
-      "end": 791.46,
-      "text": "Don't nuts go on trees?"
-    },
-    {
-      "start": 791.6,
-      "end": 795.4,
-      "text": "그러면서 이제 다람쥐가 또 화가 나서 계속 이야기를 합니다."
-    },
-    {
-      "start": 795.76,
-      "end": 795.92,
-      "text": "What?"
-    },
-    {
-      "start": 796.22,
-      "end": 799.6,
-      "text": "Do you think nuts just grow on trees or something?"
-    },
-    {
-      "start": 799.6,
-      "end": 805.16,
-      "text": "도토리들이 나무나 뭐 그런 거에서 저절로 자라나는 줄 알아?"
-    },
-    {
-      "start": 805.64,
-      "end": 806.88,
-      "text": "라고 화를 내고 있어요."
-    },
-    {
-      "start": 806.88,
-      "end": 807.98,
-      "text": "이거 왜 웃기냐면"
-    },
-    {
-      "start": 807.98,
-      "end": 811.58,
-      "text": "There's a common expression about money."
-    },
-    {
-      "start": 812.24,
-      "end": 813.64,
-      "text": "If you use a lot of money,"
-    },
-    {
-      "start": 813.9,
-      "end": 814.94,
-      "text": "막 물 쓰듯이 있으면"
-    },
-    {
-      "start": 814.94,
-      "end": 817.3,
-      "text": "Do you think money grows on trees?"
-    },
-    {
-      "start": 818.0,
-      "end": 819.68,
-      "text": "엄마한테 많이 혼나요 그런 식으로."
-    },
-    {
-      "start": 819.68,
-      "end": 822.42,
-      "text": "그것을 응용을 한 표현이었군요."
-    },
-    {
-      "start": 822.46,
-      "end": 823.64,
-      "text": "여기 말 장난처럼."
-    },
-    {
-      "start": 823.78,
-      "end": 823.92,
-      "text": "네."
-    },
-    {
-      "start": 824.24,
-      "end": 824.6,
-      "text": "Nuts."
-    },
-    {
-      "start": 824.84,
-      "end": 826.54,
-      "text": "Do you think nuts just grow on trees?"
-    },
-    {
-      "start": 826.92,
-      "end": 826.98,
-      "text": "Wow."
-    },
-    {
-      "start": 827.12,
-      "end": 828.6,
-      "text": "Squirrel is so clever."
-    },
-    {
-      "start": 829.1,
-      "end": 829.36,
-      "text": "Yeah."
-    },
-    {
-      "start": 829.74,
-      "end": 830.54,
-      "text": "Nuts do."
-    },
-    {
-      "start": 830.7,
-      "end": 832.42,
-      "text": "Many nuts do grow on trees."
-    },
-    {
-      "start": 832.46,
-      "end": 832.64,
-      "text": "Yeah."
-    },
-    {
-      "start": 832.8,
-      "end": 833.76,
-      "text": "So it's hilarious."
-    },
-    {
-      "start": 835.06,
-      "end": 836.88,
-      "text": "Let's get him, boys."
-    },
-    {
-      "start": 836.98,
-      "end": 837.18,
-      "text": "네."
-    },
-    {
-      "start": 837.38,
-      "end": 839.94,
-      "text": "이제 자기네들의 군단들에게 명령을 합니다."
-    },
-    {
-      "start": 840.22,
-      "end": 841.44,
-      "text": "Let's get him, boys."
-    },
-    {
-      "start": 842.1,
-      "end": 842.74,
-      "text": "쟤 잡아!"
-    },
-    {
-      "start": 843.32,
-      "end": 844.84,
-      "text": "이라고 외치고 있는 거죠."
-    },
-    {
-      "start": 845.52,
-      "end": 845.76,
-      "text": "아!"
-    },
-    {
-      "start": 845.9,
-      "end": 846.72,
-      "text": "저 녀석 잡아!"
-    },
-    {
-      "start": 847.48,
-      "end": 848.76,
-      "text": "Run, run, run for your life."
-    },
-    {
-      "start": 848.76,
-      "end": 849.14,
-      "text": "네."
-    },
-    {
-      "start": 849.14,
-      "end": 851.02,
-      "text": "우리 트러블이 과연 잡힐지"
-    },
-    {
-      "start": 851.02,
-      "end": 852.22,
-      "text": "너무 궁금합니다."
-    },
-    {
-      "start": 852.48,
-      "end": 853.96,
-      "text": "이 장면 한 번 더 확인해 볼게요."
-    },
-    {
-      "start": 853.96,
-      "end": 858.48,
-      "text": "Nobody touches our nuts."
-    },
-    {
-      "start": 859.05,
-      "end": 862.83,
-      "text": "I have a butler that can vacuum those up for you in a jiffy."
-    },
-    {
-      "start": 863.39,
-      "end": 866.88,
-      "text": "Somebody has assaulted our nuts."
-    },
-    {
-      "start": 867.54,
-      "end": 869.48,
-      "text": "You might need to work on your worrying room."
-    },
-    {
-      "start": 870.56,
-      "end": 871.82,
-      "text": "James, help!"
-    },
-    {
-      "start": 872.82,
-      "end": 875.16,
+      "start": 481.94,
+      "end": 484.36,
       "text": "Mr. was all here to save up those nuts."
     },
     {
-      "start": 875.48,
-      "end": 876.26,
+      "start": 484.68,
+      "end": 485.46,
       "text": "And now they're gone."
     },
     {
-      "start": 877.14,
-      "end": 878.84,
-      "text": "Wait, nuts just grow on trees or something?"
+      "start": 486.26,
+      "end": 488.06,
+      "text": "Nuts just grow on trees or something?"
     },
     {
-      "start": 881.22,
-      "end": 883.34,
-      "text": "Let's get him, boys!"
+      "start": 488.06,
+      "end": 496.15,
+      "text": "아주 박진감이 넘쳤어요."
     },
     {
-      "start": 883.34,
-      "end": 888.61,
-      "text": "네, 확실히 여기 다람쥐들은 마치 뭐 Army Corps 같았어요."
+      "start": 496.41,
+      "end": 496.73,
+      "text": "Whoa."
     },
     {
-      "start": 888.99,
-      "end": 890.13,
-      "text": "The Army, Marine Corps."
+      "start": 496.95,
+      "end": 497.33,
+      "text": "스릴."
     },
     {
-      "start": 890.31,
-      "end": 890.57,
+      "start": 497.69,
+      "end": 499.51,
+      "text": "원래 이 장면 바로 이전에"
+    },
+    {
+      "start": 499.51,
+      "end": 500.49,
+      "text": "트러블이요."
+    },
+    {
+      "start": 500.61,
+      "end": 502.31,
+      "text": "Was put in a huge truck."
+    },
+    {
+      "start": 502.59,
+      "end": 504.09,
+      "text": "그 다음에 갑자기"
+    },
+    {
+      "start": 504.09,
+      "end": 507.01,
+      "text": "an accidentally fell off the truck again."
+    },
+    {
+      "start": 507.09,
+      "end": 507.23,
       "text": "Yeah."
     },
     {
-      "start": 890.83,
-      "end": 891.85,
+      "start": 507.25,
+      "end": 508.75,
+      "text": "The whole thing was an accident."
+    },
+    {
+      "start": 508.89,
+      "end": 509.21,
+      "text": "맞아요."
+    },
+    {
+      "start": 509.47,
+      "end": 511.25,
+      "text": "They didn't mean to put him in the truck."
+    },
+    {
+      "start": 511.37,
+      "end": 512.51,
+      "text": "너무 급작스럽게."
+    },
+    {
+      "start": 512.51,
+      "end": 515.85,
+      "text": "So he was in the truck with all his former owner's belongings."
+    },
+    {
+      "start": 516.63,
+      "end": 517.31,
+      "text": "All her stuff."
+    },
+    {
+      "start": 517.99,
+      "end": 521.43,
+      "text": "And he got out of the truck and he's on his own."
+    },
+    {
+      "start": 521.43,
+      "end": 521.69,
+      "text": "네."
+    },
+    {
+      "start": 521.85,
+      "end": 525.47,
+      "text": "그래서 숲속에 이제 콩콩콩콩 이렇게 떨어지거든요."
+    },
+    {
+      "start": 525.61,
+      "end": 527.63,
+      "text": "그러면서 하룻밤을 보내게 되는데"
+    },
+    {
+      "start": 527.63,
+      "end": 528.73,
+      "text": "어디에서 보냈냐면"
+    },
+    {
+      "start": 528.73,
+      "end": 532.11,
+      "text": "그 트러블의 헤드가, 머리가요."
+    },
+    {
+      "start": 532.75,
+      "end": 535.27,
+      "text": "Just got stuck in a hole in a big tree."
+    },
+    {
+      "start": 535.51,
+      "end": 536.31,
+      "text": "Do you remember?"
+    },
+    {
+      "start": 536.71,
+      "end": 537.09,
+      "text": "Yes."
+    },
+    {
+      "start": 537.19,
+      "end": 537.79,
+      "text": "Poor Trouble."
+    },
+    {
+      "start": 538.07,
+      "end": 539.49,
+      "text": "아직 나오면 개고생한다."
+    },
+    {
+      "start": 539.59,
+      "end": 539.89,
+      "text": "맞아요."
+    },
+    {
+      "start": 540.05,
+      "end": 541.25,
+      "text": "이런 말이 딱 어울리는 것 같아요."
+    },
+    {
+      "start": 541.27,
+      "end": 541.35,
+      "text": "네."
+    },
+    {
+      "start": 541.35,
+      "end": 543.37,
+      "text": "그게 딱 어울리는 표현이었습니다."
+    },
+    {
+      "start": 543.65,
+      "end": 544.85,
+      "text": "그리고 나서 이제"
+    },
+    {
+      "start": 544.85,
+      "end": 547.75,
+      "text": "Squirrels, 다람쥐들을 만나게 되는데"
+    },
+    {
+      "start": 547.75,
+      "end": 550.19,
+      "text": "그래서 오늘 아까 들으신 대화 장면 중에"
+    },
+    {
+      "start": 550.19,
+      "end": 554.27,
+      "text": "막 이렇게 짓궂은 약간 악랄한"
+    },
+    {
+      "start": 554.27,
+      "end": 556.31,
+      "text": "그런 비슷한 목소리를 낸 친구들이 바로"
+    },
+    {
+      "start": 556.31,
+      "end": 557.69,
+      "text": "Squirrels였거든요."
+    },
+    {
+      "start": 557.77,
+      "end": 561.03,
+      "text": "Little cute squirrels, but their behavior is not so cute."
+    },
+    {
+      "start": 561.11,
+      "end": 561.45,
+      "text": "그러니까."
+    },
+    {
+      "start": 561.61,
+      "end": 562.55,
+      "text": "They're like a gang."
+    },
+    {
+      "start": 562.69,
+      "end": 563.15,
+      "text": "맞아요."
+    },
+    {
+      "start": 563.23,
+      "end": 563.93,
+      "text": "A mean gang."
+    },
+    {
+      "start": 564.09,
+      "end": 565.45,
+      "text": "원래 normally하게 보면"
+    },
+    {
+      "start": 565.45,
+      "end": 567.63,
+      "text": "Squirrels는 have some good images."
+    },
+    {
+      "start": 568.03,
+      "end": 569.57,
+      "text": "근데 여기서는 확실히"
+    },
+    {
+      "start": 569.57,
+      "end": 571.39,
+      "text": "different한 그런 상황입니다."
+    },
+    {
+      "start": 571.39,
+      "end": 572.71,
+      "text": "악당 역할을 하는 것 같아요."
+    },
+    {
+      "start": 573.13,
+      "end": 574.03,
+      "text": "너무 악해요."
+    },
+    {
+      "start": 574.03,
+      "end": 574.43,
+      "text": "맞아요."
+    },
+    {
+      "start": 574.63,
+      "end": 576.73,
+      "text": "왜냐하면 이게 다람쥐들의 집을"
+    },
+    {
+      "start": 576.73,
+      "end": 578.65,
+      "text": "우리 트러블이 건드려가지고"
+    },
+    {
+      "start": 578.65,
+      "end": 581.19,
+      "text": "1년 동안 다 모아놓은 도토리들이"
+    },
+    {
+      "start": 581.19,
+      "end": 582.61,
+      "text": "다 날라가 버렸잖아요."
+    },
+    {
+      "start": 582.71,
+      "end": 583.75,
+      "text": "All those acorns."
+    },
+    {
+      "start": 583.93,
+      "end": 584.25,
+      "text": "Yeah."
+    },
+    {
+      "start": 584.37,
+      "end": 585.77,
+      "text": "They live off of acorns."
+    },
+    {
+      "start": 585.89,
+      "end": 586.05,
+      "text": "그렇죠."
+    },
+    {
+      "start": 586.21,
+      "end": 586.77,
+      "text": "acorns."
+    },
+    {
+      "start": 586.89,
+      "end": 589.59,
+      "text": "도토리에 해당하는 단어까지 들어보셨네요."
+    },
+    {
+      "start": 590.25,
+      "end": 591.93,
+      "text": "자, 어떤 표현들이 들렸죠?"
+    },
+    {
+      "start": 592.37,
+      "end": 592.89,
+      "text": "Nuts."
+    },
+    {
+      "start": 593.31,
+      "end": 593.67,
+      "text": "Nuts."
+    },
+    {
+      "start": 593.67,
+      "end": 596.33,
+      "text": "Acorn보다 very general하게"
+    },
+    {
+      "start": 596.33,
+      "end": 597.39,
+      "text": "Nuts."
+    },
+    {
+      "start": 597.83,
+      "end": 599.17,
+      "text": "Nuts라고 하면 소위"
+    },
+    {
+      "start": 599.17,
+      "end": 600.79,
+      "text": "견과라고 할 수가 있으니까"
+    },
+    {
+      "start": 600.79,
+      "end": 602.95,
+      "text": "이게 다 뭐 도토리까지"
+    },
+    {
+      "start": 602.95,
+      "end": 604.41,
+      "text": "다 포함할 수가 있는 거잖아요."
+    },
+    {
+      "start": 604.53,
+      "end": 605.47,
+      "text": "Do you have a favorite nut?"
+    },
+    {
+      "start": 605.93,
+      "end": 607.07,
+      "text": "저는 almond."
+    },
+    {
+      "start": 607.61,
+      "end": 608.05,
+      "text": "Almonds."
+    },
+    {
+      "start": 608.71,
+      "end": 610.75,
+      "text": "California almonds are amazing."
+    },
+    {
+      "start": 610.87,
+      "end": 611.87,
+      "text": "I'm from California."
+    },
+    {
+      "start": 612.17,
+      "end": 612.45,
+      "text": "Yeah."
+    },
+    {
+      "start": 612.81,
+      "end": 614.11,
+      "text": "Walnuts are really good too."
+    },
+    {
+      "start": 614.21,
+      "end": 614.53,
+      "text": "Yeah."
+    },
+    {
+      "start": 614.71,
+      "end": 615.23,
+      "text": "Pecans."
+    },
+    {
+      "start": 615.79,
+      "end": 617.35,
+      "text": "Also pistachios."
+    },
+    {
+      "start": 618.13,
+      "end": 619.51,
+      "text": "Pastachio라고 하는 줄 알았는데"
+    },
+    {
+      "start": 619.51,
+      "end": 620.39,
+      "text": "발음이 다르네요."
+    },
+    {
+      "start": 620.45,
+      "end": 621.35,
+      "text": "너무 다르다."
+    },
+    {
+      "start": 622.21,
+      "end": 622.85,
+      "text": "Pistachio."
+    },
+    {
+      "start": 622.85,
+      "end": 624.93,
+      "text": "Pistachio."
+    },
+    {
+      "start": 625.11,
+      "end": 625.63,
+      "text": "Pistachio."
+    },
+    {
+      "start": 625.65,
+      "end": 625.85,
+      "text": "Yeah."
+    },
+    {
+      "start": 626.55,
+      "end": 627.07,
+      "text": "Pistachio."
+    },
+    {
+      "start": 627.47,
+      "end": 628.51,
+      "text": "좀 soft한 발음."
+    },
+    {
+      "start": 628.53,
+      "end": 629.33,
+      "text": "Oh, 그렇군요."
+    },
+    {
+      "start": 629.43,
+      "end": 631.29,
+      "text": "Anyway, California is famous for nuts."
+    },
+    {
+      "start": 631.41,
+      "end": 631.67,
+      "text": "Yeah."
+    },
+    {
+      "start": 631.75,
+      "end": 632.49,
+      "text": "So I'm a nut lover."
+    },
+    {
+      "start": 632.51,
+      "end": 632.93,
+      "text": "Okay."
+    },
+    {
+      "start": 633.25,
+      "end": 634.43,
+      "text": "Pistachios are really good."
+    },
+    {
+      "start": 634.59,
+      "end": 634.89,
+      "text": "Yeah."
+    },
+    {
+      "start": 635.31,
+      "end": 636.71,
+      "text": "Nuts 견과였습니다."
+    },
+    {
+      "start": 637.55,
+      "end": 638.43,
+      "text": "In a jiffy."
+    },
+    {
+      "start": 638.71,
+      "end": 640.37,
+      "text": "Oh, in a jiffy라는 것은"
+    },
+    {
+      "start": 640.37,
+      "end": 642.93,
+      "text": "순식간에 즉시 라는 의미죠."
+    },
+    {
+      "start": 642.99,
+      "end": 644.67,
+      "text": "This is a really fun expression."
+    },
+    {
+      "start": 644.87,
+      "end": 645.69,
+      "text": "Oh, why do you think so?"
+    },
+    {
+      "start": 645.93,
+      "end": 647.09,
+      "text": "It's very useful."
+    },
+    {
+      "start": 647.25,
+      "end": 648.93,
+      "text": "And it's kind of cute."
+    },
+    {
+      "start": 649.23,
+      "end": 649.79,
+      "text": "Jiffy."
+    },
+    {
+      "start": 650.03,
+      "end": 650.85,
+      "text": "발음 자체가."
+    },
+    {
+      "start": 650.85,
+      "end": 652.79,
+      "text": "I'll have that for you in a jiffy."
+    },
+    {
+      "start": 652.85,
+      "end": 654.25,
+      "text": "금방 드릴게요."
+    },
+    {
+      "start": 654.45,
+      "end": 655.35,
+      "text": "In a jiffy."
+    },
+    {
+      "start": 655.51,
+      "end": 660.37,
+      "text": "왠지 어린 아이들도 되게 사용하기 좋아할 법한 그런 표현일 것 같아요."
+    },
+    {
+      "start": 660.87,
+      "end": 663.51,
+      "text": "Well, 어린 아이들이 쓰기 좀 어려운데."
+    },
+    {
+      "start": 663.53,
+      "end": 664.11,
+      "text": "어려워요?"
+    },
+    {
+      "start": 664.41,
+      "end": 668.09,
+      "text": "Usually my mom or my grandma would say this."
+    },
+    {
+      "start": 668.15,
+      "end": 669.23,
+      "text": "I'm hungry."
+    },
+    {
+      "start": 669.55,
+      "end": 670.79,
+      "text": "Where's my breakfast?"
+    },
+    {
+      "start": 671.47,
+      "end": 672.69,
+      "text": "Hey, hold on."
+    },
+    {
+      "start": 672.75,
+      "end": 674.41,
+      "text": "I'll have it up for you in a jiffy."
+    },
+    {
+      "start": 674.51,
+      "end": 674.71,
+      "text": "Jiffy."
+    },
+    {
+      "start": 674.89,
+      "end": 675.69,
+      "text": "I got it."
+    },
+    {
+      "start": 675.69,
+      "end": 679.87,
+      "text": "뭐 반대로, 반대는 아니고 비슷하게 쓰일 수 있는 표현이 뭐가 있을까요?"
+    },
+    {
+      "start": 680.03,
+      "end": 681.17,
+      "text": "In a jerk는 어때요?"
+    },
+    {
+      "start": 681.25,
+      "end": 681.75,
+      "text": "In a jerk?"
+    },
+    {
+      "start": 681.95,
+      "end": 682.61,
+      "text": "아, 그거 안 돼요."
+    },
+    {
+      "start": 682.73,
+      "end": 683.07,
+      "text": "안 돼요?"
+    },
+    {
+      "start": 683.15,
+      "end": 686.05,
+      "text": "아, jerk은 녀석, 나쁜 놈."
+    },
+    {
+      "start": 686.23,
+      "end": 686.93,
+      "text": "그 말인데."
+    },
+    {
+      "start": 687.01,
+      "end": 689.09,
+      "text": "그 주의해야 되는 표현이네요."
+    },
+    {
+      "start": 689.29,
+      "end": 690.05,
+      "text": "In a second."
+    },
+    {
+      "start": 690.31,
+      "end": 691.39,
+      "text": "아, in a second."
+    },
+    {
+      "start": 691.39,
+      "end": 692.27,
+      "text": "In a moment."
+    },
+    {
+      "start": 692.37,
+      "end": 693.07,
+      "text": "네, in a moment."
+    },
+    {
+      "start": 693.27,
+      "end": 694.79,
+      "text": "In a jerk 왜 그거 생각했어요?"
+    },
+    {
+      "start": 694.95,
+      "end": 701.39,
+      "text": "왜냐하면 이게 뭐 즉시, 순식간에 라고 사전적으로 찾아보면 이렇게 나오기도 하거든요."
+    },
+    {
+      "start": 701.39,
+      "end": 707.49,
+      "text": "그래서 우리 한국 분들은 혹시 잘못 사용하실 수 있을까봐 짚어드리고 싶었지요."
+    },
+    {
+      "start": 707.49,
+      "end": 708.39,
+      "text": "Yes, 사용하지 마이소."
+    },
+    {
+      "start": 709.07,
+      "end": 710.59,
+      "text": "네, 사용하지 마이소."
+    },
+    {
+      "start": 710.83,
+      "end": 711.41,
+      "text": "In a second."
+    },
+    {
+      "start": 711.67,
+      "end": 712.29,
+      "text": "In a moment."
+    },
+    {
+      "start": 712.43,
+      "end": 713.43,
+      "text": "In a jiffy."
+    },
+    {
+      "start": 713.51,
+      "end": 714.83,
+      "text": "이게 much better 하답니다."
+    },
+    {
+      "start": 714.83,
+      "end": 717.09,
+      "text": "네, save up."
+    },
+    {
+      "start": 717.33,
+      "end": 721.49,
+      "text": "네, save up이라는 표현도 들으실 텐데, 모으다라는 의미예요."
+    },
+    {
+      "start": 721.71,
+      "end": 724.43,
+      "text": "뭐, 저금하다라는 의미로도 쓰일 수가 있겠는데,"
+    },
+    {
+      "start": 724.57,
+      "end": 728.33,
+      "text": "여기서는 무언가를 모으다라는 의미로 들리게 됩니다."
+    },
+    {
+      "start": 728.81,
+      "end": 730.01,
+      "text": "이 장면 한 번 더 들어볼게요."
+    },
+    {
+      "start": 730.01,
+      "end": 734.48,
+      "text": "Nobody touches our nuts."
+    },
+    {
+      "start": 735.04,
+      "end": 738.86,
+      "text": "I have a butler that can vacuum those up for you in a jiffy."
+    },
+    {
+      "start": 739.24,
+      "end": 741.78,
+      "text": "Somebody has assaulted you."
+    },
+    {
+      "start": 742.1,
+      "end": 742.88,
+      "text": "Our nuts."
+    },
+    {
+      "start": 743.6,
+      "end": 745.48,
+      "text": "You might need to work on your worrying room."
+    },
+    {
+      "start": 745.92,
+      "end": 748.2,
+      "text": "Chains, help!"
+    },
+    {
+      "start": 748.9,
+      "end": 751.16,
+      "text": "This was all year to save up those nuts."
+    },
+    {
+      "start": 751.5,
+      "end": 752.26,
+      "text": "And now they're gone."
+    },
+    {
+      "start": 753.1,
+      "end": 754.84,
+      "text": "What do you think, nuts just grow on trees or something?"
+    },
+    {
+      "start": 756.87,
+      "end": 757.51,
+      "text": "Next."
+    },
+    {
+      "start": 760.02,
+      "end": 766.4,
+      "text": "네, 이렇게 박진감 넘치는 음악과 함께 이 다람쥐들이 계속해서 스텝을 밟으면서"
+    },
+    {
+      "start": 766.4,
+      "end": 768.26,
+      "text": "They dance so well."
+    },
+    {
+      "start": 768.6,
+      "end": 769.4,
+      "text": "They're dancing."
+    },
+    {
+      "start": 769.6,
+      "end": 770.88,
+      "text": "항상 춤을 추더라고요."
+    },
+    {
+      "start": 770.94,
+      "end": 771.58,
+      "text": "군대면서."
+    },
+    {
+      "start": 771.8,
+      "end": 772.24,
+      "text": "완전."
+    },
+    {
+      "start": 772.5,
+      "end": 773.2,
+      "text": "춤추는 거네요."
+    },
+    {
+      "start": 773.2,
+      "end": 776.44,
+      "text": "네, 춤을 추면서 아주 호되게 야단을 치고 있습니다."
+    },
+    {
+      "start": 776.44,
+      "end": 777.92,
+      "text": "뭐라고 야단을 쳤죠?"
+    },
+    {
+      "start": 778.06,
+      "end": 780.06,
+      "text": "Nobody touches our nuts."
+    },
+    {
+      "start": 780.24,
+      "end": 780.4,
+      "text": "그렇죠."
+    },
+    {
+      "start": 780.72,
+      "end": 781.08,
+      "text": "Nobody."
+    },
+    {
+      "start": 781.7,
+      "end": 782.72,
+      "text": "아무도 touches."
+    },
+    {
+      "start": 783.26,
+      "end": 783.92,
+      "text": "만질 수 없어."
+    },
+    {
+      "start": 784.2,
+      "end": 784.92,
+      "text": "Our nuts."
+    },
+    {
+      "start": 785.16,
+      "end": 786.06,
+      "text": "우리의 견과류를."
+    },
+    {
+      "start": 786.5,
+      "end": 788.06,
+      "text": "This is a funny expression."
+    },
+    {
+      "start": 788.72,
+      "end": 790.44,
+      "text": "Nuts can have several meanings."
+    },
+    {
+      "start": 790.54,
+      "end": 790.96,
+      "text": "아, 네."
+    },
+    {
+      "start": 791.36,
+      "end": 793.54,
+      "text": "여기서는 이제 도토리를 건드릴 수 없어."
+    },
+    {
+      "start": 793.78,
+      "end": 795.58,
+      "text": "라고 이야기하고 있는 장면이었어요."
+    },
+    {
+      "start": 795.58,
+      "end": 797.54,
+      "text": "Literally, they're talking about nuts."
+    },
+    {
+      "start": 798.0,
+      "end": 798.48,
+      "text": "Acorns."
+    },
+    {
+      "start": 799.1,
+      "end": 799.34,
+      "text": "Yeah."
+    },
+    {
+      "start": 800.57,
+      "end": 804.43,
+      "text": "I have a butler who can vacuum those up for you in a jiffy."
+    },
+    {
+      "start": 804.43,
+      "end": 806.19,
+      "text": "와, 너무 잘 들렸죠?"
+    },
+    {
+      "start": 806.33,
+      "end": 812.49,
+      "text": "미리 배웠더니 끝부분에 in a jiffy라는 것이 들렸고 지금 트러블이 하는 말이었는데 너무 재밌어요."
+    },
+    {
+      "start": 812.77,
+      "end": 813.67,
+      "text": "I have a butler."
+    },
+    {
+      "start": 813.83,
+      "end": 815.65,
+      "text": "오, 벌써, 와, butler?"
+    },
+    {
+      "start": 815.81,
+      "end": 817.83,
+      "text": "정말 로열한 강아지 많네요."
+    },
+    {
+      "start": 818.07,
+      "end": 819.49,
+      "text": "Yeah, he's a different breed."
+    },
+    {
+      "start": 819.65,
+      "end": 820.05,
+      "text": "그쵸."
+    },
+    {
+      "start": 820.07,
+      "end": 821.13,
+      "text": "He comes from wealth."
+    },
+    {
+      "start": 821.31,
+      "end": 821.75,
+      "text": "와우."
+    },
+    {
+      "start": 821.93,
+      "end": 823.49,
+      "text": "I have a butler 이라고 했어요."
+    },
+    {
+      "start": 823.81,
+      "end": 825.25,
+      "text": "나에겐 집사가 있어."
+    },
+    {
+      "start": 825.43,
+      "end": 825.89,
+      "text": "라는 거예요."
+    },
+    {
+      "start": 826.33,
+      "end": 828.79,
+      "text": "Who can vacuum those up for you?"
+    },
+    {
+      "start": 828.99,
+      "end": 829.51,
+      "text": "Vacuum."
+    },
+    {
+      "start": 829.73,
+      "end": 830.41,
+      "text": "아, vacuum."
+    },
+    {
+      "start": 830.79,
+      "end": 831.27,
+      "text": "Vacuum."
+    },
+    {
+      "start": 831.37,
+      "end": 834.91,
+      "text": "네, vacuum 하면 원래 이제 machine이 떠오르잖아요."
+    },
+    {
+      "start": 834.99,
+      "end": 835.21,
+      "text": "Yeah."
+    },
+    {
+      "start": 835.71,
+      "end": 836.27,
+      "text": "진공청소기."
+    },
+    {
+      "start": 836.35,
+      "end": 836.87,
+      "text": "Vacuum."
+    },
+    {
+      "start": 836.87,
+      "end": 837.19,
+      "text": "Yeah."
+    },
+    {
+      "start": 837.51,
+      "end": 843.45,
+      "text": "근데 뭔가 그 진공청소기라고 하면 어떤 상황이 떠오르냐면 뭔가 다 흡입하는 거, 빨아들이는 거."
+    },
+    {
+      "start": 843.51,
+      "end": 843.73,
+      "text": "Yeah."
+    },
+    {
+      "start": 844.13,
+      "end": 847.97,
+      "text": "그래서 도토리들을 즉시 흡입을 해준다라는 거죠."
+    },
+    {
+      "start": 848.43,
+      "end": 854.19,
+      "text": "그러니까 조금 더 의역하자면 모아준다라는 의미로 해석하시면 어울릴 것 같아요."
+    },
+    {
+      "start": 854.47,
+      "end": 857.87,
+      "text": "Or he's literally, he takes out a vacuum and he's gonna..."
+    },
+    {
+      "start": 858.55,
+      "end": 859.92,
+      "text": "He's gonna vacuum."
+    },
+    {
+      "start": 860.38,
+      "end": 861.08,
+      "text": "Yeah, 그거요."
+    },
+    {
+      "start": 861.32,
+      "end": 861.8,
+      "text": "그렇구나."
+    },
+    {
+      "start": 861.8,
+      "end": 863.56,
+      "text": "Butler니까 집안일 잘 할 거 아니에요."
+    },
+    {
+      "start": 863.56,
+      "end": 864.34,
+      "text": "아, 그래요."
+    },
+    {
+      "start": 864.6,
+      "end": 869.02,
+      "text": "나에겐 집사가 있어서 그가 저 도토리들 청소기로 다 빨아줄 거야."
+    },
+    {
+      "start": 869.26,
+      "end": 869.96,
+      "text": "걱정 마."
+    },
+    {
+      "start": 870.34,
+      "end": 870.5,
+      "text": "네."
+    },
+    {
+      "start": 870.6,
+      "end": 872.22,
+      "text": "청소기 가까워, butler님."
+    },
+    {
+      "start": 872.26,
+      "end": 873.68,
+      "text": "네, 그러면 in a jiffy."
+    },
+    {
+      "start": 873.78,
+      "end": 876.38,
+      "text": "순식간에 달걀대라고 이야기하고 있습니다."
+    },
+    {
+      "start": 876.52,
+      "end": 877.12,
+      "text": "In a jiffy."
+    },
+    {
+      "start": 877.18,
+      "end": 877.36,
+      "text": "Yeah."
+    },
+    {
+      "start": 877.84,
+      "end": 879.58,
+      "text": "Oh, will the squirrels like that?"
+    },
+    {
+      "start": 880.68,
+      "end": 883.56,
+      "text": "Somebody has assaulted our nuts."
+    },
+    {
+      "start": 883.72,
+      "end": 887.0,
+      "text": "네, 아주 비상사태를 이제 포고하고 있는 것 같은데."
+    },
+    {
+      "start": 887.0,
+      "end": 890.84,
+      "text": "Somebody, 누군가가 has assaulted our nuts."
+    },
+    {
+      "start": 890.84,
+      "end": 895.34,
+      "text": "우리의 nuts, 도토리를 assault라는 동사가 들렸잖아요."
+    },
+    {
+      "start": 895.56,
+      "end": 901.74,
+      "text": "여기서는 완료 시제로 응용이 되었는데 A-S-S-A-U-L-T라는 철자입니다."
+    },
+    {
+      "start": 902.0,
+      "end": 902.92,
+      "text": "그래서 공격하다."
+    },
+    {
+      "start": 903.32,
+      "end": 903.78,
+      "text": "그쵸?"
+    },
+    {
+      "start": 903.84,
+      "end": 905.12,
+      "text": "He's exaggerating."
+    },
+    {
+      "start": 905.48,
+      "end": 906.94,
+      "text": "Assaulted our nuts?"
+    },
+    {
+      "start": 906.94,
+      "end": 912.98,
+      "text": "아, 사람도 아니고 우리의 도토리를 공격한다라고 이야기를 하고 있네요."
+    },
+    {
+      "start": 913.12,
+      "end": 913.94,
+      "text": "Drama boy."
+    },
+    {
+      "start": 914.02,
+      "end": 914.32,
+      "text": "Yeah."
+    },
+    {
+      "start": 914.64,
+      "end": 915.66,
+      "text": "Yeah, 오바하면서."
+    },
+    {
+      "start": 915.82,
+      "end": 916.24,
+      "text": "그쵸."
+    },
+    {
+      "start": 916.28,
+      "end": 917.84,
+      "text": "Assaulted our nuts."
+    },
+    {
+      "start": 918.04,
+      "end": 920.9,
+      "text": "There were literally thousands of nuts."
+    },
+    {
+      "start": 921.1,
+      "end": 921.94,
+      "text": "정말 많았어요."
+    },
+    {
+      "start": 921.96,
+      "end": 922.5,
+      "text": "In that tree."
+    },
+    {
+      "start": 922.66,
+      "end": 923.28,
+      "text": "Did you see those?"
+    },
+    {
+      "start": 923.28,
+      "end": 923.84,
+      "text": "Unbelievable."
+    },
+    {
+      "start": 924.6,
+      "end": 925.24,
+      "text": "Unbelievable."
+    },
+    {
+      "start": 926.24,
+      "end": 929.49,
+      "text": "You might need to work on your worrying a little."
+    },
+    {
+      "start": 930.09,
+      "end": 931.33,
+      "text": "James, help!"
+    },
+    {
+      "start": 931.33,
+      "end": 937.41,
+      "text": "맨 마지막에 이제 James라고 이름을 부르는 거는 여기서는 이제 Butler 이름이 되겠습니다."
+    },
+    {
+      "start": 937.61,
+      "end": 938.93,
+      "text": "Mr. James the butler."
+    },
+    {
+      "start": 939.01,
+      "end": 939.53,
+      "text": "그쵸."
+    },
+    {
+      "start": 939.63,
+      "end": 940.91,
+      "text": "He's not even around though."
+    },
+    {
+      "start": 940.97,
+      "end": 941.41,
+      "text": "그러니까."
+    },
+    {
+      "start": 941.79,
+      "end": 942.77,
+      "text": "He misses James."
+    },
+    {
+      "start": 943.07,
+      "end": 945.23,
+      "text": "Life was good when he had a butler."
+    },
+    {
+      "start": 945.33,
+      "end": 945.67,
+      "text": "그쵸."
+    },
+    {
+      "start": 945.69,
+      "end": 947.25,
+      "text": "Who could take care of everything."
+    },
+    {
+      "start": 947.47,
+      "end": 949.55,
+      "text": "집 나오면 이렇게 고생을 한다니까요."
+    },
+    {
+      "start": 949.73,
+      "end": 950.67,
+      "text": "이렇게 고생이에요."
+    },
+    {
+      "start": 950.67,
+      "end": 952.73,
+      "text": "네, 뭐라고 했냐면"
+    },
+    {
+      "start": 952.73,
+      "end": 957.99,
+      "text": "You might need to work on your worrying a little 이라는 문장을 들으셨어요."
+    },
+    {
+      "start": 958.29,
+      "end": 962.97,
+      "text": "그러니까 너는 그렇게 need to work on your worrying a little"
+    },
+    {
+      "start": 962.97,
+      "end": 967.73,
+      "text": "그렇게 근심, 걱정에 힘을 쓸 필요는 없어 라는 이야기."
+    },
+    {
+      "start": 968.03,
+      "end": 968.87,
+      "text": "이거 괜찮죠?"
+    },
+    {
+      "start": 969.07,
+      "end": 970.51,
+      "text": "Work on your worrying."
+    },
+    {
+      "start": 970.65,
+      "end": 972.95,
+      "text": "How can you work on your worrying?"
+    },
+    {
+      "start": 973.51,
+      "end": 979.29,
+      "text": "뭔가 걱정하는 것에 몰두한 그런 상상을 하게 하는 표현이었던 것 같아요."
+    },
+    {
+      "start": 979.29,
+      "end": 980.01,
+      "text": "그쵸."
+    },
+    {
+      "start": 980.37,
+      "end": 983.31,
+      "text": "그렇게까지 근심, 걱정에 힘을 쓸 필요는 없어."
+    },
+    {
+      "start": 983.81,
+      "end": 984.53,
+      "text": "Oh, interesting."
+    },
+    {
+      "start": 984.83,
+      "end": 984.99,
+      "text": "Yeah."
+    },
+    {
+      "start": 985.17,
+      "end": 985.99,
+      "text": "Interesting expression."
+    },
+    {
+      "start": 986.11,
+      "end": 986.29,
+      "text": "맞아요."
+    },
+    {
+      "start": 986.55,
+      "end": 987.47,
+      "text": "And James, help!"
+    },
+    {
+      "start": 987.81,
+      "end": 988.91,
+      "text": "Where's James?"
+    },
+    {
+      "start": 989.05,
+      "end": 989.65,
+      "text": "도와줘요!"
+    },
+    {
+      "start": 990.59,
+      "end": 994.01,
+      "text": "It took us a whole year to save up those nuts."
+    },
+    {
+      "start": 994.17,
+      "end": 996.63,
+      "text": "화가 난 이유를 좀 이해는 하겠네요."
+    },
+    {
+      "start": 997.31,
+      "end": 998.29,
+      "text": "다람쥐가 하는 말이었습니다."
+    },
+    {
+      "start": 999.07,
+      "end": 1001.61,
+      "text": "It took us a whole year 이라고 했으니까"
+    },
+    {
+      "start": 1001.61,
+      "end": 1004.73,
+      "text": "어떠어떠한 시간이 걸리다라는 의미로"
+    },
+    {
+      "start": 1004.73,
+      "end": 1008.77,
+      "text": "took라는 동사가 과거 시제로 took가 들렸고요."
+    },
+    {
+      "start": 1009.29,
+      "end": 1010.95,
+      "text": "It took us a whole year"
+    },
+    {
+      "start": 1010.95,
+      "end": 1013.35,
+      "text": "일년 내내 걸렸어"
+    },
+    {
+      "start": 1013.35,
+      "end": 1015.07,
+      "text": "to save up those nuts."
+    },
+    {
+      "start": 1015.43,
+      "end": 1017.97,
+      "text": "저 도토리들 모으는데 우리가 일년 내내 걸렸거든"
+    },
+    {
+      "start": 1017.97,
+      "end": 1018.75,
+      "text": "이라는 거예요."
+    },
+    {
+      "start": 1018.75,
+      "end": 1018.83,
+      "text": "Okay."
+    },
+    {
+      "start": 1019.01,
+      "end": 1021.35,
+      "text": "Now we understand why they're so angry."
+    },
+    {
+      "start": 1021.37,
+      "end": 1021.81,
+      "text": "Angry, right."
+    },
+    {
+      "start": 1021.89,
+      "end": 1022.73,
+      "text": "A whole year."
+    },
+    {
+      "start": 1023.01,
+      "end": 1024.33,
+      "text": "That's a lot of work."
+    },
+    {
+      "start": 1024.45,
+      "end": 1024.85,
+      "text": "완전."
+    },
+    {
+      "start": 1025.21,
+      "end": 1027.75,
+      "text": "And all those nuts were gone in just a flash."
+    },
+    {
+      "start": 1027.81,
+      "end": 1028.19,
+      "text": "완전."
+    },
+    {
+      "start": 1028.39,
+      "end": 1029.31,
+      "text": "하나도 안 남고."
+    },
+    {
+      "start": 1029.43,
+      "end": 1029.77,
+      "text": "그쵸."
+    },
+    {
+      "start": 1029.77,
+      "end": 1032.23,
+      "text": "And now they're gone."
+    },
+    {
+      "start": 1032.53,
+      "end": 1034.63,
+      "text": "그리고 도토리들은 다 사라졌지."
+    },
+    {
+      "start": 1035.75,
+      "end": 1036.25,
+      "text": "What?"
+    },
+    {
+      "start": 1036.67,
+      "end": 1039.65,
+      "text": "Do you think nuts just grow on trees or something?"
+    },
+    {
+      "start": 1039.95,
+      "end": 1041.17,
+      "text": "Don't they grow on trees?"
+    },
+    {
+      "start": 1041.79,
+      "end": 1042.85,
+      "text": "Don't nuts go on trees?"
+    },
+    {
+      "start": 1042.99,
+      "end": 1046.79,
+      "text": "그러면서 이제 다람쥐가 또 화가 나서 계속 이야기를 합니다."
+    },
+    {
+      "start": 1047.15,
+      "end": 1047.31,
+      "text": "What?"
+    },
+    {
+      "start": 1047.61,
+      "end": 1050.99,
+      "text": "Do you think nuts just grow on trees or something?"
+    },
+    {
+      "start": 1050.99,
+      "end": 1056.55,
+      "text": "도토리들이 나무나 뭐 그런 거에서 저절로 자라나는 줄 알아?"
+    },
+    {
+      "start": 1057.03,
+      "end": 1058.27,
+      "text": "라고 화를 내고 있어요."
+    },
+    {
+      "start": 1058.27,
+      "end": 1059.37,
+      "text": "이거 왜 웃기냐면"
+    },
+    {
+      "start": 1059.37,
+      "end": 1062.97,
+      "text": "There's a common expression about money."
+    },
+    {
+      "start": 1063.63,
+      "end": 1065.03,
+      "text": "If you use a lot of money,"
+    },
+    {
+      "start": 1065.29,
+      "end": 1066.33,
+      "text": "막 물 쓰듯이 있으면"
+    },
+    {
+      "start": 1066.33,
+      "end": 1068.69,
+      "text": "Do you think money grows on trees?"
+    },
+    {
+      "start": 1069.39,
+      "end": 1071.07,
+      "text": "엄마한테 많이 혼나요 그런 식으로."
+    },
+    {
+      "start": 1071.07,
+      "end": 1073.81,
+      "text": "그것을 응용을 한 표현이었군요."
+    },
+    {
+      "start": 1073.85,
+      "end": 1075.03,
+      "text": "여기 말 장난처럼."
+    },
+    {
+      "start": 1075.17,
+      "end": 1075.31,
+      "text": "네."
+    },
+    {
+      "start": 1075.63,
+      "end": 1075.99,
+      "text": "Nuts."
+    },
+    {
+      "start": 1076.23,
+      "end": 1077.93,
+      "text": "Do you think nuts just grow on trees?"
+    },
+    {
+      "start": 1078.31,
+      "end": 1078.37,
+      "text": "Wow."
+    },
+    {
+      "start": 1078.51,
+      "end": 1079.99,
+      "text": "Squirrel is so clever."
+    },
+    {
+      "start": 1080.49,
+      "end": 1080.75,
+      "text": "Yeah."
+    },
+    {
+      "start": 1081.13,
+      "end": 1081.93,
+      "text": "Nuts do."
+    },
+    {
+      "start": 1082.09,
+      "end": 1083.81,
+      "text": "Many nuts do grow on trees."
+    },
+    {
+      "start": 1083.85,
+      "end": 1084.03,
+      "text": "Yeah."
+    },
+    {
+      "start": 1084.19,
+      "end": 1085.15,
+      "text": "So it's hilarious."
+    },
+    {
+      "start": 1086.45,
+      "end": 1088.27,
+      "text": "Let's get him, boys."
+    },
+    {
+      "start": 1088.37,
+      "end": 1088.57,
+      "text": "네."
+    },
+    {
+      "start": 1088.77,
+      "end": 1091.33,
+      "text": "이제 자기네들의 군단들에게 명령을 합니다."
+    },
+    {
+      "start": 1091.61,
+      "end": 1092.83,
+      "text": "Let's get him, boys."
+    },
+    {
+      "start": 1093.49,
+      "end": 1094.13,
+      "text": "쟤 잡아!"
+    },
+    {
+      "start": 1094.71,
+      "end": 1096.23,
+      "text": "이라고 외치고 있는 거죠."
+    },
+    {
+      "start": 1096.91,
+      "end": 1097.15,
+      "text": "아!"
+    },
+    {
+      "start": 1097.29,
+      "end": 1098.11,
+      "text": "저 녀석 잡아!"
+    },
+    {
+      "start": 1098.87,
+      "end": 1100.15,
+      "text": "Run, run, run for your life."
+    },
+    {
+      "start": 1100.15,
+      "end": 1100.53,
+      "text": "네."
+    },
+    {
+      "start": 1100.53,
+      "end": 1102.41,
+      "text": "우리 트러블이 과연 잡힐지"
+    },
+    {
+      "start": 1102.41,
+      "end": 1103.61,
+      "text": "너무 궁금합니다."
+    },
+    {
+      "start": 1103.87,
+      "end": 1105.35,
+      "text": "이 장면 한 번 더 확인해 볼게요."
+    },
+    {
+      "start": 1105.35,
+      "end": 1109.87,
+      "text": "Nobody touches our nuts."
+    },
+    {
+      "start": 1110.44,
+      "end": 1114.22,
+      "text": "I have a butler that can vacuum those up for you in a jiffy."
+    },
+    {
+      "start": 1114.78,
+      "end": 1118.27,
+      "text": "Somebody has assaulted our nuts."
+    },
+    {
+      "start": 1118.93,
+      "end": 1120.87,
+      "text": "You might need to work on your worrying room."
+    },
+    {
+      "start": 1121.95,
+      "end": 1123.21,
+      "text": "James, help!"
+    },
+    {
+      "start": 1124.21,
+      "end": 1126.55,
+      "text": "Mr. was all here to save up those nuts."
+    },
+    {
+      "start": 1126.87,
+      "end": 1127.65,
+      "text": "And now they're gone."
+    },
+    {
+      "start": 1128.53,
+      "end": 1130.23,
+      "text": "Wait, nuts just grow on trees or something?"
+    },
+    {
+      "start": 1132.61,
+      "end": 1134.73,
+      "text": "Let's get him, boys!"
+    },
+    {
+      "start": 1134.73,
+      "end": 1140.0,
+      "text": "네, 확실히 여기 다람쥐들은 마치 뭐 Army Corps 같았어요."
+    },
+    {
+      "start": 1140.38,
+      "end": 1141.52,
+      "text": "The Army, Marine Corps."
+    },
+    {
+      "start": 1141.7,
+      "end": 1141.96,
+      "text": "Yeah."
+    },
+    {
+      "start": 1142.22,
+      "end": 1143.24,
       "text": "Hardcore, 해병대."
     },
     {
-      "start": 891.99,
-      "end": 893.11,
+      "start": 1143.38,
+      "end": 1144.5,
       "text": "와우, 무섭네요."
     },
     {
-      "start": 893.47,
-      "end": 895.93,
+      "start": 1144.86,
+      "end": 1147.32,
       "text": "오늘 스크린 잉글리시는 여기까지입니다."
+    },
+    {
+      "start": 1147.84,
+      "end": 1148.72,
+      "text": "It was wonderful."
+    },
+    {
+      "start": 1149.0,
+      "end": 1149.24,
+      "text": "Yeah."
+    },
+    {
+      "start": 1149.38,
+      "end": 1150.34,
+      "text": "우린 see you tomorrow."
+    },
+    {
+      "start": 1150.6,
+      "end": 1151.26,
+      "text": "I'll see you then."
     }
   ]
 }
