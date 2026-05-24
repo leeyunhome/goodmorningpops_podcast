@@ -21,6 +21,8 @@ from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
 
+from ngram_detector import NgramDetector
+
 # Windows cp949 콘솔에서도 한글/특수문자 출력이 깨지지 않도록 강제 UTF-8.
 try:
     sys.stdout.reconfigure(encoding="utf-8")
@@ -112,6 +114,21 @@ CORNER_DEFS = {
     },
 }
 
+
+# ──────────────────────────────────────────────
+# N-gram 감지기 lazy singleton
+# ──────────────────────────────────────────────
+_NGRAM_DETECTOR: NgramDetector | None = None
+
+
+def _get_ngram_detector() -> NgramDetector:
+    """모듈 레벨 싱글턴으로 NgramDetector를 반환한다.
+    references/ngram_labels.json이 없으면 빈 감지기를 반환."""
+    global _NGRAM_DETECTOR
+    if _NGRAM_DETECTOR is None:
+        label_path = Path(__file__).parent / "references" / "ngram_labels.json"
+        _NGRAM_DETECTOR = NgramDetector.from_json(label_path)
+    return _NGRAM_DETECTOR
 
 def srt_time_to_seconds(s: str) -> float:
     m = SRT_TIME_RE.fullmatch(s.strip())
@@ -502,43 +519,78 @@ def process_one(
         end_s = manual_end
         end_info = "수동"
     else:
-        end_seg = find_end_segment(
-            segments,
-            corner["end_patterns"],
-            corner["max_end_minutes"] * 60,
-            window=corner.get("end_window_segments", 4),
-        )
-        if end_seg is None:
-            print(f"  스킵 (끝 마커 못 찾음): {audio_path.name}")
-            return False
-        end_s = end_seg.end
-        end_info = f"자동(seg#{end_seg.index} @ {seconds_to_hms(end_seg.start)})"
+        # 0순위: N-gram 유사도 기반 종료 감지
+        nd = _get_ngram_detector()
+        ng_end = nd.find_end(segments)
+        if ng_end is not None:
+            end_seg_ng, end_score = ng_end
+            end_s = end_seg_ng.end
+            end_info = f"ngram(seg#{end_seg_ng.index} @ {seconds_to_hms(end_seg_ng.start)}, score={end_score:.3f})"
+        else:
+            # 1순위: 기존 regex 종료 감지
+            end_seg = find_end_segment(
+                segments,
+                corner["end_patterns"],
+                corner["max_end_minutes"] * 60,
+                window=corner.get("end_window_segments", 4),
+            )
+            if end_seg is None:
+                print(f"  스킵 (끝 마커 못 찾음): {audio_path.name}")
+                return False
+            end_s = end_seg.end
+            end_info = f"regex(seg#{end_seg.index} @ {seconds_to_hms(end_seg.start)})"
 
     if manual_start is not None:
         start_s = manual_start
         start_info = "수동"
     else:
-        # 1순위: START 마커 검출 ("오늘 준비된 장면 듣고 오" 류)
-        start_seg, start_method = find_start_segment(
-            segments,
-            corner.get("start_patterns", []),
-            corner.get("start_max_minutes", 12) * 60,
-            window=corner.get("start_window_segments", 4),
-            intro_patterns=corner.get("intro_patterns"),
-            welcome_patterns=corner.get("welcome_patterns"),
-        ) if corner.get("start_patterns") else (None, "없음")
-        if start_seg is not None:
-            start_s = start_seg.start
-            start_info = f"{start_method}(seg#{start_seg.index} @ {seconds_to_hms(start_seg.start)})"
-        else:
-            # 폴백 (커버리지 우선): 인트로 스킵 후 첫 segment
-            start_s = find_start_seconds_fallback(
-                segments,
-                Segment(0, end_s, end_s, ""),
-                corner["intro_skip_seconds"],
-                corner["max_duration_minutes"] * 60,
+        # 0순위: N-gram 유사도 기반 시작 감지
+        nd = _get_ngram_detector()
+        ng_start = nd.find_start(segments)
+        if ng_start is not None:
+            start_seg_ng, start_score = ng_start
+            # N-gram으로 클립 시작점을 찾은 후, 역방향 오프닝 탐색도 수행
+            lookback_limit = start_seg_ng.start - 360.0
+            earliest_intro_seg = start_seg_ng
+            lookback_keywords = re.compile(
+                r"스크린\s*잉글리[쉬시]|Screen\s*English|Chris|크리스|good\s*morning|굿모닝|welcome|웰컴|theater|시어터|타임|time",
+                re.IGNORECASE
             )
-            start_info = "폴백(인트로 스킵)"
+            for seg in reversed(segments):
+                if seg.start < lookback_limit:
+                    break
+                if seg.start >= start_seg_ng.start:
+                    continue
+                if lookback_keywords.search(seg.text):
+                    earliest_intro_seg = seg
+            if earliest_intro_seg != start_seg_ng:
+                start_s = earliest_intro_seg.start
+                start_info = f"ngram+역방향(seg#{start_seg_ng.index}, score={start_score:.3f})"
+            else:
+                start_s = start_seg_ng.start
+                start_info = f"ngram(seg#{start_seg_ng.index} @ {seconds_to_hms(start_seg_ng.start)}, score={start_score:.3f})"
+        else:
+            # 1순위: 기존 regex START 마커 검출
+            start_seg, start_method = find_start_segment(
+                segments,
+                corner.get("start_patterns", []),
+                corner.get("start_max_minutes", 12) * 60,
+                window=corner.get("start_window_segments", 4),
+                intro_patterns=corner.get("intro_patterns"),
+                welcome_patterns=corner.get("welcome_patterns"),
+            ) if corner.get("start_patterns") else (None, "없음")
+            if start_seg is not None:
+                start_s = start_seg.start
+                start_info = f"regex-{start_method}(seg#{start_seg.index} @ {seconds_to_hms(start_seg.start)})"
+            else:
+                # 폴백 (커버리지 우선): 인트로 스킵 후 첫 segment
+                start_s = find_start_seconds_fallback(
+                    segments,
+                    Segment(0, end_s, end_s, ""),
+                    corner["intro_skip_seconds"],
+                    corner["max_duration_minutes"] * 60,
+                )
+                start_info = "폴백(인트로 스킵)"
 
     if end_s <= start_s:
         print(f"  스킵 (start >= end): {audio_path.name}")
