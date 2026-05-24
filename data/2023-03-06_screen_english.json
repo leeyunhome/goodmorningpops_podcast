@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "I had problems with my father just like you",
   "movie": "",
-  "duration_sec": 863.86,
+  "duration_sec": 875.18,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-06_screen_english.mp3",
   "script": [
     {
@@ -1867,6 +1867,66 @@
       "start": 859.58,
       "end": 863.86,
       "text": "유주환님께서 크리스 선생님, see you."
+    },
+    {
+      "start": 864.42,
+      "end": 865.32,
+      "text": "Oh, see you."
+    },
+    {
+      "start": 865.4,
+      "end": 866.38,
+      "text": "유주환님."
+    },
+    {
+      "start": 866.52,
+      "end": 866.74,
+      "text": "네."
+    },
+    {
+      "start": 867.36,
+      "end": 869.26,
+      "text": "오늘 너무너무 수고하셨습니다."
+    },
+    {
+      "start": 869.5,
+      "end": 871.44,
+      "text": "우리는 내일 어여 만나요."
+    },
+    {
+      "start": 871.7,
+      "end": 871.94,
+      "text": "네."
+    },
+    {
+      "start": 872.28,
+      "end": 873.08,
+      "text": "고생하셨습니다."
+    },
+    {
+      "start": 873.26,
+      "end": 873.38,
+      "text": "네."
+    },
+    {
+      "start": 873.48,
+      "end": 874.36,
+      "text": "고생하셨습니다."
+    },
+    {
+      "start": 874.54,
+      "end": 874.72,
+      "text": "Bye."
+    },
+    {
+      "start": 874.82,
+      "end": 875.08,
+      "text": "Bye."
+    },
+    {
+      "start": 875.16,
+      "end": 875.18,
+      "text": "Bye."
     }
   ]
 }
