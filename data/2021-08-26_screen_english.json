@@ -5,1242 +5,1402 @@
   "corner_label": "Screen English",
   "title": "I_ve been trying to forget this my whole life",
   "movie": "",
-  "duration_sec": 610.94,
+  "duration_sec": 768.62,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-26_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 63.19,
+      "end": 4.2,
+      "text": "조정현의 굿모닝 팝스 8월 26일 목요일 시작하겠습니다."
+    },
+    {
+      "start": 5.18,
+      "end": 10.1,
+      "text": "네, 목요일 첫 곡으로 제이슨 데룰로의 The Other Side 들어보셨어요."
+    },
+    {
+      "start": 11.22,
+      "end": 19.6,
+      "text": "8852님, 최근 도쿄올림픽에 국가대표팀 선수단 지원 스태프로 출장을 다녀왔습니다."
+    },
+    {
+      "start": 20.26,
+      "end": 24.78,
+      "text": "여러 국적의 관계자들과 영어로 대화했는데 아쉬운 점이 많았어요."
+    },
+    {
+      "start": 24.78,
+      "end": 29.88,
+      "text": "굿모닝 팝스로 더 열심히 공부해서 다음에는 더 자신있게 소통하겠습니다."
+    },
+    {
+      "start": 29.88,
+      "end": 35.7,
+      "text": "8852님, 와, 더운데 정말 수고 많으셨어요."
+    },
+    {
+      "start": 36.54,
+      "end": 46.26,
+      "text": "우리 국가대표팀 선수단 지원 스태프로 애청자분이 다녀오셨다는 게 그 자체로 정말 자랑스러운 일이네요."
+    },
+    {
+      "start": 46.26,
+      "end": 49.76,
+      "text": "다음 올림픽이 프랑스잖아요."
+    },
+    {
+      "start": 50.66,
+      "end": 57.22,
+      "text": "그때까지 기량을 더 갈고 닦으셔서 아마 더 능숙하게 해내실 모습이 벌써부터 펼쳐집니다."
+    },
+    {
+      "start": 57.38,
+      "end": 58.2,
+      "text": "저도 기대할게요."
+    },
+    {
+      "start": 58.98,
+      "end": 62.18,
+      "text": "이희은님, 중학교 2학년 학생입니다."
+    },
+    {
+      "start": 62.86,
+      "end": 65.26,
+      "text": "개학하고 바빠지면서 힘들었는데요."
+    },
+    {
+      "start": 65.96,
+      "end": 68.38,
+      "text": "GMP 들으면서 활력을 되찾고 있습니다."
+    },
+    {
+      "start": 68.9,
+      "end": 70.36,
+      "text": "앞으로도 꾸준히 들을게요."
+    },
+    {
+      "start": 70.36,
+      "end": 74.42,
+      "text": "중학교 2학년 이희은 양이네요."
+    },
+    {
+      "start": 75.82,
+      "end": 78.02,
+      "text": "개학하고 많이 바빴어요?"
+    },
+    {
+      "start": 79.1,
+      "end": 86.38,
+      "text": "그런 와중에 이 방송을 들으면서 활력을 되찾고 있다라는 말이 참 기특하고 다 컸네요."
+    },
+    {
+      "start": 86.76,
+      "end": 89.9,
+      "text": "쭉 애청자 되어줄 거라고 믿고 있겠습니다."
+    },
+    {
+      "start": 90.46,
+      "end": 93.4,
+      "text": "앞으로 우리 희은 양의 성장을 기대합니다."
+    },
+    {
+      "start": 94.22,
+      "end": 98.36,
+      "text": "사연 소개되신 두 분 모두 월간 굿모닝 팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 98.36,
+      "end": 103.76,
+      "text": "굿모닝 팝스에 사연 보내고 싶은 분들 공식 홈페이지 청취자 게시판에 남겨주세요."
+    },
+    {
+      "start": 104.32,
+      "end": 106.92,
+      "text": "GMP로 영어실력 업, 에너지도 업."
+    },
+    {
+      "start": 107.42,
+      "end": 113.68,
+      "text": "아무리 지치고 힘들어도 굿모닝 팝스 본방 사진만큼은 절대로 놓치고 싶지 않으신 여러분."
+    },
+    {
+      "start": 114.32,
+      "end": 117.06,
+      "text": "아이스 카페모카 한 잔 하고 가시겠습니까?"
+    },
+    {
+      "start": 117.6,
+      "end": 120.42,
+      "text": "오늘 바로 드실 수 있게 모바일 쿠폰 싸드릴게요."
+    },
+    {
+      "start": 121.04,
+      "end": 122.96,
+      "text": "행운의 주인공은 총 5분입니다."
+    },
+    {
+      "start": 122.96,
+      "end": 128.36,
+      "text": "단문 50원과 장문 100원의 추가 요금이 부과되는 KBS 쿨 FM 문자 샵 8910"
+    },
+    {
+      "start": 128.36,
+      "end": 132.42,
+      "text": "아니면 KBS 2라디오 문자 샵 1061로 신청하시거나"
+    },
+    {
+      "start": 132.42,
+      "end": 136.2,
+      "text": "무료 KBS 어플리케이션 콩 또는 MyK로 참여해주세요."
+    },
+    {
+      "start": 136.68,
+      "end": 142.28,
+      "text": "그리고 매주 일요일에 만날 수 있는 GMP Short Essay 참여 안내해드릴게요."
+    },
+    {
+      "start": 142.28,
+      "end": 152.68,
+      "text": "8월의 주제 Plans for the Rest of the Year에 맞춰서 올해 꼭 이루고 싶은 목표 다시 한번 재정비해보는 기회로 삼아보시죠."
+    },
+    {
+      "start": 152.68,
+      "end": 157.68,
+      "text": "참여를 원하시는 분들은 굿모닝 팝스 홈페이지 노티스 게시판 공지사항 확인해보세요."
+    },
+    {
+      "start": 157.68,
+      "end": 220.87,
       "text": "GMP 영화 구독 서비스 스크린 잉글리쉬 타임"
     },
     {
-      "start": 63.19,
-      "end": 70.19,
+      "start": 220.87,
+      "end": 227.87,
       "text": "8월에 함께하고 있는 영화는 세계 최정상 애니메이션 드림팀의 환상적인 호흡을 느낄 수 있는"
     },
     {
-      "start": 70.19,
-      "end": 71.63,
+      "start": 227.87,
+      "end": 229.31,
       "text": "드림빌더스"
     },
     {
-      "start": 71.63,
-      "end": 72.73,
+      "start": 229.31,
+      "end": 230.41,
       "text": "와 어서오세요."
     },
     {
-      "start": 72.73,
-      "end": 74.67,
+      "start": 230.41,
+      "end": 232.35,
       "text": "얼른 신청하세요."
     },
     {
-      "start": 75.05,
-      "end": 77.37,
+      "start": 232.73,
+      "end": 235.05,
       "text": "구독 신청하셨죠?"
     },
     {
-      "start": 77.45,
-      "end": 78.37,
+      "start": 235.13,
+      "end": 236.05,
       "text": "Sign up, sign up."
     },
     {
-      "start": 78.67,
-      "end": 79.41,
+      "start": 236.35,
+      "end": 237.09,
       "text": "Yes, good morning."
     },
     {
-      "start": 79.55,
-      "end": 80.53,
+      "start": 237.23,
+      "end": 238.21,
       "text": "네, good morning입니다."
     },
     {
-      "start": 81.23,
-      "end": 86.57,
+      "start": 238.91,
+      "end": 244.25,
       "text": "Well, I can describe this is a delightful animation that is filled with heart"
     },
     {
-      "start": 86.57,
-      "end": 92.91,
+      "start": 244.25,
+      "end": 250.59,
       "text": "and it's been teaching about acceptance of other people and learning how to adapt to change."
     },
     {
-      "start": 93.15,
-      "end": 95.09,
+      "start": 250.83,
+      "end": 252.77,
       "text": "Yes, adapting to change."
     },
     {
-      "start": 95.09,
-      "end": 101.65,
+      "start": 252.77,
+      "end": 259.33,
       "text": "Yeah, 변화에 적응하는 방법, 남들을 받아들이는 방법, 이런 거 배우는 거 참 어렵단 말이죠."
     },
     {
-      "start": 101.65,
-      "end": 104.57,
+      "start": 259.33,
+      "end": 262.25,
       "text": "Especially, I mean, it's hard for us."
     },
     {
-      "start": 105.05,
-      "end": 107.07,
+      "start": 262.73,
+      "end": 264.75,
       "text": "We're adults, fully grown adults."
     },
     {
-      "start": 107.55,
-      "end": 109.99,
+      "start": 265.23,
+      "end": 267.67,
       "text": "Adapting to change is never easy."
     },
     {
-      "start": 110.55,
-      "end": 113.93,
+      "start": 268.23,
+      "end": 271.61,
       "text": "Imagine what it's like for little kids like Mina and Jenny."
     },
     {
-      "start": 113.97,
-      "end": 116.69,
+      "start": 271.65,
+      "end": 274.37,
       "text": "그렇죠, 어른에게도 굉장히 어려운 일인데"
     },
     {
-      "start": 116.69,
-      "end": 120.93,
+      "start": 274.37,
+      "end": 278.61,
       "text": "이 Mina와 Jenny처럼 아이들한테는 얼마나 어려울까요?"
     },
     {
-      "start": 120.93,
-      "end": 121.41,
+      "start": 278.61,
+      "end": 279.09,
       "text": "그렇죠?"
     },
     {
-      "start": 121.89,
-      "end": 124.11,
+      "start": 279.57,
+      "end": 281.79,
       "text": "그리고 오늘 우리가 들어볼 장면에서는"
     },
     {
-      "start": 124.11,
-      "end": 128.09,
+      "start": 281.79,
+      "end": 285.77,
       "text": "We're going to look at Jenny's old painful nightmares."
     },
     {
-      "start": 128.35,
-      "end": 128.91,
+      "start": 286.03,
+      "end": 286.59,
       "text": "Yes."
     },
     {
-      "start": 129.39,
-      "end": 133.91,
+      "start": 287.07,
+      "end": 291.59,
       "text": "특히 Jenny의 mom하고 dad가 had a fight at the kitchen."
     },
     {
-      "start": 134.45,
-      "end": 136.47,
+      "start": 292.13,
+      "end": 294.15,
       "text": "그리고 아빠가 이런 말을 했어요."
     },
     {
-      "start": 136.75,
-      "end": 138.89,
+      "start": 294.43,
+      "end": 296.57,
       "text": "Before we have Jenny, we were happy."
     },
     {
-      "start": 138.89,
-      "end": 144.85,
+      "start": 296.57,
+      "end": 302.53,
       "text": "Yeah, oh, when I heard that, I, oh, I kind of trembled."
     },
     {
-      "start": 145.01,
-      "end": 146.35,
+      "start": 302.69,
+      "end": 304.03,
       "text": "I shivered a little bit."
     },
     {
-      "start": 146.43,
-      "end": 146.75,
+      "start": 304.11,
+      "end": 304.43,
       "text": "Yeah."
     },
     {
-      "start": 147.11,
-      "end": 148.37,
+      "start": 304.79,
+      "end": 306.05,
       "text": "That is her old nightmare."
     },
     {
-      "start": 148.53,
-      "end": 150.95,
+      "start": 306.21,
+      "end": 308.63,
       "text": "And she confronts that in this dream."
     },
     {
-      "start": 151.09,
-      "end": 155.73,
+      "start": 308.77,
+      "end": 313.41,
       "text": "So now we find out why her dad is missing and why she's just living with her mom."
     },
     {
-      "start": 155.73,
-      "end": 163.49,
+      "start": 313.41,
+      "end": 321.17,
       "text": "네, 참 이 아이들이요, 부모님이 다투거나 언쟁을 높이는 그런 소리를 듣거나 보게 되면"
     },
     {
-      "start": 163.49,
-      "end": 169.01,
+      "start": 321.17,
+      "end": 326.69,
       "text": "좌절하게 되고 슬프고 상처받는다라는 것을 좀 살펴볼 수 있었죠."
     },
     {
-      "start": 169.09,
-      "end": 170.69,
+      "start": 326.77,
+      "end": 328.37,
       "text": "Yeah, you can be scarred for life."
     },
     {
-      "start": 170.85,
-      "end": 171.17,
+      "start": 328.53,
+      "end": 328.85,
       "text": "Yeah."
     },
     {
-      "start": 171.77,
-      "end": 175.17,
+      "start": 329.45,
+      "end": 332.85,
       "text": "And if possible, we should not fight in front of children."
     },
     {
-      "start": 175.65,
-      "end": 176.65,
+      "start": 333.33,
+      "end": 334.33,
       "text": "We try not to."
     },
     {
-      "start": 177.19,
-      "end": 183.11,
+      "start": 334.87,
+      "end": 340.79,
       "text": "And if you do fight, fight 좀 reasonable하게 and make up."
     },
     {
-      "start": 183.11,
-      "end": 186.27,
+      "start": 340.79,
+      "end": 343.95,
       "text": "If you fight in front of them, make up in front of them."
     },
     {
-      "start": 186.53,
-      "end": 187.25,
+      "start": 344.21,
+      "end": 344.93,
       "text": "화해까지 해요."
     },
     {
-      "start": 187.41,
-      "end": 187.81,
+      "start": 345.09,
+      "end": 345.49,
       "text": "그렇죠."
     },
     {
-      "start": 188.33,
-      "end": 193.25,
+      "start": 346.01,
+      "end": 350.93,
       "text": "훈훈하게 사랑으로 화해를 하는 장면까지 꼭 보여주셔야 된다라는 거."
     },
     {
-      "start": 193.37,
-      "end": 193.51,
+      "start": 351.05,
+      "end": 351.19,
       "text": "그렇죠?"
     },
     {
-      "start": 193.95,
-      "end": 195.61,
+      "start": 351.63,
+      "end": 353.29,
       "text": "네, 일단 오늘 장면 먼저 듣고 올게요."
     },
     {
-      "start": 196.44,
-      "end": 197.14,
+      "start": 354.12,
+      "end": 354.82,
       "text": "They're fighting."
     },
     {
-      "start": 197.26,
-      "end": 199.48,
+      "start": 354.94,
+      "end": 357.16,
       "text": "But now this whole situation is happening."
     },
     {
-      "start": 202.73,
-      "end": 203.85,
+      "start": 360.41,
+      "end": 361.53,
       "text": "One of your old dreams?"
     },
     {
-      "start": 203.99,
-      "end": 206.49,
+      "start": 361.67,
+      "end": 364.17,
       "text": "I've been trying to forget this my whole life."
     },
     {
-      "start": 207.87,
-      "end": 210.89,
+      "start": 365.55,
+      "end": 368.57,
       "text": "When mom and dad argued in the kitchen, I would sit here."
     },
     {
-      "start": 212.03,
-      "end": 213.49,
+      "start": 369.71,
+      "end": 371.17,
       "text": "My dad doesn't think I heard."
     },
     {
-      "start": 213.49,
-      "end": 217.83,
+      "start": 371.17,
+      "end": 375.51,
       "text": "But when he left my mom, he said it was, it was because of me."
     },
     {
-      "start": 219.2,
-      "end": 221.78,
+      "start": 376.88,
+      "end": 379.46,
       "text": "사실 이 장면 바로 전에요."
     },
     {
-      "start": 222.04,
-      "end": 224.84,
+      "start": 379.72,
+      "end": 382.52,
       "text": "The huge spider이 등장을 해가지고"
     },
     {
-      "start": 224.84,
-      "end": 226.7,
+      "start": 382.52,
+      "end": 384.38,
       "text": "Yeah, try to catch them."
     },
     {
-      "start": 226.82,
-      "end": 228.06,
+      "start": 384.5,
+      "end": 385.74,
       "text": "That spider again."
     },
     {
-      "start": 228.34,
-      "end": 229.66,
+      "start": 386.02,
+      "end": 387.34,
       "text": "I get out of here."
     },
     {
-      "start": 229.78,
-      "end": 233.44,
+      "start": 387.46,
+      "end": 391.12,
       "text": "Yeah, 그래서 미나하고 제니는 went into a house."
     },
     {
-      "start": 233.66,
-      "end": 238.2,
+      "start": 391.34,
+      "end": 395.88,
       "text": "그리고 그곳이 바로 제니의 오래된 악몽의 스테이지였던 거죠."
     },
     {
-      "start": 238.2,
-      "end": 241.82,
+      "start": 395.88,
+      "end": 399.5,
       "text": "She has to confront her nightmare, confront her scars."
     },
     {
-      "start": 242.04,
-      "end": 243.8,
+      "start": 399.72,
+      "end": 401.48,
       "text": "Very difficult thing to do."
     },
     {
-      "start": 243.86,
-      "end": 244.12,
+      "start": 401.54,
+      "end": 401.8,
       "text": "그렇죠."
     },
     {
-      "start": 244.76,
-      "end": 246.82,
+      "start": 402.44,
+      "end": 404.5,
       "text": "아까 제가 살짝 말씀드렸던 것처럼"
     },
     {
-      "start": 246.82,
-      "end": 248.34,
+      "start": 404.5,
+      "end": 406.02,
       "text": "그 제니의 아빠가"
     },
     {
-      "start": 248.34,
-      "end": 250.54,
+      "start": 406.02,
+      "end": 408.22,
       "text": "Before we have Jenny, we were happy."
     },
     {
-      "start": 250.78,
-      "end": 251.6,
+      "start": 408.46,
+      "end": 409.28,
       "text": "이렇게 이야기하는"
     },
     {
-      "start": 251.6,
-      "end": 256.16,
+      "start": 409.28,
+      "end": 413.84,
       "text": "아, 이 말 얼마나 상처가 오랫동안 남을까 걱정이 되더라고요."
     },
     {
-      "start": 256.32,
-      "end": 256.74,
+      "start": 414.0,
+      "end": 414.42,
       "text": "Yeah."
     },
     {
-      "start": 257.2,
-      "end": 258.5,
+      "start": 414.88,
+      "end": 416.18,
       "text": "네, 표현들 먼저 알려주세요."
     },
     {
-      "start": 258.5,
-      "end": 265.13,
+      "start": 416.18,
+      "end": 422.81,
       "text": "Trying to forget this my whole life."
     },
     {
-      "start": 265.13,
-      "end": 270.43,
+      "start": 422.81,
+      "end": 428.11,
       "text": "내 평생을 이걸 잊으려고 노력해왔어라는 의미였습니다."
     },
     {
-      "start": 270.77,
-      "end": 271.53,
+      "start": 428.45,
+      "end": 429.21,
       "text": "This nightmare."
     },
     {
-      "start": 271.75,
-      "end": 274.75,
+      "start": 429.43,
+      "end": 432.43,
       "text": "제니 has been trying to forget it her whole life."
     },
     {
-      "start": 275.89,
-      "end": 277.01,
+      "start": 433.57,
+      "end": 434.69,
       "text": "Argued in the kitchen."
     },
     {
-      "start": 278.01,
-      "end": 279.57,
+      "start": 435.69,
+      "end": 437.25,
       "text": "Fight, have a fight."
     },
     {
-      "start": 279.97,
-      "end": 280.75,
+      "start": 437.65,
+      "end": 438.43,
       "text": "라고 할 수도 있지만"
     },
     {
-      "start": 280.75,
-      "end": 282.81,
+      "start": 438.43,
+      "end": 440.49,
       "text": "그냥 argue라는 동사로"
     },
     {
-      "start": 282.81,
-      "end": 286.13,
+      "start": 440.49,
+      "end": 443.81,
       "text": "부부간에 다툴 때, 누군가와 싸울 때"
     },
     {
-      "start": 286.13,
-      "end": 287.67,
+      "start": 443.81,
+      "end": 445.35,
       "text": "이렇게 활용을 할 수가 있습니다."
     },
     {
-      "start": 287.67,
-      "end": 289.27,
+      "start": 445.35,
+      "end": 446.95,
       "text": "말로, 논쟁."
     },
     {
-      "start": 289.43,
-      "end": 289.65,
+      "start": 447.11,
+      "end": 447.33,
       "text": "Yeah."
     },
     {
-      "start": 290.07,
-      "end": 292.65,
+      "start": 447.75,
+      "end": 450.33,
       "text": "그래서 argued in the kitchen이라고 했으니까"
     },
     {
-      "start": 292.65,
-      "end": 294.25,
+      "start": 450.33,
+      "end": 451.93,
       "text": "부엌에서 싸웠다."
     },
     {
-      "start": 294.51,
-      "end": 295.75,
+      "start": 452.19,
+      "end": 453.43,
       "text": "They weren't hitting each other."
     },
     {
-      "start": 295.83,
-      "end": 297.09,
+      "start": 453.51,
+      "end": 454.77,
       "text": "Just arguing."
     },
     {
-      "start": 297.31,
-      "end": 297.61,
+      "start": 454.99,
+      "end": 455.29,
       "text": "그렇죠."
     },
     {
-      "start": 298.51,
-      "end": 299.95,
+      "start": 456.19,
+      "end": 457.63,
       "text": "It was because of me."
     },
     {
-      "start": 300.19,
-      "end": 303.59,
+      "start": 457.87,
+      "end": 461.27,
       "text": "그건 다 나 때문이었어라는 의미였어요."
     },
     {
-      "start": 304.31,
-      "end": 306.73,
+      "start": 461.99,
+      "end": 464.41,
       "text": "이 좀 심금을 울리는 장면"
     },
     {
-      "start": 306.73,
-      "end": 307.83,
+      "start": 464.41,
+      "end": 465.51,
       "text": "한 번 더 들어보시죠."
     },
     {
-      "start": 309.18,
-      "end": 309.84,
+      "start": 466.86,
+      "end": 467.52,
       "text": "They're fighting."
     },
     {
-      "start": 309.94,
-      "end": 311.58,
+      "start": 467.62,
+      "end": 469.26,
       "text": "But now this whole situation."
     },
     {
-      "start": 312.22,
-      "end": 316.54,
+      "start": 469.9,
+      "end": 474.22,
       "text": "One of your old dreams?"
     },
     {
-      "start": 316.68,
-      "end": 319.16,
+      "start": 474.36,
+      "end": 476.84,
       "text": "I've been trying to forget this my whole life."
     },
     {
-      "start": 320.9,
-      "end": 322.68,
+      "start": 478.58,
+      "end": 480.36,
       "text": "When mom and dad argued in the kitchen,"
     },
     {
-      "start": 322.82,
-      "end": 323.58,
+      "start": 480.5,
+      "end": 481.26,
       "text": "I would sit here."
     },
     {
-      "start": 324.7,
-      "end": 326.16,
+      "start": 482.38,
+      "end": 483.84,
       "text": "My dad doesn't think I heard."
     },
     {
-      "start": 326.62,
-      "end": 327.86,
+      "start": 484.3,
+      "end": 485.54,
       "text": "But when he left my mom,"
     },
     {
-      "start": 328.08,
-      "end": 328.88,
+      "start": 485.76,
+      "end": 486.56,
       "text": "he said it was,"
     },
     {
-      "start": 329.22,
-      "end": 330.48,
+      "start": 486.9,
+      "end": 488.16,
       "text": "it was because of me."
     },
     {
-      "start": 330.48,
-      "end": 334.19,
+      "start": 488.16,
+      "end": 491.87,
       "text": "네, 가만 보면 이 아이들의 행동에는 다"
     },
     {
-      "start": 334.19,
-      "end": 336.33,
+      "start": 491.87,
+      "end": 494.01,
       "text": "There is a reason for their behavior."
     },
     {
-      "start": 336.69,
-      "end": 337.17,
+      "start": 494.37,
+      "end": 494.85,
       "text": "There is."
     },
     {
-      "start": 337.25,
-      "end": 337.53,
+      "start": 494.93,
+      "end": 495.21,
       "text": "Yeah."
     },
     {
-      "start": 337.53,
-      "end": 338.91,
+      "start": 495.21,
+      "end": 496.59,
       "text": "It's never the kid's fault."
     },
     {
-      "start": 339.11,
-      "end": 341.29,
+      "start": 496.79,
+      "end": 498.97,
       "text": "It's always something in their past,"
     },
     {
-      "start": 341.43,
-      "end": 343.15,
+      "start": 499.11,
+      "end": 500.83,
       "text": "something mom or dad did."
     },
     {
-      "start": 343.23,
-      "end": 347.49,
+      "start": 500.91,
+      "end": 505.17,
       "text": "네, 제니한테도 바로 이런 가슴 아픈 순간이 있었던 거죠."
     },
     {
-      "start": 347.49,
-      "end": 350.47,
+      "start": 505.17,
+      "end": 508.15,
       "text": "미나가 뭐라고 하는지 먼저 들어볼게요."
     },
     {
-      "start": 350.81,
-      "end": 351.63,
+      "start": 508.49,
+      "end": 509.31,
       "text": "They're fighting."
     },
     {
-      "start": 351.91,
-      "end": 353.13,
+      "start": 509.59,
+      "end": 510.81,
       "text": "오, 싸우시네."
     },
     {
-      "start": 353.37,
-      "end": 354.23,
+      "start": 511.05,
+      "end": 511.91,
       "text": "They're fighting."
     },
     {
-      "start": 354.99,
-      "end": 356.33,
+      "start": 512.67,
+      "end": 514.01,
       "text": "One of your old dreams?"
     },
     {
-      "start": 356.51,
-      "end": 357.93,
+      "start": 514.19,
+      "end": 515.61,
       "text": "One of your old dreams?"
     },
     {
-      "start": 358.31,
-      "end": 359.89,
+      "start": 515.99,
+      "end": 517.57,
       "text": "너의 옛날 꿈인 거야?"
     },
     {
-      "start": 360.99,
-      "end": 364.45,
+      "start": 518.67,
+      "end": 522.13,
       "text": "Your work has always been more important than us."
     },
     {
-      "start": 364.45,
-      "end": 366.87,
+      "start": 522.13,
+      "end": 524.55,
       "text": "네, 이 말은 누가 했느냐 하면"
     },
     {
-      "start": 366.87,
-      "end": 369.01,
+      "start": 524.55,
+      "end": 526.69,
       "text": "제니의 엄마인 헬레나가"
     },
     {
-      "start": 369.01,
-      "end": 372.69,
+      "start": 526.69,
+      "end": 530.37,
       "text": "그 꿈 속에서 이야기를 하는 말이었습니다."
     },
     {
-      "start": 372.71,
-      "end": 373.49,
+      "start": 530.39,
+      "end": 531.17,
       "text": "To her dad."
     },
     {
-      "start": 373.57,
-      "end": 373.71,
+      "start": 531.25,
+      "end": 531.39,
       "text": "네."
     },
     {
-      "start": 373.71,
-      "end": 375.17,
+      "start": 531.39,
+      "end": 532.85,
       "text": "일 더 중요하잖아."
     },
     {
-      "start": 375.43,
-      "end": 377.47,
+      "start": 533.11,
+      "end": 535.15,
       "text": "당신은 항상 우리보다 일이 더 중요하잖아."
     },
     {
-      "start": 377.83,
-      "end": 378.35,
+      "start": 535.51,
+      "end": 536.03,
       "text": "라는 거였어요."
     },
     {
-      "start": 378.35,
-      "end": 379.33,
+      "start": 536.03,
+      "end": 537.01,
       "text": "What about your family?"
     },
     {
-      "start": 379.77,
-      "end": 383.61,
+      "start": 537.45,
+      "end": 541.29,
       "text": "Your work has always been more important than us."
     },
     {
-      "start": 384.09,
-      "end": 387.05,
+      "start": 541.77,
+      "end": 544.73,
       "text": "That's a common argument I've seen before."
     },
     {
-      "start": 388.35,
-      "end": 390.79,
+      "start": 546.03,
+      "end": 548.47,
       "text": "I've been trying to forget this my whole life."
     },
     {
-      "start": 390.79,
-      "end": 393.61,
+      "start": 548.47,
+      "end": 551.29,
       "text": "네, 이제 제니가 하는 말들이 이어집니다."
     },
     {
-      "start": 394.11,
-      "end": 396.75,
+      "start": 551.79,
+      "end": 554.43,
       "text": "I've been trying to forget this my whole life."
     },
     {
-      "start": 397.17,
-      "end": 400.37,
+      "start": 554.85,
+      "end": 558.05,
       "text": "나는 평생 이 말을 잊으려고 애썼던 것 같아."
     },
     {
-      "start": 401.07,
-      "end": 403.25,
+      "start": 558.75,
+      "end": 560.93,
       "text": "When mom and dad argued in the kitchen,"
     },
     {
-      "start": 403.71,
-      "end": 404.95,
+      "start": 561.39,
+      "end": 562.63,
       "text": "I would sit right here."
     },
     {
-      "start": 405.09,
-      "end": 408.97,
+      "start": 562.77,
+      "end": 566.65,
       "text": "네, 사실 제니가 그 stairs에 앉아있었거든요."
     },
     {
-      "start": 409.09,
-      "end": 410.45,
+      "start": 566.77,
+      "end": 568.13,
       "text": "She's not in the kitchen."
     },
     {
-      "start": 410.63,
-      "end": 410.75,
+      "start": 568.31,
+      "end": 568.43,
       "text": "그렇죠."
     },
     {
-      "start": 411.13,
-      "end": 414.89,
+      "start": 568.81,
+      "end": 572.57,
       "text": "그래서 부엌에서 싸우시는 부모님이 안 보이게"
     },
     {
-      "start": 414.89,
-      "end": 417.27,
+      "start": 572.57,
+      "end": 574.95,
       "text": "그 부엌에서 이렇게 쪼그려 앉아가지고"
     },
     {
-      "start": 417.27,
-      "end": 420.69,
+      "start": 574.95,
+      "end": 578.37,
       "text": "When mom and dad argued in the kitchen,"
     },
     {
-      "start": 420.69,
-      "end": 423.57,
+      "start": 578.37,
+      "end": 581.25,
       "text": "우리 엄마와 아빠가 부엌에서 싸우실 땐"
     },
     {
-      "start": 423.57,
-      "end": 425.35,
+      "start": 581.25,
+      "end": 583.03,
       "text": "I would sit right here."
     },
     {
-      "start": 425.69,
-      "end": 426.95,
+      "start": 583.37,
+      "end": 584.63,
       "text": "나는 여기에 앉곤 했어."
     },
     {
-      "start": 427.13,
-      "end": 428.79,
+      "start": 584.81,
+      "end": 586.47,
       "text": "And she overheard everything."
     },
     {
-      "start": 428.91,
-      "end": 431.63,
+      "start": 586.59,
+      "end": 589.31,
       "text": "Her dad didn't even know she was listening."
     },
     {
-      "start": 431.63,
-      "end": 434.25,
+      "start": 589.31,
+      "end": 591.93,
       "text": "모든 걸 다 듣고 있다고 생각해 보세요."
     },
     {
-      "start": 434.45,
-      "end": 435.87,
+      "start": 592.13,
+      "end": 593.55,
       "text": "Oh, that's crushing."
     },
     {
-      "start": 436.05,
-      "end": 436.39,
+      "start": 593.73,
+      "end": 594.07,
       "text": "진짜."
     },
     {
-      "start": 436.89,
-      "end": 437.45,
+      "start": 594.57,
+      "end": 595.13,
       "text": "Crushing."
     },
     {
-      "start": 439.14,
-      "end": 441.26,
+      "start": 596.82,
+      "end": 598.94,
       "text": "My dad doesn't think I heard,"
     },
     {
-      "start": 441.62,
-      "end": 443.12,
+      "start": 599.3,
+      "end": 600.8,
       "text": "but when he left my mom,"
     },
     {
-      "start": 443.44,
-      "end": 444.4,
+      "start": 601.12,
+      "end": 602.08,
       "text": "he said it was,"
     },
     {
-      "start": 444.52,
-      "end": 446.18,
+      "start": 602.2,
+      "end": 603.86,
       "text": "it was because of me."
     },
     {
-      "start": 446.72,
-      "end": 449.24,
+      "start": 604.4,
+      "end": 606.92,
       "text": "계속해서 상처되는 상황이 있었네요."
     },
     {
-      "start": 449.78,
-      "end": 451.58,
+      "start": 607.46,
+      "end": 609.26,
       "text": "My dad doesn't think I heard."
     },
     {
-      "start": 452.0,
-      "end": 454.82,
+      "start": 609.68,
+      "end": 612.5,
       "text": "우리 아빠는 내가 듣는 줄 모르셨지."
     },
     {
-      "start": 455.28,
-      "end": 457.04,
+      "start": 612.96,
+      "end": 614.72,
       "text": "But when he left my mom,"
     },
     {
-      "start": 457.04,
-      "end": 459.58,
+      "start": 614.72,
+      "end": 617.26,
       "text": "하지만 아빠가 우리 엄마를 떠날 때"
     },
     {
-      "start": 459.58,
-      "end": 460.54,
+      "start": 617.26,
+      "end": 618.22,
       "text": "He said,"
     },
     {
-      "start": 460.64,
-      "end": 461.5,
+      "start": 618.32,
+      "end": 619.18,
       "text": "말씀하셨어."
     },
     {
-      "start": 461.82,
-      "end": 462.4,
+      "start": 619.5,
+      "end": 620.08,
       "text": "It was,"
     },
     {
-      "start": 462.52,
-      "end": 464.28,
+      "start": 620.2,
+      "end": 621.96,
       "text": "it was because of me."
     },
     {
-      "start": 464.5,
-      "end": 466.66,
+      "start": 622.18,
+      "end": 624.34,
       "text": "그게 다 나 때문이라고 하셨어."
     },
     {
-      "start": 466.78,
-      "end": 467.46,
+      "start": 624.46,
+      "end": 625.14,
       "text": "라는 말입니다."
     },
     {
-      "start": 467.46,
-      "end": 469.66,
+      "start": 625.14,
+      "end": 627.34,
       "text": "Her dad would not say that in front of her."
     },
     {
-      "start": 470.56,
-      "end": 470.96,
+      "start": 628.24,
+      "end": 628.64,
       "text": "But yeah,"
     },
     {
-      "start": 471.06,
-      "end": 472.04,
+      "start": 628.74,
+      "end": 629.72,
       "text": "she overheard."
     },
     {
-      "start": 472.2,
-      "end": 474.8,
+      "start": 629.88,
+      "end": 632.48,
       "text": "And now she has a scar for life."
     },
     {
-      "start": 475.46,
-      "end": 477.34,
+      "start": 633.14,
+      "end": 635.02,
       "text": "아무리 딸인 제니가"
     },
     {
-      "start": 477.34,
-      "end": 480.54,
+      "start": 635.02,
+      "end": 638.22,
       "text": "보고 있는 상황에서 이야기를 하지 않았다고 하더라도"
     },
     {
-      "start": 480.54,
-      "end": 481.86,
+      "start": 638.22,
+      "end": 639.54,
       "text": "이런 이야기를 했다는 것은"
     },
     {
-      "start": 481.86,
-      "end": 482.64,
+      "start": 639.54,
+      "end": 640.32,
       "text": "제니의 아빠가"
     },
     {
-      "start": 482.64,
-      "end": 483.72,
+      "start": 640.32,
+      "end": 641.4,
       "text": "was so immature."
     },
     {
-      "start": 484.72,
-      "end": 486.6,
+      "start": 642.4,
+      "end": 644.28,
       "text": "참 철이 안 드신 분 같아요."
     },
     {
-      "start": 486.6,
-      "end": 487.6,
+      "start": 644.28,
+      "end": 645.28,
       "text": "That's yeah,"
     },
     {
-      "start": 487.64,
-      "end": 488.86,
+      "start": 645.32,
+      "end": 646.54,
       "text": "he didn't think of the consequences."
     },
     {
-      "start": 488.98,
-      "end": 489.24,
+      "start": 646.66,
+      "end": 646.92,
       "text": "Yeah,"
     },
     {
-      "start": 489.86,
-      "end": 491.96,
+      "start": 647.54,
+      "end": 649.64,
       "text": "아무튼 이 장면 한 번 더 들어보시죠."
     },
     {
-      "start": 492.68,
-      "end": 493.36,
+      "start": 650.36,
+      "end": 651.04,
       "text": "They're fighting."
     },
     {
-      "start": 493.48,
-      "end": 495.1,
+      "start": 651.16,
+      "end": 652.78,
       "text": "But now this whole situation."
     },
     {
-      "start": 495.9,
-      "end": 500.07,
+      "start": 653.58,
+      "end": 657.75,
       "text": "One of your old dreams?"
     },
     {
-      "start": 500.21,
-      "end": 502.71,
+      "start": 657.89,
+      "end": 660.39,
       "text": "I've been trying to forget this my whole life."
     },
     {
-      "start": 504.09,
-      "end": 506.22,
+      "start": 661.77,
+      "end": 663.9,
       "text": "When mom and dad argued in the kitchen,"
     },
     {
-      "start": 506.34,
-      "end": 507.12,
+      "start": 664.02,
+      "end": 664.8,
       "text": "I would sit here."
     },
     {
-      "start": 508.24,
-      "end": 509.7,
+      "start": 665.92,
+      "end": 667.38,
       "text": "My dad doesn't think I heard."
     },
     {
-      "start": 510.16,
-      "end": 511.38,
+      "start": 667.84,
+      "end": 669.06,
       "text": "But when he left my mom,"
     },
     {
-      "start": 511.62,
-      "end": 512.42,
+      "start": 669.3,
+      "end": 670.1,
       "text": "he said it was,"
     },
     {
-      "start": 512.76,
-      "end": 514.02,
+      "start": 670.44,
+      "end": 671.7,
       "text": "it was because of me."
     },
     {
-      "start": 515.7,
-      "end": 517.42,
+      "start": 673.38,
+      "end": 675.1,
       "text": "오늘 장면은요,"
     },
     {
-      "start": 517.58,
-      "end": 519.02,
+      "start": 675.26,
+      "end": 676.7,
       "text": "우리 청취자분들 중에"
     },
     {
-      "start": 519.02,
-      "end": 522.42,
+      "start": 676.7,
+      "end": 680.1,
       "text": "특히 부모님이신 분들 많이 계실 텐데"
     },
     {
-      "start": 522.42,
-      "end": 524.28,
+      "start": 680.1,
+      "end": 681.96,
       "text": "이 부모님들의 경우 생각이"
     },
     {
-      "start": 524.28,
-      "end": 526.94,
+      "start": 681.96,
+      "end": 684.62,
       "text": "많아지실 것 같은 장면이었죠."
     },
     {
-      "start": 527.28,
-      "end": 527.3,
+      "start": 684.96,
+      "end": 684.98,
       "text": "Yeah."
     },
     {
-      "start": 527.62,
-      "end": 528.4,
+      "start": 685.3,
+      "end": 686.08,
       "text": "아이들 앞에서는"
     },
     {
-      "start": 528.4,
-      "end": 529.34,
+      "start": 686.08,
+      "end": 687.02,
       "text": "안 싸워야지!"
     },
     {
-      "start": 529.7,
-      "end": 531.02,
+      "start": 687.38,
+      "end": 688.7,
       "text": "라고 다짐을 하면서도"
     },
     {
-      "start": 531.02,
-      "end": 531.54,
+      "start": 688.7,
+      "end": 689.22,
       "text": "그게 뭐"
     },
     {
-      "start": 531.54,
-      "end": 533.52,
+      "start": 689.22,
+      "end": 691.2,
       "text": "컨트롤 안 될 때가 많잖아요."
     },
     {
-      "start": 533.52,
-      "end": 535.98,
+      "start": 691.2,
+      "end": 693.66,
       "text": "Just don't say anything bad"
     },
     {
-      "start": 535.98,
-      "end": 536.96,
+      "start": 693.66,
+      "end": 694.64,
       "text": "about your kids."
     },
     {
-      "start": 537.78,
-      "end": 540.22,
+      "start": 695.46,
+      "end": 697.9,
       "text": "Argue with each other nicely."
     },
     {
-      "start": 540.66,
-      "end": 542.44,
+      "start": 698.34,
+      "end": 700.12,
       "text": "Don't get the kids into it."
     },
     {
-      "start": 542.44,
-      "end": 544.02,
+      "start": 700.12,
+      "end": 701.7,
       "text": "Don't involve your kids."
     },
     {
-      "start": 544.12,
-      "end": 544.42,
+      "start": 701.8,
+      "end": 702.1,
       "text": "그래요."
     },
     {
-      "start": 544.74,
-      "end": 546.1,
+      "start": 702.42,
+      "end": 703.78,
       "text": "서로 말다툼을 할 때"
     },
     {
-      "start": 546.1,
-      "end": 549.2,
+      "start": 703.78,
+      "end": 706.88,
       "text": "절대로 자녀에 대한 뒷담은 하지 말라라는"
     },
     {
-      "start": 549.2,
-      "end": 550.92,
+      "start": 706.88,
+      "end": 708.6,
       "text": "언제 듣고 있을지 몰라요."
     },
     {
-      "start": 550.92,
-      "end": 552.14,
+      "start": 708.6,
+      "end": 709.82,
       "text": "그럼요."
     },
     {
-      "start": 552.54,
-      "end": 554.2,
+      "start": 710.22,
+      "end": 711.88,
       "text": "그래도 우리 청취자분들"
     },
     {
-      "start": 554.2,
-      "end": 554.64,
+      "start": 711.88,
+      "end": 712.32,
       "text": "다들"
     },
     {
-      "start": 554.64,
-      "end": 555.96,
+      "start": 712.32,
+      "end": 713.64,
       "text": "You're doing your best."
     },
     {
-      "start": 556.24,
-      "end": 558.28,
+      "start": 713.92,
+      "end": 715.96,
       "text": "이렇게 메시지 전달해 드리고 싶네요."
     },
     {
-      "start": 558.38,
-      "end": 558.8,
+      "start": 716.06,
+      "end": 716.48,
       "text": "화이팅!"
     },
     {
-      "start": 559.18,
-      "end": 560.9,
+      "start": 716.86,
+      "end": 718.58,
       "text": "응원해 드리는 마음입니다."
     },
     {
-      "start": 561.7,
-      "end": 563.44,
+      "start": 719.38,
+      "end": 721.12,
       "text": "메시지 하나 소개해 드릴게요."
     },
     {
-      "start": 564.32,
-      "end": 565.68,
+      "start": 722.0,
+      "end": 723.36,
       "text": "0502님께서"
     },
     {
-      "start": 565.68,
-      "end": 567.96,
+      "start": 723.36,
+      "end": 725.64,
       "text": "정연쌤과 크리스님처럼"
     },
     {
-      "start": 567.96,
-      "end": 570.86,
+      "start": 725.64,
+      "end": 728.54,
       "text": "영어와 우리말을 매일 같이 병행하면"
     },
     {
-      "start": 570.86,
-      "end": 573.78,
+      "start": 728.54,
+      "end": 731.46,
       "text": "언젠가는 전부 잘할 수 있는 날이 오겠죠?"
     },
     {
-      "start": 574.1,
-      "end": 574.98,
+      "start": 731.78,
+      "end": 732.66,
       "text": "라고 하셨어요."
     },
     {
-      "start": 575.16,
-      "end": 576.1,
+      "start": 732.84,
+      "end": 733.78,
       "text": "분명히 올 겁니다."
     },
     {
-      "start": 576.1,
-      "end": 579.32,
+      "start": 733.78,
+      "end": 737.0,
       "text": "가끔씩 영어하고 한국어하고"
     },
     {
-      "start": 579.32,
-      "end": 580.46,
+      "start": 737.0,
+      "end": 738.14,
       "text": "믹스가 돼가지고"
     },
     {
-      "start": 580.46,
-      "end": 582.66,
+      "start": 738.14,
+      "end": 740.34,
       "text": "이상한 말이 탄생이 될 때가 있더라고요."
     },
     {
-      "start": 582.86,
-      "end": 583.26,
+      "start": 740.54,
+      "end": 740.94,
       "text": "Yes."
     },
     {
-      "start": 583.56,
-      "end": 584.66,
+      "start": 741.24,
+      "end": 742.34,
       "text": "For me too."
     },
     {
-      "start": 584.84,
-      "end": 585.22,
+      "start": 742.52,
+      "end": 742.9,
       "text": "아 그래요?"
     },
     {
-      "start": 585.68,
-      "end": 587.22,
+      "start": 743.36,
+      "end": 744.9,
       "text": "저도 약간 지금 그러고 있어요."
     },
     {
-      "start": 587.82,
-      "end": 589.64,
+      "start": 745.5,
+      "end": 747.32,
       "text": "약간 그 버프링 시간 필요할 때"
     },
     {
-      "start": 589.64,
-      "end": 591.2,
+      "start": 747.32,
+      "end": 748.88,
       "text": "이상하게 나올 때가 있고"
     },
     {
-      "start": 591.2,
-      "end": 593.0,
+      "start": 748.88,
+      "end": 750.68,
       "text": "영어도 안 되고 한국어도 안 되고"
     },
     {
-      "start": 593.0,
-      "end": 593.36,
+      "start": 750.68,
+      "end": 751.04,
       "text": "맞아요."
     },
     {
-      "start": 593.48,
-      "end": 594.36,
+      "start": 751.16,
+      "end": 752.04,
       "text": "내가 뭔데?"
     },
     {
-      "start": 594.38,
-      "end": 596.42,
+      "start": 752.06,
+      "end": 754.1,
       "text": "뉴 랭귀지를 만들고 있는 상황이 있는 겁니다."
     },
     {
-      "start": 596.76,
-      "end": 597.5,
+      "start": 754.44,
+      "end": 755.18,
       "text": "What is happening?"
     },
     {
-      "start": 598.18,
-      "end": 598.84,
+      "start": 755.86,
+      "end": 756.52,
       "text": "Who am I?"
     },
     {
-      "start": 599.02,
-      "end": 599.26,
+      "start": 756.7,
+      "end": 756.94,
       "text": "네."
     },
     {
-      "start": 599.62,
-      "end": 601.44,
+      "start": 757.3,
+      "end": 759.12,
       "text": "나만 그런 게 아니다라는 이야기를 들으니까"
     },
     {
-      "start": 601.44,
-      "end": 602.36,
+      "start": 759.12,
+      "end": 760.04,
       "text": "위안이 되네요."
     },
     {
-      "start": 602.62,
-      "end": 604.12,
+      "start": 760.3,
+      "end": 761.8,
       "text": "Everybody has those moments."
     },
     {
-      "start": 604.2,
-      "end": 604.74,
+      "start": 761.88,
+      "end": 762.42,
       "text": "감사합니다."
     },
     {
-      "start": 604.9,
-      "end": 605.42,
+      "start": 762.58,
+      "end": 763.1,
       "text": "Everyone."
     },
     {
-      "start": 605.56,
-      "end": 606.02,
+      "start": 763.24,
+      "end": 763.7,
       "text": "It's okay."
     },
     {
-      "start": 606.1,
-      "end": 606.46,
+      "start": 763.78,
+      "end": 764.14,
       "text": "Yeah."
     },
     {
-      "start": 606.94,
-      "end": 607.84,
+      "start": 764.62,
+      "end": 765.52,
       "text": "힘 좀 나시죠?"
     },
     {
-      "start": 608.12,
-      "end": 609.32,
+      "start": 765.8,
+      "end": 767.0,
       "text": "오늘 Screen English는"
     },
     {
-      "start": 609.32,
-      "end": 610.94,
+      "start": 767.0,
+      "end": 768.62,
       "text": "여기에서 마무리하도록 하겠습니다."
     }
   ]
