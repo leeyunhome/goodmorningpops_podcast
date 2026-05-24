@@ -1,0 +1,672 @@
+{
+  "id": "2020-10-25_review_time_screen",
+  "date": "2020-10-25",
+  "corner": "review_time_screen",
+  "corner_label": "Review Time Screen",
+  "title": "",
+  "movie": "",
+  "duration_sec": 489.54,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-25_review_time_screen.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 4.02,
+      "text": "굿모닝 팝스에 사연 보내고 싶은 분들 홈페이지 청취자 게시판에 남겨주세요."
+    },
+    {
+      "start": 4.76,
+      "end": 8.18,
+      "text": "실시간으로 듣고 계신 분들은 지금 바로 참여하실 수 있거든요."
+    },
+    {
+      "start": 8.18,
+      "end": 14.32,
+      "text": "단문 50원과 장문 100원에 추가 요금이 부과되는 KBS 콜 FM 문자 샵 8910"
+    },
+    {
+      "start": 14.32,
+      "end": 18.14,
+      "text": "아니면 KBS 이라디오 문자 샵 1061로 보내주시거나"
+    },
+    {
+      "start": 18.14,
+      "end": 22.38,
+      "text": "무료 KBS 어플리케이션 콩 또는 마이케이로 보내주세요."
+    },
+    {
+      "start": 47.45,
+      "end": 55.24,
+      "text": "노래 듣고 와서 이번 주에 만난 표현 복습 시작할게요."
+    },
+    {
+      "start": 55.24,
+      "end": 58.46,
+      "text": "Bon Jovi의 This Ain't A Love Song"
+    },
+    {
+      "start": 85.71,
+      "end": 142.32,
+      "text": "고전 명작 소설 비밀의 화원이 판타지 영화로 태어났습니다."
+    },
+    {
+      "start": 143.26,
+      "end": 147.56,
+      "text": "이번 주 19일 월요일부터 22일 목요일까지 만난 표현들"
+    },
+    {
+      "start": 147.56,
+      "end": 149.96,
+      "text": "다시 들으면서 복습을 해보는 시간인데요."
+    },
+    {
+      "start": 150.66,
+      "end": 152.52,
+      "text": "여러분 준비되셨습니까?"
+    },
+    {
+      "start": 153.36,
+      "end": 155.52,
+      "text": "NG 없이 쭉쭉 가봅시다."
+    },
+    {
+      "start": 155.52,
+      "end": 157.18,
+      "text": "레디 액션!"
+    },
+    {
+      "start": 158.22,
+      "end": 158.94,
+      "text": "원맨쇼예요."
+    },
+    {
+      "start": 159.44,
+      "end": 160.66,
+      "text": "먼저 월요일 장면입니다."
+    },
+    {
+      "start": 161.34,
+      "end": 164.6,
+      "text": "메리와 디컨이 비밀의 화원으로 들어가서"
+    },
+    {
+      "start": 164.6,
+      "end": 167.7,
+      "text": "강아지의 다친 다리에 붕대를 감아줬잖아요."
+    },
+    {
+      "start": 167.7,
+      "end": 171.34,
+      "text": "그런데 메리가 디컨한테 이런 말을 합니다."
+    },
+    {
+      "start": 173.9,
+      "end": 176.98,
+      "text": "You've made it worse."
+    },
+    {
+      "start": 177.91,
+      "end": 179.49,
+      "text": "네가 상황을 더 악화시켰어."
+    },
+    {
+      "start": 180.41,
+      "end": 181.55,
+      "text": "라는 문맥이었죠."
+    },
+    {
+      "start": 182.07,
+      "end": 183.89,
+      "text": "You've made it worse."
+    },
+    {
+      "start": 183.89,
+      "end": 187.17,
+      "text": "그래서 더 나쁘게 만들다."
+    },
+    {
+      "start": 187.43,
+      "end": 188.67,
+      "text": "Make it worse."
+    },
+    {
+      "start": 189.17,
+      "end": 190.89,
+      "text": "이 구조를 기억을 하시면서"
+    },
+    {
+      "start": 190.89,
+      "end": 193.73,
+      "text": "You've made it worse."
+    },
+    {
+      "start": 193.97,
+      "end": 196.91,
+      "text": "이렇게 완료 시체까지 녹여져 있는 문장이었어요."
+    },
+    {
+      "start": 197.27,
+      "end": 198.25,
+      "text": "You've made it worse."
+    },
+    {
+      "start": 198.59,
+      "end": 201.05,
+      "text": "네가 더 상황을 나쁘게 만들었잖아."
+    },
+    {
+      "start": 201.69,
+      "end": 202.47,
+      "text": "라는 이야기죠."
+    },
+    {
+      "start": 203.17,
+      "end": 206.27,
+      "text": "전체 대화 속에서 어떻게 나왔는지 문장 확인해 볼게요."
+    },
+    {
+      "start": 206.27,
+      "end": 209.25,
+      "text": "Nothing's broken, but it looks like it's going rotten."
+    },
+    {
+      "start": 210.38,
+      "end": 211.54,
+      "text": "There's no running water here."
+    },
+    {
+      "start": 212.54,
+      "end": 213.56,
+      "text": "That's really good, that."
+    },
+    {
+      "start": 214.49,
+      "end": 215.67,
+      "text": "It's a little better, does it, sir?"
+    },
+    {
+      "start": 216.63,
+      "end": 218.15,
+      "text": "Dickon, you haven't fixed anything."
+    },
+    {
+      "start": 218.55,
+      "end": 219.39,
+      "text": "Made it worse."
+    },
+    {
+      "start": 219.55,
+      "end": 220.31,
+      "text": "Just give it time."
+    },
+    {
+      "start": 220.85,
+      "end": 221.39,
+      "text": "Both of you."
+    },
+    {
+      "start": 221.89,
+      "end": 222.67,
+      "text": "We've done all we can."
+    },
+    {
+      "start": 223.13,
+      "end": 224.97,
+      "text": "I hope you make the garden more magic and well."
+    },
+    {
+      "start": 225.53,
+      "end": 226.91,
+      "text": "Good morning, we'll have an answer."
+    },
+    {
+      "start": 228.02,
+      "end": 230.22,
+      "text": "이번에는 화요일에 만난 표현입니다."
+    },
+    {
+      "start": 230.98,
+      "end": 233.64,
+      "text": "메리가 사촌인 콜린을 데리고"
+    },
+    {
+      "start": 233.64,
+      "end": 236.08,
+      "text": "이 콜린의 엄마가 썼던 방으로"
+    },
+    {
+      "start": 236.08,
+      "end": 238.22,
+      "text": "다른 사람들 몰래 들어갑니다."
+    },
+    {
+      "start": 238.9,
+      "end": 240.98,
+      "text": "어릴 때의 기억을 되살려주려고 하면서"
+    },
+    {
+      "start": 240.98,
+      "end": 241.96,
+      "text": "이런 말을 하죠."
+    },
+    {
+      "start": 244.78,
+      "end": 245.64,
+      "text": "Don't be scared."
+    },
+    {
+      "start": 246.18,
+      "end": 247.28,
+      "text": "Don't be scared."
+    },
+    {
+      "start": 247.86,
+      "end": 248.88,
+      "text": "Don't be scared."
+    },
+    {
+      "start": 249.4,
+      "end": 250.18,
+      "text": "겁먹지 마."
+    },
+    {
+      "start": 250.72,
+      "end": 251.62,
+      "text": "두려워하지 마."
+    },
+    {
+      "start": 252.06,
+      "end": 252.84,
+      "text": "라는 문장이죠."
+    },
+    {
+      "start": 253.64,
+      "end": 253.82,
+      "text": "그래요."
+    },
+    {
+      "start": 253.94,
+      "end": 255.22,
+      "text": "도전을 앞두고"
+    },
+    {
+      "start": 255.22,
+      "end": 256.96,
+      "text": "되게 늘 두려워하잖아요."
+    },
+    {
+      "start": 257.22,
+      "end": 257.8,
+      "text": "그런데 그럴 때"
+    },
+    {
+      "start": 257.8,
+      "end": 261.22,
+      "text": "응원 차원으로 이렇게 말을 해줘도 좋을 것 같아요."
+    },
+    {
+      "start": 261.42,
+      "end": 262.22,
+      "text": "Don't be scared."
+    },
+    {
+      "start": 262.84,
+      "end": 263.68,
+      "text": "두려워하지 마."
+    },
+    {
+      "start": 264.16,
+      "end": 265.04,
+      "text": "너무 겁먹지 마."
+    },
+    {
+      "start": 265.04,
+      "end": 266.24,
+      "text": "Don't be scared."
+    },
+    {
+      "start": 266.68,
+      "end": 267.26,
+      "text": "외우셨죠?"
+    },
+    {
+      "start": 267.84,
+      "end": 270.36,
+      "text": "전체 대화 속에서 어떻게 나왔는지 확인해 보시죠."
+    },
+    {
+      "start": 289.29,
+      "end": 292.41,
+      "text": "리뷰타임 수요일 장면은 노래 듣고 와서 만나볼게요."
+    },
+    {
+      "start": 292.41,
+      "end": 296.05,
+      "text": "Kings of Convenience의 Cayman Islands"
+    },
+    {
+      "start": 296.05,
+      "end": 351.49,
+      "text": "여러분은 지금 KBS 라디오 조정현의 Good Morning Pops 함께하고 계십니다."
+    },
+    {
+      "start": 351.89,
+      "end": 353.63,
+      "text": "Screen English Review Time"
+    },
+    {
+      "start": 353.63,
+      "end": 355.47,
+      "text": "이제 수요일 장면 만나볼게요."
+    },
+    {
+      "start": 355.47,
+      "end": 359.87,
+      "text": "메리가 디컨하고 함께 저택에 들어옵니다."
+    },
+    {
+      "start": 359.87,
+      "end": 362.05,
+      "text": "이번에는 이 둘이서 같이"
+    },
+    {
+      "start": 362.05,
+      "end": 365.29,
+      "text": "콜린을 비밀의 화원으로 데리고 가려고 하는데요."
+    },
+    {
+      "start": 366.01,
+      "end": 368.27,
+      "text": "이 사실을 알게 된 Martha가"
+    },
+    {
+      "start": 368.27,
+      "end": 369.71,
+      "text": "이러면 안 된다."
+    },
+    {
+      "start": 369.97,
+      "end": 372.23,
+      "text": "라고 하자 메리가 이런 말을 합니다."
+    },
+    {
+      "start": 372.23,
+      "end": 375.93,
+      "text": "It's worth the risk"
+    },
+    {
+      "start": 375.93,
+      "end": 379.49,
+      "text": "잘 들리셨죠?"
+    },
+    {
+      "start": 380.21,
+      "end": 382.57,
+      "text": "위험을 무릅쓸 가치가 있다."
+    },
+    {
+      "start": 382.95,
+      "end": 384.03,
+      "text": "라는 문장이었어요."
+    },
+    {
+      "start": 384.43,
+      "end": 385.59,
+      "text": "It's worth the risk"
+    },
+    {
+      "start": 385.59,
+      "end": 387.25,
+      "text": "It's worth the risk"
+    },
+    {
+      "start": 387.25,
+      "end": 387.65,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 388.25,
+      "end": 388.89,
+      "text": "worth"
+    },
+    {
+      "start": 388.89,
+      "end": 390.85,
+      "text": "W-O-R-T-H"
+    },
+    {
+      "start": 390.85,
+      "end": 391.25,
+      "text": "그리고"
+    },
+    {
+      "start": 391.25,
+      "end": 392.35,
+      "text": "The risk"
+    },
+    {
+      "start": 392.35,
+      "end": 394.17,
+      "text": "R-I-S-K"
+    },
+    {
+      "start": 394.17,
+      "end": 397.25,
+      "text": "그래서 위험을 무릅쓸 가치가 있어"
+    },
+    {
+      "start": 397.25,
+      "end": 399.11,
+      "text": "라고 이야기하는 문장이었어요."
+    },
+    {
+      "start": 399.11,
+      "end": 401.09,
+      "text": "전체 대화 내용 들으시면서"
+    },
+    {
+      "start": 401.09,
+      "end": 402.95,
+      "text": "이 문장이 어떻게 나왔는지"
+    },
+    {
+      "start": 402.95,
+      "end": 404.67,
+      "text": "최종 확인해 볼게요."
+    },
+    {
+      "start": 416.92,
+      "end": 419.38,
+      "text": "이번에는 목요일에 만난 표현입니다."
+    },
+    {
+      "start": 420.16,
+      "end": 422.58,
+      "text": "메리는 비밀의 화원에 가기 싫어하는"
+    },
+    {
+      "start": 422.58,
+      "end": 424.16,
+      "text": "콜린을 설득합니다."
+    },
+    {
+      "start": 425.06,
+      "end": 426.7,
+      "text": "만약 이대로 가만히만 있으면"
+    },
+    {
+      "start": 426.7,
+      "end": 428.94,
+      "text": "침대 위에서 죽게 될 거다"
+    },
+    {
+      "start": 428.94,
+      "end": 429.62,
+      "text": "라고 하면서"
+    },
+    {
+      "start": 429.62,
+      "end": 430.68,
+      "text": "이런 말을 하죠."
+    },
+    {
+      "start": 433.35,
+      "end": 434.87,
+      "text": "Is that really what you want?"
+    },
+    {
+      "start": 435.23,
+      "end": 436.83,
+      "text": "Is that really what you want?"
+    },
+    {
+      "start": 437.55,
+      "end": 438.35,
+      "text": "이게 진짜"
+    },
+    {
+      "start": 438.35,
+      "end": 439.49,
+      "text": "네가 원하는 거야?"
+    },
+    {
+      "start": 439.99,
+      "end": 441.31,
+      "text": "라는 문장이었죠."
+    },
+    {
+      "start": 441.91,
+      "end": 442.35,
+      "text": "여기에서"
+    },
+    {
+      "start": 442.35,
+      "end": 443.51,
+      "text": "Is that what you want?"
+    },
+    {
+      "start": 443.71,
+      "end": 444.75,
+      "text": "Is that what you want?"
+    },
+    {
+      "start": 444.97,
+      "end": 445.73,
+      "text": "이라고만 하면"
+    },
+    {
+      "start": 445.73,
+      "end": 447.53,
+      "text": "이게 네가 원하는 거야?"
+    },
+    {
+      "start": 447.99,
+      "end": 448.91,
+      "text": "라는 질문인데"
+    },
+    {
+      "start": 448.91,
+      "end": 450.21,
+      "text": "여기에다가"
+    },
+    {
+      "start": 450.21,
+      "end": 452.81,
+      "text": "Really? 라는 부사 하나만 딱 넣어주니까"
+    },
+    {
+      "start": 452.81,
+      "end": 455.15,
+      "text": "그게 진짜 네가 원하는 거야?"
+    },
+    {
+      "start": 455.71,
+      "end": 457.37,
+      "text": "그게 네가 정말로 원하는 거야?"
+    },
+    {
+      "start": 457.37,
+      "end": 460.41,
+      "text": "라는 약간의 강조적인 느낌까지"
+    },
+    {
+      "start": 460.41,
+      "end": 461.73,
+      "text": "포함시킬 수 있었죠."
+    },
+    {
+      "start": 462.29,
+      "end": 463.87,
+      "text": "Is that really what you want?"
+    },
+    {
+      "start": 464.37,
+      "end": 466.67,
+      "text": "이 문장이 어떻게 나왔는지"
+    },
+    {
+      "start": 466.67,
+      "end": 467.61,
+      "text": "확인 한번 해볼게요."
+    },
+    {
+      "start": 467.61,
+      "end": 469.71,
+      "text": "When we try to fix the dog"
+    },
+    {
+      "start": 469.71,
+      "end": 470.99,
+      "text": "He refused us too"
+    },
+    {
+      "start": 470.99,
+      "end": 472.35,
+      "text": "Take his legs stickin"
+    },
+    {
+      "start": 472.35,
+      "end": 473.63,
+      "text": "I'll take the arms"
+    },
+    {
+      "start": 473.63,
+      "end": 476.25,
+      "text": "We can get you in the chair"
+    },
+    {
+      "start": 476.25,
+      "end": 477.99,
+      "text": "Get you down safely"
+    },
+    {
+      "start": 477.99,
+      "end": 479.93,
+      "text": "I promise you we won't kill you"
+    },
+    {
+      "start": 479.93,
+      "end": 481.75,
+      "text": "You can't promise anything of the kind"
+    },
+    {
+      "start": 481.75,
+      "end": 483.13,
+      "text": "You'll die in this bed"
+    },
+    {
+      "start": 483.13,
+      "end": 485.23,
+      "text": "And all you'll have seen is the wallpaper"
+    },
+    {
+      "start": 485.23,
+      "end": 487.38,
+      "text": "Is that really what you want?"
+    },
+    {
+      "start": 488.82,
+      "end": 489.54,
+      "text": "네 여기까지"
+    }
+  ]
+}
