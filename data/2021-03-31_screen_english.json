@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "You got a lot more miracles left",
   "movie": "",
-  "duration_sec": 918.8,
+  "duration_sec": 943.38,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-31_screen_english.mp3",
   "script": [
     {
@@ -1877,6 +1877,81 @@
       "start": 913.72,
       "end": 918.8,
       "text": "그래서 Where'd you go, Bernadette?을 통한 스크린 잉글리시는 여기까지고요."
+    },
+    {
+      "start": 919.2,
+      "end": 920.48,
+      "text": "이제 내일이 4월이잖아요."
+    },
+    {
+      "start": 920.86,
+      "end": 925.34,
+      "text": "우리는 이제 새로운 영화와 함께 만날 텐데 제목이 혹시 뭘까요?"
+    },
+    {
+      "start": 926.02,
+      "end": 926.88,
+      "text": "제목은요?"
+    },
+    {
+      "start": 926.96,
+      "end": 927.08,
+      "text": "네."
+    },
+    {
+      "start": 927.3,
+      "end": 929.16,
+      "text": "일단 귀여운 댕댕이 애니메이션이고요."
+    },
+    {
+      "start": 929.22,
+      "end": 929.4,
+      "text": "네."
+    },
+    {
+      "start": 929.58,
+      "end": 930.08,
+      "text": "Trouble."
+    },
+    {
+      "start": 930.44,
+      "end": 932.52,
+      "text": "어머, 갑자기 되게 귀엽게 읽어주신다."
+    },
+    {
+      "start": 933.18,
+      "end": 933.74,
+      "text": "Trouble."
+    },
+    {
+      "start": 934.2,
+      "end": 935.34,
+      "text": "댕댕이 애니메이션."
+    },
+    {
+      "start": 935.72,
+      "end": 938.38,
+      "text": "벌써부터 막 웃음이 만개하고 있습니다."
+    },
+    {
+      "start": 938.38,
+      "end": 940.02,
+      "text": "멍멍이 나오지 않을까."
+    },
+    {
+      "start": 940.2,
+      "end": 940.7,
+      "text": "네, 네."
+    },
+    {
+      "start": 941.22,
+      "end": 942.44,
+      "text": "우리 내일 만날게요."
+    },
+    {
+      "start": 942.68,
+      "end": 943.38,
+      "text": "I'll see you tomorrow."
     }
   ]
 }
