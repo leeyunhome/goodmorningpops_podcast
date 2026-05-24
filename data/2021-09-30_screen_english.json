@@ -5,1808 +5,1783 @@
   "corner_label": "Screen English",
   "title": "Sorry for interrupting",
   "movie": "",
-  "duration_sec": 728.8,
+  "duration_sec": 681.17,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-30_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 34.41,
-      "text": "영화배달 서비스 스크린 잉글리쉬 타임"
-    },
-    {
-      "start": 34.41,
-      "end": 36.37,
-      "text": "9월에 함께하고 있는 영화는"
-    },
-    {
-      "start": 36.37,
-      "end": 39.23,
-      "text": "It's about a hearing girl who wants to sing"
-    },
-    {
-      "start": 39.23,
-      "end": 43.15,
-      "text": "but she has deaf parents who rely on her to integrate"
-    },
-    {
-      "start": 43.15,
-      "end": 44.93,
-      "text": "and they always have"
-    },
-    {
-      "start": 44.93,
-      "end": 46.63,
-      "text": "Yes, they always have"
-    },
-    {
-      "start": 46.63,
-      "end": 47.29,
-      "text": "CODA!"
-    },
-    {
-      "start": 47.45,
-      "end": 50.61,
-      "text": "와우! 영화같이 멋지게 등장하셨습니다."
-    },
-    {
-      "start": 50.87,
-      "end": 51.79,
+      "end": 0.92,
       "text": "Hello! Good morning!"
     },
     {
-      "start": 51.95,
-      "end": 53.59,
+      "start": 1.08,
+      "end": 2.72,
       "text": "임선화 님께서"
     },
     {
-      "start": 53.59,
-      "end": 57.71,
+      "start": 2.72,
+      "end": 6.84,
       "text": "조크쌤 케미는 항상 아침에 즐거운 기운을 선사해요."
     },
     {
-      "start": 57.83,
-      "end": 59.37,
+      "start": 6.96,
+      "end": 8.5,
       "text": "웃음 웃음 감사합니다. 웃음 웃음"
     },
     {
-      "start": 59.37,
-      "end": 61.79,
+      "start": 8.5,
+      "end": 10.92,
       "text": "오늘도 족쌤과 함께"
     },
     {
-      "start": 61.79,
-      "end": 62.95,
+      "start": 10.92,
+      "end": 12.08,
       "text": "Let's go!"
     },
     {
-      "start": 63.01,
-      "end": 65.75,
+      "start": 12.14,
+      "end": 14.88,
       "text": "오늘도 한번 케미 뿜뿜 해보도록 하겠습니다."
     },
     {
-      "start": 65.89,
-      "end": 66.37,
+      "start": 15.02,
+      "end": 15.5,
       "text": "뿜뿜뿜뿜"
     },
     {
-      "start": 66.37,
-      "end": 70.51,
+      "start": 15.5,
+      "end": 19.64,
       "text": "Anyway, I can tell it's one of the best movies of the year."
     },
     {
-      "start": 70.71,
-      "end": 72.55,
+      "start": 19.84,
+      "end": 21.68,
       "text": "Honestly, I loved it."
     },
     {
-      "start": 72.75,
-      "end": 73.75,
+      "start": 21.88,
+      "end": 22.88,
       "text": "I'm honest."
     },
     {
-      "start": 73.97,
-      "end": 75.41,
+      "start": 23.1,
+      "end": 24.54,
       "text": "I'm being completely honest."
     },
     {
-      "start": 75.49,
-      "end": 79.21,
+      "start": 24.62,
+      "end": 28.34,
       "text": "진짜 진심을 가득 담아가지고 표현을 해주고 계시네요."
     },
     {
-      "start": 79.37,
-      "end": 82.01,
+      "start": 28.5,
+      "end": 31.14,
       "text": "이 CODA의 영화에 감동을 참 많이 받았는데"
     },
     {
-      "start": 82.01,
-      "end": 85.91,
+      "start": 31.14,
+      "end": 35.04,
       "text": "이 영화는 features a number of classic songs"
     },
     {
-      "start": 85.91,
-      "end": 91.41,
+      "start": 35.04,
+      "end": 40.54,
       "text": "including pieces by Joni Mitchell, Marvin Gaye, and David Bowie."
     },
     {
-      "start": 91.55,
-      "end": 95.33,
+      "start": 40.68,
+      "end": 44.46,
       "text": "Yeah, many songs that many Koreans will be familiar with."
     },
     {
-      "start": 95.51,
-      "end": 96.89,
+      "start": 44.64,
+      "end": 46.02,
       "text": "Classic pop songs."
     },
     {
-      "start": 97.71,
-      "end": 99.93,
+      "start": 46.84,
+      "end": 49.06,
       "text": "Also, my wife, when she heard"
     },
     {
-      "start": 99.93,
-      "end": 102.41,
+      "start": 49.06,
+      "end": 51.54,
       "text": "you know the last song in the movie?"
     },
     {
-      "start": 102.53,
-      "end": 103.65,
+      "start": 51.66,
+      "end": 52.78,
       "text": "The Audition."
     },
     {
-      "start": 103.85,
-      "end": 106.43,
+      "start": 52.98,
+      "end": 55.56,
       "text": "Yeah, Both Sides Now is the title of the song."
     },
     {
-      "start": 106.43,
-      "end": 108.39,
+      "start": 55.56,
+      "end": 57.52,
       "text": "Both Sides Now by Joni Mitchell."
     },
     {
-      "start": 108.61,
-      "end": 109.85,
+      "start": 57.74,
+      "end": 58.98,
       "text": "That was beautiful."
     },
     {
-      "start": 109.85,
-      "end": 112.45,
+      "start": 58.98,
+      "end": 61.58,
       "text": "It was actually my first time to hear that song."
     },
     {
-      "start": 112.95,
-      "end": 113.71,
+      "start": 62.08,
+      "end": 62.84,
       "text": "But my wife said,"
     },
     {
-      "start": 113.79,
-      "end": 115.11,
+      "start": 62.92,
+      "end": 64.24,
       "text": "어디서 들었지?"
     },
     {
-      "start": 115.47,
-      "end": 119.35,
+      "start": 64.6,
+      "end": 68.48,
       "text": "She remembered, she heard that song from a commercial,"
     },
     {
-      "start": 119.67,
-      "end": 121.29,
+      "start": 68.8,
+      "end": 70.42,
       "text": "an old commercial in Korea"
     },
     {
-      "start": 121.29,
-      "end": 123.39,
+      "start": 70.42,
+      "end": 72.52,
       "text": "for a clothing brand"
     },
     {
-      "start": 123.39,
-      "end": 125.11,
+      "start": 72.52,
+      "end": 74.24,
       "text": "with Daniel Henney"
     },
     {
-      "start": 125.11,
-      "end": 127.77,
+      "start": 74.24,
+      "end": 76.9,
       "text": "and Paltrow,"
     },
     {
-      "start": 128.17,
-      "end": 128.91,
+      "start": 77.3,
+      "end": 78.04,
       "text": "Gwyneth Paltrow,"
     },
     {
-      "start": 129.09,
-      "end": 130.37,
+      "start": 78.22,
+      "end": 79.5,
       "text": "the famous actress."
     },
     {
-      "start": 130.57,
-      "end": 131.71,
+      "start": 79.7,
+      "end": 80.84,
       "text": "They did a commercial,"
     },
     {
-      "start": 132.07,
-      "end": 134.49,
+      "start": 81.2,
+      "end": 83.62,
       "text": "a clothing commercial for a famous Korean brand."
     },
     {
-      "start": 134.49,
-      "end": 138.69,
+      "start": 83.62,
+      "end": 87.82,
       "text": "Daniel Henney가 나와서 더 인상 깊게 음악을 들으신 게 아닐까?"
     },
     {
-      "start": 139.85,
-      "end": 140.37,
+      "start": 88.98,
+      "end": 89.5,
       "text": "No."
     },
     {
-      "start": 141.17,
-      "end": 142.61,
+      "start": 90.3,
+      "end": 91.74,
       "text": "Well, 이제 안 좋아요, 이제."
     },
     {
-      "start": 143.41,
-      "end": 143.95,
+      "start": 92.54,
+      "end": 93.08,
       "text": "아무튼."
     },
     {
-      "start": 144.07,
-      "end": 145.27,
+      "start": 93.2,
+      "end": 94.4,
       "text": "아무튼 거기서 나갔대요."
     },
     {
-      "start": 145.31,
-      "end": 145.55,
+      "start": 94.44,
+      "end": 94.68,
       "text": "Yeah."
     },
     {
-      "start": 146.09,
-      "end": 146.99,
+      "start": 95.22,
+      "end": 96.12,
       "text": "그러면 크리스 씨네요."
     },
     {
-      "start": 147.07,
-      "end": 149.65,
+      "start": 96.2,
+      "end": 98.78,
       "text": "What's the most memorable song out of the OST?"
     },
     {
-      "start": 149.99,
-      "end": 151.23,
+      "start": 99.12,
+      "end": 100.36,
       "text": "It was that song"
     },
     {
-      "start": 151.23,
-      "end": 152.49,
+      "start": 100.36,
+      "end": 101.62,
       "text": "until you mentioned"
     },
     {
-      "start": 152.49,
-      "end": 153.79,
+      "start": 101.62,
+      "end": 102.92,
       "text": "Daniel Henney."
     },
     {
-      "start": 153.95,
-      "end": 155.53,
+      "start": 103.08,
+      "end": 104.66,
       "text": "저도 마찬가지로."
     },
     {
-      "start": 155.67,
-      "end": 156.29,
+      "start": 104.8,
+      "end": 105.42,
       "text": "I like that."
     },
     {
-      "start": 156.35,
-      "end": 156.55,
+      "start": 105.48,
+      "end": 105.68,
       "text": "Yeah."
     },
     {
-      "start": 157.15,
-      "end": 158.25,
+      "start": 106.28,
+      "end": 107.38,
       "text": "이 Both Sides Now"
     },
     {
-      "start": 158.25,
-      "end": 160.95,
+      "start": 107.38,
+      "end": 110.08,
       "text": "라는 곡을 가장 인상 깊게 들었어요."
     },
     {
-      "start": 161.17,
-      "end": 161.91,
+      "start": 110.3,
+      "end": 111.04,
       "text": "It was touching."
     },
     {
-      "start": 161.91,
-      "end": 162.35,
+      "start": 111.04,
+      "end": 111.48,
       "text": "Yeah."
     },
     {
-      "start": 162.77,
-      "end": 165.47,
+      "start": 111.9,
+      "end": 114.6,
       "text": "특히 그 마지막 오디션 장면에서"
     },
     {
-      "start": 165.47,
-      "end": 168.63,
+      "start": 114.6,
+      "end": 117.76,
       "text": "이 곡을 불렀었던 장면이 있었습니다."
     },
     {
-      "start": 168.77,
-      "end": 169.49,
+      "start": 117.9,
+      "end": 118.62,
       "text": "And her family,"
     },
     {
-      "start": 169.59,
-      "end": 172.51,
+      "start": 118.72,
+      "end": 121.64,
       "text": "my favorite part was when her family came in the audition room."
     },
     {
-      "start": 172.57,
-      "end": 173.03,
+      "start": 121.7,
+      "end": 122.16,
       "text": "Right."
     },
     {
-      "start": 173.35,
-      "end": 174.35,
+      "start": 122.48,
+      "end": 123.48,
       "text": "They were on the balcony."
     },
     {
-      "start": 174.59,
-      "end": 175.09,
+      "start": 123.72,
+      "end": 124.22,
       "text": "Yeah, yeah, yeah."
     },
     {
-      "start": 175.17,
-      "end": 176.17,
+      "start": 124.3,
+      "end": 125.3,
       "text": "And they were watching her."
     },
     {
-      "start": 176.17,
-      "end": 178.75,
+      "start": 125.3,
+      "end": 127.88,
       "text": "So she started sign language,"
     },
     {
-      "start": 178.95,
-      "end": 180.53,
+      "start": 128.08,
+      "end": 129.66,
       "text": "doing sign language while singing."
     },
     {
-      "start": 180.77,
-      "end": 182.15,
+      "start": 129.9,
+      "end": 131.28,
       "text": "And the judges were like,"
     },
     {
-      "start": 182.21,
-      "end": 183.15,
+      "start": 131.34,
+      "end": 132.28,
       "text": "Who's here?"
     },
     {
-      "start": 183.33,
-      "end": 183.99,
+      "start": 132.46,
+      "end": 133.12,
       "text": "What's happening?"
     },
     {
-      "start": 184.25,
-      "end": 185.37,
+      "start": 133.38,
+      "end": 134.5,
       "text": "But she didn't care."
     },
     {
-      "start": 185.45,
-      "end": 186.05,
+      "start": 134.58,
+      "end": 135.18,
       "text": "눈치 안 보고."
     },
     {
-      "start": 186.23,
-      "end": 186.51,
+      "start": 135.36,
+      "end": 135.64,
       "text": "맞아요."
     },
     {
-      "start": 186.61,
-      "end": 187.79,
+      "start": 135.74,
+      "end": 136.92,
       "text": "She was trying to,"
     },
     {
-      "start": 187.89,
-      "end": 188.67,
+      "start": 137.02,
+      "end": 137.8,
       "text": "that was her love."
     },
     {
-      "start": 188.81,
-      "end": 190.41,
+      "start": 137.94,
+      "end": 139.54,
       "text": "She was showing love for her parents."
     },
     {
-      "start": 190.49,
-      "end": 190.73,
+      "start": 139.62,
+      "end": 139.86,
       "text": "Right."
     },
     {
-      "start": 190.83,
-      "end": 192.53,
+      "start": 139.96,
+      "end": 141.66,
       "text": "For bringing her all the way to this audition."
     },
     {
-      "start": 192.67,
-      "end": 195.45,
+      "start": 141.8,
+      "end": 144.58,
       "text": "Oh, 그래서 I couldn't help crying in that scene."
     },
     {
-      "start": 195.79,
-      "end": 197.05,
+      "start": 144.92,
+      "end": 146.18,
       "text": "I shed some tears too."
     },
     {
-      "start": 197.15,
-      "end": 198.93,
+      "start": 146.28,
+      "end": 148.06,
       "text": "저도 엄청 울었어요, 그 장면에서."
     },
     {
-      "start": 199.03,
-      "end": 199.31,
+      "start": 148.16,
+      "end": 148.44,
       "text": "Yeah."
     },
     {
-      "start": 199.31,
-      "end": 201.01,
+      "start": 148.44,
+      "end": 150.14,
       "text": "가슴을 막 부여잡고 울었어요."
     },
     {
-      "start": 201.67,
-      "end": 202.75,
+      "start": 150.8,
+      "end": 151.88,
       "text": "It really got to me."
     },
     {
-      "start": 202.97,
-      "end": 203.89,
+      "start": 152.1,
+      "end": 153.02,
       "text": "It hit you too."
     },
     {
-      "start": 204.05,
-      "end": 204.35,
+      "start": 153.18,
+      "end": 153.48,
       "text": "맞아요."
     },
     {
-      "start": 204.71,
-      "end": 208.37,
+      "start": 153.84,
+      "end": 157.5,
       "text": "모두가 하나가 되는 그런 장면이 아니지 않나 싶습니다."
     },
     {
-      "start": 208.55,
-      "end": 208.87,
+      "start": 157.68,
+      "end": 158.0,
       "text": "Beautiful."
     },
     {
-      "start": 209.33,
-      "end": 211.15,
+      "start": 158.46,
+      "end": 160.28,
       "text": "네, 먼저 이 장면 듣고 오겠습니다."
     },
     {
-      "start": 211.15,
-      "end": 212.39,
+      "start": 160.28,
+      "end": 161.52,
       "text": "All right."
     },
     {
-      "start": 212.73,
-      "end": 214.73,
+      "start": 161.86,
+      "end": 163.86,
       "text": "You are just going to have to sing an acapella."
     },
     {
-      "start": 217.33,
-      "end": 218.43,
+      "start": 166.46,
+      "end": 167.56,
       "text": "I can accompany her."
     },
     {
-      "start": 218.95,
-      "end": 219.91,
+      "start": 168.08,
+      "end": 169.04,
       "text": "Sorry for interrupting."
     },
     {
-      "start": 220.71,
-      "end": 220.89,
+      "start": 169.84,
+      "end": 170.02,
       "text": "Hi."
     },
     {
-      "start": 221.82,
-      "end": 222.54,
+      "start": 170.95,
+      "end": 171.67,
       "text": "How are you?"
     },
     {
-      "start": 223.34,
-      "end": 225.14,
+      "start": 172.47,
+      "end": 174.27,
       "text": "I'm Bernardo Villalobos."
     },
     {
-      "start": 225.88,
-      "end": 226.56,
+      "start": 175.01,
+      "end": 175.69,
       "text": "Class of 89."
     },
     {
-      "start": 227.58,
-      "end": 228.42,
+      "start": 176.71,
+      "end": 177.55,
       "text": "Nice to see you all."
     },
     {
-      "start": 229.27,
-      "end": 229.89,
+      "start": 178.4,
+      "end": 179.02,
       "text": "May I?"
     },
     {
-      "start": 230.65,
-      "end": 231.35,
+      "start": 179.78,
+      "end": 180.48,
       "text": "I guess so."
     },
     {
-      "start": 231.49,
-      "end": 232.31,
+      "start": 180.62,
+      "end": 181.44,
       "text": "Thank you."
     },
     {
-      "start": 232.73,
-      "end": 234.59,
+      "start": 181.86,
+      "end": 183.72,
       "text": "What's going on?"
     },
     {
-      "start": 240.42,
-      "end": 248.96,
+      "start": 189.55,
+      "end": 198.09,
       "text": "That's the song."
     },
     {
-      "start": 249.08,
-      "end": 253.54,
+      "start": 198.21,
+      "end": 202.67,
       "text": "Yeah, dramatically her family sent her to the audition."
     },
     {
-      "start": 254.16,
-      "end": 254.8,
+      "start": 203.29,
+      "end": 203.93,
       "text": "They did."
     },
     {
-      "start": 254.9,
-      "end": 255.2,
+      "start": 204.03,
+      "end": 204.33,
       "text": "Yeah."
     },
     {
-      "start": 255.36,
-      "end": 257.42,
+      "start": 204.49,
+      "end": 206.55,
       "text": "I didn't think they were going to."
     },
     {
-      "start": 257.42,
-      "end": 259.6,
+      "start": 206.55,
+      "end": 208.73,
       "text": "저도 전혀 예상하지 못했어요."
     },
     {
-      "start": 260.0,
-      "end": 263.92,
+      "start": 209.13,
+      "end": 213.05,
       "text": "가족들이 막판에 오디션에 보내게 됩니다."
     },
     {
-      "start": 264.06,
-      "end": 265.0,
+      "start": 213.19,
+      "end": 214.13,
       "text": "At the last minute."
     },
     {
-      "start": 265.16,
-      "end": 265.36,
+      "start": 214.29,
+      "end": 214.49,
       "text": "Yeah."
     },
     {
-      "start": 265.48,
-      "end": 267.26,
+      "start": 214.61,
+      "end": 216.39,
       "text": "Okay, we're taking you to the audition."
     },
     {
-      "start": 267.6,
-      "end": 270.42,
+      "start": 216.73,
+      "end": 219.55,
       "text": "그리고 그 과정에서 her brother 있잖아요."
     },
     {
-      "start": 270.42,
-      "end": 272.92,
+      "start": 219.55,
+      "end": 222.05,
       "text": "wholeheartedly supported her."
     },
     {
-      "start": 273.6,
-      "end": 277.94,
+      "start": 222.73,
+      "end": 227.07,
       "text": "Ruby의 오빠가 바닷가에서 내가 너를 응원해."
     },
     {
-      "start": 278.16,
-      "end": 279.4,
+      "start": 227.29,
+      "end": 228.53,
       "text": "너 정말 재능이 있잖아."
     },
     {
-      "start": 279.62,
-      "end": 284.4,
+      "start": 228.75,
+      "end": 233.53,
       "text": "라고 하면서 격려해 주고 하는 부분이 참 nice scene이었다고 생각합니다."
     },
     {
-      "start": 284.4,
-      "end": 290.2,
+      "start": 233.53,
+      "end": 239.33,
       "text": "Yeah, at first she was angry that she was going to give up her dream and stay with the family."
     },
     {
-      "start": 290.34,
-      "end": 291.46,
+      "start": 239.47,
+      "end": 240.59,
       "text": "We don't need you."
     },
     {
-      "start": 291.7,
-      "end": 292.3,
+      "start": 240.83,
+      "end": 241.43,
       "text": "Just go."
     },
     {
-      "start": 292.3,
-      "end": 292.38,
+      "start": 241.43,
+      "end": 241.51,
       "text": "Oh."
     },
     {
-      "start": 292.76,
-      "end": 298.54,
+      "start": 241.89,
+      "end": 247.67,
       "text": "근데 가족들이 역시 최고라는 생각을 하게 되는 연결이었어요."
     },
     {
-      "start": 298.54,
-      "end": 298.78,
+      "start": 247.67,
+      "end": 247.91,
       "text": "그렇죠?"
     },
     {
-      "start": 298.8,
-      "end": 299.32,
+      "start": 247.93,
+      "end": 248.45,
       "text": "역시 가족."
     },
     {
-      "start": 299.68,
-      "end": 300.4,
+      "start": 248.81,
+      "end": 249.53,
       "text": "가족이 힘."
     },
     {
-      "start": 300.52,
-      "end": 300.72,
+      "start": 249.65,
+      "end": 249.85,
       "text": "Yeah."
     },
     {
-      "start": 301.48,
-      "end": 302.96,
+      "start": 250.61,
+      "end": 252.09,
       "text": "자, 표현들 점검해 볼까요?"
     },
     {
-      "start": 303.6,
-      "end": 305.2,
+      "start": 252.73,
+      "end": 254.33,
       "text": "Sing it, acapella."
     },
     {
-      "start": 305.58,
-      "end": 307.46,
+      "start": 254.71,
+      "end": 256.59,
       "text": "Sing it, acapella."
     },
     {
-      "start": 307.54,
-      "end": 309.18,
+      "start": 256.67,
+      "end": 258.31,
       "text": "Acapella is one word, I think."
     },
     {
-      "start": 309.2,
-      "end": 309.44,
+      "start": 258.33,
+      "end": 258.57,
       "text": "그렇죠."
     },
     {
-      "start": 309.66,
-      "end": 310.22,
+      "start": 258.79,
+      "end": 259.35,
       "text": "Acapella."
     },
     {
-      "start": 310.48,
-      "end": 313.7,
+      "start": 259.61,
+      "end": 262.83,
       "text": "그런데 제가 궁금해가지고 사전도 찾아봤는데"
     },
     {
-      "start": 313.7,
-      "end": 316.62,
+      "start": 262.83,
+      "end": 265.75,
       "text": "진짜 A가 띄어져 있더라고요."
     },
     {
-      "start": 317.34,
-      "end": 318.46,
+      "start": 266.47,
+      "end": 267.59,
       "text": "아capella, 이렇게."
     },
     {
-      "start": 318.72,
-      "end": 319.3,
+      "start": 267.85,
+      "end": 268.43,
       "text": "아capella."
     },
     {
-      "start": 319.66,
-      "end": 321.76,
+      "start": 268.79,
+      "end": 270.89,
       "text": "Many times it's written as one word."
     },
     {
-      "start": 321.8,
-      "end": 322.28,
+      "start": 270.93,
+      "end": 271.41,
       "text": "그러니까요."
     },
     {
-      "start": 322.34,
-      "end": 325.48,
+      "start": 271.47,
+      "end": 274.61,
       "text": "마치 고유명사처럼 아capella 이렇게 붙어 있을 것 같은데"
     },
     {
-      "start": 325.48,
-      "end": 327.04,
+      "start": 274.61,
+      "end": 276.17,
       "text": "띄어져서 쓰이더라고요."
     },
     {
-      "start": 327.04,
-      "end": 330.26,
+      "start": 276.17,
+      "end": 279.39,
       "text": "Do you like to sing acapella or accompanied?"
     },
     {
-      "start": 330.9,
-      "end": 332.88,
+      "start": 280.03,
+      "end": 282.01,
       "text": "I've never done it before."
     },
     {
-      "start": 333.34,
-      "end": 334.6,
+      "start": 282.47,
+      "end": 283.73,
       "text": "Oh, you've done it here."
     },
     {
-      "start": 334.94,
-      "end": 336.14,
+      "start": 284.07,
+      "end": 285.27,
       "text": "When we talk and I say,"
     },
     {
-      "start": 336.2,
-      "end": 337.14,
+      "start": 285.33,
+      "end": 286.27,
       "text": "Hey, what's that song?"
     },
     {
-      "start": 337.32,
-      "end": 338.84,
+      "start": 286.45,
+      "end": 287.97,
       "text": "You sing a little bit acapella."
     },
     {
-      "start": 338.96,
-      "end": 339.44,
+      "start": 288.09,
+      "end": 288.57,
       "text": "그러네요."
     },
     {
-      "start": 339.74,
-      "end": 340.94,
+      "start": 288.87,
+      "end": 290.07,
       "text": "멀리 있지 않았네요."
     },
     {
-      "start": 341.08,
-      "end": 341.84,
+      "start": 290.21,
+      "end": 290.97,
       "text": "저도 했었네요."
     },
     {
-      "start": 341.96,
-      "end": 342.88,
+      "start": 291.09,
+      "end": 292.01,
       "text": "그것도 아capella예요."
     },
     {
-      "start": 343.32,
-      "end": 343.86,
+      "start": 292.45,
+      "end": 292.99,
       "text": "어, 그래요."
     },
     {
-      "start": 344.0,
-      "end": 344.5,
+      "start": 293.13,
+      "end": 293.63,
       "text": "무반주."
     },
     {
-      "start": 344.64,
-      "end": 345.92,
+      "start": 293.77,
+      "end": 295.05,
       "text": "무반주로 노래하다."
     },
     {
-      "start": 346.18,
-      "end": 347.7,
+      "start": 295.31,
+      "end": 296.83,
       "text": "아, 이렇게 와닿는 설명."
     },
     {
-      "start": 347.86,
-      "end": 348.26,
+      "start": 296.99,
+      "end": 297.39,
       "text": "감사합니다."
     },
     {
-      "start": 349.48,
-      "end": 350.94,
+      "start": 298.61,
+      "end": 300.07,
       "text": "Sorry for interrupting."
     },
     {
-      "start": 351.2,
-      "end": 352.86,
+      "start": 300.33,
+      "end": 301.99,
       "text": "Sorry for interrupting."
     },
     {
-      "start": 353.24,
-      "end": 354.74,
+      "start": 302.37,
+      "end": 303.87,
       "text": "방해해서 죄송합니다."
     },
     {
-      "start": 354.74,
-      "end": 356.42,
+      "start": 303.87,
+      "end": 305.55,
       "text": "라는 의미로 쓰입니다."
     },
     {
-      "start": 356.58,
-      "end": 357.66,
+      "start": 305.71,
+      "end": 306.79,
       "text": "I'm so sorry for interrupting,"
     },
     {
-      "start": 357.88,
-      "end": 359.94,
+      "start": 307.01,
+      "end": 309.07,
       "text": "but I have something to say to you."
     },
     {
-      "start": 360.04,
-      "end": 360.26,
+      "start": 309.17,
+      "end": 309.39,
       "text": "그렇죠."
     },
     {
-      "start": 360.26,
-      "end": 363.68,
+      "start": 309.39,
+      "end": 312.81,
       "text": "뭔가 진짜 이야기하고 싶은 내용은 뒤에 따르기 마련이죠."
     },
     {
-      "start": 364.18,
-      "end": 365.82,
+      "start": 313.31,
+      "end": 314.95,
       "text": "Class of 89."
     },
     {
-      "start": 366.1,
-      "end": 367.4,
+      "start": 315.23,
+      "end": 316.53,
       "text": "A long time ago."
     },
     {
-      "start": 367.54,
-      "end": 367.68,
+      "start": 316.67,
+      "end": 316.81,
       "text": "네."
     },
     {
-      "start": 368.44,
-      "end": 371.32,
+      "start": 317.57,
+      "end": 320.45,
       "text": "89년도 졸업생이라는 표현이 되겠습니다."
     },
     {
-      "start": 371.52,
-      "end": 373.38,
+      "start": 320.65,
+      "end": 322.51,
       "text": "한국에서 팔고 학번이라고 하지만."
     },
     {
-      "start": 373.54,
-      "end": 373.62,
+      "start": 322.67,
+      "end": 322.75,
       "text": "그렇죠."
     },
     {
-      "start": 373.84,
-      "end": 375.12,
+      "start": 322.97,
+      "end": 324.25,
       "text": "This is the 졸업년도."
     },
     {
-      "start": 375.12,
-      "end": 378.96,
+      "start": 324.25,
+      "end": 328.09,
       "text": "아, 89년도 졸업생이라는 의미로"
     },
     {
-      "start": 378.96,
-      "end": 380.34,
+      "start": 328.09,
+      "end": 329.47,
       "text": "Class of 89."
     },
     {
-      "start": 380.98,
-      "end": 382.46,
+      "start": 330.11,
+      "end": 331.59,
       "text": "과연 누구의 이야기일까요?"
     },
     {
-      "start": 382.9,
-      "end": 383.66,
+      "start": 332.03,
+      "end": 332.79,
       "text": "아, 89."
     },
     {
-      "start": 383.8,
-      "end": 384.84,
+      "start": 332.93,
+      "end": 333.97,
       "text": "I was du door."
     },
     {
-      "start": 385.04,
-      "end": 386.08,
+      "start": 334.17,
+      "end": 335.21,
       "text": "아, 진짜요?"
     },
     {
-      "start": 386.28,
-      "end": 387.34,
+      "start": 335.41,
+      "end": 336.47,
       "text": "너무 귀엽겠다."
     },
     {
-      "start": 388.44,
-      "end": 390.42,
+      "start": 337.57,
+      "end": 339.55,
       "text": "Yeah, well, I don't remember."
     },
     {
-      "start": 390.66,
-      "end": 392.42,
+      "start": 339.79,
+      "end": 341.55,
       "text": "이 반응 참 독특하시네요."
     },
     {
-      "start": 392.76,
-      "end": 393.46,
+      "start": 341.89,
+      "end": 342.59,
       "text": "I'm not sure."
     },
     {
-      "start": 394.0,
-      "end": 395.12,
+      "start": 343.13,
+      "end": 344.25,
       "text": "네, 다시 한번 들어볼게요."
     },
     {
-      "start": 395.12,
-      "end": 396.5,
+      "start": 344.25,
+      "end": 345.63,
       "text": "아, all right."
     },
     {
-      "start": 396.84,
-      "end": 398.84,
+      "start": 345.97,
+      "end": 347.97,
       "text": "You are just going to have to sing an acapella."
     },
     {
-      "start": 401.45,
-      "end": 402.53,
+      "start": 350.58,
+      "end": 351.66,
       "text": "I can accompany her."
     },
     {
-      "start": 403.17,
-      "end": 404.63,
+      "start": 352.3,
+      "end": 353.76,
       "text": "Sorry for interrupting."
     },
     {
-      "start": 404.83,
-      "end": 404.99,
+      "start": 353.96,
+      "end": 354.12,
       "text": "Hi."
     },
     {
-      "start": 405.9,
-      "end": 406.64,
+      "start": 355.03,
+      "end": 355.77,
       "text": "How are you?"
     },
     {
-      "start": 407.42,
-      "end": 409.24,
+      "start": 356.55,
+      "end": 358.37,
       "text": "I'm Bernardo Villalobos."
     },
     {
-      "start": 409.98,
-      "end": 410.66,
+      "start": 359.11,
+      "end": 359.79,
       "text": "Class of 89."
     },
     {
-      "start": 411.68,
-      "end": 412.52,
+      "start": 360.81,
+      "end": 361.65,
       "text": "Nice to see you all."
     },
     {
-      "start": 413.35,
-      "end": 413.99,
+      "start": 362.48,
+      "end": 363.12,
       "text": "May I?"
     },
     {
-      "start": 414.75,
-      "end": 415.45,
+      "start": 363.88,
+      "end": 364.58,
       "text": "I guess so."
     },
     {
-      "start": 415.93,
-      "end": 416.43,
+      "start": 365.06,
+      "end": 365.56,
       "text": "Thank you."
     },
     {
-      "start": 417.98,
-      "end": 418.68,
+      "start": 367.11,
+      "end": 367.81,
       "text": "What's coming on?"
     },
     {
-      "start": 418.68,
-      "end": 433.84,
+      "start": 367.81,
+      "end": 382.97,
       "text": "오늘은 이 베르나르도 선생님이"
     },
     {
-      "start": 433.84,
-      "end": 436.66,
+      "start": 382.97,
+      "end": 385.79,
       "text": "좀 긴장하고 있는 것 같은 느낌이 들었어요."
     },
     {
-      "start": 436.78,
-      "end": 436.96,
+      "start": 385.91,
+      "end": 386.09,
       "text": "그죠?"
     },
     {
-      "start": 437.16,
-      "end": 437.44,
+      "start": 386.29,
+      "end": 386.57,
       "text": "음."
     },
     {
-      "start": 437.64,
-      "end": 441.34,
+      "start": 386.77,
+      "end": 390.47,
       "text": "아, 그나저나 역시 우리 베르나르도 선생님이에요."
     },
     {
-      "start": 442.12,
-      "end": 443.98,
+      "start": 391.25,
+      "end": 393.11,
       "text": "루비가 came in a hurry"
     },
     {
-      "start": 443.98,
-      "end": 447.04,
+      "start": 393.11,
+      "end": 396.17,
       "text": "so she couldn't prepare the score."
     },
     {
-      "start": 447.24,
-      "end": 448.04,
+      "start": 396.37,
+      "end": 397.17,
       "text": "The sheet music."
     },
     {
-      "start": 448.16,
-      "end": 450.16,
+      "start": 397.29,
+      "end": 399.29,
       "text": "She didn't even have the sheet music"
     },
     {
-      "start": 450.16,
-      "end": 451.96,
+      "start": 399.29,
+      "end": 401.09,
       "text": "for the pianist to play."
     },
     {
-      "start": 452.04,
-      "end": 452.28,
+      "start": 401.17,
+      "end": 401.41,
       "text": "맞아요."
     },
     {
-      "start": 452.6,
-      "end": 454.7,
+      "start": 401.73,
+      "end": 403.83,
       "text": "악보를 깜빡하고 안 갖고 왔잖아요."
     },
     {
-      "start": 454.7,
-      "end": 456.8,
+      "start": 403.83,
+      "end": 405.93,
       "text": "그때 딱 나타나신 거죠."
     },
     {
-      "start": 457.3,
-      "end": 457.62,
+      "start": 406.43,
+      "end": 406.75,
       "text": "Ta-da!"
     },
     {
-      "start": 457.9,
-      "end": 458.22,
+      "start": 407.03,
+      "end": 407.35,
       "text": "Ta-da!"
     },
     {
-      "start": 458.68,
-      "end": 460.04,
+      "start": 407.81,
+      "end": 409.17,
       "text": "I'm here to save you, 루비."
     },
     {
-      "start": 460.32,
-      "end": 461.54,
+      "start": 409.45,
+      "end": 410.67,
       "text": "I'm your music teacher."
     },
     {
-      "start": 461.96,
-      "end": 464.3,
+      "start": 411.09,
+      "end": 413.43,
       "text": "네, 심사위원들이 좀 있었는데"
     },
     {
-      "start": 464.3,
-      "end": 466.12,
+      "start": 413.43,
+      "end": 415.25,
       "text": "그중에 한 분이 이야기합니다."
     },
     {
-      "start": 467.08,
-      "end": 467.5,
+      "start": 416.21,
+      "end": 416.63,
       "text": "All right."
     },
     {
-      "start": 468.71,
-      "end": 469.21,
+      "start": 417.84,
+      "end": 418.34,
       "text": "All right."
     },
     {
-      "start": 469.45,
-      "end": 469.91,
+      "start": 418.58,
+      "end": 419.04,
       "text": "All right."
     },
     {
-      "start": 470.03,
-      "end": 470.27,
+      "start": 419.16,
+      "end": 419.4,
       "text": "좋아요."
     },
     {
-      "start": 470.67,
-      "end": 473.27,
+      "start": 419.8,
+      "end": 422.4,
       "text": "You are just going to have to sing it acapella."
     },
     {
-      "start": 473.65,
-      "end": 476.17,
+      "start": 422.78,
+      "end": 425.3,
       "text": "아, sheet music 없다 했더니"
     },
     {
-      "start": 476.17,
-      "end": 476.49,
+      "start": 425.3,
+      "end": 425.62,
       "text": "Okay."
     },
     {
-      "start": 476.81,
-      "end": 477.99,
+      "start": 425.94,
+      "end": 427.12,
       "text": "Sing it acapella."
     },
     {
-      "start": 478.43,
-      "end": 480.43,
+      "start": 427.56,
+      "end": 429.56,
       "text": "아, 악보를 안 갖고 왔다."
     },
     {
-      "start": 480.69,
-      "end": 481.07,
+      "start": 429.82,
+      "end": 430.2,
       "text": "Okay."
     },
     {
-      "start": 481.33,
-      "end": 483.91,
+      "start": 430.46,
+      "end": 433.04,
       "text": "그러면 무반주로 해라 라는 이야기예요."
     },
     {
-      "start": 483.91,
-      "end": 486.89,
+      "start": 433.04,
+      "end": 436.02,
       "text": "You are just going to have to sing it acapella."
     },
     {
-      "start": 486.89,
-      "end": 488.77,
+      "start": 436.02,
+      "end": 437.9,
       "text": "And now she's really nervous."
     },
     {
-      "start": 489.29,
-      "end": 490.05,
+      "start": 438.42,
+      "end": 439.18,
       "text": "Okay."
     },
     {
-      "start": 490.53,
-      "end": 491.49,
+      "start": 439.66,
+      "end": 440.62,
       "text": "네, 오케이."
     },
     {
-      "start": 491.71,
-      "end": 492.25,
+      "start": 440.84,
+      "end": 441.38,
       "text": "알겠습니다."
     },
     {
-      "start": 493.31,
-      "end": 494.79,
+      "start": 442.44,
+      "end": 443.92,
       "text": "I can accompany her."
     },
     {
-      "start": 494.91,
-      "end": 496.03,
+      "start": 444.04,
+      "end": 445.16,
       "text": "여기에서, 따단!"
     },
     {
-      "start": 496.29,
-      "end": 497.17,
+      "start": 445.42,
+      "end": 446.3,
       "text": "등장합니다."
     },
     {
-      "start": 497.69,
-      "end": 498.59,
+      "start": 446.82,
+      "end": 447.72,
       "text": "Her hero."
     },
     {
-      "start": 498.81,
-      "end": 500.67,
+      "start": 447.94,
+      "end": 449.8,
       "text": "Yeah, I can accompany her."
     },
     {
-      "start": 500.75,
-      "end": 501.07,
+      "start": 449.88,
+      "end": 450.2,
       "text": "Yeah."
     },
     {
-      "start": 501.41,
-      "end": 502.69,
+      "start": 450.54,
+      "end": 451.82,
       "text": "무슨 의미일까요?"
     },
     {
-      "start": 503.21,
-      "end": 505.09,
+      "start": 452.34,
+      "end": 454.22,
       "text": "제가 함께 해도 될까요?"
     },
     {
-      "start": 505.37,
-      "end": 506.37,
+      "start": 454.5,
+      "end": 455.5,
       "text": "라는 의미가 되겠습니다."
     },
     {
-      "start": 506.63,
-      "end": 507.09,
+      "start": 455.76,
+      "end": 456.22,
       "text": "Accompany."
     },
     {
-      "start": 507.25,
-      "end": 507.47,
+      "start": 456.38,
+      "end": 456.6,
       "text": "Yeah."
     },
     {
-      "start": 507.83,
-      "end": 508.59,
+      "start": 456.96,
+      "end": 457.72,
       "text": "Play piano."
     },
     {
-      "start": 508.71,
-      "end": 509.79,
+      "start": 457.84,
+      "end": 458.92,
       "text": "Accompany."
     },
     {
-      "start": 509.79,
-      "end": 511.63,
+      "start": 458.92,
+      "end": 460.76,
       "text": "제가 피아노 반주를 좀 해도 될까요?"
     },
     {
-      "start": 511.77,
-      "end": 512.75,
+      "start": 460.9,
+      "end": 461.88,
       "text": "라는 의도가 되겠죠."
     },
     {
-      "start": 513.49,
-      "end": 514.85,
+      "start": 462.62,
+      "end": 463.98,
       "text": "Sorry for interrupting."
     },
     {
-      "start": 515.25,
-      "end": 516.91,
+      "start": 464.38,
+      "end": 466.04,
       "text": "Sorry for interrupting."
     },
     {
-      "start": 517.17,
-      "end": 518.51,
+      "start": 466.3,
+      "end": 467.64,
       "text": "방해해서 죄송합니다."
     },
     {
-      "start": 519.45,
-      "end": 519.87,
+      "start": 468.58,
+      "end": 469.0,
       "text": "Hi."
     },
     {
-      "start": 520.21,
-      "end": 520.85,
+      "start": 469.34,
+      "end": 469.98,
       "text": "How are you?"
     },
     {
-      "start": 521.07,
-      "end": 522.31,
+      "start": 470.2,
+      "end": 471.44,
       "text": "He says that to the judges."
     },
     {
-      "start": 522.31,
-      "end": 522.63,
+      "start": 471.44,
+      "end": 471.76,
       "text": "Yeah."
     },
     {
-      "start": 522.93,
-      "end": 523.27,
+      "start": 472.06,
+      "end": 472.4,
       "text": "Oh, hi."
     },
     {
-      "start": 523.31,
-      "end": 523.73,
+      "start": 472.44,
+      "end": 472.86,
       "text": "How are you?"
     },
     {
-      "start": 523.85,
-      "end": 524.09,
+      "start": 472.98,
+      "end": 473.22,
       "text": "Yeah."
     },
     {
-      "start": 524.29,
-      "end": 524.89,
+      "start": 473.42,
+      "end": 474.02,
       "text": "저 왔어요."
     },
     {
-      "start": 525.09,
-      "end": 525.89,
+      "start": 474.22,
+      "end": 475.02,
       "text": "안녕하세요."
     },
     {
-      "start": 526.35,
-      "end": 527.17,
+      "start": 475.48,
+      "end": 476.3,
       "text": "잘 지내시죠?"
     },
     {
-      "start": 528.57,
-      "end": 530.11,
+      "start": 477.7,
+      "end": 479.24,
       "text": "아, 선배니까."
     },
     {
-      "start": 530.19,
-      "end": 530.35,
+      "start": 479.32,
+      "end": 479.48,
       "text": "Yeah."
     },
     {
-      "start": 530.61,
-      "end": 531.39,
+      "start": 479.74,
+      "end": 480.52,
       "text": "선배님입니다."
     },
     {
-      "start": 531.69,
-      "end": 535.71,
+      "start": 480.82,
+      "end": 484.84,
       "text": "I'm Bernardo Villalobos, class of 89."
     },
     {
-      "start": 535.71,
-      "end": 540.77,
+      "start": 484.84,
+      "end": 489.9,
       "text": "Oh, 저는 89년도 졸업생, 베르나르도 Villalobos입니다."
     },
     {
-      "start": 542.55,
-      "end": 543.65,
+      "start": 491.68,
+      "end": 492.78,
       "text": "Nice to see you all."
     },
     {
-      "start": 544.37,
-      "end": 544.87,
+      "start": 493.5,
+      "end": 494.0,
       "text": "May I?"
     },
     {
-      "start": 545.19,
-      "end": 546.55,
+      "start": 494.32,
+      "end": 495.68,
       "text": "네, 만나서 반갑습니다."
     },
     {
-      "start": 547.17,
-      "end": 547.77,
+      "start": 496.3,
+      "end": 496.9,
       "text": "May I?"
     },
     {
-      "start": 548.25,
-      "end": 549.65,
+      "start": 497.38,
+      "end": 498.78,
       "text": "제가 해도 될까요?"
     },
     {
-      "start": 549.95,
-      "end": 552.09,
+      "start": 499.08,
+      "end": 501.22,
       "text": "라고 하면서 피아노 쪽을 이렇게 가리킵니다."
     },
     {
-      "start": 552.31,
-      "end": 553.23,
+      "start": 501.44,
+      "end": 502.36,
       "text": "Oh, he's smart."
     },
     {
-      "start": 553.41,
-      "end": 553.63,
+      "start": 502.54,
+      "end": 502.76,
       "text": "Yeah."
     },
     {
-      "start": 553.73,
-      "end": 557.57,
+      "start": 502.86,
+      "end": 506.7,
       "text": "He's being friendly and polite all at the same time."
     },
     {
-      "start": 557.63,
-      "end": 558.37,
+      "start": 506.76,
+      "end": 507.5,
       "text": "다 가졌네요."
     },
     {
-      "start": 559.63,
-      "end": 560.71,
+      "start": 508.76,
+      "end": 509.84,
       "text": "I guess so."
     },
     {
-      "start": 560.91,
-      "end": 561.81,
+      "start": 510.04,
+      "end": 510.94,
       "text": "뭐, 그러시죠."
     },
     {
-      "start": 562.09,
-      "end": 562.73,
+      "start": 511.22,
+      "end": 511.86,
       "text": "I guess so."
     },
     {
-      "start": 562.79,
-      "end": 563.99,
+      "start": 511.92,
+      "end": 513.12,
       "text": "허락하는 의미였습니다."
     },
     {
-      "start": 564.33,
-      "end": 565.09,
+      "start": 513.46,
+      "end": 514.22,
       "text": "거절할 수 없어요."
     },
     {
-      "start": 565.09,
-      "end": 566.41,
+      "start": 514.22,
+      "end": 515.54,
       "text": "I guess so."
     },
     {
-      "start": 566.45,
-      "end": 567.37,
+      "start": 515.58,
+      "end": 516.5,
       "text": "Go ahead."
     },
     {
-      "start": 567.49,
-      "end": 567.61,
+      "start": 516.62,
+      "end": 516.74,
       "text": "Yeah."
     },
     {
-      "start": 568.25,
-      "end": 568.93,
+      "start": 517.38,
+      "end": 518.06,
       "text": "Thank you."
     },
     {
-      "start": 569.23,
-      "end": 569.71,
+      "start": 518.36,
+      "end": 518.84,
       "text": "감사합니다."
     },
     {
-      "start": 571.07,
-      "end": 572.65,
+      "start": 520.2,
+      "end": 521.78,
       "text": "What is going on?"
     },
     {
-      "start": 572.75,
-      "end": 576.35,
+      "start": 521.88,
+      "end": 525.48,
       "text": "그러면서 이제 심사위원들이 서로를 쳐다보면서"
     },
     {
-      "start": 576.35,
-      "end": 577.39,
+      "start": 525.48,
+      "end": 526.52,
       "text": "What is going on?"
     },
     {
-      "start": 577.45,
-      "end": 578.25,
+      "start": 526.58,
+      "end": 527.38,
       "text": "이렇게 속삭입니다."
     },
     {
-      "start": 579.15,
-      "end": 581.71,
+      "start": 528.28,
+      "end": 530.84,
       "text": "Is that when she starts doing sign language?"
     },
     {
-      "start": 582.17,
-      "end": 586.01,
+      "start": 531.3,
+      "end": 535.14,
       "text": "Because in the middle of the song, her parents come in the room"
     },
     {
-      "start": 586.01,
-      "end": 590.51,
+      "start": 535.14,
+      "end": 539.64,
       "text": "and she starts doing sign language so they can understand the lyrics?"
     },
     {
-      "start": 590.85,
-      "end": 592.71,
+      "start": 539.98,
+      "end": 541.84,
       "text": "Oh, I cannot remember exactly."
     },
     {
-      "start": 593.11,
-      "end": 594.33,
+      "start": 542.24,
+      "end": 543.46,
       "text": "I think that's the part."
     },
     {
-      "start": 594.33,
-      "end": 595.85,
+      "start": 543.46,
+      "end": 544.98,
       "text": "What's going on?"
     },
     {
-      "start": 595.85,
-      "end": 596.77,
+      "start": 544.98,
+      "end": 545.9,
       "text": "What's going on?"
     },
     {
-      "start": 596.85,
-      "end": 599.11,
+      "start": 545.98,
+      "end": 548.24,
       "text": "이게 도대체 뭐가 어떻게 돌아가는 거야?"
     },
     {
-      "start": 599.47,
-      "end": 600.47,
+      "start": 548.6,
+      "end": 549.6,
       "text": "라는 의미가 되겠습니다."
     },
     {
-      "start": 600.63,
-      "end": 601.59,
+      "start": 549.76,
+      "end": 550.72,
       "text": "They like look back."
     },
     {
-      "start": 601.73,
-      "end": 603.81,
+      "start": 550.86,
+      "end": 552.94,
       "text": "Oh, they're not supposed to be here."
     },
     {
-      "start": 604.01,
-      "end": 605.55,
+      "start": 553.14,
+      "end": 554.68,
       "text": "그래서 발코니를 쳐다보면서"
     },
     {
-      "start": 605.55,
-      "end": 608.57,
+      "start": 554.68,
+      "end": 557.7,
       "text": "Oh, but they let them stay there."
     },
     {
-      "start": 608.63,
-      "end": 610.87,
+      "start": 557.76,
+      "end": 560.0,
       "text": "And it was a very emotional scene."
     },
     {
-      "start": 610.89,
-      "end": 611.03,
+      "start": 560.02,
+      "end": 560.16,
       "text": "맞아요."
     },
     {
-      "start": 611.19,
-      "end": 612.05,
+      "start": 560.32,
+      "end": 561.18,
       "text": "아주 감동적이죠."
     },
     {
-      "start": 612.05,
-      "end": 612.45,
+      "start": 561.18,
+      "end": 561.58,
       "text": "Beautiful."
     },
     {
-      "start": 612.45,
-      "end": 616.22,
+      "start": 561.58,
+      "end": 565.35,
       "text": "Oh, and the singing part."
     },
     {
-      "start": 616.34,
-      "end": 616.52,
+      "start": 565.47,
+      "end": 565.65,
       "text": "Yeah."
     },
     {
-      "start": 616.64,
-      "end": 617.28,
+      "start": 565.77,
+      "end": 566.41,
       "text": "Do you want to sing?"
     },
     {
-      "start": 617.46,
-      "end": 618.22,
+      "start": 566.59,
+      "end": 567.35,
       "text": "Can you do it?"
     },
     {
-      "start": 618.5,
-      "end": 619.48,
+      "start": 567.63,
+      "end": 568.61,
       "text": "I will speak."
     },
     {
-      "start": 620.58,
-      "end": 626.42,
+      "start": 569.71,
+      "end": 575.55,
       "text": "Rose and flows of angel hair and ice cream castles in the air."
     },
     {
-      "start": 626.42,
-      "end": 629.24,
+      "start": 575.55,
+      "end": 578.37,
       "text": "와우, 마치 시 한 편인 것 같아요."
     },
     {
-      "start": 629.34,
-      "end": 630.22,
+      "start": 578.47,
+      "end": 579.35,
       "text": "It's very poetic."
     },
     {
-      "start": 630.5,
-      "end": 630.96,
+      "start": 579.63,
+      "end": 580.09,
       "text": "그러네요."
     },
     {
-      "start": 631.42,
-      "end": 634.1,
+      "start": 580.55,
+      "end": 583.23,
       "text": "Rose and flows of angel hair."
     },
     {
-      "start": 634.76,
-      "end": 636.12,
+      "start": 583.89,
+      "end": 585.25,
       "text": "행과 흐름?"
     },
     {
-      "start": 636.52,
-      "end": 637.72,
+      "start": 585.65,
+      "end": 586.85,
       "text": "구비쳐 흘러가는?"
     },
     {
-      "start": 637.9,
-      "end": 639.18,
+      "start": 587.03,
+      "end": 588.31,
       "text": "이 정도 표현하면 되겠죠?"
     },
     {
-      "start": 639.56,
-      "end": 642.58,
+      "start": 588.69,
+      "end": 591.71,
       "text": "구비쳐 흘러가는 천사의 hair."
     },
     {
-      "start": 642.72,
-      "end": 643.36,
+      "start": 591.85,
+      "end": 592.49,
       "text": "머리칼."
     },
     {
-      "start": 643.36,
-      "end": 646.16,
+      "start": 592.49,
+      "end": 595.29,
       "text": "When I think of angel hair, I think of pasta."
     },
     {
-      "start": 646.58,
-      "end": 647.74,
+      "start": 595.71,
+      "end": 596.87,
       "text": "Angel hair pasta?"
     },
     {
-      "start": 648.1,
-      "end": 650.04,
+      "start": 597.23,
+      "end": 599.17,
       "text": "You know, the 면발이 얇은 거 있죠?"
     },
     {
-      "start": 650.04,
-      "end": 651.72,
+      "start": 599.17,
+      "end": 600.85,
       "text": "그 angel hair pasta라고요."
     },
     {
-      "start": 651.72,
-      "end": 652.6,
+      "start": 600.85,
+      "end": 601.73,
       "text": "아, 너무 웃겨."
     },
     {
-      "start": 652.72,
-      "end": 653.76,
+      "start": 601.85,
+      "end": 602.89,
       "text": "천사 머리."
     },
     {
-      "start": 653.88,
-      "end": 656.04,
+      "start": 603.01,
+      "end": 605.17,
       "text": "아, 많이들 웃고 계실 것 같아요, 진짜."
     },
     {
-      "start": 656.84,
-      "end": 659.22,
+      "start": 605.97,
+      "end": 608.35,
       "text": "아무튼 창의령, 장난 아십니다."
     },
     {
-      "start": 660.46,
-      "end": 662.64,
+      "start": 609.59,
+      "end": 611.77,
       "text": "And ice cream castles in the air."
     },
     {
-      "start": 662.76,
-      "end": 665.12,
+      "start": 611.89,
+      "end": 614.25,
       "text": "And ice cream castles in the air."
     },
     {
-      "start": 665.24,
-      "end": 665.92,
+      "start": 614.37,
+      "end": 615.05,
       "text": "무슨 의미일까요?"
     },
     {
-      "start": 666.5,
-      "end": 670.66,
+      "start": 615.63,
+      "end": 619.79,
       "text": "공중에 떠 있는 아이스크림 성이라는 가사였습니다."
     },
     {
-      "start": 671.02,
-      "end": 671.98,
+      "start": 620.15,
+      "end": 621.11,
       "text": "참 아름다운 노래죠."
     },
     {
-      "start": 672.08,
-      "end": 672.36,
+      "start": 621.21,
+      "end": 621.49,
       "text": "Yeah."
     },
     {
-      "start": 672.64,
-      "end": 675.82,
+      "start": 621.77,
+      "end": 624.95,
       "text": "I think the song's about growing up, imagination."
     },
     {
-      "start": 676.24,
-      "end": 677.12,
+      "start": 625.37,
+      "end": 626.25,
       "text": "Yeah, right."
     },
     {
-      "start": 677.12,
-      "end": 680.9,
+      "start": 626.25,
+      "end": 630.03,
       "text": "정말 아름다운 장면으로써 it's my favorite scene입니다."
     },
     {
-      "start": 681.08,
-      "end": 681.48,
+      "start": 630.21,
+      "end": 630.61,
       "text": "Me too."
     },
     {
-      "start": 681.58,
-      "end": 681.78,
+      "start": 630.71,
+      "end": 630.91,
       "text": "Yeah."
     },
     {
-      "start": 682.42,
-      "end": 684.12,
+      "start": 631.55,
+      "end": 633.25,
       "text": "자, 마지막으로 한 번 더 들어볼게요."
     },
     {
-      "start": 684.96,
-      "end": 685.48,
+      "start": 634.09,
+      "end": 634.61,
       "text": "All right."
     },
     {
-      "start": 685.78,
-      "end": 687.8,
+      "start": 634.91,
+      "end": 636.93,
       "text": "You are just going to have to sing an acapella."
     },
     {
-      "start": 690.39,
-      "end": 691.53,
+      "start": 639.52,
+      "end": 640.66,
       "text": "I can accompany her."
     },
     {
-      "start": 692.03,
-      "end": 693.61,
+      "start": 641.16,
+      "end": 642.74,
       "text": "Sorry for interrupting."
     },
     {
-      "start": 693.79,
-      "end": 693.97,
+      "start": 642.92,
+      "end": 643.1,
       "text": "Hi."
     },
     {
-      "start": 694.88,
-      "end": 695.6,
+      "start": 644.01,
+      "end": 644.73,
       "text": "How are you?"
     },
     {
-      "start": 696.36,
-      "end": 698.22,
+      "start": 645.49,
+      "end": 647.35,
       "text": "I'm Bernardo Villalobos."
     },
     {
-      "start": 698.74,
-      "end": 699.64,
+      "start": 647.87,
+      "end": 648.77,
       "text": "Class of 89."
     },
     {
-      "start": 700.64,
-      "end": 701.48,
+      "start": 649.77,
+      "end": 650.61,
       "text": "Nice to see you all."
     },
     {
-      "start": 702.33,
-      "end": 702.97,
+      "start": 651.46,
+      "end": 652.1,
       "text": "May I?"
     },
     {
-      "start": 703.63,
-      "end": 704.45,
+      "start": 652.76,
+      "end": 653.58,
       "text": "I guess so."
     },
     {
-      "start": 704.91,
-      "end": 705.39,
+      "start": 654.04,
+      "end": 654.52,
       "text": "Thank you."
     },
     {
-      "start": 705.85,
-      "end": 707.68,
+      "start": 654.98,
+      "end": 656.81,
       "text": "What's going on?"
     },
     {
-      "start": 712.81,
-      "end": 724.64,
+      "start": 661.94,
+      "end": 673.77,
       "text": "박영신님께서 조크쌤 수고하셨어요."
     },
     {
-      "start": 724.9,
-      "end": 725.86,
+      "start": 674.03,
+      "end": 674.99,
       "text": "다음 주에 만나요."
     },
     {
-      "start": 726.2,
-      "end": 727.98,
+      "start": 675.33,
+      "end": 677.11,
       "text": "라고 먼저 인사를 해주셨네요."
     },
     {
-      "start": 728.12,
-      "end": 728.8,
+      "start": 677.25,
+      "end": 677.93,
       "text": "See you next week."
+    },
+    {
+      "start": 678.01,
+      "end": 679.05,
+      "text": "박영신님."
+    },
+    {
+      "start": 679.13,
+      "end": 679.35,
+      "text": "네."
+    },
+    {
+      "start": 679.95,
+      "end": 681.17,
+      "text": "오늘 여기까지고요."
     }
   ]
 }
