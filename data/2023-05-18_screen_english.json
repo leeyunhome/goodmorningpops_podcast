@@ -1,0 +1,1762 @@
+{
+  "id": "2023-05-18_screen_english",
+  "date": "2023-05-18",
+  "corner": "screen_english",
+  "corner_label": "Screen English",
+  "title": "I can handle this",
+  "movie": "",
+  "duration_sec": 912.07,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-18_screen_english.mp3",
+  "script": [
+    {
+      "start": 0.0,
+      "end": 3.98,
+      "text": "이사 후 새 집에서 듣는 첫 굿모닝 팝스입니다."
+    },
+    {
+      "start": 4.78,
+      "end": 8.18,
+      "text": "콩 어플 깔고 라디오 프로그램들을 훑어보는데"
+    },
+    {
+      "start": 8.18,
+      "end": 12.54,
+      "text": "와, 어릴 적 듣던 굿모닝 팝스가 떡하니 있네요."
+    },
+    {
+      "start": 13.2,
+      "end": 14.26,
+      "text": "너무 반가웠습니다."
+    },
+    {
+      "start": 14.98,
+      "end": 18.14,
+      "text": "앞으로는 고등학생 아들과 함께 들어야겠어요."
+    },
+    {
+      "start": 19.28,
+      "end": 21.24,
+      "text": "아, 이사를 최근에 하셨군요."
+    },
+    {
+      "start": 21.24,
+      "end": 24.44,
+      "text": "그리고 이사하시고 다시 만난 거네요."
+    },
+    {
+      "start": 25.06,
+      "end": 26.88,
+      "text": "너무 잘 오셨습니다. 안순영님"
+    },
+    {
+      "start": 26.88,
+      "end": 33.62,
+      "text": "고등학생 아드님과 이제부터 공통분모라고 표현해도 되겠죠."
+    },
+    {
+      "start": 33.94,
+      "end": 36.06,
+      "text": "그런 부분이 더 늘어가는 거죠."
+    },
+    {
+      "start": 37.53,
+      "end": 40.47,
+      "text": "새 집에서 더 새로운 마음으로"
+    },
+    {
+      "start": 40.47,
+      "end": 45.69,
+      "text": "또 행복한 일들이 많이 채워가시길 제가 응원하겠습니다."
+    },
+    {
+      "start": 47.06,
+      "end": 48.64,
+      "text": "오늘 사연 소개되신 두 분께는"
+    },
+    {
+      "start": 48.64,
+      "end": 51.28,
+      "text": "월간 굿모닝 팝 3개월 구독권 보내드릴게요."
+    },
+    {
+      "start": 52.36,
+      "end": 55.44,
+      "text": "GMP의 피곤함을 싹 없애드릴 이벤트"
+    },
+    {
+      "start": 55.44,
+      "end": 58.4,
+      "text": "GMP로 영어실력 업! 에너지도 업!"
+    },
+    {
+      "start": 59.0,
+      "end": 63.86,
+      "text": "오늘은 시원하고 달콤한 콘 아이스크림 모바일 쿠폰 준비되어 있어요."
+    },
+    {
+      "start": 64.58,
+      "end": 66.36,
+      "text": "신청 메시지 보내주신 분들 중에서"
+    },
+    {
+      "start": 66.36,
+      "end": 68.3,
+      "text": "다섯 분 뽑아서 보내드릴게요."
+    },
+    {
+      "start": 69.04,
+      "end": 71.92,
+      "text": "담으 50원과 장문 100원에 추가 요금이 부과되는"
+    },
+    {
+      "start": 71.92,
+      "end": 74.18,
+      "text": "KBS 코어 FM 문자샵 8910"
+    },
+    {
+      "start": 74.18,
+      "end": 78.32,
+      "text": "아니면 KBS 2라디오 문자샵 1061로 신청하시거나"
+    },
+    {
+      "start": 78.32,
+      "end": 82.14,
+      "text": "무료 KBS 애플리케이션 콩 또는 마이케이로 참여해주세요."
+    },
+    {
+      "start": 82.14,
+      "end": 94.81,
+      "text": "임여사씨 조정현의 굿모닝 팝"
+    },
+    {
+      "start": 94.81,
+      "end": 98.86,
+      "text": "해봐요 굿모닝"
+    },
+    {
+      "start": 98.86,
+      "end": 102.42,
+      "text": "조정현의 굿모닝"
+    },
+    {
+      "start": 102.42,
+      "end": 108.08,
+      "text": "조정현의 굿모닝 팝"
+    },
+    {
+      "start": 108.08,
+      "end": 121.87,
+      "text": "English"
+    },
+    {
+      "start": 121.87,
+      "end": 143.35,
+      "text": "배달 서비스 스프링 잉글리쉬 타임"
+    },
+    {
+      "start": 143.35,
+      "end": 145.39,
+      "text": "5월에 함께하고 있는 영화는"
+    },
+    {
+      "start": 145.39,
+      "end": 147.99,
+      "text": "다이앤 키튼, 자키 위버 주연의"
+    },
+    {
+      "start": 147.99,
+      "end": 149.55,
+      "text": "팝스 치울리딩 클럽"
+    },
+    {
+      "start": 149.55,
+      "end": 151.37,
+      "text": "입니다. 어서오세요."
+    },
+    {
+      "start": 151.37,
+      "end": 152.13,
+      "text": "굿모닝"
+    },
+    {
+      "start": 152.13,
+      "end": 156.01,
+      "text": "와우 조조영화라고 소개를 해드렸는데"
+    },
+    {
+      "start": 156.01,
+      "end": 157.21,
+      "text": "왠지 조크"
+    },
+    {
+      "start": 157.21,
+      "end": 159.29,
+      "text": "영화 서비스"
+    },
+    {
+      "start": 159.29,
+      "end": 161.63,
+      "text": "이렇게도 붙여봐도 너무 재밌을 것 같아요."
+    },
+    {
+      "start": 161.79,
+      "end": 162.89,
+      "text": "그렇죠. 마지막 조는"
+    },
+    {
+      "start": 162.89,
+      "end": 164.09,
+      "text": "크로 바꾸면"
+    },
+    {
+      "start": 164.09,
+      "end": 164.95,
+      "text": "조크"
+    },
+    {
+      "start": 164.95,
+      "end": 166.69,
+      "text": "네. 조크조크 좋습니다."
+    },
+    {
+      "start": 166.83,
+      "end": 167.27,
+      "text": "조조"
+    },
+    {
+      "start": 167.27,
+      "end": 168.31,
+      "text": "조조영화도 좋아요."
+    },
+    {
+      "start": 168.63,
+      "end": 171.09,
+      "text": "그러니까요. 우리가 훨씬 더 부지런해지는"
+    },
+    {
+      "start": 171.09,
+      "end": 173.03,
+      "text": "그러면서 약간 일석이조"
+    },
+    {
+      "start": 173.03,
+      "end": 176.77,
+      "text": "그 이상으로 챙겨가는 그런 느낌이 드실 거라고 생각합니다."
+    },
+    {
+      "start": 177.01,
+      "end": 178.81,
+      "text": "네네. 실제로 조조영화 보면"
+    },
+    {
+      "start": 178.81,
+      "end": 180.13,
+      "text": "부지런해지고"
+    },
+    {
+      "start": 180.13,
+      "end": 181.07,
+      "text": "돈도 아끼고"
+    },
+    {
+      "start": 181.07,
+      "end": 182.01,
+      "text": "네. 일석이조죠."
+    },
+    {
+      "start": 182.13,
+      "end": 182.69,
+      "text": "그럼요."
+    },
+    {
+      "start": 183.19,
+      "end": 186.81,
+      "text": "Anyway, there are a lot of behind stories about this movie."
+    },
+    {
+      "start": 187.07,
+      "end": 192.23,
+      "text": "As you know, 굉장히 많은 비하인드 스토리들을 그동안에 하나하나 알아보고 있었는데요."
+    },
+    {
+      "start": 192.23,
+      "end": 195.95,
+      "text": "이 감독 이름이 Zara Hayes라는 감독이잖아요."
+    },
+    {
+      "start": 196.47,
+      "end": 201.83,
+      "text": "근데 사실 처음에는 이 소재를 가지고 영화로 만들려고 했던 게 아니고"
+    },
+    {
+      "start": 201.83,
+      "end": 203.69,
+      "text": "Oh, she was trying to make a documentary."
+    },
+    {
+      "start": 204.11,
+      "end": 205.55,
+      "text": "That's right. Documentary."
+    },
+    {
+      "start": 205.95,
+      "end": 206.33,
+      "text": "Wow."
+    },
+    {
+      "start": 206.57,
+      "end": 207.93,
+      "text": "That was her original idea."
+    },
+    {
+      "start": 208.07,
+      "end": 208.39,
+      "text": "Yeah."
+    },
+    {
+      "start": 208.51,
+      "end": 212.35,
+      "text": "I'm going to make a documentary about this fascinating cheerleading group."
+    },
+    {
+      "start": 212.35,
+      "end": 217.41,
+      "text": "But she realized, oh, this could make a good movie."
+    },
+    {
+      "start": 217.41,
+      "end": 218.97,
+      "text": "A really good movie."
+    },
+    {
+      "start": 219.19,
+      "end": 220.95,
+      "text": "It's an inspiring story."
+    },
+    {
+      "start": 221.15,
+      "end": 223.45,
+      "text": "So she decided to make a movie."
+    },
+    {
+      "start": 223.71,
+      "end": 226.05,
+      "text": "And remember, she's not from the U.S."
+    },
+    {
+      "start": 226.19,
+      "end": 227.33,
+      "text": "맞아요. U.K."
+    },
+    {
+      "start": 227.69,
+      "end": 228.13,
+      "text": "The U.K."
+    },
+    {
+      "start": 228.13,
+      "end": 228.63,
+      "text": "Yeah."
+    },
+    {
+      "start": 228.81,
+      "end": 233.35,
+      "text": "London에 있는 자신의 집에서 그 뉴스페이퍼를 읽다가"
+    },
+    {
+      "start": 233.35,
+      "end": 233.95,
+      "text": "Yes."
+    },
+    {
+      "start": 234.71,
+      "end": 235.39,
+      "text": "종이신문."
+    },
+    {
+      "start": 235.63,
+      "end": 239.07,
+      "text": "옛날에 저도 우리 집도 종이신문 보는데"
+    },
+    {
+      "start": 239.07,
+      "end": 240.19,
+      "text": "지금도요?"
+    },
+    {
+      "start": 240.27,
+      "end": 240.61,
+      "text": "Yes."
+    },
+    {
+      "start": 240.61,
+      "end": 241.05,
+      "text": "Wow."
+    },
+    {
+      "start": 241.09,
+      "end": 242.31,
+      "text": "We have it delivered every day."
+    },
+    {
+      "start": 242.37,
+      "end": 242.71,
+      "text": "Yeah."
+    },
+    {
+      "start": 242.99,
+      "end": 246.09,
+      "text": "So 옛날인지 아니면 우리 스타일이랑 똑같이 하는지"
+    },
+    {
+      "start": 246.09,
+      "end": 247.15,
+      "text": "어그림했더라고요."
+    },
+    {
+      "start": 247.37,
+      "end": 247.55,
+      "text": "Yeah."
+    },
+    {
+      "start": 247.91,
+      "end": 250.81,
+      "text": "아무튼 she was very fascinated by that."
+    },
+    {
+      "start": 250.87,
+      "end": 251.11,
+      "text": "Yeah."
+    },
+    {
+      "start": 251.11,
+      "end": 254.23,
+      "text": "And she had never done cheerleading before."
+    },
+    {
+      "start": 254.41,
+      "end": 257.85,
+      "text": "Because U.K., there are, there were no cheerleaders."
+    },
+    {
+      "start": 257.85,
+      "end": 258.93,
+      "text": "No cheerleaders."
+    },
+    {
+      "start": 259.19,
+      "end": 260.81,
+      "text": "I don't know about, maybe still."
+    },
+    {
+      "start": 261.27,
+      "end": 261.75,
+      "text": "글쎄요."
+    },
+    {
+      "start": 261.77,
+      "end": 265.27,
+      "text": "Anyway, she was not familiar with the cheerleading culture."
+    },
+    {
+      "start": 265.87,
+      "end": 270.45,
+      "text": "자신이 한 번도 접해보지 못한, 그리고 한 번도 경험해보지 못한"
+    },
+    {
+      "start": 270.45,
+      "end": 277.79,
+      "text": "cheerleading에 대해서 특히 미국의 뉴스를 전해보면서 굉장히 흥미를 갖게 되었었고"
+    },
+    {
+      "start": 277.79,
+      "end": 285.77,
+      "text": "그 사연을 밑바탕으로 영화로 이렇게 좀 더 살을 붙여서 만들면 어떨까라고 영감을 받은 거죠."
+    },
+    {
+      "start": 285.77,
+      "end": 288.39,
+      "text": "그리고 초반에 조금 무시했죠."
+    },
+    {
+      "start": 288.81,
+      "end": 289.79,
+      "text": "미국 cheerleading."
+    },
+    {
+      "start": 290.27,
+      "end": 291.67,
+      "text": "It's a bit sexist."
+    },
+    {
+      "start": 292.03,
+      "end": 293.57,
+      "text": "Women cheering for men."
+    },
+    {
+      "start": 293.85,
+      "end": 295.03,
+      "text": "Oh, I don't like it."
+    },
+    {
+      "start": 295.23,
+      "end": 299.57,
+      "text": "So she had this 편견, 선입견 about cheerleading."
+    },
+    {
+      "start": 299.81,
+      "end": 303.63,
+      "text": "But then she realized, oh, this is not a bad thing."
+    },
+    {
+      "start": 303.67,
+      "end": 304.15,
+      "text": "그러니까요."
+    },
+    {
+      "start": 304.19,
+      "end": 305.95,
+      "text": "And it can be very good for women."
+    },
+    {
+      "start": 305.95,
+      "end": 311.97,
+      "text": "와우, 이렇게 편견도 부셔버릴 수 있는 그런 기회가 된 것 같습니다."
+    },
+    {
+      "start": 312.87,
+      "end": 317.27,
+      "text": "이렇게 충분히 영화를 보면서 It felt like a real story처럼 느껴졌잖아요."
+    },
+    {
+      "start": 317.49,
+      "end": 324.91,
+      "text": "정말 이게 다큐멘터리인지 허구화된 그런 영화인지 긴가민가 할 정도로"
+    },
+    {
+      "start": 324.91,
+      "end": 329.93,
+      "text": "정말 다큐멘터리 같은 느낌이 있었기 때문에 훨씬 더 몰입이 많이 되었습니다."
+    },
+    {
+      "start": 329.93,
+      "end": 333.71,
+      "text": "그리고 크게 남긴 경운이 Age is just a number."
+    },
+    {
+      "start": 333.91,
+      "end": 334.95,
+      "text": "아, 맞네요, 맞네요."
+    },
+    {
+      "start": 335.05,
+      "end": 336.99,
+      "text": "It's never too late to start something new."
+    },
+    {
+      "start": 337.11,
+      "end": 337.51,
+      "text": "그렇죠."
+    },
+    {
+      "start": 337.97,
+      "end": 340.85,
+      "text": "오늘도 한 번 더 이 말씀을 강조해 드립니다."
+    },
+    {
+      "start": 341.35,
+      "end": 342.69,
+      "text": "Age is just a number."
+    },
+    {
+      "start": 343.63,
+      "end": 345.29,
+      "text": "나이는 숫자에 불과하다."
+    },
+    {
+      "start": 345.63,
+      "end": 346.41,
+      "text": "힘이 나네요."
+    },
+    {
+      "start": 346.61,
+      "end": 347.07,
+      "text": "아, 그럼요."
+    },
+    {
+      "start": 347.19,
+      "end": 348.15,
+      "text": "우리 듣기질 합시다."
+    },
+    {
+      "start": 348.27,
+      "end": 349.25,
+      "text": "Let's go."
+    },
+    {
+      "start": 349.71,
+      "end": 351.35,
+      "text": "네, 오늘 장면 듣고 오시죠."
+    },
+    {
+      "start": 351.35,
+      "end": 354.19,
+      "text": "My mother doesn't need money, okay?"
+    },
+    {
+      "start": 354.37,
+      "end": 355.31,
+      "text": "She's got plenty of money."
+    },
+    {
+      "start": 355.39,
+      "end": 356.93,
+      "text": "My father left her quite a lot."
+    },
+    {
+      "start": 357.05,
+      "end": 358.87,
+      "text": "It's up to me to make sure she spends it wisely."
+    },
+    {
+      "start": 359.75,
+      "end": 362.99,
+      "text": "I'm sure you're aware of the fact that your mother is an adult."
+    },
+    {
+      "start": 363.47,
+      "end": 370.17,
+      "text": "Well, I don't know if you're aware, but this place is accessible of con artists and salesmen."
+    },
+    {
+      "start": 370.65,
+      "end": 372.63,
+      "text": "All trying to take advantage of gullible old women."
+    },
+    {
+      "start": 372.81,
+      "end": 373.25,
+      "text": "It's true."
+    },
+    {
+      "start": 373.61,
+      "end": 374.91,
+      "text": "Thank you, Carl."
+    },
+    {
+      "start": 375.05,
+      "end": 376.47,
+      "text": "I can handle this, okay?"
+    },
+    {
+      "start": 376.47,
+      "end": 385.13,
+      "text": "Wow, 이번에는 이 헬렌이라는 회원의 아들, 탐과의 대화를 들어보셨어요."
+    },
+    {
+      "start": 385.61,
+      "end": 388.63,
+      "text": "근데 이제, it's like someone, like Vicky."
+    },
+    {
+      "start": 389.21,
+      "end": 391.83,
+      "text": "네, 이 탐이 마치 Vicky와도 같은 사람이지 않나요?"
+    },
+    {
+      "start": 391.83,
+      "end": 393.27,
+      "text": "아, 왜요? 고집 좀 샀나?"
+    },
+    {
+      "start": 393.31,
+      "end": 395.67,
+      "text": "He's against his mother's activity."
+    },
+    {
+      "start": 396.03,
+      "end": 396.43,
+      "text": "Yes."
+    },
+    {
+      "start": 396.59,
+      "end": 398.57,
+      "text": "I think he's worried about money."
+    },
+    {
+      "start": 398.71,
+      "end": 399.11,
+      "text": "맞아요."
+    },
+    {
+      "start": 399.27,
+      "end": 400.53,
+      "text": "Don't spend money."
+    },
+    {
+      "start": 400.53,
+      "end": 405.31,
+      "text": "이 아들은요, it's all about money for him."
+    },
+    {
+      "start": 405.31,
+      "end": 408.35,
+      "text": "그냥 뭐 돈이 다 전부인 것 같았어요."
+    },
+    {
+      "start": 408.65,
+      "end": 411.37,
+      "text": "그 남편 돌아가시고 유산 받았는데"
+    },
+    {
+      "start": 411.37,
+      "end": 411.79,
+      "text": "맞아요."
+    },
+    {
+      "start": 411.97,
+      "end": 413.33,
+      "text": "좀 상당한다고 봐요, 유산이."
+    },
+    {
+      "start": 413.47,
+      "end": 413.77,
+      "text": "그렇죠."
+    },
+    {
+      "start": 413.85,
+      "end": 419.53,
+      "text": "But her son controls all the wealth, all the money, and gives it to his mom."
+    },
+    {
+      "start": 419.67,
+      "end": 421.79,
+      "text": "So he's like, what?"
+    },
+    {
+      "start": 422.21,
+      "end": 422.67,
+      "text": "2 leading?"
+    },
+    {
+      "start": 423.07,
+      "end": 423.63,
+      "text": "돈 들어?"
+    },
+    {
+      "start": 423.93,
+      "end": 424.45,
+      "text": "안 돼!"
+    },
+    {
+      "start": 424.71,
+      "end": 426.01,
+      "text": "그것도 이유가"
+    },
+    {
+      "start": 426.01,
+      "end": 426.67,
+      "text": "because of"
+    },
+    {
+      "start": 426.67,
+      "end": 428.11,
+      "text": "$100"
+    },
+    {
+      "start": 428.11,
+      "end": 430.35,
+      "text": "for uniform."
+    },
+    {
+      "start": 430.73,
+      "end": 431.05,
+      "text": "Yeah."
+    },
+    {
+      "start": 431.05,
+      "end": 436.19,
+      "text": "아, 근데 유니폼 사는데 정말 $100 그거 좀 내라고 하는데"
+    },
+    {
+      "start": 436.19,
+      "end": 437.71,
+      "text": "아, 팜팜스 포함인데"
+    },
+    {
+      "start": 437.71,
+      "end": 438.05,
+      "text": "네."
+    },
+    {
+      "start": 438.45,
+      "end": 440.43,
+      "text": "유니폼이랑 팜팜스 뭐 등등"
+    },
+    {
+      "start": 440.43,
+      "end": 440.85,
+      "text": "그렇죠."
+    },
+    {
+      "start": 441.35,
+      "end": 442.57,
+      "text": "필요한 게 많아요."
+    },
+    {
+      "start": 442.67,
+      "end": 442.83,
+      "text": "네."
+    },
+    {
+      "start": 442.93,
+      "end": 445.43,
+      "text": "근데 $100면 나쁘지는 않은 가격"
+    },
+    {
+      "start": 445.43,
+      "end": 445.77,
+      "text": "그렇죠."
+    },
+    {
+      "start": 446.35,
+      "end": 450.07,
+      "text": "근데 또 이렇게 극구 반대를 하고 있는 상황이었습니다."
+    },
+    {
+      "start": 450.33,
+      "end": 452.11,
+      "text": "근데 좀 슬프지만은"
+    },
+    {
+      "start": 452.11,
+      "end": 454.85,
+      "text": "And there's actually many situations like this in real life."
+    },
+    {
+      "start": 455.13,
+      "end": 455.41,
+      "text": "아하."
+    },
+    {
+      "start": 455.89,
+      "end": 457.31,
+      "text": "Have you experienced something?"
+    },
+    {
+      "start": 457.63,
+      "end": 459.79,
+      "text": "아, 제가 직접 경험해 본 것은 아니지만"
+    },
+    {
+      "start": 459.79,
+      "end": 464.21,
+      "text": "아, 이런 내용으로 뉴스 보도가 된 것도 많이 보았고"
+    },
+    {
+      "start": 464.21,
+      "end": 464.83,
+      "text": "네."
+    },
+    {
+      "start": 465.09,
+      "end": 465.49,
+      "text": "그렇죠."
+    },
+    {
+      "start": 465.67,
+      "end": 467.37,
+      "text": "아, 그러니까 뭐 제 동생도 아니고"
+    },
+    {
+      "start": 467.37,
+      "end": 468.71,
+      "text": "우리 어머님이신데"
+    },
+    {
+      "start": 468.71,
+      "end": 468.89,
+      "text": "네."
+    },
+    {
+      "start": 469.09,
+      "end": 469.95,
+      "text": "아, 좀 냅둬"
+    },
+    {
+      "start": 469.95,
+      "end": 470.37,
+      "text": "그러게요."
+    },
+    {
+      "start": 470.39,
+      "end": 471.61,
+      "text": "다 할 수 있게 좀 해드려."
+    },
+    {
+      "start": 472.01,
+      "end": 472.65,
+      "text": "그러니까요."
+    },
+    {
+      "start": 473.05,
+      "end": 475.03,
+      "text": "자, 그럼 미리 점검할 표현은요?"
+    },
+    {
+      "start": 475.55,
+      "end": 476.89,
+      "text": "A cesspool"
+    },
+    {
+      "start": 476.89,
+      "end": 477.77,
+      "text": "재밌어요."
+    },
+    {
+      "start": 477.77,
+      "end": 481.29,
+      "text": "A cesspool of con artists and salesmen."
+    },
+    {
+      "start": 481.29,
+      "end": 487.17,
+      "text": "와우, 약간 강한 어조로 아주 완곡하게 이야기를 하다 보니까"
+    },
+    {
+      "start": 487.17,
+      "end": 494.49,
+      "text": "A cesspool, 이게 C-E-S-S-P-O-O-L 이라는 단어잖아요."
+    },
+    {
+      "start": 494.59,
+      "end": 496.09,
+      "text": "이 철자로 이루어져 있잖아요."
+    },
+    {
+      "start": 496.61,
+      "end": 500.77,
+      "text": "그래서 오수구덩이, 소굴이라는 표현입니다."
+    },
+    {
+      "start": 500.89,
+      "end": 502.21,
+      "text": "A very bad pool."
+    },
+    {
+      "start": 502.73,
+      "end": 504.63,
+      "text": "A cesspool of something bad."
+    },
+    {
+      "start": 504.63,
+      "end": 506.07,
+      "text": "무조건 안 좋은 어감."
+    },
+    {
+      "start": 506.37,
+      "end": 510.41,
+      "text": "그런데 con artists라고 먼저 들어보셨어요."
+    },
+    {
+      "start": 510.41,
+      "end": 512.67,
+      "text": "C-O-N, 그리고 artists."
+    },
+    {
+      "start": 513.21,
+      "end": 515.89,
+      "text": "이게 artist라는 단어와 함께 조합이 되었지만"
+    },
+    {
+      "start": 515.89,
+      "end": 517.65,
+      "text": "긍정적인 어감이 아니죠."
+    },
+    {
+      "start": 517.73,
+      "end": 518.31,
+      "text": "아, con."
+    },
+    {
+      "start": 518.81,
+      "end": 519.93,
+      "text": "여기는 핵심 con이죠."
+    },
+    {
+      "start": 520.15,
+      "end": 520.31,
+      "text": "네."
+    },
+    {
+      "start": 520.53,
+      "end": 522.45,
+      "text": "사기꾼들 이라는 표현입니다."
+    },
+    {
+      "start": 522.95,
+      "end": 527.29,
+      "text": "and salesmen, 그리고 판매원들 이라는 단어였으니까"
+    },
+    {
+      "start": 527.29,
+      "end": 531.09,
+      "text": "결국엔 사기꾼들과 판매원들의 소굴."
+    },
+    {
+      "start": 531.35,
+      "end": 533.13,
+      "text": "이렇게 하시면 되겠어요."
+    },
+    {
+      "start": 533.17,
+      "end": 534.43,
+      "text": "아, 그 세부턴 말이야?"
+    },
+    {
+      "start": 534.43,
+      "end": 538.19,
+      "text": "다 바가지 싣고, 다 돈 막 뜯으려고."
+    },
+    {
+      "start": 538.39,
+      "end": 540.71,
+      "text": "사기꾼들하고 판매원들의 소굴이에요."
+    },
+    {
+      "start": 541.13,
+      "end": 542.17,
+      "text": "라고 이야기를 하는 거죠."
+    },
+    {
+      "start": 542.31,
+      "end": 542.85,
+      "text": "아들."
+    },
+    {
+      "start": 543.47,
+      "end": 544.33,
+      "text": "유산 생각하고 있죠."
+    },
+    {
+      "start": 544.41,
+      "end": 545.33,
+      "text": "유산 내 거야."
+    },
+    {
+      "start": 545.57,
+      "end": 546.23,
+      "text": "돈 안 줘."
+    },
+    {
+      "start": 546.41,
+      "end": 548.15,
+      "text": "아주 극단적으로 표현을 하고 있어요."
+    },
+    {
+      "start": 548.23,
+      "end": 552.15,
+      "text": "Take advantage of gullible old women."
+    },
+    {
+      "start": 553.35,
+      "end": 555.97,
+      "text": "gullible old women이라고 했으니까"
+    },
+    {
+      "start": 555.97,
+      "end": 559.99,
+      "text": "속기 쉬운 노인 이렇게 생각을 하시면 될 것 같고"
+    },
+    {
+      "start": 559.99,
+      "end": 564.19,
+      "text": "take advantage of, 무엇뭇을 이용하다 라는 의미잖아요."
+    },
+    {
+      "start": 564.45,
+      "end": 567.89,
+      "text": "그래서 속기 쉬운 노인, 속기 쉬운 노인을 이용하다."
+    },
+    {
+      "start": 568.29,
+      "end": 568.41,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 568.65,
+      "end": 568.97,
+      "text": "그렇죠."
+    },
+    {
+      "start": 569.27,
+      "end": 570.17,
+      "text": "귀가 얇다."
+    },
+    {
+      "start": 570.39,
+      "end": 571.41,
+      "text": "영어로 좋은 표현."
+    },
+    {
+      "start": 571.81,
+      "end": 572.41,
+      "text": "gullible."
+    },
+    {
+      "start": 572.55,
+      "end": 573.27,
+      "text": "Yeah, gullible."
+    },
+    {
+      "start": 573.29,
+      "end": 574.09,
+      "text": "thin ears."
+    },
+    {
+      "start": 574.35,
+      "end": 574.83,
+      "text": "안 통해요."
+    },
+    {
+      "start": 575.11,
+      "end": 575.85,
+      "text": "못 알아들어요."
+    },
+    {
+      "start": 576.09,
+      "end": 579.51,
+      "text": "저도 약간은 gullible한 편이 있는 것 같아요."
+    },
+    {
+      "start": 579.67,
+      "end": 580.63,
+      "text": "귀가 얇은 느낌."
+    },
+    {
+      "start": 580.69,
+      "end": 581.21,
+      "text": "아, 얇은 편?"
+    },
+    {
+      "start": 581.35,
+      "end": 581.49,
+      "text": "네."
+    },
+    {
+      "start": 581.69,
+      "end": 582.59,
+      "text": "아, 얼마나 얇을까요?"
+    },
+    {
+      "start": 582.59,
+      "end": 583.67,
+      "text": "저도 약간 얇은 편인데요."
+    },
+    {
+      "start": 584.03,
+      "end": 586.01,
+      "text": "어떤 내용을 들으면 귀가 솔깃?"
+    },
+    {
+      "start": 586.47,
+      "end": 588.41,
+      "text": "우리 와이프 얘기하면 무조건 솔깃."
+    },
+    {
+      "start": 588.65,
+      "end": 589.77,
+      "text": "누가 얘기하느냐."
+    },
+    {
+      "start": 589.77,
+      "end": 590.69,
+      "text": "아, 맞아요, 맞아요."
+    },
+    {
+      "start": 590.75,
+      "end": 592.45,
+      "text": "Oh, I like that idea."
+    },
+    {
+      "start": 592.63,
+      "end": 593.49,
+      "text": "Let's do it."
+    },
+    {
+      "start": 593.87,
+      "end": 596.03,
+      "text": "근데 그 주인, 그 입주인."
+    },
+    {
+      "start": 596.13,
+      "end": 596.37,
+      "text": "그렇죠."
+    },
+    {
+      "start": 596.99,
+      "end": 598.01,
+      "text": "입주인이 중요하다."
+    },
+    {
+      "start": 598.27,
+      "end": 600.61,
+      "text": "저도 같이 똑같이 생각을 합니다."
+    },
+    {
+      "start": 601.19,
+      "end": 602.33,
+      "text": "I can handle this."
+    },
+    {
+      "start": 602.63,
+      "end": 603.75,
+      "text": "I can handle this."
+    },
+    {
+      "start": 604.03,
+      "end": 605.45,
+      "text": "제가 처리할 수 있어요."
+    },
+    {
+      "start": 605.79,
+      "end": 608.27,
+      "text": "다시 말해서 제 손에서 처리할게요."
+    },
+    {
+      "start": 608.63,
+      "end": 609.57,
+      "text": "라는 문장입니다."
+    },
+    {
+      "start": 610.17,
+      "end": 611.97,
+      "text": "그러면 이 장면 다시 한번 들어보시죠."
+    },
+    {
+      "start": 611.97,
+      "end": 613.83,
+      "text": "My mother doesn't need money."
+    },
+    {
+      "start": 614.63,
+      "end": 615.83,
+      "text": "She's got plenty of money."
+    },
+    {
+      "start": 615.91,
+      "end": 617.45,
+      "text": "My father left her quite a lot."
+    },
+    {
+      "start": 617.59,
+      "end": 619.41,
+      "text": "It's up to me to make sure she spends it wisely."
+    },
+    {
+      "start": 619.77,
+      "end": 623.67,
+      "text": "I'm sure you're aware of the fact that your mother is an adult."
+    },
+    {
+      "start": 623.99,
+      "end": 630.69,
+      "text": "Well, I don't know if you're aware, but this place is accessible of con artists and salesmen."
+    },
+    {
+      "start": 631.23,
+      "end": 633.15,
+      "text": "I'll try to take advantage of gullible old women."
+    },
+    {
+      "start": 633.33,
+      "end": 633.77,
+      "text": "It's true."
+    },
+    {
+      "start": 633.77,
+      "end": 635.43,
+      "text": "Thank you, Carl."
+    },
+    {
+      "start": 635.61,
+      "end": 636.63,
+      "text": "I can handle this."
+    },
+    {
+      "start": 636.69,
+      "end": 636.97,
+      "text": "Okay?"
+    },
+    {
+      "start": 638.57,
+      "end": 647.91,
+      "text": "네, 다시 한번 들어보셨지만 이 아들인 Tom은 is just trying to block all of his mom's activity,"
+    },
+    {
+      "start": 648.45,
+      "end": 652.33,
+      "text": "뭐 여러 가지 취미 생활들 다 막으려고 하고 있습니다."
+    },
+    {
+      "start": 652.57,
+      "end": 654.63,
+      "text": "아, 하긴 그런 자식들이 많죠."
+    },
+    {
+      "start": 654.67,
+      "end": 655.69,
+      "text": "Yeah, just for money."
+    },
+    {
+      "start": 655.69,
+      "end": 660.47,
+      "text": "Yes, 많이 써먹으면 내가 바다 유산이 적어지니까."
+    },
+    {
+      "start": 661.25,
+      "end": 664.09,
+      "text": "단돈 100달러에도 이렇게 덜덜 떨고 있네요."
+    },
+    {
+      "start": 664.65,
+      "end": 666.11,
+      "text": "자, Tom이 먼저 이야기합니다."
+    },
+    {
+      "start": 667.09,
+      "end": 669.39,
+      "text": "My mother doesn't need money, okay?"
+    },
+    {
+      "start": 669.85,
+      "end": 673.33,
+      "text": "저희 어머니는요, doesn't need money, okay?"
+    },
+    {
+      "start": 673.69,
+      "end": 675.37,
+      "text": "돈이 필요 없으세요."
+    },
+    {
+      "start": 675.37,
+      "end": 677.65,
+      "text": "She's got plenty of money."
+    },
+    {
+      "start": 677.79,
+      "end": 680.89,
+      "text": "그러면서, she's got plenty of money."
+    },
+    {
+      "start": 681.11,
+      "end": 682.73,
+      "text": "주머니 사정이 넉넉하세요."
+    },
+    {
+      "start": 683.41,
+      "end": 685.67,
+      "text": "My father left her quite a lot."
+    },
+    {
+      "start": 686.79,
+      "end": 689.95,
+      "text": "저희 아버지께서요, left her quite a lot."
+    },
+    {
+      "start": 690.29,
+      "end": 693.07,
+      "text": "어머니께 유산을 많이 남기셔서요."
+    },
+    {
+      "start": 693.35,
+      "end": 696.45,
+      "text": "It's up to me to make sure she spends it wisely."
+    },
+    {
+      "start": 697.89,
+      "end": 701.85,
+      "text": "어머니께서 현명하게 돈을 쓰게끔 하는 것도"
+    },
+    {
+      "start": 701.85,
+      "end": 705.93,
+      "text": "It's up to me. 저에게 달려있고요. 라는 말입니다."
+    },
+    {
+      "start": 706.21,
+      "end": 709.59,
+      "text": "다시 말해서, 그 돈을 잘 관리하는 건 제 몫이죠."
+    },
+    {
+      "start": 709.95,
+      "end": 711.37,
+      "text": "아, 이거 문제네요."
+    },
+    {
+      "start": 711.59,
+      "end": 712.61,
+      "text": "욕심이 느껴지네요."
+    },
+    {
+      "start": 712.87,
+      "end": 715.05,
+      "text": "Come on. No way. Fun."
+    },
+    {
+      "start": 715.25,
+      "end": 717.71,
+      "text": "Have fun. Let her have fun in day."
+    },
+    {
+      "start": 719.71,
+      "end": 723.43,
+      "text": "I'm sure you're aware of the fact that your mother is an adult."
+    },
+    {
+      "start": 724.31,
+      "end": 729.05,
+      "text": "I'm sure you're aware of the fact that your mother is an adult."
+    },
+    {
+      "start": 729.05,
+      "end": 732.15,
+      "text": "네, Martha가 그래도 차분하게 대처를 합니다."
+    },
+    {
+      "start": 732.89,
+      "end": 737.91,
+      "text": "당신 어머니는, is an adult, 다 큰 어른이라는 사실을"
+    },
+    {
+      "start": 737.91,
+      "end": 740.93,
+      "text": "I'm sure you're aware of that. 라고 했으니까"
+    },
+    {
+      "start": 740.93,
+      "end": 743.75,
+      "text": "잘 알고 있겠죠? 라고 이야기를 했어요."
+    },
+    {
+      "start": 744.61,
+      "end": 746.99,
+      "text": "Well, I don't know if you're aware,"
+    },
+    {
+      "start": 747.43,
+      "end": 751.77,
+      "text": "but this place is a cesspool of con artists and salesmen."
+    },
+    {
+      "start": 752.83,
+      "end": 753.55,
+      "text": "계속할까요?"
+    },
+    {
+      "start": 753.75,
+      "end": 757.15,
+      "text": "네, 여기까지 끊어서 한번 해석을 해드리겠습니다."
+    },
+    {
+      "start": 757.15,
+      "end": 758.27,
+      "text": "네, 해석할 게 많아요."
+    },
+    {
+      "start": 758.27,
+      "end": 758.63,
+      "text": "아, 좋아요."
+    },
+    {
+      "start": 759.19,
+      "end": 761.63,
+      "text": "Well, I don't know if you were aware,"
+    },
+    {
+      "start": 762.17,
+      "end": 764.83,
+      "text": "뭐, 뭐, 이하에 대해서 알고 계신지 모르겠는데"
+    },
+    {
+      "start": 764.83,
+      "end": 767.49,
+      "text": "이러면서 되게 목소리를 줄여가지고"
+    },
+    {
+      "start": 767.49,
+      "end": 771.09,
+      "text": "은밀하게 사실을 막 전달해주는 척 하면서 이야기를 합니다."
+    },
+    {
+      "start": 771.65,
+      "end": 775.51,
+      "text": "But this place is a cesspool of con artists and salesmen."
+    },
+    {
+      "start": 776.07,
+      "end": 780.19,
+      "text": "이곳은 사기꾼들과 판매원들이 넘쳐나는 소구리예요."
+    },
+    {
+      "start": 780.19,
+      "end": 784.67,
+      "text": "All trying to take advantage of gullible old women."
+    },
+    {
+      "start": 785.09,
+      "end": 786.59,
+      "text": "이미 들어본 표현이죠."
+    },
+    {
+      "start": 787.15,
+      "end": 791.61,
+      "text": "이곳은요, 늙은이들 등쳐먹으려고 혈안이 되어 있다고요."
+    },
+    {
+      "start": 792.03,
+      "end": 793.43,
+      "text": "아, 등쳐먹다."
+    },
+    {
+      "start": 793.55,
+      "end": 795.19,
+      "text": "네, 너무 강력한 어조였어요."
+    },
+    {
+      "start": 795.33,
+      "end": 798.57,
+      "text": "제 스타일로 다시 풀어서 말씀을 드리자면"
+    },
+    {
+      "start": 798.57,
+      "end": 803.19,
+      "text": "속이기 쉬운 나이든 여성들을 이용하려고들 혈안이 되어 있다고요."
+    },
+    {
+      "start": 803.19,
+      "end": 809.33,
+      "text": "네, take advantage of 등쳐먹다 만큼은 아닌 것 같은데"
+    },
+    {
+      "start": 809.33,
+      "end": 810.95,
+      "text": "잘 풀었어요."
+    },
+    {
+      "start": 812.53,
+      "end": 813.15,
+      "text": "It's true."
+    },
+    {
+      "start": 813.47,
+      "end": 816.99,
+      "text": "네, 여기서 갑자기 셔리프가 등장을 했습니다."
+    },
+    {
+      "start": 817.33,
+      "end": 817.87,
+      "text": "보안관이."
+    },
+    {
+      "start": 818.39,
+      "end": 819.13,
+      "text": "It's true."
+    },
+    {
+      "start": 819.39,
+      "end": 820.07,
+      "text": "사실이에요."
+    },
+    {
+      "start": 820.93,
+      "end": 821.71,
+      "text": "Thank you, Carl."
+    },
+    {
+      "start": 822.19,
+      "end": 823.59,
+      "text": "I can handle this, okay?"
+    },
+    {
+      "start": 824.11,
+      "end": 825.57,
+      "text": "네, 고마워요, Carl."
+    },
+    {
+      "start": 825.75,
+      "end": 827.81,
+      "text": "근데 I can handle this, okay?"
+    },
+    {
+      "start": 828.23,
+      "end": 829.59,
+      "text": "제 손에서 처리할게요."
+    },
+    {
+      "start": 829.59,
+      "end": 833.39,
+      "text": "이러면서 탐과 계속해서 대화를 이어갔습니다."
+    },
+    {
+      "start": 834.25,
+      "end": 836.49,
+      "text": "네, 이 부분까지 우리가 해석을 해봤는데요."
+    },
+    {
+      "start": 837.29,
+      "end": 839.77,
+      "text": "어저께 만났었던 그 앨리스는요,"
+    },
+    {
+      "start": 840.19,
+      "end": 843.35,
+      "text": "남편의 장례식, 그러니까 죽음으로 인해서"
+    },
+    {
+      "start": 843.35,
+      "end": 846.69,
+      "text": "cheerleading 클럽에 적극적으로 활동을 할 수가 있었어요."
+    },
+    {
+      "start": 846.85,
+      "end": 847.91,
+      "text": "네, 전화위복이죠."
+    },
+    {
+      "start": 848.07,
+      "end": 852.01,
+      "text": "네, 그런데 오늘 헬렌의 상황 정말 안타까운데"
+    },
+    {
+      "start": 852.01,
+      "end": 856.07,
+      "text": "앞으로 어떻게 반전이 혹시 일어날지 기대하게 됩니다."
+    },
+    {
+      "start": 856.07,
+      "end": 858.51,
+      "text": "I think she should take charge of her finances."
+    },
+    {
+      "start": 858.51,
+      "end": 859.81,
+      "text": "Take the money."
+    },
+    {
+      "start": 860.09,
+      "end": 860.53,
+      "text": "맞습니다."
+    },
+    {
+      "start": 860.93,
+      "end": 863.21,
+      "text": "네, 그럼 한 번 더 확인해 보시죠."
+    },
+    {
+      "start": 863.21,
+      "end": 864.57,
+      "text": "My mother doesn't need money."
+    },
+    {
+      "start": 864.97,
+      "end": 866.55,
+      "text": "Okay, she's got plenty of money."
+    },
+    {
+      "start": 866.63,
+      "end": 868.17,
+      "text": "My father left her quite a lot."
+    },
+    {
+      "start": 868.29,
+      "end": 870.11,
+      "text": "It's up to me to make sure she spends it wisely."
+    },
+    {
+      "start": 870.97,
+      "end": 874.23,
+      "text": "I'm sure you're aware of the fact that your mother is an adult."
+    },
+    {
+      "start": 874.69,
+      "end": 876.29,
+      "text": "Well, I don't know if you're aware,"
+    },
+    {
+      "start": 876.43,
+      "end": 881.43,
+      "text": "but this place is accessible of con artists and salesmen."
+    },
+    {
+      "start": 881.89,
+      "end": 883.87,
+      "text": "All trying to take advantage of gullible old women."
+    },
+    {
+      "start": 884.05,
+      "end": 884.49,
+      "text": "It's true."
+    },
+    {
+      "start": 884.49,
+      "end": 886.15,
+      "text": "Thank you, Carl."
+    },
+    {
+      "start": 886.33,
+      "end": 887.73,
+      "text": "I can handle this, okay?"
+    },
+    {
+      "start": 888.89,
+      "end": 892.71,
+      "text": "네, 그래도 Martha와 그리고 동아리 멤버들이 있잖아요."
+    },
+    {
+      "start": 893.71,
+      "end": 896.53,
+      "text": "이미 뽑힌 멤버들과 함께 협력해가지고"
+    },
+    {
+      "start": 896.53,
+      "end": 899.25,
+      "text": "이 문제를 잘 해결하리라 믿습니다."
+    },
+    {
+      "start": 899.45,
+      "end": 900.13,
+      "text": "You can do it!"
+    },
+    {
+      "start": 900.41,
+      "end": 902.31,
+      "text": "네, 날다람쥐께서요."
+    },
+    {
+      "start": 902.75,
+      "end": 905.69,
+      "text": "크쌤, 오늘도 수고 많으셨습니다 하셨어요."
+    },
+    {
+      "start": 906.05,
+      "end": 906.61,
+      "text": "감사합니다."
+    },
+    {
+      "start": 907.07,
+      "end": 909.69,
+      "text": "네, 그럼 우리는 다음 주에 또 만나요."
+    },
+    {
+      "start": 909.93,
+      "end": 910.75,
+      "text": "네, 들어가세요."
+    },
+    {
+      "start": 911.29,
+      "end": 912.07,
+      "text": "Bye-bye."
+    }
+  ]
+}
