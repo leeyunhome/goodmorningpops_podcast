@@ -5,1268 +5,1538 @@
   "corner_label": "Screen English",
   "title": "Some people are always grumbling because roses have t",
   "movie": "",
-  "duration_sec": 564.26,
+  "duration_sec": 789.16,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-22_screen_english.mp3",
   "script": [
     {
       "start": 0.0,
-      "end": 10.29,
+      "end": 1.9,
+      "text": "조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 1.9,
+      "end": 23.21,
+      "text": "어떤 이들은 장미에 가시가 있다고 항상 불평하지만"
+    },
+    {
+      "start": 23.21,
+      "end": 26.31,
+      "text": "난 가시에 장미가 있어서 감사하다"
+    },
+    {
+      "start": 26.31,
+      "end": 30.81,
+      "text": "프랑스 비평가이자 언론인 알폰스 가흐가 한 말입니다"
+    },
+    {
+      "start": 30.81,
+      "end": 35.75,
+      "text": "불평불만이 생길 때 가장 쉽게 해결할 수 있는 방법이 바로"
+    },
+    {
+      "start": 35.75,
+      "end": 38.35,
+      "text": "그 상황을 다르게 해석하는 거죠"
+    },
+    {
+      "start": 38.35,
+      "end": 40.85,
+      "text": "장미에 가시가 있는 게 아니라"
+    },
+    {
+      "start": 40.85,
+      "end": 44.79,
+      "text": "가시에 장미가 있다고 생각하면 엄청 감사한 일이고"
+    },
+    {
+      "start": 44.79,
+      "end": 48.37,
+      "text": "명절인데 코로나로 발이 묶였다고 불평하기보단"
+    },
+    {
+      "start": 48.37,
+      "end": 52.45,
+      "text": "덕분에 편안한 시간을 보낼 수 있다고 생각하면 또 감사하죠"
+    },
+    {
+      "start": 52.45,
+      "end": 57.83,
+      "text": "그리고 오늘 귀경길이 막힐까 걱정하며 불평하시는 분들 계시겠지만"
+    },
+    {
+      "start": 57.83,
+      "end": 62.89,
+      "text": "조금 일찍 나서면서 굿모닝 팝스를 들을 수 있어 감사한 분들도 있겠죠?"
+    },
+    {
+      "start": 62.89,
+      "end": 75.01,
+      "text": "조정현의 굿모닝 팝스 9월 22일 수요일 시작하겠습니다"
+    },
+    {
+      "start": 75.01,
+      "end": 82.68,
+      "text": "슈가 베이비스의 라운드 라운드 들어보셨고요"
+    },
+    {
+      "start": 82.68,
+      "end": 87.94,
+      "text": "그래요 장미에 가시가 있는 게 아니라 가시에 장미가 있다고"
+    },
+    {
+      "start": 87.94,
+      "end": 92.68,
+      "text": "이렇게 관점을 달리해서 보면 세상이 완전히 달라 보이죠"
+    },
+    {
+      "start": 92.68,
+      "end": 98.94,
+      "text": "오늘도 그렇게 긍정적인 관점으로 방송을 들어주시는 우리 애청자분들"
+    },
+    {
+      "start": 98.94,
+      "end": 100.94,
+      "text": "너무너무 잘 오셨습니다"
+    },
+    {
+      "start": 100.94,
+      "end": 102.86,
+      "text": "미소천사님"
+    },
+    {
+      "start": 102.86,
+      "end": 105.74,
+      "text": "제가 영어랑 별로 친하진 않지만"
+    },
+    {
+      "start": 105.74,
+      "end": 110.58,
+      "text": "그래도 굿모닝 팝스를 통해서 조금씩 가까워져 볼까 합니다"
+    },
+    {
+      "start": 110.58,
+      "end": 114.0,
+      "text": "잘될까? 살짝 걱정도 되지만"
+    },
+    {
+      "start": 114.0,
+      "end": 117.32,
+      "text": "시작이 반이라 생각하고 힘내보려고요"
+    },
+    {
+      "start": 117.32,
+      "end": 122.56,
+      "text": "오 근데 아이디 자체적으로 되게 긍정적인 느낌이 벌써 드는데요"
+    },
+    {
+      "start": 122.56,
+      "end": 123.66,
+      "text": "미소천사님"
+    },
+    {
+      "start": 123.66,
+      "end": 125.4,
+      "text": "이런 말이 있잖아요"
+    },
+    {
+      "start": 125.4,
+      "end": 127.54,
+      "text": "well begun is half done"
+    },
+    {
+      "start": 127.54,
+      "end": 129.82,
+      "text": "저도 참 좋아하는 말입니다"
+    },
+    {
+      "start": 129.82,
+      "end": 133.6,
+      "text": "시작이 반이다 라는 명언이죠"
+    },
+    {
+      "start": 133.6,
+      "end": 136.9,
+      "text": "그리고 그 시작을 굿모닝 팝스와 함께 하시면"
+    },
+    {
+      "start": 136.9,
+      "end": 142.42,
+      "text": "아마 미소천사님은 미소 100배 천사님이 되실 거라고 예상해 봅니다"
+    },
+    {
+      "start": 142.42,
+      "end": 144.5,
+      "text": "이성락님"
+    },
+    {
+      "start": 144.5,
+      "end": 150.0,
+      "text": "사람의 운명은 새벽에 무엇을 하느냐에 따라 결정된다는 말을 들었어요"
+    },
+    {
+      "start": 150.0,
+      "end": 155.34,
+      "text": "굿모닝 팝스를 통해서 제 인생이 멋지게 달라질 수 있길 기대합니다"
+    },
+    {
+      "start": 155.34,
+      "end": 158.34,
+      "text": "오 그렇군요"
+    },
+    {
+      "start": 158.34,
+      "end": 159.66,
+      "text": "근데 맞는 것 같아요"
+    },
+    {
+      "start": 159.66,
+      "end": 165.96,
+      "text": "저도 처음에는 일찍 일어나서 뭘 한다는 게 적응하기가 어려웠는데"
+    },
+    {
+      "start": 165.96,
+      "end": 169.04,
+      "text": "이제 적응이 되고 나서 보니까"
+    },
+    {
+      "start": 169.04,
+      "end": 174.26,
+      "text": "그 전과 비교를 해보면 확실히 건강적인 면도 그렇고"
+    },
+    {
+      "start": 174.26,
+      "end": 177.34,
+      "text": "더 발전적으로 인생이 바뀌는 것 같아요"
+    },
+    {
+      "start": 177.34,
+      "end": 182.46,
+      "text": "우리 이성락님 말씀하신 대로 멋진 인생 펼치실 겁니다"
+    },
+    {
+      "start": 182.46,
+      "end": 184.06,
+      "text": "저도 기대할게요"
+    },
+    {
+      "start": 184.06,
+      "end": 189.16,
+      "text": "오늘 사연 소개되신 분들 모두 월간 굿모닝 팝 3개월 구독권 보내드릴게요"
+    },
+    {
+      "start": 189.16,
+      "end": 194.34,
+      "text": "굿모닝 팝스에 사연 보내고 싶으신 분들 홈페이지 청취자 게시판에 남겨주세요"
+    },
+    {
+      "start": 194.34,
+      "end": 197.56,
+      "text": "GMP로 영어실력 업! 에너지도 업!"
+    },
+    {
+      "start": 198.08,
+      "end": 202.92,
+      "text": "추석 연휴에도 늦잠 자지 않고 일찍 일어나서 본방사수하고 계신"
+    },
+    {
+      "start": 202.92,
+      "end": 206.6,
+      "text": "대한민국 대표 아침형 인간 여러분"
+    },
+    {
+      "start": 206.6,
+      "end": 209.24,
+      "text": "행운의 선물 가져가십시오"
+    },
+    {
+      "start": 209.24,
+      "end": 212.46,
+      "text": "우유 식빵 모바일 쿠폰이 준비되어 있거든요"
+    },
+    {
+      "start": 212.46,
+      "end": 215.04,
+      "text": "오늘 바로 싸드릴 텐데요"
+    },
+    {
+      "start": 215.04,
+      "end": 219.14,
+      "text": "다문 50원과 장문 100원의 추가 요금이 부과되는 문자 샵 8910"
+    },
+    {
+      "start": 219.14,
+      "end": 221.96,
+      "text": "아니면 샵 1061로 신청하시거나"
+    },
+    {
+      "start": 221.96,
+      "end": 224.64,
+      "text": "무료인 콩 또는 마이케이로 참여해주세요"
+    },
+    {
+      "start": 224.64,
+      "end": 234.93,
       "text": "스크린 잉글리쉬"
     },
     {
-      "start": 10.29,
-      "end": 31.81,
+      "start": 234.93,
+      "end": 256.45,
       "text": "GMP 영화 배달 서비스 스크린 잉글리쉬 타임"
     },
     {
-      "start": 31.81,
-      "end": 33.97,
+      "start": 256.45,
+      "end": 258.61,
       "text": "9월에 함께하고 있는 영화는"
     },
     {
-      "start": 33.97,
-      "end": 39.79,
+      "start": 258.61,
+      "end": 264.43,
       "text": "It is about a girl who finds herself torn between pursuing her love of music"
     },
     {
-      "start": 39.79,
-      "end": 42.65,
+      "start": 264.43,
+      "end": 267.29,
       "text": "and her fear of abandoning her parents"
     },
     {
-      "start": 42.65,
-      "end": 44.89,
+      "start": 267.29,
+      "end": 269.53,
       "text": "And the movie is called CODA"
     },
     {
-      "start": 44.89,
-      "end": 47.37,
+      "start": 269.53,
+      "end": 272.01,
       "text": "네, 딩동댕! 어서 오세요"
     },
     {
-      "start": 47.37,
-      "end": 50.23,
+      "start": 272.01,
+      "end": 274.87,
       "text": "Thank you for having me. Hello everyone. Good morning."
     },
     {
-      "start": 50.23,
-      "end": 54.29,
+      "start": 274.87,
+      "end": 278.93,
       "text": "네, 정개옥님께서 영화를 보고 나서 들으니까"
     },
     {
-      "start": 54.29,
-      "end": 57.11,
+      "start": 278.93,
+      "end": 281.75,
       "text": "장면이 떠오르면서 귀에 쏙 들어옵니다"
     },
     {
-      "start": 57.11,
-      "end": 60.77,
+      "start": 281.75,
+      "end": 285.41,
       "text": "영화 완전 감동! 이렇게 외쳐주셨습니다"
     },
     {
-      "start": 60.77,
-      "end": 62.03,
+      "start": 285.41,
+      "end": 286.67,
       "text": "진짜 감동"
     },
     {
-      "start": 62.03,
-      "end": 64.89,
+      "start": 286.67,
+      "end": 289.53,
       "text": "맞아요. 이 영화를 보고 나서"
     },
     {
-      "start": 64.89,
-      "end": 68.09,
+      "start": 289.53,
+      "end": 292.73,
       "text": "우리의 스크린 잉글리쉬에 함께하고 계신다면"
     },
     {
-      "start": 68.09,
-      "end": 72.95,
+      "start": 292.73,
+      "end": 297.59,
       "text": "더욱더 그 장면이 상상이 되시면서 귀에도 더 잘 들리시겠죠"
     },
     {
-      "start": 72.95,
-      "end": 75.31,
+      "start": 297.59,
+      "end": 299.95,
       "text": "Yeah, a picture is worth a thousand words"
     },
     {
-      "start": 75.31,
-      "end": 77.07,
+      "start": 299.95,
+      "end": 301.71,
       "text": "Sometimes you need the picture"
     },
     {
-      "start": 77.07,
-      "end": 79.77,
+      "start": 301.71,
+      "end": 304.41,
       "text": "So you can understand the scene better"
     },
     {
-      "start": 79.77,
-      "end": 83.43,
+      "start": 304.41,
+      "end": 308.07,
       "text": "이와 같이 미리 영화를 보시는 것도 추천을 하고"
     },
     {
-      "start": 83.43,
-      "end": 85.81,
+      "start": 308.07,
+      "end": 310.45,
       "text": "만약에 보시지 못한다면"
     },
     {
-      "start": 85.81,
-      "end": 88.81,
+      "start": 310.45,
+      "end": 313.45,
       "text": "나중에 우리가 이제 스크린 잉글리쉬 한 달 동안 한 다음에"
     },
     {
-      "start": 88.81,
-      "end": 91.69,
+      "start": 313.45,
+      "end": 316.33,
       "text": "한 번에 보시는 것도 좋은 방법입니다"
     },
     {
-      "start": 91.69,
-      "end": 92.25,
+      "start": 316.33,
+      "end": 316.89,
       "text": "Sure"
     },
     {
-      "start": 92.25,
-      "end": 93.59,
+      "start": 316.89,
+      "end": 318.23,
       "text": "선택의 문제예요, 그죠?"
     },
     {
-      "start": 93.89,
-      "end": 95.79,
+      "start": 318.53,
+      "end": 320.43,
       "text": "You can watch it before, during and after"
     },
     {
-      "start": 95.79,
-      "end": 96.77,
+      "start": 320.43,
+      "end": 321.41,
       "text": "Yeah, 맞습니다"
     },
     {
-      "start": 96.77,
-      "end": 98.69,
+      "start": 321.41,
+      "end": 323.33,
       "text": "오늘 장면 듣고 오겠습니다"
     },
     {
-      "start": 98.69,
-      "end": 100.53,
+      "start": 323.33,
+      "end": 325.17,
       "text": "Got a problem, Frank?"
     },
     {
-      "start": 101.05,
-      "end": 102.65,
+      "start": 325.69,
+      "end": 327.29,
       "text": "We're tired of this shit, Gio"
     },
     {
-      "start": 102.65,
-      "end": 103.25,
+      "start": 327.29,
+      "end": 327.89,
       "text": "Yeah"
     },
     {
-      "start": 103.25,
-      "end": 106.09,
+      "start": 327.89,
+      "end": 330.73,
       "text": "You don't care if these guys regulate us to death"
     },
     {
-      "start": 106.09,
-      "end": 109.05,
+      "start": 330.73,
+      "end": 333.69,
       "text": "Because you're the only one making money here"
     },
     {
-      "start": 109.05,
-      "end": 114.9,
+      "start": 333.69,
+      "end": 339.54,
       "text": "No one's getting paid what their catch is worth"
     },
     {
-      "start": 114.9,
-      "end": 120.04,
+      "start": 339.54,
+      "end": 344.68,
       "text": "My dad fished and his dad"
     },
     {
-      "start": 120.04,
-      "end": 122.62,
+      "start": 344.68,
+      "end": 347.26,
       "text": "So I'm going to fight like hell to stay out on the water"
     },
     {
-      "start": 122.62,
-      "end": 129.07,
+      "start": 347.26,
+      "end": 353.71,
       "text": "Wow, 지금 이거 어떤 분위기인 거죠?"
     },
     {
-      "start": 129.07,
-      "end": 130.57,
+      "start": 353.71,
+      "end": 355.21,
       "text": "People sound angry"
     },
     {
-      "start": 130.57,
-      "end": 132.01,
+      "start": 355.21,
+      "end": 356.65,
       "text": "They're at a meeting"
     },
     {
-      "start": 132.01,
-      "end": 133.27,
+      "start": 356.65,
+      "end": 357.91,
       "text": "All the fishermen"
     },
     {
-      "start": 133.27,
-      "end": 135.81,
+      "start": 357.91,
+      "end": 360.45,
       "text": "Are very upset about"
     },
     {
-      "start": 135.81,
-      "end": 137.71,
+      "start": 360.45,
+      "end": 362.35,
       "text": "They're not getting enough profit"
     },
     {
-      "start": 137.71,
-      "end": 138.31,
+      "start": 362.35,
+      "end": 362.95,
       "text": "맞아요"
     },
     {
-      "start": 138.31,
-      "end": 139.55,
+      "start": 362.95,
+      "end": 364.19,
       "text": "For all their hard work"
     },
     {
-      "start": 139.55,
-      "end": 143.19,
+      "start": 364.19,
+      "end": 367.83,
       "text": "뭔가 좀 unfavorable한 conditions가 있었던 것 같습니다"
     },
     {
-      "start": 143.19,
-      "end": 145.25,
+      "start": 367.83,
+      "end": 369.89,
       "text": "Yeah, the politicians are taking their money"
     },
     {
-      "start": 145.25,
-      "end": 146.83,
+      "start": 369.89,
+      "end": 371.47,
       "text": "And they're doing all the work"
     },
     {
-      "start": 146.83,
-      "end": 148.69,
+      "start": 371.47,
+      "end": 373.33,
       "text": "It's not fair, it's unfair"
     },
     {
-      "start": 148.69,
-      "end": 149.19,
+      "start": 373.33,
+      "end": 373.83,
       "text": "맞아요"
     },
     {
-      "start": 149.19,
-      "end": 152.95,
+      "start": 373.83,
+      "end": 377.59,
       "text": "그러다 보니까 당연히 열받은 루비의 아빠"
     },
     {
-      "start": 152.95,
-      "end": 155.23,
+      "start": 377.59,
+      "end": 379.87,
       "text": "그리고 오빠가 같이 참여를 하고 있는데"
     },
     {
-      "start": 155.23,
-      "end": 158.29,
+      "start": 379.87,
+      "end": 382.93,
       "text": "아빠가 옆에서 이제 그 사람들에게"
     },
     {
-      "start": 158.29,
-      "end": 160.45,
+      "start": 382.93,
+      "end": 385.09,
       "text": "이야기를 하고 싶어하는 그런 장면이었어요"
     },
     {
-      "start": 160.45,
-      "end": 164.27,
+      "start": 385.09,
+      "end": 388.91,
       "text": "그래서 루비가 translated what he wanted to say"
     },
     {
-      "start": 164.27,
-      "end": 168.25,
+      "start": 388.91,
+      "end": 392.89,
       "text": "Yeah, she translated directly, word for word"
     },
     {
-      "start": 168.25,
-      "end": 171.09,
+      "start": 392.89,
+      "end": 395.73,
       "text": "Yeah, the problem is it was too directly"
     },
     {
-      "start": 171.09,
-      "end": 173.45,
+      "start": 395.73,
+      "end": 398.09,
       "text": "Very direct, very straightforward"
     },
     {
-      "start": 173.45,
-      "end": 173.87,
+      "start": 398.09,
+      "end": 398.51,
       "text": "맞아요"
     },
     {
-      "start": 173.87,
-      "end": 179.33,
+      "start": 398.51,
+      "end": 403.97,
       "text": "굉장히 직설적으로다가 거의 직역으로 수어를 통역을 했습니다"
     },
     {
-      "start": 179.33,
-      "end": 180.29,
+      "start": 403.97,
+      "end": 404.93,
       "text": "Yes"
     },
     {
-      "start": 180.29,
-      "end": 182.25,
+      "start": 404.93,
+      "end": 406.89,
       "text": "중요 표현들 점검해 볼까요?"
     },
     {
-      "start": 182.91,
-      "end": 183.77,
+      "start": 407.55,
+      "end": 408.41,
       "text": "Tired of"
     },
     {
-      "start": 183.77,
-      "end": 188.41,
+      "start": 408.41,
+      "end": 413.05,
       "text": "아, tired of 라고 해서 지친, 지겨운 이라는 의미죠"
     },
     {
-      "start": 188.41,
-      "end": 189.27,
+      "start": 413.05,
+      "end": 413.91,
       "text": "Sick of"
     },
     {
-      "start": 189.27,
-      "end": 190.83,
+      "start": 413.91,
+      "end": 415.47,
       "text": "그쵸, 동일한 표현입니다"
     },
     {
-      "start": 190.83,
-      "end": 194.01,
+      "start": 415.47,
+      "end": 418.65,
       "text": "These guys regulate us to death"
     },
     {
-      "start": 194.01,
-      "end": 197.47,
+      "start": 418.65,
+      "end": 422.11,
       "text": "These guys regulate us to death"
     },
     {
-      "start": 197.47,
-      "end": 202.43,
+      "start": 422.11,
+      "end": 427.07,
       "text": "이 자들은, 이 자들은 우리를 죽음으로 몰아넣는다"
     },
     {
-      "start": 202.43,
-      "end": 203.43,
+      "start": 427.07,
+      "end": 428.07,
       "text": "라는 의미가 되겠죠"
     },
     {
-      "start": 203.43,
-      "end": 206.81,
+      "start": 428.07,
+      "end": 431.45,
       "text": "These guys, they regulate us to death"
     },
     {
-      "start": 206.81,
-      "end": 208.61,
+      "start": 431.45,
+      "end": 433.25,
       "text": "그쵸, 정치인들을 포함해서"
     },
     {
-      "start": 208.61,
-      "end": 213.51,
+      "start": 433.25,
+      "end": 438.15,
       "text": "그 정치인들과 뭔가 긴밀하게 통하고 있는"
     },
     {
-      "start": 213.51,
-      "end": 215.95,
+      "start": 438.15,
+      "end": 440.59,
       "text": "그 피셔맨의 우두머리까지 포함해서"
     },
     {
-      "start": 215.95,
-      "end": 217.87,
+      "start": 440.59,
+      "end": 442.51,
       "text": "These guys라고 이야기를 했을 거예요"
     },
     {
-      "start": 217.87,
-      "end": 222.55,
+      "start": 442.51,
+      "end": 447.19,
       "text": "No one's getting paid what their catch is worth"
     },
     {
-      "start": 222.55,
-      "end": 223.81,
+      "start": 447.19,
+      "end": 448.45,
       "text": "아, 아무도"
     },
     {
-      "start": 223.81,
-      "end": 226.35,
+      "start": 448.45,
+      "end": 450.99,
       "text": "Getting paid, 돈을 받지 못한다"
     },
     {
-      "start": 226.35,
-      "end": 229.43,
+      "start": 450.99,
+      "end": 454.07,
       "text": "What their catch is worth"
     },
     {
-      "start": 229.43,
-      "end": 233.39,
+      "start": 454.07,
+      "end": 458.03,
       "text": "자신들이 잡은 값어치만큼 돈을 받지 못한다"
     },
     {
-      "start": 233.39,
-      "end": 234.57,
+      "start": 458.03,
+      "end": 459.21,
       "text": "라는 상황이네요"
     },
     {
-      "start": 234.57,
-      "end": 235.43,
+      "start": 459.21,
+      "end": 460.07,
       "text": "Yeah, their catch"
     },
     {
-      "start": 235.43,
-      "end": 238.61,
+      "start": 460.07,
+      "end": 463.25,
       "text": "Their catch is a common expression used for fishing"
     },
     {
-      "start": 238.61,
-      "end": 238.97,
+      "start": 463.25,
+      "end": 463.61,
       "text": "Yeah"
     },
     {
-      "start": 238.97,
-      "end": 240.11,
+      "start": 463.61,
+      "end": 464.75,
       "text": "Oh, what a big catch"
     },
     {
-      "start": 240.11,
-      "end": 241.75,
+      "start": 464.75,
+      "end": 466.39,
       "text": "It would be like a world chuck"
     },
     {
-      "start": 241.75,
-      "end": 243.29,
+      "start": 466.39,
+      "end": 467.93,
       "text": "A small catch"
     },
     {
-      "start": 243.29,
-      "end": 243.31,
+      "start": 467.93,
+      "end": 467.95,
       "text": "A small catch"
     },
     {
-      "start": 243.31,
-      "end": 244.81,
+      "start": 467.95,
+      "end": 469.45,
       "text": "Would be something small"
     },
     {
-      "start": 244.81,
-      "end": 245.13,
+      "start": 469.45,
+      "end": 469.77,
       "text": "Yeah"
     },
     {
-      "start": 245.13,
-      "end": 246.83,
+      "start": 469.77,
+      "end": 471.47,
       "text": "Anyway, they're not getting paid"
     },
     {
-      "start": 246.83,
-      "end": 248.57,
+      "start": 471.47,
+      "end": 473.21,
       "text": "For what their catch is worth"
     },
     {
-      "start": 248.57,
-      "end": 250.79,
+      "start": 473.21,
+      "end": 475.43,
       "text": "Their catch is worth a lot more than they're getting"
     },
     {
-      "start": 250.79,
-      "end": 253.17,
+      "start": 475.43,
+      "end": 477.81,
       "text": "문제가 점점 심각해지는 것 같네요"
     },
     {
-      "start": 253.17,
-      "end": 255.79,
+      "start": 477.81,
+      "end": 480.43,
       "text": "그쵸, 이 장면 다시 한번 들어보겠습니다"
     },
     {
-      "start": 255.79,
-      "end": 257.44,
+      "start": 480.43,
+      "end": 482.08,
       "text": "Got a problem, Frank?"
     },
     {
-      "start": 257.96,
-      "end": 259.54,
+      "start": 482.6,
+      "end": 484.18,
       "text": "We're tired of this shit, 지오"
     },
     {
-      "start": 259.54,
-      "end": 260.2,
+      "start": 484.18,
+      "end": 484.84,
       "text": "Yeah"
     },
     {
-      "start": 260.2,
-      "end": 263.0,
+      "start": 484.84,
+      "end": 487.64,
       "text": "He don't care if these guys regulate us to death"
     },
     {
-      "start": 263.0,
-      "end": 265.95,
+      "start": 487.64,
+      "end": 490.59,
       "text": "Because you're the only one making money here"
     },
     {
-      "start": 265.95,
-      "end": 271.8,
+      "start": 490.59,
+      "end": 496.44,
       "text": "No one's getting paid what their catch is worth"
     },
     {
-      "start": 271.8,
-      "end": 276.99,
+      "start": 496.44,
+      "end": 501.63,
       "text": "My dad fished and his dad"
     },
     {
-      "start": 276.99,
-      "end": 279.51,
+      "start": 501.63,
+      "end": 504.15,
       "text": "So I'm gonna fight like hell to stay out on the water"
     },
     {
-      "start": 279.51,
-      "end": 279.75,
+      "start": 504.15,
+      "end": 504.39,
       "text": "Yeah"
     },
     {
-      "start": 279.75,
-      "end": 280.25,
+      "start": 504.39,
+      "end": 504.89,
       "text": "Yeah"
     },
     {
-      "start": 280.25,
-      "end": 281.25,
+      "start": 504.89,
+      "end": 505.89,
       "text": "Yeah"
     },
     {
-      "start": 281.25,
-      "end": 285.73,
+      "start": 505.89,
+      "end": 510.37,
       "text": "Gio라는 사람이 있는데"
     },
     {
-      "start": 285.73,
-      "end": 289.21,
+      "start": 510.37,
+      "end": 513.85,
       "text": "그 사람이 지금 약간 fisherman 중에서 실세예요"
     },
     {
-      "start": 289.21,
-      "end": 289.93,
+      "start": 513.85,
+      "end": 514.57,
       "text": "His power"
     },
     {
-      "start": 289.93,
-      "end": 291.35,
+      "start": 514.57,
+      "end": 515.99,
       "text": "Too much power"
     },
     {
-      "start": 291.35,
-      "end": 295.63,
+      "start": 515.99,
+      "end": 520.27,
       "text": "Yeah, 그래서 일방적으로 자신들이 정한 그 규칙을 공표를 해버리니까"
     },
     {
-      "start": 295.63,
-      "end": 297.95,
+      "start": 520.27,
+      "end": 522.59,
       "text": "이 fisherman들의 입장에 있어서는"
     },
     {
-      "start": 297.95,
-      "end": 299.63,
+      "start": 522.59,
+      "end": 524.27,
       "text": "They were in a mood"
     },
     {
-      "start": 299.63,
-      "end": 300.35,
+      "start": 524.27,
+      "end": 524.99,
       "text": "그쵸?"
     },
     {
-      "start": 300.39,
-      "end": 301.43,
+      "start": 525.03,
+      "end": 526.07,
       "text": "They're in a bad mood"
     },
     {
-      "start": 301.43,
-      "end": 302.75,
+      "start": 526.07,
+      "end": 527.39,
       "text": "Bad mood인 거죠"
     },
     {
-      "start": 302.75,
-      "end": 303.99,
+      "start": 527.39,
+      "end": 528.63,
       "text": "They're furious"
     },
     {
-      "start": 303.99,
-      "end": 308.35,
+      "start": 528.63,
+      "end": 532.99,
       "text": "그래서 지오가 먼저 이렇게 이야기합니다"
     },
     {
-      "start": 308.35,
-      "end": 310.53,
+      "start": 532.99,
+      "end": 535.17,
       "text": "Got a problem, Frank?"
     },
     {
-      "start": 310.63,
-      "end": 313.31,
+      "start": 535.27,
+      "end": 537.95,
       "text": "Frank는 루비의 아빠 이름이 되는 거잖아요"
     },
     {
-      "start": 313.31,
-      "end": 315.49,
+      "start": 537.95,
+      "end": 540.13,
       "text": "뭔가 불만이 있어 보이니까"
     },
     {
-      "start": 315.49,
-      "end": 316.65,
+      "start": 540.13,
+      "end": 541.29,
       "text": "Got a problem, Frank?"
     },
     {
-      "start": 316.99,
-      "end": 318.03,
+      "start": 541.63,
+      "end": 542.67,
       "text": "문제 있나, Frank?"
     },
     {
-      "start": 318.21,
-      "end": 318.73,
+      "start": 542.85,
+      "end": 543.37,
       "text": "라는 거죠"
     },
     {
-      "start": 318.73,
-      "end": 320.53,
+      "start": 543.37,
+      "end": 545.17,
       "text": "좀 무시하는 톤"
     },
     {
-      "start": 320.53,
-      "end": 321.79,
+      "start": 545.17,
+      "end": 546.43,
       "text": "Got a problem, Frank?"
     },
     {
-      "start": 322.85,
-      "end": 325.53,
+      "start": 547.49,
+      "end": 550.17,
       "text": "We're tired of this B-G-O"
     },
     {
-      "start": 325.53,
-      "end": 327.63,
+      "start": 550.17,
+      "end": 552.27,
       "text": "자체 B-G-O"
     },
     {
-      "start": 327.63,
-      "end": 328.19,
+      "start": 552.27,
+      "end": 552.83,
       "text": "Yeah"
     },
     {
-      "start": 328.19,
-      "end": 333.19,
+      "start": 552.83,
+      "end": 557.83,
       "text": "We're tired of this B-G-O"
     },
     {
-      "start": 333.19,
-      "end": 334.37,
+      "start": 557.83,
+      "end": 559.01,
       "text": "라고 외쳤어요"
     },
     {
-      "start": 334.37,
-      "end": 335.75,
+      "start": 559.01,
+      "end": 560.39,
       "text": "그냥 garbage로 합시다"
     },
     {
-      "start": 335.75,
-      "end": 337.21,
+      "start": 560.39,
+      "end": 561.85,
       "text": "좋은 아이디어입니다"
     },
     {
-      "start": 337.21,
-      "end": 338.79,
+      "start": 561.85,
+      "end": 563.43,
       "text": "We're tired of this garbage"
     },
     {
-      "start": 338.79,
-      "end": 342.47,
+      "start": 563.43,
+      "end": 567.11,
       "text": "아, 이 더럽고 치사한 거 못 해먹겠어"
     },
     {
-      "start": 342.47,
-      "end": 343.53,
+      "start": 567.11,
+      "end": 568.17,
       "text": "라는 의미죠"
     },
     {
-      "start": 343.53,
-      "end": 345.79,
+      "start": 568.17,
+      "end": 570.43,
       "text": "지금 루비가 통역을 하고 있는 거예요"
     },
     {
-      "start": 345.79,
-      "end": 349.87,
+      "start": 570.43,
+      "end": 574.51,
       "text": "You don't care if these guys regulate us to death"
     },
     {
-      "start": 349.87,
-      "end": 353.03,
+      "start": 574.51,
+      "end": 577.67,
       "text": "Because you're the only one making money here"
     },
     {
-      "start": 353.03,
-      "end": 354.41,
+      "start": 577.67,
+      "end": 579.05,
       "text": "You don't care"
     },
     {
-      "start": 354.41,
-      "end": 356.37,
+      "start": 579.05,
+      "end": 581.01,
       "text": "당신은 신경 쓰지도 않지"
     },
     {
-      "start": 356.37,
-      "end": 360.13,
+      "start": 581.01,
+      "end": 584.77,
       "text": "If these guys regulate us to death"
     },
     {
-      "start": 360.13,
-      "end": 361.67,
+      "start": 584.77,
+      "end": 586.31,
       "text": "Regulations"
     },
     {
-      "start": 361.67,
-      "end": 366.25,
+      "start": 586.31,
+      "end": 590.89,
       "text": "특히 이 regulate us to death 라고 있잖아요"
     },
     {
-      "start": 366.25,
-      "end": 369.33,
+      "start": 590.89,
+      "end": 593.97,
       "text": "규제가 목을 조여와도"
     },
     {
-      "start": 369.33,
-      "end": 370.33,
+      "start": 593.97,
+      "end": 594.97,
       "text": "라는 겁니다"
     },
     {
-      "start": 370.33,
-      "end": 372.13,
+      "start": 594.97,
+      "end": 596.77,
       "text": "계속 규제, 규제, 규제"
     },
     {
-      "start": 372.13,
-      "end": 372.47,
+      "start": 596.77,
+      "end": 597.11,
       "text": "그렇죠?"
     },
     {
-      "start": 373.01,
-      "end": 374.77,
+      "start": 597.65,
+      "end": 599.41,
       "text": "They keep regulating us"
     },
     {
-      "start": 374.77,
-      "end": 377.65,
+      "start": 599.41,
+      "end": 602.29,
       "text": "until we have no way to make a living"
     },
     {
-      "start": 377.65,
-      "end": 378.07,
+      "start": 602.29,
+      "end": 602.71,
       "text": "맞아요"
     },
     {
-      "start": 378.07,
-      "end": 381.09,
+      "start": 602.71,
+      "end": 605.73,
       "text": "그래서 죽음으로까지 몰아가더라도"
     },
     {
-      "start": 381.09,
-      "end": 384.79,
+      "start": 605.73,
+      "end": 609.43,
       "text": "Because you are the only one making money here"
     },
     {
-      "start": 384.79,
-      "end": 388.35,
+      "start": 609.43,
+      "end": 612.99,
       "text": "왜냐하면 당신이 오직 한 명이기 때문이야"
     },
     {
-      "start": 388.35,
-      "end": 389.53,
+      "start": 612.99,
+      "end": 614.17,
       "text": "Making money here"
     },
     {
-      "start": 389.53,
-      "end": 391.79,
+      "start": 614.17,
+      "end": 616.43,
       "text": "이곳에서 돈을 버는 한 명이기 때문에"
     },
     {
-      "start": 391.79,
-      "end": 395.43,
+      "start": 616.43,
+      "end": 620.07,
       "text": "그들이 우리를 이렇게 규제에 목을 조여와도"
     },
     {
-      "start": 395.43,
-      "end": 396.39,
+      "start": 620.07,
+      "end": 621.03,
       "text": "You don't care"
     },
     {
-      "start": 396.39,
-      "end": 398.77,
+      "start": 621.03,
+      "end": 623.41,
       "text": "당신은 신경 쓰지도 않지"
     },
     {
-      "start": 398.77,
-      "end": 400.88,
+      "start": 623.41,
+      "end": 625.52,
       "text": "좀 유시사하죠"
     },
     {
-      "start": 400.88,
-      "end": 402.86,
+      "start": 625.52,
+      "end": 627.5,
       "text": "He's making all the money"
     },
     {
-      "start": 402.86,
-      "end": 404.3,
+      "start": 627.5,
+      "end": 628.94,
       "text": "And we're doing all the work"
     },
     {
-      "start": 404.3,
-      "end": 406.94,
+      "start": 628.94,
+      "end": 631.58,
       "text": "He's regulating us to death"
     },
     {
-      "start": 406.94,
-      "end": 409.28,
+      "start": 631.58,
+      "end": 633.92,
       "text": "Very unfair situation"
     },
     {
-      "start": 409.28,
-      "end": 413.24,
+      "start": 633.92,
+      "end": 637.88,
       "text": "No one's getting paid what their catch is worth"
     },
     {
-      "start": 413.24,
-      "end": 417.06,
+      "start": 637.88,
+      "end": 641.7,
       "text": "미리 배워둔 표현 그대로 나왔습니다"
     },
     {
-      "start": 417.06,
-      "end": 420.22,
+      "start": 641.7,
+      "end": 644.86,
       "text": "No one's getting paid what their catch is worth"
     },
     {
-      "start": 420.22,
-      "end": 425.36,
+      "start": 644.86,
+      "end": 650.0,
       "text": "다들 잡은 물고기 값도 제대로 못 받고 있어"
     },
     {
-      "start": 425.36,
-      "end": 426.62,
+      "start": 650.0,
+      "end": 651.26,
       "text": "라는 의미가 되겠죠"
     },
     {
-      "start": 426.62,
-      "end": 427.36,
+      "start": 651.26,
+      "end": 652.0,
       "text": "억울하죠"
     },
     {
-      "start": 427.36,
-      "end": 430.3,
+      "start": 652.0,
+      "end": 654.94,
       "text": "My dad fished and his dad"
     },
     {
-      "start": 430.3,
-      "end": 433.06,
+      "start": 654.94,
+      "end": 657.7,
       "text": "우리 아버지는 낚시를 하셨고"
     },
     {
-      "start": 433.06,
-      "end": 434.14,
+      "start": 657.7,
+      "end": 658.78,
       "text": "그러니까 어부셨고"
     },
     {
-      "start": 434.14,
-      "end": 434.96,
+      "start": 658.78,
+      "end": 659.6,
       "text": "And his dad"
     },
     {
-      "start": 434.96,
-      "end": 438.72,
+      "start": 659.6,
+      "end": 663.36,
       "text": "그의 아버지도 마찬가지로 어부이셨다라는 의미예요"
     },
     {
-      "start": 438.72,
-      "end": 439.96,
+      "start": 663.36,
+      "end": 664.6,
       "text": "It's a family business"
     },
     {
-      "start": 439.96,
-      "end": 441.74,
+      "start": 664.6,
+      "end": 666.38,
       "text": "It runs in the family"
     },
     {
-      "start": 441.74,
-      "end": 444.02,
+      "start": 666.38,
+      "end": 668.66,
       "text": "But you're ruining our business"
     },
     {
-      "start": 444.02,
-      "end": 445.06,
+      "start": 668.66,
+      "end": 669.7,
       "text": "진짜 가업이죠"
     },
     {
-      "start": 445.06,
-      "end": 448.04,
+      "start": 669.7,
+      "end": 672.68,
       "text": "So I'm going to fight like hell"
     },
     {
-      "start": 448.04,
-      "end": 450.18,
+      "start": 672.68,
+      "end": 674.82,
       "text": "To stay out on the water"
     },
     {
-      "start": 450.18,
-      "end": 450.9,
+      "start": 674.82,
+      "end": 675.54,
       "text": "Wow"
     },
     {
-      "start": 450.9,
-      "end": 453.14,
+      "start": 675.54,
+      "end": 677.78,
       "text": "So I'm going to fight like hell"
     },
     {
-      "start": 453.14,
-      "end": 455.18,
+      "start": 677.78,
+      "end": 679.82,
       "text": "To stay out on the water"
     },
     {
-      "start": 455.18,
-      "end": 458.18,
+      "start": 679.82,
+      "end": 682.82,
       "text": "굉장히 강력한 말이 들렸습니다"
     },
     {
-      "start": 458.18,
-      "end": 459.26,
+      "start": 682.82,
+      "end": 683.9,
       "text": "I'm not going to give up"
     },
     {
-      "start": 459.26,
-      "end": 459.88,
+      "start": 683.9,
+      "end": 684.52,
       "text": "그러니까요"
     },
     {
-      "start": 459.88,
-      "end": 462.96,
+      "start": 684.52,
+      "end": 687.6,
       "text": "나도 물 위에서 계속해서 싸우다 죽을 거야"
     },
     {
-      "start": 462.96,
-      "end": 464.64,
+      "start": 687.6,
+      "end": 689.28,
       "text": "라고 외치는 장면입니다"
     },
     {
-      "start": 464.64,
-      "end": 465.38,
+      "start": 689.28,
+      "end": 690.02,
       "text": "물 위에서?"
     },
     {
-      "start": 466.18,
-      "end": 468.6,
+      "start": 690.82,
+      "end": 693.24,
       "text": "계속 물에서 싸우다가 죽을 거야"
     },
     {
-      "start": 468.6,
-      "end": 469.86,
+      "start": 693.24,
+      "end": 694.5,
       "text": "라는 의지가 되겠죠"
     },
     {
-      "start": 469.86,
-      "end": 471.44,
+      "start": 694.5,
+      "end": 696.08,
       "text": "아, to stay"
     },
     {
-      "start": 471.44,
-      "end": 471.82,
+      "start": 696.08,
+      "end": 696.46,
       "text": "Yeah"
     },
     {
-      "start": 471.82,
-      "end": 472.82,
+      "start": 696.46,
+      "end": 697.46,
       "text": "To keep my boat"
     },
     {
-      "start": 472.82,
-      "end": 473.92,
+      "start": 697.46,
+      "end": 698.56,
       "text": "맞아요"
     },
     {
-      "start": 473.92,
-      "end": 475.54,
+      "start": 698.56,
+      "end": 700.18,
       "text": "To keep my way of making a living"
     },
     {
-      "start": 475.54,
-      "end": 477.08,
+      "start": 700.18,
+      "end": 701.72,
       "text": "I'm not going to give up"
     },
     {
-      "start": 477.08,
-      "end": 477.92,
+      "start": 701.72,
+      "end": 702.56,
       "text": "I'm going to fight"
     },
     {
-      "start": 477.92,
-      "end": 478.88,
+      "start": 702.56,
+      "end": 703.52,
       "text": "그랬더니"
     },
     {
-      "start": 478.88,
-      "end": 480.78,
+      "start": 703.52,
+      "end": 705.42,
       "text": "Everybody agrees"
     },
     {
-      "start": 480.78,
-      "end": 481.2,
+      "start": 705.42,
+      "end": 705.84,
       "text": "Yeah"
     },
     {
-      "start": 481.2,
-      "end": 481.86,
+      "start": 705.84,
+      "end": 706.5,
       "text": "Yeah"
     },
     {
-      "start": 481.86,
-      "end": 484.28,
+      "start": 706.5,
+      "end": 708.92,
       "text": "모든 남아있는 피셜만들이"
     },
     {
-      "start": 484.28,
-      "end": 485.82,
+      "start": 708.92,
+      "end": 710.46,
       "text": "소리를 지르고 있는 장면입니다"
     },
     {
-      "start": 485.82,
-      "end": 486.46,
+      "start": 710.46,
+      "end": 711.1,
       "text": "Yeah"
     },
     {
-      "start": 486.46,
-      "end": 486.86,
+      "start": 711.1,
+      "end": 711.5,
       "text": "라고"
     },
     {
-      "start": 486.86,
-      "end": 488.84,
+      "start": 711.5,
+      "end": 713.48,
       "text": "그래서 프랭크가 어쩌면"
     },
     {
-      "start": 488.84,
-      "end": 490.32,
+      "start": 713.48,
+      "end": 714.96,
       "text": "shared his leadership here"
     },
     {
-      "start": 490.32,
-      "end": 490.88,
+      "start": 714.96,
+      "end": 715.52,
       "text": "Leadership"
     },
     {
-      "start": 490.88,
-      "end": 493.02,
+      "start": 715.52,
+      "end": 717.66,
       "text": "And he becomes sort of a hero"
     },
     {
-      "start": 493.02,
-      "end": 494.66,
+      "start": 717.66,
+      "end": 719.3,
       "text": "amongst the other fishermen"
     },
     {
-      "start": 494.66,
-      "end": 494.92,
+      "start": 719.3,
+      "end": 719.56,
       "text": "맞아요"
     },
     {
-      "start": 494.92,
-      "end": 497.02,
+      "start": 719.56,
+      "end": 721.66,
       "text": "It's a really special moment"
     },
     {
-      "start": 497.02,
-      "end": 497.44,
+      "start": 721.66,
+      "end": 722.08,
       "text": "맞아요"
     },
     {
-      "start": 497.44,
-      "end": 498.92,
+      "start": 722.08,
+      "end": 723.56,
       "text": "이 피셜맨 사이에서"
     },
     {
-      "start": 498.92,
-      "end": 500.12,
+      "start": 723.56,
+      "end": 724.76,
       "text": "약간 히어로처럼"
     },
     {
-      "start": 500.12,
-      "end": 502.1,
+      "start": 724.76,
+      "end": 726.74,
       "text": "등장을 하게 되는 순간이었습니다"
     },
     {
-      "start": 502.1,
-      "end": 503.28,
+      "start": 726.74,
+      "end": 727.92,
       "text": "이 장면 마지막으로"
     },
     {
-      "start": 503.28,
-      "end": 504.12,
+      "start": 727.92,
+      "end": 728.76,
       "text": "한 번 더 들어볼게요"
     },
     {
-      "start": 504.12,
-      "end": 505.96,
+      "start": 728.76,
+      "end": 730.6,
       "text": "Got a problem, 프랭크?"
     },
     {
-      "start": 506.42,
-      "end": 508.0,
+      "start": 731.06,
+      "end": 732.64,
       "text": "We're tired of this shit, Gio"
     },
     {
-      "start": 508.0,
-      "end": 508.64,
+      "start": 732.64,
+      "end": 733.28,
       "text": "Yeah"
     },
     {
-      "start": 508.64,
-      "end": 510.2,
+      "start": 733.28,
+      "end": 734.84,
       "text": "You don't care if these guys"
     },
     {
-      "start": 510.2,
-      "end": 511.46,
+      "start": 734.84,
+      "end": 736.1,
       "text": "regulate us to death"
     },
     {
-      "start": 511.46,
-      "end": 513.43,
+      "start": 736.1,
+      "end": 738.07,
       "text": "Because you're the only one"
     },
     {
-      "start": 513.43,
-      "end": 514.41,
+      "start": 738.07,
+      "end": 739.05,
       "text": "making money here"
     },
     {
-      "start": 514.41,
-      "end": 519.16,
+      "start": 739.05,
+      "end": 743.8,
       "text": "No one's getting paid"
     },
     {
-      "start": 519.16,
-      "end": 520.24,
+      "start": 743.8,
+      "end": 744.88,
       "text": "what their catch is worth"
     },
     {
-      "start": 520.24,
-      "end": 524.14,
+      "start": 744.88,
+      "end": 748.78,
       "text": "My dad fished"
     },
     {
-      "start": 524.14,
-      "end": 525.4,
+      "start": 748.78,
+      "end": 750.04,
       "text": "and his dad"
     },
     {
-      "start": 525.4,
-      "end": 527.08,
+      "start": 750.04,
+      "end": 751.72,
       "text": "So I'm going to fight like hell"
     },
     {
-      "start": 527.08,
-      "end": 527.96,
+      "start": 751.72,
+      "end": 752.6,
       "text": "to stay out on the water"
     },
     {
-      "start": 527.96,
-      "end": 533.36,
+      "start": 752.6,
+      "end": 758.0,
       "text": "Oh, 지금 피셜맨들과 함께"
     },
     {
-      "start": 533.36,
-      "end": 535.42,
+      "start": 758.0,
+      "end": 760.06,
       "text": "저도 박수를 쳐야 할 것 같은"
     },
     {
-      "start": 535.42,
-      "end": 537.14,
+      "start": 760.06,
+      "end": 761.78,
       "text": "네, 느낌이 들었어요"
     },
     {
-      "start": 537.14,
-      "end": 537.68,
+      "start": 761.78,
+      "end": 762.32,
       "text": "Go for it"
     },
     {
-      "start": 537.68,
-      "end": 539.68,
+      "start": 762.32,
+      "end": 764.32,
       "text": "Keep it up"
     },
     {
-      "start": 539.68,
-      "end": 541.58,
+      "start": 764.32,
+      "end": 766.22,
       "text": "네, 앞으로 어떻게 진행이 될지"
     },
     {
-      "start": 541.58,
-      "end": 542.82,
+      "start": 766.22,
+      "end": 767.46,
       "text": "너무 궁금해지고요"
     },
     {
-      "start": 542.82,
-      "end": 544.18,
+      "start": 767.46,
+      "end": 768.82,
       "text": "You can beat those guys"
     },
     {
-      "start": 544.18,
-      "end": 545.28,
+      "start": 768.82,
+      "end": 769.92,
       "text": "Those politicians"
     },
     {
-      "start": 545.28,
-      "end": 546.78,
+      "start": 769.92,
+      "end": 771.42,
       "text": "네, 응원해주고 싶습니다"
     },
     {
-      "start": 546.78,
-      "end": 548.78,
+      "start": 771.42,
+      "end": 773.42,
       "text": "어머, 서민경님께서"
     },
     {
-      "start": 548.78,
-      "end": 550.74,
+      "start": 773.42,
+      "end": 775.38,
       "text": "크리스쌤 감사해요"
     },
     {
-      "start": 550.74,
-      "end": 552.7,
+      "start": 775.38,
+      "end": 777.34,
       "text": "이렇게 보내주셨습니다"
     },
     {
-      "start": 552.7,
-      "end": 553.52,
+      "start": 777.34,
+      "end": 778.16,
       "text": "감사해요"
     },
     {
-      "start": 553.52,
-      "end": 554.92,
+      "start": 778.16,
+      "end": 779.56,
       "text": "네, 오늘도 이렇게"
     },
     {
-      "start": 554.92,
-      "end": 557.44,
+      "start": 779.56,
+      "end": 782.08,
       "text": "잘 가르쳐주셔서 감사합니다"
     },
     {
-      "start": 557.44,
-      "end": 558.36,
+      "start": 782.08,
+      "end": 783.0,
       "text": "Anytime"
     },
     {
-      "start": 558.36,
-      "end": 560.38,
+      "start": 783.0,
+      "end": 785.02,
       "text": "네, 우리는 내일 다시"
     },
     {
-      "start": 560.38,
-      "end": 561.9,
+      "start": 785.02,
+      "end": 786.54,
       "text": "배워보도록 하겠습니다"
     },
     {
-      "start": 561.9,
-      "end": 563.48,
+      "start": 786.54,
+      "end": 788.12,
       "text": "Yeah, have a wonderful day"
     },
     {
-      "start": 563.48,
-      "end": 564.26,
+      "start": 788.12,
+      "end": 788.9,
       "text": "and I'll see you tomorrow"
+    },
+    {
+      "start": 788.9,
+      "end": 789.16,
+      "text": "Bye"
     }
   ]
 }
