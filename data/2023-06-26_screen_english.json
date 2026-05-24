@@ -5,7 +5,7 @@
   "corner_label": "Screen English",
   "title": "This is for the best",
   "movie": "",
-  "duration_sec": 736.48,
+  "duration_sec": 739.34,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-26_screen_english.mp3",
   "script": [
     {
@@ -1517,6 +1517,16 @@
       "start": 735.58,
       "end": 736.48,
       "text": "I'll see you tomorrow."
+    },
+    {
+      "start": 736.84,
+      "end": 737.3,
+      "text": "See you then."
+    },
+    {
+      "start": 737.3,
+      "end": 739.34,
+      "text": "네, 노래 한 곡 들어볼게요."
     }
   ]
 }
