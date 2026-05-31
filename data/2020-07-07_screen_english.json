@@ -3,8 +3,8 @@
   "date": "2020-07-07",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "I_m gonna put supper on",
-  "movie": "",
+  "title": "",
+  "movie": "미스비헤이비어 (Misbehaviour)",
   "duration_sec": 799.93,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-07_screen_english.mp3",
   "script": [

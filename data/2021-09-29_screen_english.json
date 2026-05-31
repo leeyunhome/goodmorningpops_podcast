@@ -3,8 +3,8 @@
   "date": "2021-09-29",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "You still have your slot",
-  "movie": "",
+  "title": "",
+  "movie": "코다 (CODA)",
   "duration_sec": 822.84,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-29_screen_english.mp3",
   "script": [

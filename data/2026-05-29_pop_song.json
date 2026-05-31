@@ -1,0 +1,1137 @@
+{
+  "id": "2026-05-29_pop_song",
+  "date": "2026-05-29",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "",
+  "movie": "",
+  "duration_sec": 655.64,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-29_pop_song.mp3",
+  "script": [
+    {
+      "start": 11.66,
+      "end": 15.34,
+      "text": "팝송에 스며드는 특별한 영어 시간 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.34,
+      "end": 23.26,
+      "text": "좋은 팝 음악으로 아침을 상쾌하게 깨워드립니다."
+    },
+    {
+      "start": 23.52,
+      "end": 25.32,
+      "text": "굿모닝 팝스 조정현입니다."
+    },
+    {
+      "start": 26.26,
+      "end": 29.86,
+      "text": "감성적인 음악과 함께 영어 표현들 알아볼게요."
+    },
+    {
+      "start": 30.3,
+      "end": 33.98,
+      "text": "먼저 오늘 미션 문장부터 들어보시면서 영어 문장으로 떠올려 보세요."
+    },
+    {
+      "start": 47.2,
+      "end": 50.79,
+      "text": "첫 번째, 난 그거 돌려받고 싶지 않아요."
+    },
+    {
+      "start": 52.86,
+      "end": 55.58,
+      "text": "두 번째, 둘 다 그렇네요."
+    },
+    {
+      "start": 55.58,
+      "end": 62.05,
+      "text": "세 번째, 난 진지한 관계는 좀 어려워요."
+    },
+    {
+      "start": 69.27,
+      "end": 73.29,
+      "text": "미국 출신 싱어송라이터 캘럽의 2022년 곡"
+    },
+    {
+      "start": 73.29,
+      "end": 78.97,
+      "text": "Lonely With You를 들으면서 우리가 미션 문장들 차근차근 해결해 볼 건데요."
+    },
+    {
+      "start": 79.75,
+      "end": 81.83,
+      "text": "세라 칸이 협업을 한 곡입니다."
+    },
+    {
+      "start": 82.67,
+      "end": 84.93,
+      "text": "둘의 목소리가 아주 조화롭게 들릴 거예요."
+    },
+    {
+      "start": 85.61,
+      "end": 87.37,
+      "text": "첫 번째 미션 문장인데요."
+    },
+    {
+      "start": 87.93,
+      "end": 91.81,
+      "text": "난 그거 돌려받고 싶지 않아요. 라는 문장 찾아보세요."
+    },
+    {
+      "start": 93.7,
+      "end": 111.32,
+      "text": "I'm giving my heart to the wrong one 이라는 거 들으셨죠?"
+    },
+    {
+      "start": 111.8,
+      "end": 115.32,
+      "text": "나는 I'm giving my heart, 내 마음을 주고 있대요."
+    },
+    {
+      "start": 115.7,
+      "end": 120.32,
+      "text": "To the wrong one, 잘못된 사람에게 주고 있어요. 라는 말입니다."
+    },
+    {
+      "start": 120.32,
+      "end": 123.44,
+      "text": "내 마음을 잘못된 사람에게 주고 있어요."
+    },
+    {
+      "start": 124.24,
+      "end": 125.6,
+      "text": "But I don't need it back."
+    },
+    {
+      "start": 126.26,
+      "end": 126.64,
+      "text": "뭐래요?"
+    },
+    {
+      "start": 127.06,
+      "end": 128.68,
+      "text": "I don't need it back."
+    },
+    {
+      "start": 129.04,
+      "end": 130.46,
+      "text": "우리가 찾아야 되는 문장이죠."
+    },
+    {
+      "start": 130.98,
+      "end": 132.6,
+      "text": "I don't need it back."
+    },
+    {
+      "start": 133.2,
+      "end": 137.26,
+      "text": "나는 그거 돌려받고 싶지 않아요. 라고 해석할 수 있어요."
+    },
+    {
+      "start": 137.98,
+      "end": 139.6,
+      "text": "I don't need it back."
+    },
+    {
+      "start": 139.94,
+      "end": 140.22,
+      "text": "그쵸?"
+    },
+    {
+      "start": 140.76,
+      "end": 144.4,
+      "text": "Because I'm not in it for the long run."
+    },
+    {
+      "start": 144.9,
+      "end": 146.38,
+      "text": "자, 이유를 밝혀줬습니다."
+    },
+    {
+      "start": 146.38,
+      "end": 148.24,
+      "text": "Because I'm not in it."
+    },
+    {
+      "start": 148.96,
+      "end": 151.1,
+      "text": "내가 거기에 푹 빠진 게 아니니까요."
+    },
+    {
+      "start": 151.42,
+      "end": 152.96,
+      "text": "For the long run."
+    },
+    {
+      "start": 153.12,
+      "end": 153.6,
+      "text": "이라고 했어요."
+    },
+    {
+      "start": 154.24,
+      "end": 155.76,
+      "text": "롱런 할 게 아니니까요."
+    },
+    {
+      "start": 156.06,
+      "end": 157.38,
+      "text": "오래 갈 생각이 아니니까요."
+    },
+    {
+      "start": 158.68,
+      "end": 162.28,
+      "text": "그래서 그것을 굳이 돌려받고 싶지 않다라고 밝힌 거예요."
+    },
+    {
+      "start": 163.22,
+      "end": 164.98,
+      "text": "I think I'm cool with that."
+    },
+    {
+      "start": 165.5,
+      "end": 166.14,
+      "text": "쿨하네요."
+    },
+    {
+      "start": 166.52,
+      "end": 168.4,
+      "text": "I think I'm cool with that."
+    },
+    {
+      "start": 168.78,
+      "end": 170.88,
+      "text": "나는 그거 괜찮다고 생각해요."
+    },
+    {
+      "start": 170.88,
+      "end": 173.02,
+      "text": "난 그게 괜찮은 것 같아요."
+    },
+    {
+      "start": 173.58,
+      "end": 174.8,
+      "text": "라고 해석하실 수 있어요."
+    },
+    {
+      "start": 175.16,
+      "end": 176.9,
+      "text": "I think I'm cool with that."
+    },
+    {
+      "start": 177.68,
+      "end": 181.02,
+      "text": "충분히 실용적으로 활용하실 수 있을 법한 문장입니다."
+    },
+    {
+      "start": 181.93,
+      "end": 183.27,
+      "text": "이제 두 번째 미션 문장."
+    },
+    {
+      "start": 183.89,
+      "end": 185.03,
+      "text": "둘 다 그렇네요."
+    },
+    {
+      "start": 185.25,
+      "end": 187.25,
+      "text": "둘 다 같은 입장이네요."
+    },
+    {
+      "start": 187.43,
+      "end": 189.53,
+      "text": "라는 의미를 담은 부분 찾아보세요."
+    },
+    {
+      "start": 189.53,
+      "end": 193.35,
+      "text": "Because you told me you're not serious."
+    },
+    {
+      "start": 193.75,
+      "end": 198.16,
+      "text": "Guess that makes it two of us."
+    },
+    {
+      "start": 201.32,
+      "end": 205.8,
+      "text": "Let me believe..."
+    },
+    {
+      "start": 205.8,
+      "end": 208.76,
+      "text": "Because you told me you're not serious."
+    },
+    {
+      "start": 209.42,
+      "end": 211.1,
+      "text": "또 다른 이유가 들렸죠."
+    },
+    {
+      "start": 211.6,
+      "end": 214.4,
+      "text": "당신이 told me 나에게 말했잖아요."
+    },
+    {
+      "start": 214.82,
+      "end": 216.14,
+      "text": "You are not serious."
+    },
+    {
+      "start": 216.84,
+      "end": 219.44,
+      "text": "당신이 진지한 건 아니라고요."
+    },
+    {
+      "start": 219.44,
+      "end": 222.84,
+      "text": "아, 당신도 진지한 건 아니라고 나한테 말했잖아요."
+    },
+    {
+      "start": 222.84,
+      "end": 225.6,
+      "text": "그래서 나도 마찬가지예요."
+    },
+    {
+      "start": 225.68,
+      "end": 227.86,
+      "text": "오래 갈 거 아니니까 나는 괜찮다고 생각해요."
+    },
+    {
+      "start": 228.08,
+      "end": 230.6,
+      "text": "라고 우리가 좀 전에 들은 가사도 해석을 한 겁니다."
+    },
+    {
+      "start": 231.61,
+      "end": 233.67,
+      "text": "Guess that makes the two of us."
+    },
+    {
+      "start": 234.23,
+      "end": 235.31,
+      "text": "이 부분 들으셨나요?"
+    },
+    {
+      "start": 236.17,
+      "end": 238.89,
+      "text": "Guess 대신에 think라고 생각하시면 되는 거니까."
+    },
+    {
+      "start": 239.41,
+      "end": 240.73,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 241.07,
+      "end": 242.27,
+      "text": "둘 다 그렇네요."
+    },
+    {
+      "start": 242.81,
+      "end": 244.71,
+      "text": "둘 다 같은 입장이네요."
+    },
+    {
+      "start": 245.11,
+      "end": 247.11,
+      "text": "라고 해석할 수 있는 부분입니다."
+    },
+    {
+      "start": 247.11,
+      "end": 249.03,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 249.43,
+      "end": 251.11,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 251.11,
+      "end": 253.47,
+      "text": "네, me too 이런 거 대신에"
+    },
+    {
+      "start": 253.47,
+      "end": 254.93,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 255.31,
+      "end": 257.99,
+      "text": "이런 문장으로 대답하실 수 있으면 아주 좋겠죠."
+    },
+    {
+      "start": 258.55,
+      "end": 259.99,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 260.33,
+      "end": 261.99,
+      "text": "여러 번 반복을 해드렸어요."
+    },
+    {
+      "start": 262.11,
+      "end": 263.15,
+      "text": "연습도 해보시고."
+    },
+    {
+      "start": 263.87,
+      "end": 266.37,
+      "text": "Singing, let me be lonely with you."
+    },
+    {
+      "start": 266.65,
+      "end": 267.95,
+      "text": "라는 소절도 들으셨죠."
+    },
+    {
+      "start": 268.59,
+      "end": 271.83,
+      "text": "앞에 I am 정도가 생략이 되어 있는 겁니다."
+    },
+    {
+      "start": 272.39,
+      "end": 274.45,
+      "text": "I'm singing 노래를 부르고 있는 거예요."
+    },
+    {
+      "start": 274.45,
+      "end": 276.77,
+      "text": "Let me be lonely with you."
+    },
+    {
+      "start": 276.77,
+      "end": 280.01,
+      "text": "당신과 같이 외롭고 싶어요."
+    },
+    {
+      "start": 280.33,
+      "end": 282.09,
+      "text": "라고 지금 노래하고 있는 거예요."
+    },
+    {
+      "start": 282.79,
+      "end": 284.75,
+      "text": "라고 해석을 할 수가 있고."
+    },
+    {
+      "start": 285.27,
+      "end": 288.13,
+      "text": "굳이 노래한다라는 해석 대신에"
+    },
+    {
+      "start": 288.13,
+      "end": 289.01,
+      "text": "예를 들어서"
+    },
+    {
+      "start": 289.01,
+      "end": 293.69,
+      "text": "당신과 함께 외롭고 싶다고 말하는 거예요."
+    },
+    {
+      "start": 294.07,
+      "end": 295.81,
+      "text": "라고 의역하셔도 자연스럽겠죠."
+    },
+    {
+      "start": 296.81,
+      "end": 298.43,
+      "text": "이제 세 번째 미션 문장입니다."
+    },
+    {
+      "start": 298.43,
+      "end": 302.09,
+      "text": "난 진지한 관계는 좀 어려워요."
+    },
+    {
+      "start": 302.27,
+      "end": 303.55,
+      "text": "라는 문장 찾아보세요."
+    },
+    {
+      "start": 319.77,
+      "end": 335.61,
+      "text": "내용은 그렇지 않은데"
+    },
+    {
+      "start": 335.61,
+      "end": 337.17,
+      "text": "멜로디는 참 아름답습니다."
+    },
+    {
+      "start": 337.93,
+      "end": 340.47,
+      "text": "You know, I've got commitment issues."
+    },
+    {
+      "start": 340.85,
+      "end": 342.75,
+      "text": "첫 소절 집중하셨겠죠."
+    },
+    {
+      "start": 343.37,
+      "end": 345.69,
+      "text": "I've got commitment issues."
+    },
+    {
+      "start": 345.69,
+      "end": 347.75,
+      "text": "자, commitment 할 때 철자는"
+    },
+    {
+      "start": 347.75,
+      "end": 351.31,
+      "text": "C-O-M-M-I-T-M-E-N-T"
+    },
+    {
+      "start": 351.31,
+      "end": 354.31,
+      "text": "그래서 commitment 하면 무슨 뜻일까요?"
+    },
+    {
+      "start": 354.93,
+      "end": 359.67,
+      "text": "헌신, 책임, 장기적인 약속 등을 칭할 수가 있는데"
+    },
+    {
+      "start": 359.67,
+      "end": 362.89,
+      "text": "issues라고 했으니까 문제들, 어려움"
+    },
+    {
+      "start": 362.89,
+      "end": 364.61,
+      "text": "이렇게 해석할 수 있잖아요."
+    },
+    {
+      "start": 365.31,
+      "end": 365.95,
+      "text": "I've got"
+    },
+    {
+      "start": 365.95,
+      "end": 368.57,
+      "text": "이 부분은 I have와도 같으니까"
+    },
+    {
+      "start": 368.57,
+      "end": 370.59,
+      "text": "I have commitment issues."
+    },
+    {
+      "start": 370.93,
+      "end": 371.05,
+      "text": "나는"
+    },
+    {
+      "start": 371.05,
+      "end": 373.59,
+      "text": "그렇죠. 헌신의 문제가 있다?"
+    },
+    {
+      "start": 374.07,
+      "end": 375.93,
+      "text": "나는 관계의 문제가 좀 있어요."
+    },
+    {
+      "start": 376.47,
+      "end": 379.73,
+      "text": "나는 오래 책임지는 관계의 문제가 있어요."
+    },
+    {
+      "start": 380.19,
+      "end": 380.79,
+      "text": "다시 말해"
+    },
+    {
+      "start": 380.79,
+      "end": 383.27,
+      "text": "나는 진지한 관계는 좀 어렵다."
+    },
+    {
+      "start": 383.45,
+      "end": 384.75,
+      "text": "라는 미션 문장이 되겠습니다."
+    },
+    {
+      "start": 385.69,
+      "end": 386.73,
+      "text": "정확히 이해되셨죠?"
+    },
+    {
+      "start": 387.49,
+      "end": 389.17,
+      "text": "But baby, so do you."
+    },
+    {
+      "start": 389.81,
+      "end": 390.13,
+      "text": "하지만"
+    },
+    {
+      "start": 390.13,
+      "end": 392.03,
+      "text": "baby, 당신도"
+    },
+    {
+      "start": 392.03,
+      "end": 393.35,
+      "text": "so do you."
+    },
+    {
+      "start": 393.95,
+      "end": 394.71,
+      "text": "마찬가지죠."
+    },
+    {
+      "start": 395.03,
+      "end": 395.75,
+      "text": "라고 말했어요."
+    },
+    {
+      "start": 396.35,
+      "end": 397.77,
+      "text": "풀어서 이야기를 한다면"
+    },
+    {
+      "start": 397.77,
+      "end": 399.59,
+      "text": "You have commitment issues too."
+    },
+    {
+      "start": 399.59,
+      "end": 402.81,
+      "text": "라고 우리가 풀어서 생각할 수도 있겠죠."
+    },
+    {
+      "start": 403.8,
+      "end": 406.1,
+      "text": "We just want emotion misuse."
+    },
+    {
+      "start": 406.86,
+      "end": 409.86,
+      "text": "이 부분에 misuse라는 단어가 들렸는데"
+    },
+    {
+      "start": 409.86,
+      "end": 412.56,
+      "text": "오용하다, 잘못 사용하다 라는 뜻이죠."
+    },
+    {
+      "start": 413.28,
+      "end": 416.78,
+      "text": "이런 문장은 일상 속에서는 거의 안 쓰이는 문장이긴 한데"
+    },
+    {
+      "start": 416.78,
+      "end": 419.78,
+      "text": "지금 노래 가사이니까 가능한 표현인 거고"
+    },
+    {
+      "start": 419.78,
+      "end": 424.16,
+      "text": "We just want emotion misuse."
+    },
+    {
+      "start": 424.4,
+      "end": 426.32,
+      "text": "충분히 해석하실 수 있을 거예요."
+    },
+    {
+      "start": 426.6,
+      "end": 430.24,
+      "text": "우리는 그냥 감정을 막 써버리고 싶은 거죠."
+    },
+    {
+      "start": 430.74,
+      "end": 431.78,
+      "text": "이 정도 되겠습니다."
+    },
+    {
+      "start": 432.5,
+      "end": 434.9,
+      "text": "감정 소비를 원하는 것일 뿐이죠."
+    },
+    {
+      "start": 434.9,
+      "end": 436.42,
+      "text": "이런 해석도 아주 좋겠죠."
+    },
+    {
+      "start": 437.48,
+      "end": 438.44,
+      "text": "비슷한 문장으로"
+    },
+    {
+      "start": 438.44,
+      "end": 440.66,
+      "text": "We are not taking this seriously."
+    },
+    {
+      "start": 441.2,
+      "end": 443.14,
+      "text": "이런 문장으로 대체할 수 있을 것 같아요."
+    },
+    {
+      "start": 444.02,
+      "end": 445.6,
+      "text": "Tell me, is it true?"
+    },
+    {
+      "start": 445.6,
+      "end": 448.4,
+      "text": "상대방에게 이렇게 확인을 하고 있습니다."
+    },
+    {
+      "start": 448.98,
+      "end": 451.1,
+      "text": "자, 맞지? 라는 뜻이에요."
+    },
+    {
+      "start": 451.48,
+      "end": 452.62,
+      "text": "Tell me, is it true?"
+    },
+    {
+      "start": 453.46,
+      "end": 455.66,
+      "text": "That you just want to hear me say?"
+    },
+    {
+      "start": 456.22,
+      "end": 458.0,
+      "text": "그러면서 당신은 그저"
+    },
+    {
+      "start": 458.0,
+      "end": 460.68,
+      "text": "내가 이렇게 말하는 걸 듣고 싶은 거죠."
+    },
+    {
+      "start": 461.52,
+      "end": 464.42,
+      "text": "The same old thing I tell you every day."
+    },
+    {
+      "start": 464.66,
+      "end": 468.78,
+      "text": "내가 매일 당신에게 똑같이 하는 말이에요."
+    },
+    {
+      "start": 469.42,
+      "end": 471.96,
+      "text": "The same old thing I tell you every day."
+    },
+    {
+      "start": 471.96,
+      "end": 475.19,
+      "text": "That I just want to be lonely with you."
+    },
+    {
+      "start": 475.53,
+      "end": 477.37,
+      "text": "그 말이 무엇이었는지"
+    },
+    {
+      "start": 477.37,
+      "end": 479.47,
+      "text": "맨 마지막에 밝혀주고 있는 거예요."
+    },
+    {
+      "start": 480.13,
+      "end": 482.27,
+      "text": "That I just want to be lonely with you."
+    },
+    {
+      "start": 482.27,
+      "end": 483.97,
+      "text": "나는 당신이랑 같이"
+    },
+    {
+      "start": 483.97,
+      "end": 485.81,
+      "text": "그냥 외롭고 싶다."
+    },
+    {
+      "start": 486.21,
+      "end": 486.97,
+      "text": "라는 말이요."
+    },
+    {
+      "start": 487.31,
+      "end": 487.79,
+      "text": "라는 겁니다."
+    },
+    {
+      "start": 488.49,
+      "end": 491.23,
+      "text": "둘 다 이런 말을 되게 자주 하고 있는 상황인 것 같죠?"
+    },
+    {
+      "start": 491.87,
+      "end": 492.77,
+      "text": "좀 씁쓸합니다."
+    },
+    {
+      "start": 493.19,
+      "end": 495.93,
+      "text": "진지하지 않은 관계라는 것을 알면서도"
+    },
+    {
+      "start": 495.93,
+      "end": 500.81,
+      "text": "또 같이 있어도 외로움이 느껴지는 상태인 것을 알면서도"
+    },
+    {
+      "start": 500.81,
+      "end": 503.91,
+      "text": "계속 이어가고 있는 관계를 표현하고 있네요."
+    },
+    {
+      "start": 504.77,
+      "end": 506.81,
+      "text": "그럼 효과적인 리뷰 타임!"
+    },
+    {
+      "start": 508.67,
+      "end": 512.07,
+      "text": "첫 번째, 난 그거 돌려받고 싶지 않아요."
+    },
+    {
+      "start": 512.83,
+      "end": 513.53,
+      "text": "뭐라고 했었죠?"
+    },
+    {
+      "start": 514.23,
+      "end": 515.65,
+      "text": "I don't need it back."
+    },
+    {
+      "start": 516.19,
+      "end": 516.55,
+      "text": "그쵸?"
+    },
+    {
+      "start": 516.81,
+      "end": 518.23,
+      "text": "I don't need it back."
+    },
+    {
+      "start": 518.69,
+      "end": 519.97,
+      "text": "라고 외쳤습니다."
+    },
+    {
+      "start": 520.55,
+      "end": 522.07,
+      "text": "I don't want it back."
+    },
+    {
+      "start": 522.55,
+      "end": 526.39,
+      "text": "이처럼 need 대신에 want도 충분히 가능하겠고"
+    },
+    {
+      "start": 526.39,
+      "end": 528.29,
+      "text": "No need to return it."
+    },
+    {
+      "start": 528.97,
+      "end": 530.53,
+      "text": "이렇게도 이야기할 수 있을 거예요."
+    },
+    {
+      "start": 530.85,
+      "end": 532.49,
+      "text": "No need to return it."
+    },
+    {
+      "start": 532.97,
+      "end": 533.23,
+      "text": "그쵸?"
+    },
+    {
+      "start": 533.23,
+      "end": 535.71,
+      "text": "두 번째, 둘 다 그렇네요."
+    },
+    {
+      "start": 536.01,
+      "end": 537.45,
+      "text": "둘 다 같은 입장이네요."
+    },
+    {
+      "start": 537.65,
+      "end": 538.45,
+      "text": "라는 상황에서"
+    },
+    {
+      "start": 538.45,
+      "end": 540.55,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 540.75,
+      "end": 541.95,
+      "text": "라는 표현을 들으셨어요."
+    },
+    {
+      "start": 542.45,
+      "end": 544.23,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 544.61,
+      "end": 547.23,
+      "text": "Me too 대신에 많이 쓰는 표현이라고 알려드렸어요."
+    },
+    {
+      "start": 548.33,
+      "end": 549.51,
+      "text": "Same here 도 있고"
+    },
+    {
+      "start": 549.51,
+      "end": 551.11,
+      "text": "I feel the same way."
+    },
+    {
+      "start": 551.35,
+      "end": 553.31,
+      "text": "이런 표현도 익숙하실 거고"
+    },
+    {
+      "start": 553.31,
+      "end": 554.81,
+      "text": "또 이런 것도 있죠."
+    },
+    {
+      "start": 554.91,
+      "end": 555.99,
+      "text": "We are in the same boat."
+    },
+    {
+      "start": 556.49,
+      "end": 556.71,
+      "text": "그쵸?"
+    },
+    {
+      "start": 557.21,
+      "end": 558.81,
+      "text": "여기에 곁들여서"
+    },
+    {
+      "start": 558.81,
+      "end": 560.25,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 560.49,
+      "end": 563.43,
+      "text": "이렇게 통째로 같이 기억해두시면 아주 좋겠어요."
+    },
+    {
+      "start": 564.31,
+      "end": 567.47,
+      "text": "세 번째, 난 진지한 관계는 좀 어려워요."
+    },
+    {
+      "start": 567.73,
+      "end": 568.55,
+      "text": "라는 문장은요."
+    },
+    {
+      "start": 569.29,
+      "end": 571.73,
+      "text": "I've got commitment issues."
+    },
+    {
+      "start": 572.05,
+      "end": 572.49,
+      "text": "였습니다."
+    },
+    {
+      "start": 573.07,
+      "end": 574.55,
+      "text": "I've got commitment issues."
+    },
+    {
+      "start": 574.97,
+      "end": 577.37,
+      "text": "I'm not ready for anything serious."
+    },
+    {
+      "start": 578.07,
+      "end": 580.57,
+      "text": "나는 진지한 관계가 준비가 안 됐어요."
+    },
+    {
+      "start": 580.89,
+      "end": 581.87,
+      "text": "라는 뜻일 거고"
+    },
+    {
+      "start": 581.87,
+      "end": 584.77,
+      "text": "I don't want to be tied down."
+    },
+    {
+      "start": 585.03,
+      "end": 585.31,
+      "text": "이처럼"
+    },
+    {
+      "start": 585.31,
+      "end": 586.89,
+      "text": "T-I-E-D"
+    },
+    {
+      "start": 586.89,
+      "end": 588.37,
+      "text": "Tied down."
+    },
+    {
+      "start": 588.87,
+      "end": 590.33,
+      "text": "묶여 있고 싶지 않아."
+    },
+    {
+      "start": 590.61,
+      "end": 592.23,
+      "text": "라고도 밝힐 수가 있습니다."
+    },
+    {
+      "start": 593.23,
+      "end": 593.49,
+      "text": "뭐"
+    },
+    {
+      "start": 593.49,
+      "end": 596.55,
+      "text": "I'm not good with long-term relationships."
+    },
+    {
+      "start": 597.21,
+      "end": 599.41,
+      "text": "대체 문장들 충분히 가능하겠죠?"
+    },
+    {
+      "start": 600.17,
+      "end": 602.23,
+      "text": "그럼 리듬 타면서 복습해 볼게요."
+    },
+    {
+      "start": 602.65,
+      "end": 609.34,
+      "text": "첫 번째,"
+    },
+    {
+      "start": 609.96,
+      "end": 611.72,
+      "text": "난 그거 돌려받고 싶지 않아요."
+    },
+    {
+      "start": 611.72,
+      "end": 613.4,
+      "text": "I don't need it back."
+    },
+    {
+      "start": 614.61,
+      "end": 615.81,
+      "text": "I don't need it back."
+    },
+    {
+      "start": 616.86,
+      "end": 618.1,
+      "text": "I don't need it back."
+    },
+    {
+      "start": 619.02,
+      "end": 619.66,
+      "text": "두 번째,"
+    },
+    {
+      "start": 620.22,
+      "end": 621.08,
+      "text": "둘 다 그렇네요."
+    },
+    {
+      "start": 621.58,
+      "end": 623.26,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 623.62,
+      "end": 625.56,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 626.02,
+      "end": 627.86,
+      "text": "That makes the two of us."
+    },
+    {
+      "start": 627.86,
+      "end": 628.92,
+      "text": "세 번째,"
+    },
+    {
+      "start": 629.44,
+      "end": 631.66,
+      "text": "난 진지한 관계는 좀 어려워요."
+    },
+    {
+      "start": 631.66,
+      "end": 634.78,
+      "text": "I've got commitment issues."
+    },
+    {
+      "start": 635.42,
+      "end": 637.14,
+      "text": "I've got commitment issues."
+    },
+    {
+      "start": 637.68,
+      "end": 639.46,
+      "text": "I've got commitment issues."
+    },
+    {
+      "start": 644.84,
+      "end": 646.2,
+      "text": "굿모닝 팝스 다시 듣기는"
+    },
+    {
+      "start": 646.2,
+      "end": 648.8,
+      "text": "KBS 애플리케이션 콩 오리지널 탭과"
+    },
+    {
+      "start": 648.8,
+      "end": 651.42,
+      "text": "KBS 콩 유튜브로 다시 들으실 수 있습니다."
+    },
+    {
+      "start": 652.12,
+      "end": 653.08,
+      "text": "굿모닝 팝스,"
+    },
+    {
+      "start": 653.08,
+      "end": 654.44,
+      "text": "저는 조정현이었습니다."
+    },
+    {
+      "start": 654.82,
+      "end": 655.64,
+      "text": "Have a happy day!"
+    }
+  ]
+}

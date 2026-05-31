@@ -3,8 +3,8 @@
   "date": "2022-07-28",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "This is the greatest day of my life",
-  "movie": "",
+  "title": "",
+  "movie": "파리의 도깨비 (A Monster in Paris)",
   "duration_sec": 1243.27,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-28_screen_english.mp3",
   "script": [

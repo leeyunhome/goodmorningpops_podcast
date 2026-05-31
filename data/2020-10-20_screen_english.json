@@ -3,8 +3,8 @@
   "date": "2020-10-20",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "Don_t be scared",
-  "movie": "",
+  "title": "",
+  "movie": "시크릿 가든 (The Secret Garden)",
   "duration_sec": 679.29,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-20_screen_english.mp3",
   "script": [

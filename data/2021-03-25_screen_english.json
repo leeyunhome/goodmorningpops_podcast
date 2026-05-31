@@ -3,8 +3,8 @@
   "date": "2021-03-25",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "I have nowhere else to go",
-  "movie": "",
+  "title": "",
+  "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
   "duration_sec": 769.08,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-25_screen_english.mp3",
   "script": [

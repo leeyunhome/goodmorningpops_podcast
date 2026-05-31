@@ -3,8 +3,8 @@
   "date": "2023-09-07",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "I_m told it_s all set",
-  "movie": "",
+  "title": "",
+  "movie": "스펜서 (Spencer)",
   "duration_sec": 911.59,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-07_screen_english.mp3",
   "script": [

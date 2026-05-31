@@ -3,8 +3,8 @@
   "date": "2020-10-07",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "Spring is on its way",
-  "movie": "",
+  "title": "",
+  "movie": "시크릿 가든 (The Secret Garden)",
   "duration_sec": 695.97,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-07_screen_english.mp3",
   "script": [

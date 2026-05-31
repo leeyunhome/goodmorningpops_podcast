@@ -3,8 +3,8 @@
   "date": "2021-09-02",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "I_m in a mood",
-  "movie": "",
+  "title": "",
+  "movie": "코다 (CODA)",
   "duration_sec": 942.7,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-02_screen_english.mp3",
   "script": [
