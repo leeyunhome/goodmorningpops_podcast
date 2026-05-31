@@ -45,12 +45,35 @@
       }
       const all = data.episodes || [];
 
-      // 영화 필터 옵션 채우기
+      // 영화 필터 옵션 채우기 (연도별 카테고리화)
+      const movieToYear = {};
+      all.forEach(e => {
+        if (e.movie && !movieToYear[e.movie]) {
+          movieToYear[e.movie] = e.date.substring(0, 4);
+        }
+      });
+
       const movies = [...new Set(all.map(e => e.movie).filter(Boolean))].sort();
-      for (const m of movies) {
-        const opt = document.createElement("option");
-        opt.value = m; opt.textContent = m;
-        movieFilter.appendChild(opt);
+      
+      const yearGroups = {};
+      movies.forEach(m => {
+        const year = movieToYear[m] || "기타";
+        if (!yearGroups[year]) {
+          yearGroups[year] = [];
+        }
+        yearGroups[year].push(m);
+      });
+
+      const sortedYears = Object.keys(yearGroups).sort((a, b) => b.localeCompare(a));
+      for (const year of sortedYears) {
+        const group = document.createElement("optgroup");
+        group.label = `${year}년`;
+        for (const m of yearGroups[year]) {
+          const opt = document.createElement("option");
+          opt.value = m; opt.textContent = m;
+          group.appendChild(opt);
+        }
+        movieFilter.appendChild(group);
       }
 
       function render() {

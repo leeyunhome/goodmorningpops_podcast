@@ -1,0 +1,142 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
+
+End-to-end pipeline for KBS Good Morning Pops (굿모닝 팝스) podcast: download → Whisper transcription → corner extraction (Screen English) → MP3 optimization → Supabase upload → GitHub Pages deployment with synced audio+subtitle player.
+
+## Key Commands
+
+```powershell
+# Full streaming pipeline (processes each episode end-to-end, pushes after each)
+python run_pipeline.py 1494088127 --from 2020-06-01 --to 2023-10-31 `
+    --repo ../goodmorningpops_podcast --prompt "조정현, 굿모닝 팝스, KBS"
+
+# Individual stages (each is independently runnable)
+python fetch_episode.py 1494088127 --date 2020-06-01 --transcribe
+python transcribe.py audio/somefile.mp3 --formats txt,srt,md
+python extract_corner.py audio --dry-run          # preview extraction boundaries
+python extract_corner.py audio --overwrite         # re-extract all
+python optimize_mp3.py audio/corners               # mono 64kbps
+python upload_supabase.py audio/corners/optimized   # to Supabase Storage
+python build_player.py --target ../goodmorningpops_podcast
+
+# TTS (text/PDF to MP3)
+python tts.py references/document.pdf --en-accent gb
+python tts.py --list-voices
+
+# Transcribe any audio file
+python transcribe.py path/to/file.m4a --formats txt,srt,md
+```
+
+## Architecture
+
+### Pipeline Stages (file-system decoupled)
+
+Each stage reads from disk and writes to disk. No cross-imports between stages. Interrupted runs resume from where they stopped.
+
+```
+fetch_episode.py    → audio/*.mp3
+transcribe.py       → audio/*.{txt,srt,md}
+extract_corner.py   → audio/corners/*.{mp3,txt,srt,md}
+optimize_mp3.py     → audio/corners/optimized/*.mp3
+upload_supabase.py  → supabase_urls.json + Supabase Storage
+build_player.py     → data/*.json + static assets copied to deploy repo
+```
+
+`run_pipeline.py` orchestrates all stages per-episode with immediate deploy after each.
+
+### Corner Extraction (`extract_corner.py`)
+
+Uses two detection methods in priority order:
+1. **N-gram fuzzy matching** (`ngram_detector.py` + `references/ngram_labels.json`) — character 3-gram + word 2-gram Jaccard similarity against known examples
+2. **Regex patterns** — sliding window over 4 adjacent SRT segments to handle cross-segment splits
+3. **Heuristic fallback** — intro skip (60s) if both fail (coverage-first policy)
+
+`CORNER_DEFS` dict in extract_corner.py holds all detection config per corner type. Currently supports `screen_english` and `review_time_screen`.
+
+### Web Player (`web/`)
+
+Single-page app deployed to GitHub Pages. `play.html` loads per-episode JSON from `data/`, syncs `<audio>` with subtitle segments. MediaSession API for background/lock-screen playback. Auto-advances to next episode (date-ordered).
+
+Root-level `play.html`, `index.html`, `app.js`, `style.css` are the **live deployed copies**. `web/` holds source templates that `build_player.py` copies to the deploy target.
+
+### Two Git Repos
+
+- **This repo** (`podcast/`): code + web templates. `audio/`, `.env`, `*.mp3` are gitignored.
+- **Deploy repo** (separate, e.g., `../goodmorningpops_podcast/`): `data/*.json` + static HTML/CSS/JS. Pushed by `run_pipeline.py` or manually.
+
+## Critical Windows/GPU Patterns
+
+### torch must import before faster_whisper
+
+ctranslate2's C++ loader needs PyTorch's cuDNN 9 DLLs on PATH. Every script that uses Whisper has this at the top:
+
+```python
+if sys.platform == "win32":
+    try:
+        import torch
+        _torch_lib = os.path.join(os.path.dirname(torch.__file__), "lib")
+        if os.path.isdir(_torch_lib):
+            os.add_dll_directory(_torch_lib)
+            os.environ["PATH"] = _torch_lib + os.pathsep + os.environ.get("PATH", "")
+    except ImportError:
+        pass
+from faster_whisper import WhisperModel
+```
+
+### Unicode path workaround
+
+PyAV/libavformat can't open paths with Korean characters on Windows. Pass file handle instead of path string:
+
+```python
+with open(audio_path, "rb") as fp:
+    segments, info = model.transcribe(fp, ...)
+```
+
+### Console encoding
+
+All scripts must have near the top:
+```python
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except AttributeError:
+    pass
+```
+
+### requirements.txt must be ASCII-only
+
+Korean comments cause `UnicodeDecodeError: 'cp949'` during `pip install`.
+
+## Pinned Dependencies (do not upgrade without testing)
+
+```
+ctranslate2==4.5.0    # 4.7.x silent crash, 4.4.x cuDNN 8 mismatch
+onnxruntime==1.19.2   # 1.26.0 DLL init failure on Windows
+setuptools<81         # ctranslate2 uses pkg_resources, removed in 81+
+```
+
+## Environment Variables (`.env`)
+
+```
+SUPABASE_URL=https://xxxx.supabase.co
+SUPABASE_SERVICE_KEY=eyJ...    # service_role key (for Storage uploads)
+SUPABASE_KEY=eyJ...            # anon public key (fallback)
+SUPABASE_BUCKET=gmp-audio
+```
+
+## Data Files
+
+- `supabase_urls.json` — filename → public URL mapping (generated by upload_supabase.py)
+- `movie_mapping.json` — date → movie title (generated by `tools/parse_movies.py`)
+- `references/ngram_labels.json` — start/end example sentences for N-gram detection
+- `LESSONS_LEARNED.md` — 20 documented gotchas with symptoms/causes/fixes
+
+## Git Conventions
+
+- Deploy commits: `deploy: YYYY-MM-DD screen_english`
+- Feature commits: `feat: <description>`
+- The deploy repo is pushed automatically by `run_pipeline.py`; code repo commits are manual
+- Never commit: `.env`, `credentials.json`, `token.json`, `audio/`, `*.mp3`

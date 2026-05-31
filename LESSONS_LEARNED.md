@@ -324,3 +324,72 @@ ML 핵심 의존성은 `==`.
 8. `python -c "import torch; from faster_whisper import WhisperModel; m = WhisperModel('tiny', device='cuda', compute_type='float16'); list(m.transcribe('test.mp3'))[0]; print('OK')"` 으로 검증
 9. `.env` 생성 (SUPABASE_URL, SUPABASE_KEY, SUPABASE_BUCKET)
 10. `credentials.json` (Google Drive 쓸 거면) 배치
+
+---
+
+## 17. 대규모 배치 실행 시 C드라이브 용량 고갈 및 MP3 누적 대책 (OSError: [Errno 28])
+
+### 증상
+4시간 이상 장기간 수백 개의 에피소드를 몰아서 처리하는 과정에서, 편당 30~50MB 크기의 대용량 원본 방송 `.mp3` 파일들이 `audio/` 폴더에 지속적으로 다운로드되어 누적됨. 이로 인해 수십 기가바이트의 디스크 공간을 소모하여 결국 C드라이브가 0바이트로 꽉 차 파이프라인이 중단되는 현상 발생.
+
+### 처방
+각 에피소드의 전사(`.srt`, `.txt`, `.md`), 코너 음성 추출(`.mp3`), 비트레이트 최적화, Supabase 업로드 및 배포 빌드가 완료되면 **원본 대용량 방송 MP3 파일은 로컬에 남겨둘 필요가 없음.**
+* 주기적으로 루트 `audio/` 폴더의 원본 파일만 안전하게 제거하여 수십 GB의 공간을 즉시 확보 가능.
+* 안전 삭제 명령어 (하위 `corners/` 폴더는 지우지 않는 규격):
+  ```powershell
+  Remove-Item -Path "audio\*.mp3" -Force
+  ```
+
+---
+
+## 18. 디스크 풀(Full) 중단 후 재개 시 손상된 파일 스킵 함정 (av.error.InvalidDataError)
+
+### 증상
+디스크 용량이 고갈되는 순간 다운로드 중이던 파일(예: 73KB 크기)이 완전히 다운로드되지 못한 채 **손상된 상태**로 남음. 이후 디스크 공간을 확보하고 파이프라인을 재개할 때, 스크립트가 파일이 이미 존재한다고 판단하여 다운로드를 건너뛰고 바로 Whisper 전사 단계를 실행함. 이로 인해 PyAV 디코더가 깨진 오디오 데이터를 파싱하지 못해 `av.error.InvalidDataError` 에러와 함께 크래시 발생.
+
+### 처방
+디스크 용량 초과 등으로 비정상 종료된 후 파이프라인을 다시 돌릴 때에는, **이전 단계에서 깨진 임시 파일들이 남아있을 확률이 높으므로** 반드시 `audio/` 루트의 MP3 파일들을 완전히 비우고(`Remove-Item -Path "audio\*.mp3" -Force`) 시작해야 함.
+
+---
+
+## 19. 복수 코너(다형성) 파싱 시 정규식 컴파일 일관성 및 KeyError 방지
+
+### 증상
+`extract_corner.py` 내부의 다형성 설정 구조(`CORNER_DEFS`)에서 신규 코너(`review_time_screen`)를 추가할 때, 패턴을 정규식 컴파일 객체(`re.compile(...)`) 대신 일반 raw string(`r"..."`)으로 등록하면 런타임 에러(`AttributeError: 'str' object has no attribute 'search'`) 발생. 또한 `fallback` 설정 키가 코너 규격마다 다를 경우(예: `fallback_start` vs `intro_skip_seconds`) 정형화된 공통 메서드 호출 과정에서 `KeyError` 발생.
+
+### 처방
+1. `CORNER_DEFS` 내의 모든 `start_patterns` 및 `end_patterns`는 **반드시 일관되게 `re.compile()`을 씌워서 등록**해야 함.
+2. 모든 코너에 적용되는 시작/종료 탐색 제한 상한 및 폴백 파라미터 키 구조(`start_max_minutes`, `start_window_segments`, `max_end_minutes`, `end_window_segments`, `intro_skip_seconds`, `max_duration_minutes`)를 엄격하게 상호 일치시켜야 런타임에 다형성 분기가 안전하게 작동함.
+
+---
+
+## 20. Edge TTS — 음높이(Pitch) 규격 제한 및 기호 단독 청크 예외 처리
+
+### 증상 1 (피치 단위 규격 에러)
+`tts.py`에서 청아하고 우아한 하이톤(예: 엘사 모드)을 표현하기 위해 `pitch="+10%"`로 매개변수를 넘겼을 때 다음과 같은 에러 발생:
+```text
+ValueError: Invalid pitch '+10%'.
+validate_string_param("pitch", self.pitch, r"^[+-]\d+Hz$")
+```
+
+### 원인 1
+`edge-tts` 라이브러리의 `Communicate` 생성자 내부에서 피치(`pitch`) 매개변수를 검증할 때, 퍼센트(`%`) 단위는 허용하지 않고 정규식 `^[+-]\d+Hz$` 패턴만 통과시킴. 즉, **오직 Hz 단위(예: `+15Hz`, `-10Hz`)로만 피치를 설정할 수 있음.**
+
+### 처방 1
+피치를 Hz 단위인 `+15Hz`로 변경하여 `edge-tts` 내부 정규식 검증을 통과시킴. 청아하고 깨끗한 톤(엘사 모드)은 `+15Hz` 정도로 충분히 훌륭하게 연출 가능.
+
+---
+
+### 증상 2 (기호 단독 청크 합성 에러)
+피치 규격을 고친 뒤에도 텍스트 맨 뒤의 `>`와 같은 단독 특수문자나 발음 불가능한 한 글자 짜리 청크(`[2/3] [SunHi] 1자`)가 합성 단계로 넘어가면 다음과 같은 에러와 함께 전체 변환 작업이 크래시(Crash)를 일으키며 중단됨:
+```text
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+```
+
+### 원인 2
+한영 감지 텍스트 분할 알고리즘(`split_by_language`)이 문장 종결 기호 등을 쪼개는 과정에서 알파벳이나 숫자가 전혀 포함되어 있지 않은 단독 특수 기호 청크를 생성할 수 있음. TTS 엔진에 이러한 텍스트를 전송하면, 소리를 전혀 추출할 수 없어 `NoAudioReceived` 예외가 발생함.
+
+### 처방 2
+`tts.py`의 `synthesize` 함수 루프에 `try-except` 구문을 씌워 예외 처리를 보강함. 발음 불가능한 기호로 인해 `edge-tts` 엔진이 음성 수신 실패 예외를 던지더라도, 스크립트 전체가 죽지 않고 단순 경고 로그(`[경고] 합성 건너뜀...`)만 출력한 뒤 다음 청크의 합성을 안전하게 이어가도록 개선함.
+
+

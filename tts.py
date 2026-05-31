@@ -7,6 +7,8 @@
   python tts.py references/notes.txt
   python tts.py references/OPIc_AL_Final_Audio_Guide_Handbook.pdf --rate +10%
   python tts.py document.pdf --voice ko-KR-InJoonNeural
+  python tts.py document.md --elsa
+  python tts.py document.md --sherlock
   python tts.py --list-voices
 
 OCR 사용 시 시스템 의존성 필요:
@@ -243,6 +245,7 @@ async def synthesize(
     ko_voice: str,
     en_voice: str | None,
     rate: str,
+    pitch: str,
     output: Path,
 ) -> None:
     """언어 감지 후 한국어/영어 음성을 자동 전환해 합성.
@@ -280,11 +283,14 @@ async def synthesize(
     for i, (voice, chunk) in enumerate(plan, 1):
         short = voice.split("-")[-1].replace("Neural", "")
         print(f"  [{i}/{len(plan)}] [{short:12s}] {len(chunk):,}자")
-        communicate = edge_tts.Communicate(chunk, voice=voice, rate=rate)
-        with open(output, "ab") as f:
-            async for piece in communicate.stream():
-                if piece["type"] == "audio":
-                    f.write(piece["data"])
+        try:
+            communicate = edge_tts.Communicate(chunk, voice=voice, rate=rate, pitch=pitch)
+            with open(output, "ab") as f:
+                async for piece in communicate.stream():
+                    if piece["type"] == "audio":
+                        f.write(piece["data"])
+        except Exception as e:
+            print(f"  [경고] 합성 건너뜀 (발음할 수 없는 기호 등): {e}", file=sys.stderr)
 
 
 async def list_available_voices(prefixes: tuple[str, ...] = ("ko", "en")) -> None:
@@ -361,6 +367,16 @@ def main() -> int:
         help="OCR 정책 (PDF 한정, 기본: auto = 텍스트 추출 빈약할 때만)",
     )
     p.add_argument(
+        "--elsa",
+        action="store_true",
+        help="❄️ 엘사 모드 활성화 (청아하고 우아한 겨울왕국 스타일 음성) ❄️",
+    )
+    p.add_argument(
+        "--sherlock",
+        action="store_true",
+        help="🎻 셜록 모드 활성화 (베네딕트 컴버비치 스타일의 깊고 묵직한 영국 남성 저음) 🎻",
+    )
+    p.add_argument(
         "--list-voices",
         action="store_true",
         help="한국어/영어 음성 목록 출력 후 종료",
@@ -383,9 +399,20 @@ def main() -> int:
         Path(args.output) if args.output else input_path.with_suffix(".mp3")
     )
 
-    if args.voice:
+    if args.elsa:
+        ko_voice = "ko-KR-SunHiNeural"
+        en_voice = "en-US-EmmaNeural"
+        pitch = "+15Hz"
+        mode_desc = "❄️ 엘사 모드 (한국어: SunHi +15Hz / 영어: Emma +15Hz) ❄️"
+    elif args.sherlock:
+        ko_voice = "ko-KR-InJoonNeural"
+        en_voice = "en-GB-RyanNeural"
+        pitch = "-15Hz"
+        mode_desc = "🎻 셜록 모드 (한국어: InJoon / 영어: Ryan -15Hz 컴버비치 저음) 🎻"
+    elif args.voice:
         ko_voice = args.voice
         en_voice = None  # 단일 음성 모드
+        pitch = "+0Hz"
         mode_desc = f"단일 음성 ({args.voice})"
     else:
         ko_voice = args.ko_voice
@@ -394,6 +421,7 @@ def main() -> int:
         accent_note = (
             f" (en-accent={args.en_accent})" if not args.en_voice else ""
         )
+        pitch = "+0Hz"
         mode_desc = f"한국어={ko_voice} / 영어={en_voice}{accent_note}"
 
     print(f"입력: {input_path}")
@@ -406,7 +434,7 @@ def main() -> int:
         raise SystemExit("추출된 텍스트가 비어 있습니다.")
 
     print(f"텍스트 길이: {len(text):,}자")
-    asyncio.run(synthesize(text, ko_voice, en_voice, args.rate, output_path))
+    asyncio.run(synthesize(text, ko_voice, en_voice, args.rate, pitch, output_path))
     print(f"\n완료: {output_path}")
     return 0
 

@@ -156,7 +156,7 @@ def build_episode(
         print(f"  ! supabase URL 없음: {mp3_name} (먼저 upload_supabase.py 실행)", file=sys.stderr)
 
     title = find_original_title(audio_dir, date, corner)
-    movie = movie_map.get(date, "")
+    movie = movie_map.get(date[:7], "")
 
     return Episode(
         id=stem,
