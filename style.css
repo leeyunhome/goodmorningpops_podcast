@@ -151,16 +151,36 @@ main {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 20px;
+  padding: 0;
   text-decoration: none;
   color: inherit;
   display: flex;
-  flex-direction: column;
-  gap: 8px;
+  flex-direction: row;
+  gap: 0;
   transition: border-color var(--transition), transform var(--transition),
     box-shadow var(--transition), background var(--transition);
   position: relative;
   overflow: hidden;
+}
+.card-thumb {
+  width: 100px;
+  min-height: 100px;
+  flex-shrink: 0;
+  background: var(--surface-2);
+  background-size: cover;
+  background-position: center;
+  transition: opacity 0.3s ease;
+}
+.card-thumb.has-art {
+  opacity: 1;
+}
+.card-body {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex: 1;
+  min-width: 0;
 }
 .card::before {
   content: "";
@@ -231,6 +251,35 @@ main {
   padding: 20px;
   flex-shrink: 0;
 }
+
+/* Album Artwork */
+.artwork-wrap {
+  margin: -20px -20px 16px -20px;
+  border-radius: var(--radius) var(--radius) 0 0;
+  overflow: hidden;
+  position: relative;
+  background: var(--bg-deep);
+}
+.artwork {
+  width: 100%;
+  display: block;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+.artwork[src] { opacity: 1; }
+.artwork-wrap::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background: linear-gradient(transparent, var(--surface));
+  pointer-events: none;
+}
+
 .player-meta h2 {
   font-size: 22px;
   margin: 0 0 12px 0;

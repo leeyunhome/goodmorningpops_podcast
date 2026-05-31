@@ -50,6 +50,42 @@ function formatText(s) {
   return esc.replace(/([가-힣ㄱ-ㅎㅏ-ㅣ]+[가-힣ㄱ-ㅎㅏ-ㅣ\s\d.,!?~]*)/g, '<span class="kor-text">$1</span>');
 }
 
+// iTunes Search API로 앨범 아트 조회
+const _artworkCache = {};
+async function fetchArtwork(title, size) {
+  size = size || 600;
+  if (!title) return null;
+  // "Screen English - xxx" 같은 제목은 영화 대사라 앨범아트 없음
+  if (/screen\s*english/i.test(title)) return null;
+  // 제목에서 곡명 - 아티스트 추출 (파일명의 _ 를 ' 로 복원)
+  let query = title.replace(/_/g, "'").trim();
+  // "(06/01/월)" 같은 날짜 접두사 제거
+  query = query.replace(/^\(\d{2}\/\d{2}\/[월화수목금토일]\)\s*/, "");
+  // 앞뒤 공백/특수문자 정리
+  query = query.replace(/[^\w\s\-'가-힣]/g, " ").trim();
+  if (!query || query.length < 3) return null;
+
+  if (_artworkCache[query]) return _artworkCache[query];
+
+  try {
+    const url = `https://itunes.apple.com/search?term=${encodeURIComponent(query)}&media=music&limit=1`;
+    const res = await fetch(url);
+    if (!res.ok) return null;
+    const data = await res.json();
+    if (data.results && data.results.length > 0) {
+      // 100x100 → 원하는 크기로 변환
+      const artUrl = data.results[0].artworkUrl100
+        .replace("100x100", `${size}x${size}`);
+      _artworkCache[query] = artUrl;
+      return artUrl;
+    }
+  } catch (e) {
+    console.warn("artwork fetch failed:", e);
+  }
+  _artworkCache[query] = null;
+  return null;
+}
+
 // 재생 속도 변경
 function changeSpeed(delta) {
   const audio = document.getElementById("audio");

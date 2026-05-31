@@ -22,6 +22,9 @@
     <div class="player-wrap">
       <!-- LEFT: Meta + Audio Player -->
       <aside class="player-meta">
+        <div class="artwork-wrap" id="artwork-wrap" style="display:none">
+          <img id="artwork" class="artwork" alt="" />
+        </div>
         <h2 id="title">—</h2>
         <div class="info-row" id="date-row">—</div>
         <div class="info-row" id="movie-row" style="display:none"></div>
@@ -100,6 +103,29 @@
           prev: i > 0 ? allEpisodes[i - 1] : null,
           next: (i >= 0 && i + 1 < allEpisodes.length) ? allEpisodes[i + 1] : null,
         };
+      }
+
+      // ====== 앨범 아트 로딩 ======
+      async function loadArtwork(ep) {
+        const wrap = document.getElementById("artwork-wrap");
+        const img = document.getElementById("artwork");
+        wrap.style.display = "none";
+        const url = await fetchArtwork(ep.title, 600);
+        if (url) {
+          img.src = url;
+          img.alt = ep.title || "";
+          wrap.style.display = "";
+          // MediaSession 아트워크도 갱신
+          if ('mediaSession' in navigator && navigator.mediaSession.metadata) {
+            try {
+              navigator.mediaSession.metadata.artwork = [
+                { src: url.replace("600x600", "96x96"), sizes: "96x96", type: "image/jpeg" },
+                { src: url.replace("600x600", "256x256"), sizes: "256x256", type: "image/jpeg" },
+                { src: url, sizes: "600x600", type: "image/jpeg" },
+              ];
+            } catch {}
+          }
+        }
       }
 
       // ====== MediaSession (백그라운드/잠금화면 컨트롤) ======
@@ -204,6 +230,7 @@
         renderMeta(ep);
         renderSegments(ep.script);
         setupMediaSession(ep);
+        loadArtwork(ep);
 
         if (ep.audio_url) {
           audio.src = ep.audio_url;
