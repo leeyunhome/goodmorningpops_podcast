@@ -32,8 +32,8 @@ except AttributeError:
 # 코너 추출본만 허용. 본 방송 mp3는 파일명이 이 패턴과 다르므로 자동 거부됨.
 # 형식: YYYY-MM-DD_<코너id>.mp3
 CORNER_FILENAME_RE = re.compile(
-    r"^\d{4}-\d{2}-\d{2}_(?:screen_english|review_time|friday_news_pick|"
-    r"laura_scrapbook)\.mp3$"
+    r"^\d{4}-\d{2}-\d{2}_(?:screen_english|review_time|review_time_screen|"
+    r"friday_news_pick|laura_scrapbook|pop_song)\.mp3$"
 )
 
 

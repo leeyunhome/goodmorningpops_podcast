@@ -117,11 +117,6 @@ def process_episode(
     else:
         print(f"  [1/7] mp3 이미 있음")
 
-    # Screen English나 Review Time이 아니면 여기서 종료
-    name_lower = dest_mp3.name.lower()
-    if "screen english" not in name_lower and "review time" not in name_lower:
-        return "not-screen-english"
-
     # 2. Transcribe
     srt_path = dest_mp3.with_suffix(".srt")
     txt_path = dest_mp3.with_suffix(".txt")
@@ -141,27 +136,48 @@ def process_episode(
     else:
         print(f"  [2/7] 전사 이미 있음")
 
-    # 3. Extract Screen English or Review Time
-    corner_id = "review_time_screen" if "review time" in name_lower else "screen_english"
-    corner_def = ec.CORNER_DEFS[corner_id]
-    print(f"  [3/7] extract...")
+    # 3. Extract corner or use full episode
+    name_lower = dest_mp3.name.lower()
     out_corners.mkdir(parents=True, exist_ok=True)
-    ok = ec.process_one(
-        audio_path=dest_mp3,
-        corner=corner_def,
-        corner_id=corner_id,
-        out_dir=out_corners,
-        manual_start=None,
-        manual_end=None,
-        overwrite=args.overwrite,
-        dry_run=False,
-    )
-    if not ok:
-        return "extract-skipped"
 
-    corner_mp3 = out_corners / f"{date_str}_{corner_id}.mp3"
-    if not corner_mp3.exists():
-        return "extract-no-output"
+    if "screen english" in name_lower:
+        corner_id = "screen_english"
+    elif "review time" in name_lower:
+        corner_id = "review_time_screen"
+    else:
+        corner_id = None
+
+    if corner_id and corner_id in ec.CORNER_DEFS:
+        corner_def = ec.CORNER_DEFS[corner_id]
+        print(f"  [3/7] extract ({corner_id})...")
+        ok = ec.process_one(
+            audio_path=dest_mp3,
+            corner=corner_def,
+            corner_id=corner_id,
+            out_dir=out_corners,
+            manual_start=None,
+            manual_end=None,
+            overwrite=args.overwrite,
+            dry_run=False,
+        )
+        if not ok:
+            return "extract-skipped"
+        corner_mp3 = out_corners / f"{date_str}_{corner_id}.mp3"
+        if not corner_mp3.exists():
+            return "extract-no-output"
+    else:
+        # Screen English/Review Time이 아닌 회차: 전체 방송을 그대로 사용
+        corner_id = "pop_song"
+        corner_mp3 = out_corners / f"{date_str}_{corner_id}.mp3"
+        print(f"  [3/7] 코너 추출 없음 (전체 방송 사용, {corner_id})")
+        import shutil as _sh
+        if not corner_mp3.exists() or args.overwrite:
+            _sh.copy2(str(dest_mp3), str(corner_mp3))
+        for ext in (".srt", ".txt", ".md"):
+            src = dest_mp3.with_suffix(ext)
+            dst = out_corners / f"{date_str}_{corner_id}{ext}"
+            if src.exists() and (not dst.exists() or args.overwrite):
+                _sh.copy2(str(src), str(dst))
 
     # 4. Optimize
     optimized_dir = out_corners / "optimized"
@@ -226,10 +242,14 @@ def main() -> int:
     )
     p.add_argument("apple_id", help="Apple Podcasts ID (예: 1494088127)")
     p.add_argument(
-        "--from", dest="from_date", required=True, help="시작 날짜 YYYY-MM-DD"
+        "--date", dest="on_date", default=None,
+        help="특정 날짜 하루만 (YYYY-MM-DD). --from/--to 대신 사용.",
     )
     p.add_argument(
-        "--to", dest="to_date", required=True, help="종료 날짜 YYYY-MM-DD"
+        "--from", dest="from_date", default=None, help="시작 날짜 YYYY-MM-DD"
+    )
+    p.add_argument(
+        "--to", dest="to_date", default=None, help="종료 날짜 YYYY-MM-DD"
     )
     p.add_argument(
         "--repo",
@@ -300,10 +320,16 @@ def main() -> int:
     feed_url = fe.lookup_feed_url(args.apple_id)
     all_eps = fe.list_episodes(feed_url, prefer="title")
 
-    from_date = fe.parse_date(args.from_date)
-    to_date = fe.parse_date(args.to_date)
-    if from_date > to_date:
-        raise SystemExit("--from 이 --to 보다 늦습니다.")
+    if args.on_date:
+        from_date = fe.parse_date(args.on_date)
+        to_date = from_date
+    elif args.from_date and args.to_date:
+        from_date = fe.parse_date(args.from_date)
+        to_date = fe.parse_date(args.to_date)
+        if from_date > to_date:
+            raise SystemExit("--from 이 --to 보다 늦습니다.")
+    else:
+        raise SystemExit("--date YYYY-MM-DD 또는 --from/--to 를 지정하세요.")
 
     targets = []
     for ep in all_eps:
