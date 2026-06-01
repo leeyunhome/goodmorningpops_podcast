@@ -53,6 +53,7 @@ class Episode:
     movie: str
     duration_sec: float
     audio_url: str
+    artwork_generated_url: str
     script: list[dict]
 
 
@@ -136,6 +137,7 @@ def build_episode(
     audio_dir: Path,
     url_map: dict[str, str],
     movie_map: dict[str, str],
+    artwork_map: dict[str, str] | None = None,
 ) -> Episode | None:
     stem = srt_path.stem  # 예: "2020-06-22_screen_english"
     m = re.match(r"^(\d{4}-\d{2}-\d{2})_(.+)$", stem)
@@ -158,6 +160,10 @@ def build_episode(
     title = find_original_title(audio_dir, date, corner)
     movie = movie_map.get(date[:7], "")
 
+    artwork_generated_url = ""
+    if artwork_map:
+        artwork_generated_url = artwork_map.get(stem, "")
+
     return Episode(
         id=stem,
         date=date,
@@ -167,6 +173,7 @@ def build_episode(
         movie=movie,
         duration_sec=round(duration, 2),
         audio_url=audio_url,
+        artwork_generated_url=artwork_generated_url,
         script=script,
     )
 
@@ -237,6 +244,11 @@ def main() -> int:
         help="날짜 -> 영화명 매핑 JSON (선택, 기본: movie_mapping.json)",
     )
     p.add_argument(
+        "--artwork-map",
+        default="artwork_urls.json",
+        help="에피소드 ID -> 생성 이미지 URL 매핑 (선택, 기본: artwork_urls.json)",
+    )
+    p.add_argument(
         "--web-dir",
         default="web",
         help="정적 HTML/CSS/JS 템플릿 폴더 (기본: web)",
@@ -257,6 +269,7 @@ def main() -> int:
     audio_dir = Path(args.audio_dir)
     url_map = load_url_map(Path(args.url_map))
     movie_map = load_movie_mapping(Path(args.movie_map))
+    artwork_map = load_url_map(Path(args.artwork_map))  # reuse same loader
     target = Path(args.target)
     data_dir = target / "data"
 
@@ -273,7 +286,7 @@ def main() -> int:
     episodes: list[Episode] = []
     no_url: list[str] = []
     for srt in srt_files:
-        ep = build_episode(srt, audio_dir, url_map, movie_map)
+        ep = build_episode(srt, audio_dir, url_map, movie_map, artwork_map)
         if ep is None:
             continue
         episodes.append(ep)

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T11:35:59",
+  "generated_at": "2026-06-01T12:57:20",
   "count": 399,
   "episodes": [
     {
@@ -10,7 +10,8 @@
       "title": "",
       "movie": "",
       "duration_sec": 599.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-01_pop_song.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-01_pop_song.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2026-05-29_pop_song",
@@ -20,7 +21,8 @@
       "title": "",
       "movie": "",
       "duration_sec": 655.64,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-29_pop_song.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-29_pop_song.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2026-05-28_pop_song",
@@ -30,7 +32,8 @@
       "title": "",
       "movie": "",
       "duration_sec": 661.49,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-28_pop_song.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-28_pop_song.mp3",
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-05-28_pop_song.png"
     },
     {
       "id": "2024-06-30_review_time_screen",
@@ -40,7 +43,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 1193.25,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-30_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-30_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-27_screen_english",
@@ -50,7 +54,8 @@
       "title": "Do ghosts really exist",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 1139.19,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-26_screen_english",
@@ -60,7 +65,8 @@
       "title": "If you_re looking for inspiration_ I recommend in her",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 774.99,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-25_screen_english",
@@ -70,7 +76,8 @@
       "title": "You_ve never done that before",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 702.33,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-24_screen_english",
@@ -80,7 +87,8 @@
       "title": "I can_t get beyond that point",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 580.86,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-23_review_time_screen",
@@ -90,7 +98,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 786.61,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-23_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-23_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-20_screen_english",
@@ -100,7 +109,8 @@
       "title": "Don_t wanna jinx it",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 910.75,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-18_screen_english",
@@ -110,7 +120,8 @@
       "title": "You_ve just gotta trust yourself",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 706.04,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-17_screen_english",
@@ -120,7 +131,8 @@
       "title": "The interiors were mostly shot in studio",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 799.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-16_review_time_screen",
@@ -130,7 +142,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 1159.11,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-16_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-16_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-13_screen_english",
@@ -140,7 +153,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 628.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-12_screen_english",
@@ -150,7 +164,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 725.3,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-11_screen_english",
@@ -160,7 +175,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 917.53,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-10_screen_english",
@@ -170,7 +186,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 801.88,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-06_screen_english",
@@ -180,7 +197,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 803.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-05_screen_english",
@@ -190,7 +208,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 688.37,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-04_screen_english",
@@ -200,7 +219,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 637.14,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-02_review_time_screen",
@@ -210,7 +230,8 @@
       "title": "",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 1152.69,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-02_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-02_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-30_screen_english",
@@ -220,7 +241,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 1014.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-29_screen_english",
@@ -230,7 +252,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 871.7,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-28_screen_english",
@@ -240,7 +263,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 998.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-27_screen_english",
@@ -250,7 +274,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 980.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-26_review_time_screen",
@@ -260,7 +285,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 794.15,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-26_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-26_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-23_screen_english",
@@ -270,7 +296,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 897.1,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-22_screen_english",
@@ -280,7 +307,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 344.35,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-21_screen_english",
@@ -290,7 +318,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 989.3,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-20_screen_english",
@@ -300,7 +329,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 875.7,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-19_review_time_screen",
@@ -310,7 +340,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 877.21,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-19_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-19_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-16_screen_english",
@@ -320,7 +351,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 911.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-15_screen_english",
@@ -330,7 +362,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 545.35,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-14_screen_english",
@@ -340,7 +373,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 883.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-13_screen_english",
@@ -350,7 +384,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 479.25,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-12_review_time_screen",
@@ -360,7 +395,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 246.6,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-12_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-12_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-09_screen_english",
@@ -370,7 +406,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 1161.72,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-08_screen_english",
@@ -380,7 +417,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 787.04,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-07_screen_english",
@@ -390,7 +428,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 1201.65,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-06_screen_english",
@@ -400,7 +439,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 1023.11,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-05_review_time_screen",
@@ -410,7 +450,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 1264.6,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-05_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-05_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-02_screen_english",
@@ -420,7 +461,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 1040.21,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-05-01_screen_english",
@@ -430,7 +472,8 @@
       "title": "",
       "movie": "더 파더 (The Father)",
       "duration_sec": 651.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-30_screen_english",
@@ -440,7 +483,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 828.3,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-29_screen_english",
@@ -450,7 +494,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 904.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-28_review_time_screen",
@@ -460,7 +505,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 1184.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-28_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-28_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-25_screen_english",
@@ -470,7 +516,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 1077.77,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-24_screen_english",
@@ -480,7 +527,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 1050.46,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-22_screen_english",
@@ -490,7 +538,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 798.83,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-21_review_time_screen",
@@ -500,7 +549,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 1036.45,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-21_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-21_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-18_screen_english",
@@ -510,7 +560,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 760.02,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-17_screen_english",
@@ -520,7 +571,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 706.51,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-16_screen_english",
@@ -530,7 +582,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 940.51,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-15_screen_english",
@@ -540,7 +593,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 1012.72,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-14_review_time_screen",
@@ -550,7 +604,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 782.51,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-14_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-14_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-11_screen_english",
@@ -560,7 +615,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 790.81,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-10_screen_english",
@@ -570,7 +626,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 583.11,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-09_screen_english",
@@ -580,7 +637,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 912.1,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-08_screen_english",
@@ -590,7 +648,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 728.86,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-07_review_time_screen",
@@ -600,7 +659,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 1189.49,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-07_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-07_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-04_screen_english",
@@ -610,7 +670,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 586.78,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-02_screen_english",
@@ -620,7 +681,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 836.35,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-04-01_screen_english",
@@ -630,7 +692,8 @@
       "title": "",
       "movie": "용감한 돌고래 벨루와 바닷속 친구들 (Katak: The Brave Beluga)",
       "duration_sec": 935.87,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-04-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-03-31_review_time_screen",
@@ -640,7 +703,8 @@
       "title": "",
       "movie": "틴 스피릿 (Teen Spirit)",
       "duration_sec": 1086.86,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-03-31_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-03-31_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-03-27_screen_english",
@@ -650,7 +714,8 @@
       "title": "",
       "movie": "틴 스피릿 (Teen Spirit)",
       "duration_sec": 777.47,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-03-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-03-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-03-26_screen_english",
@@ -660,7 +725,8 @@
       "title": "",
       "movie": "틴 스피릿 (Teen Spirit)",
       "duration_sec": 883.36,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-03-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-03-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-10-05_screen_english",
@@ -670,7 +736,8 @@
       "title": "",
       "movie": "어떤 손님 (Guest of Honour)",
       "duration_sec": 1095.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-10-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-10-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-10-04_screen_english",
@@ -680,7 +747,8 @@
       "title": "",
       "movie": "어떤 손님 (Guest of Honour)",
       "duration_sec": 761.9,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-10-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-10-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-10-02_screen_english",
@@ -690,7 +758,8 @@
       "title": "",
       "movie": "어떤 손님 (Guest of Honour)",
       "duration_sec": 613.6,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-10-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-10-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-21_screen_english",
@@ -700,7 +769,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 986.41,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-20_screen_english",
@@ -710,7 +780,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 1025.69,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-19_screen_english",
@@ -720,7 +791,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 690.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-19_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-19_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-18_screen_english",
@@ -730,7 +802,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 921.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-14_screen_english",
@@ -740,7 +813,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 743.69,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-13_screen_english",
@@ -750,7 +824,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 912.26,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-12_screen_english",
@@ -760,7 +835,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 1080.08,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-11_screen_english",
@@ -770,7 +846,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 894.37,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-10_review_time_screen",
@@ -780,7 +857,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 1298.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-10_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-10_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-07_screen_english",
@@ -790,7 +868,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 911.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-06_screen_english",
@@ -800,7 +879,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 863.2,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-05_screen_english",
@@ -810,7 +890,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 590.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-04_screen_english",
@@ -820,7 +901,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 492.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-09-03_review_time_screen",
@@ -830,7 +912,8 @@
       "title": "",
       "movie": "스펜서 (Spencer)",
       "duration_sec": 1280.86,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-03_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-03_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-31_screen_english",
@@ -840,7 +923,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 1103.92,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-31_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-31_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-30_screen_english",
@@ -850,7 +934,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 958.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-29_screen_english",
@@ -860,7 +945,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 990.56,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-28_screen_english",
@@ -870,7 +956,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 900.3,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-27_review_time_screen",
@@ -880,7 +967,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 1260.03,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-27_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-27_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-24_screen_english",
@@ -890,7 +978,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 711.06,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-23_screen_english",
@@ -900,7 +989,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 758.99,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-22_screen_english",
@@ -910,7 +1000,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 941.75,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-21_screen_english",
@@ -920,7 +1011,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 775.03,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-17_screen_english",
@@ -930,7 +1022,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 716.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-16_screen_english",
@@ -940,7 +1033,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 849.99,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-15_screen_english",
@@ -950,7 +1044,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 1164.61,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-14_screen_english",
@@ -960,7 +1055,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 968.36,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-13_review_time_screen",
@@ -970,7 +1066,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 1210.67,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-13_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-13_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-10_screen_english",
@@ -980,7 +1077,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 695.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-09_screen_english",
@@ -990,7 +1088,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 712.01,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-08_screen_english",
@@ -1000,7 +1099,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 757.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-07_screen_english",
@@ -1010,7 +1110,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 905.88,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-06_review_time_screen",
@@ -1020,7 +1121,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 1276.16,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-06_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-06_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-03_screen_english",
@@ -1030,7 +1132,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 938.39,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-02_screen_english",
@@ -1040,7 +1143,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 1057.23,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-08-01_screen_english",
@@ -1050,7 +1154,8 @@
       "title": "",
       "movie": "컴온 컴온 (C'mon C'mon)",
       "duration_sec": 867.42,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-08-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-31_screen_english",
@@ -1060,7 +1165,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 812.54,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-31_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-31_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-30_review_time_screen",
@@ -1070,7 +1176,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 850.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-30_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-30_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-26_screen_english",
@@ -1080,7 +1187,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 714.81,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-16_review_time_screen",
@@ -1090,7 +1198,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 1037.95,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-16_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-16_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-13_screen_english",
@@ -1100,7 +1209,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 915.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-12_screen_english",
@@ -1110,7 +1220,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 1219.71,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-11_screen_english",
@@ -1120,7 +1231,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 985.54,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-10_screen_english",
@@ -1130,7 +1242,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 864.18,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-09_review_time_screen",
@@ -1140,7 +1253,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 1108.47,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-09_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-09_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-06_screen_english",
@@ -1150,7 +1264,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 878.46,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-05_screen_english",
@@ -1160,7 +1275,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 880.84,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-04_screen_english",
@@ -1170,7 +1286,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 925.0,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-03_screen_english",
@@ -1180,7 +1297,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 771.17,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-07-02_review_time_screen",
@@ -1190,7 +1308,8 @@
       "title": "",
       "movie": "빅트립: 아기팬더 배달 대모험 (Big Trip)",
       "duration_sec": 250.27,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-02_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-07-02_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-29_screen_english",
@@ -1200,7 +1319,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 867.21,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-28_screen_english",
@@ -1210,7 +1330,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 850.64,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-27_screen_english",
@@ -1220,7 +1341,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 832.12,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-26_screen_english",
@@ -1230,7 +1352,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 739.34,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-25_review_time_screen",
@@ -1240,7 +1363,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 1090.73,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-25_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-25_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-22_screen_english",
@@ -1250,7 +1374,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 873.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-21_screen_english",
@@ -1260,7 +1385,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 771.25,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-20_screen_english",
@@ -1270,7 +1396,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 840.04,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-19_screen_english",
@@ -1280,7 +1407,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 710.79,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-19_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-19_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-15_screen_english",
@@ -1290,7 +1418,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 918.04,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-14_screen_english",
@@ -1300,7 +1429,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 634.25,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-13_screen_english",
@@ -1310,7 +1440,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 781.87,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-12_screen_english",
@@ -1320,7 +1451,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 908.35,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-11_review_time_screen",
@@ -1330,7 +1462,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 1272.92,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-11_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-11_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-08_screen_english",
@@ -1340,7 +1473,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 968.11,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-07_screen_english",
@@ -1350,7 +1484,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 822.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-06_screen_english",
@@ -1360,7 +1495,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 912.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-05_screen_english",
@@ -1370,7 +1506,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 862.16,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-04_review_time_screen",
@@ -1380,7 +1517,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 1217.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-04_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-04_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-06-01_screen_english",
@@ -1390,7 +1528,8 @@
       "title": "",
       "movie": "리틀 이탈리아 (Little Italy)",
       "duration_sec": 961.23,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-06-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-31_screen_english",
@@ -1400,7 +1539,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 968.35,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-31_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-31_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-30_screen_english",
@@ -1410,7 +1550,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 694.99,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-29_screen_english",
@@ -1420,7 +1561,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 771.7,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-28_review_time_screen",
@@ -1430,7 +1572,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 310.15,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-28_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-28_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-25_screen_english",
@@ -1440,7 +1583,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 1043.01,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-24_screen_english",
@@ -1450,7 +1594,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 954.54,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-23_screen_english",
@@ -1460,7 +1605,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 809.55,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-22_screen_english",
@@ -1470,7 +1616,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 879.58,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-21_review_time_screen",
@@ -1480,7 +1627,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 694.11,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-21_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-21_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-18_screen_english",
@@ -1490,7 +1638,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 912.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-17_screen_english",
@@ -1500,7 +1649,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 624.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-16_screen_english",
@@ -1510,7 +1660,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 788.02,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-15_screen_english",
@@ -1520,7 +1671,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 866.85,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-14_review_time_screen",
@@ -1530,7 +1682,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 1058.55,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-14_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-14_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-11_screen_english",
@@ -1540,7 +1693,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 561.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-10_screen_english",
@@ -1550,7 +1704,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 869.38,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-09_screen_english",
@@ -1560,7 +1715,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 869.3,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-08_screen_english",
@@ -1570,7 +1726,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 735.8,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-07_review_time_screen",
@@ -1580,7 +1737,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 618.53,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-07_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-07_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-04_screen_english",
@@ -1590,7 +1748,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 863.65,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-03_screen_english",
@@ -1600,7 +1759,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 1168.09,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-02_screen_english",
@@ -1610,7 +1770,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 1012.88,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-05-01_screen_english",
@@ -1620,7 +1781,8 @@
       "title": "",
       "movie": "치어리딩 클럽 (Poms)",
       "duration_sec": 990.67,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-30_review_time_screen",
@@ -1630,7 +1792,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 1011.23,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-30_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-30_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-27_screen_english",
@@ -1640,7 +1803,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 638.41,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-26_screen_english",
@@ -1650,7 +1814,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 1133.66,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-25_screen_english",
@@ -1660,7 +1825,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 928.01,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-24_screen_english",
@@ -1670,7 +1836,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 1026.52,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-23_review_time_screen",
@@ -1680,7 +1847,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 1183.62,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-23_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-23_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-20_screen_english",
@@ -1690,7 +1858,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 565.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-19_screen_english",
@@ -1700,7 +1869,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 1049.13,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-19_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-19_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-18_screen_english",
@@ -1710,7 +1880,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 1086.94,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-17_screen_english",
@@ -1720,7 +1891,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 792.72,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-16_review_time_screen",
@@ -1730,7 +1902,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 655.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-16_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-16_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-13_screen_english",
@@ -1740,7 +1913,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 892.04,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-12_screen_english",
@@ -1750,7 +1924,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 1023.56,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-11_screen_english",
@@ -1760,7 +1935,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 642.45,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-10_screen_english",
@@ -1770,7 +1946,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 661.56,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-09_review_time_screen",
@@ -1780,7 +1957,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 706.11,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-09_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-09_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-06_screen_english",
@@ -1790,7 +1968,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 872.13,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-05_screen_english",
@@ -1800,7 +1979,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 865.24,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-04_screen_english",
@@ -1810,7 +1990,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 628.42,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-03_screen_english",
@@ -1820,7 +2001,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 675.25,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-04-02_review_time_screen",
@@ -1830,7 +2012,8 @@
       "title": "",
       "movie": "몬스터 하우스 2: 인비져블 피닉스 (Finnick)",
       "duration_sec": 1269.48,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-02_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-04-02_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-30_screen_english",
@@ -1840,7 +2023,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 1031.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-29_screen_english",
@@ -1850,7 +2034,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 909.9,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-28_screen_english",
@@ -1860,7 +2045,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 885.48,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-27_screen_english",
@@ -1870,7 +2056,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 815.77,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-26_review_time_screen",
@@ -1880,7 +2067,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 1281.94,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-26_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-26_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-23_screen_english",
@@ -1890,7 +2078,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 765.47,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-22_screen_english",
@@ -1900,7 +2089,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 748.99,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-21_screen_english",
@@ -1910,7 +2100,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 707.13,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-20_screen_english",
@@ -1920,7 +2111,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 815.64,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-19_review_time_screen",
@@ -1930,7 +2122,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 633.78,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-19_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-19_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-16_screen_english",
@@ -1940,7 +2133,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 872.39,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-15_screen_english",
@@ -1950,7 +2144,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 772.62,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-14_screen_english",
@@ -1960,7 +2155,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 802.18,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-13_screen_english",
@@ -1970,7 +2166,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 812.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-12_review_time_screen",
@@ -1980,7 +2177,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 1267.13,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-12_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-12_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-09_screen_english",
@@ -1990,7 +2188,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 834.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-08_screen_english",
@@ -2000,7 +2199,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 773.71,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-07_screen_english",
@@ -2010,7 +2210,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 953.45,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-06_screen_english",
@@ -2020,7 +2221,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 875.18,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-05_review_time_screen",
@@ -2030,7 +2232,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 1260.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-05_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-05_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-02_screen_english",
@@ -2040,7 +2243,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 792.6,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-03-01_screen_english",
@@ -2050,7 +2254,8 @@
       "title": "",
       "movie": "스톰 보이 (Storm Boy)",
       "duration_sec": 969.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2023-02-28_screen_english",
@@ -2060,7 +2265,8 @@
       "title": "",
       "movie": "엘라 벨라 빙고: 친구 찾기 대작전 (Ella Bella Bingo)",
       "duration_sec": 856.96,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-02-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-02-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-28_screen_english",
@@ -2070,7 +2276,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 1243.27,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-27_screen_english",
@@ -2080,7 +2287,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 941.58,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-26_screen_english",
@@ -2090,7 +2298,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 918.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-25_screen_english",
@@ -2100,7 +2309,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 696.31,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-24_review_time_screen",
@@ -2110,7 +2320,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 911.27,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-24_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-24_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-21_screen_english",
@@ -2120,7 +2331,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 925.9,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-20_screen_english",
@@ -2130,7 +2342,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 1050.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-19_screen_english",
@@ -2140,7 +2353,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 545.66,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-19_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-19_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-18_screen_english",
@@ -2150,7 +2364,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 823.89,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2022-07-17_review_time_screen",
@@ -2160,7 +2375,8 @@
       "title": "",
       "movie": "파리의 도깨비 (A Monster in Paris)",
       "duration_sec": 479.98,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-17_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-17_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-18_screen_english",
@@ -2170,7 +2386,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 810.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-17_screen_english",
@@ -2180,7 +2397,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 976.7,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-16_screen_english",
@@ -2190,7 +2408,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 872.72,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-15_screen_english",
@@ -2200,7 +2419,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 966.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-11_screen_english",
@@ -2210,7 +2430,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 888.37,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-10_screen_english",
@@ -2220,7 +2441,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 588.14,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-09_screen_english",
@@ -2230,7 +2452,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 739.04,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-08_screen_english",
@@ -2240,7 +2463,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 793.05,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-07_review_time_screen",
@@ -2250,7 +2474,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 790.05,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-07_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-07_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-04_screen_english",
@@ -2260,7 +2485,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 675.3,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-03_screen_english",
@@ -2270,7 +2496,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 950.02,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-02_screen_english",
@@ -2280,7 +2507,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 693.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-11-01_screen_english",
@@ -2290,7 +2518,8 @@
       "title": "",
       "movie": "갈매기 (The Seagull)",
       "duration_sec": 828.51,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-11-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-31_review_time_screen",
@@ -2300,7 +2529,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 1085.3,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-31_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-31_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-28_screen_english",
@@ -2310,7 +2540,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 1004.98,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-27_screen_english",
@@ -2320,7 +2551,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 919.04,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-26_screen_english",
@@ -2330,7 +2562,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 795.51,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-25_screen_english",
@@ -2340,7 +2573,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 865.56,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-21_screen_english",
@@ -2350,7 +2584,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 797.69,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-20_screen_english",
@@ -2360,7 +2595,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 663.43,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-19_screen_english",
@@ -2370,7 +2606,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 658.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-19_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-19_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-18_screen_english",
@@ -2380,7 +2617,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 507.53,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-14_screen_english",
@@ -2390,7 +2628,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 766.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-13_screen_english",
@@ -2400,7 +2639,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 1003.45,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-12_screen_english",
@@ -2410,7 +2650,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 1096.96,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-11_screen_english",
@@ -2420,7 +2661,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 717.61,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-10_review_time_screen",
@@ -2430,7 +2672,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 423.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-10_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-10_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-10-07_screen_english",
@@ -2440,7 +2683,8 @@
       "title": "",
       "movie": "애프터 웨딩 인 뉴욕 (After the Wedding)",
       "duration_sec": 884.95,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-10-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-30_screen_english",
@@ -2450,7 +2694,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 681.17,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-29_screen_english",
@@ -2460,7 +2705,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 822.84,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-28_screen_english",
@@ -2470,7 +2716,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 743.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-27_screen_english",
@@ -2480,7 +2727,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 1135.6,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-26_review_time_screen",
@@ -2490,7 +2738,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 913.33,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-26_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-26_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-23_screen_english",
@@ -2500,7 +2749,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 723.16,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-22_screen_english",
@@ -2510,7 +2760,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 789.16,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-21_screen_english",
@@ -2520,7 +2771,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 834.0,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-20_screen_english",
@@ -2530,7 +2782,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 901.4,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-19_review_time_screen",
@@ -2540,7 +2793,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 840.26,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-19_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-19_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-16_screen_english",
@@ -2550,7 +2804,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 995.95,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-15_screen_english",
@@ -2560,7 +2815,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 850.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-14_screen_english",
@@ -2570,7 +2826,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 631.11,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-13_screen_english",
@@ -2580,7 +2837,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 733.76,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-09_screen_english",
@@ -2590,7 +2848,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 1050.52,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-08_screen_english",
@@ -2600,7 +2859,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 676.63,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-07_screen_english",
@@ -2610,7 +2870,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 791.78,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-06_screen_english",
@@ -2620,7 +2881,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 528.21,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-02_screen_english",
@@ -2630,7 +2892,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 942.7,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-09-01_screen_english",
@@ -2640,7 +2903,8 @@
       "title": "",
       "movie": "코다 (CODA)",
       "duration_sec": 936.26,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-08-31_screen_english",
@@ -2650,7 +2914,8 @@
       "title": "",
       "movie": "드림빌더 (Dreambuilders)",
       "duration_sec": 982.05,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-31_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-31_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-08-30_screen_english",
@@ -2660,7 +2925,8 @@
       "title": "",
       "movie": "드림빌더 (Dreambuilders)",
       "duration_sec": 841.31,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-08-26_screen_english",
@@ -2670,7 +2936,8 @@
       "title": "",
       "movie": "드림빌더 (Dreambuilders)",
       "duration_sec": 768.62,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-08-25_screen_english",
@@ -2680,7 +2947,8 @@
       "title": "",
       "movie": "드림빌더 (Dreambuilders)",
       "duration_sec": 686.92,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-08-24_screen_english",
@@ -2690,7 +2958,8 @@
       "title": "",
       "movie": "드림빌더 (Dreambuilders)",
       "duration_sec": 666.01,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-08-23_screen_english",
@@ -2700,7 +2969,8 @@
       "title": "",
       "movie": "드림빌더 (Dreambuilders)",
       "duration_sec": 894.12,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-08-22_review_time_screen",
@@ -2710,7 +2980,8 @@
       "title": "",
       "movie": "드림빌더 (Dreambuilders)",
       "duration_sec": 501.31,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-22_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-22_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-05-06_screen_english",
@@ -2720,7 +2991,8 @@
       "title": "",
       "movie": "피넛 버터 팔콘 (The Peanut Butter Falcon)",
       "duration_sec": 942.48,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-05-05_screen_english",
@@ -2730,7 +3002,8 @@
       "title": "",
       "movie": "피넛 버터 팔콘 (The Peanut Butter Falcon)",
       "duration_sec": 977.84,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-05-04_screen_english",
@@ -2740,7 +3013,8 @@
       "title": "",
       "movie": "피넛 버터 팔콘 (The Peanut Butter Falcon)",
       "duration_sec": 959.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-05-03_screen_english",
@@ -2750,7 +3024,8 @@
       "title": "",
       "movie": "피넛 버터 팔콘 (The Peanut Butter Falcon)",
       "duration_sec": 936.95,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-05-02_review_time_screen",
@@ -2760,7 +3035,8 @@
       "title": "",
       "movie": "피넛 버터 팔콘 (The Peanut Butter Falcon)",
       "duration_sec": 1196.63,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-02_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-05-02_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-29_screen_english",
@@ -2770,7 +3046,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 825.12,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-28_screen_english",
@@ -2780,7 +3057,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 765.37,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-27_screen_english",
@@ -2790,7 +3068,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 852.67,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-26_screen_english",
@@ -2800,7 +3079,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 964.96,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-25_review_time_screen",
@@ -2810,7 +3090,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 598.19,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-25_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-25_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-22_screen_english",
@@ -2820,7 +3101,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 1161.27,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-21_screen_english",
@@ -2830,7 +3112,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 822.47,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-20_screen_english",
@@ -2840,7 +3123,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 926.78,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-19_screen_english",
@@ -2850,7 +3134,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 861.56,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-19_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-19_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-15_screen_english",
@@ -2860,7 +3145,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 967.49,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-14_screen_english",
@@ -2870,7 +3156,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 829.69,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-13_screen_english",
@@ -2880,7 +3167,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 1193.45,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-12_screen_english",
@@ -2890,7 +3178,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 1078.28,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-11_review_time_screen",
@@ -2900,7 +3189,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 1252.05,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-11_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-11_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-08_screen_english",
@@ -2910,7 +3200,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 747.62,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-07_screen_english",
@@ -2920,7 +3211,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 622.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-06_screen_english",
@@ -2930,7 +3222,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 856.92,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-05_screen_english",
@@ -2940,7 +3233,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 1151.26,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-04_review_time_screen",
@@ -2950,7 +3244,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 498.22,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-04_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-04_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-04-01_screen_english",
@@ -2960,7 +3255,8 @@
       "title": "",
       "movie": "밀리언 달러 트러블",
       "duration_sec": 1105.36,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-31_screen_english",
@@ -2970,7 +3266,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 943.38,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-31_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-31_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-30_screen_english",
@@ -2980,7 +3277,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 956.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-29_screen_english",
@@ -2990,7 +3288,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 822.27,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-28_review_time_screen",
@@ -3000,7 +3299,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 1308.81,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-28_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-28_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-25_screen_english",
@@ -3010,7 +3310,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 769.08,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-24_screen_english",
@@ -3020,7 +3321,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 892.81,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-23_screen_english",
@@ -3030,7 +3332,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 817.0,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-22_screen_english",
@@ -3040,7 +3343,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 999.67,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-21_review_time_screen",
@@ -3050,7 +3354,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 1284.75,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-21_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-21_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-17_screen_english",
@@ -3060,7 +3365,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 1007.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-16_screen_english",
@@ -3070,7 +3376,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 413.58,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-15_screen_english",
@@ -3080,7 +3387,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 1043.53,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-14_review_time_screen",
@@ -3090,7 +3398,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 598.56,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-14_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-14_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-11_screen_english",
@@ -3100,7 +3409,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 876.65,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-10_screen_english",
@@ -3110,7 +3420,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 694.02,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-09_screen_english",
@@ -3120,7 +3431,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 929.36,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-08_screen_english",
@@ -3130,7 +3442,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 736.16,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-07_review_time_screen",
@@ -3140,7 +3453,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 879.07,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-07_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-07_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2021-03-04_screen_english",
@@ -3150,7 +3464,8 @@
       "title": "",
       "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
       "duration_sec": 989.76,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-25_review_time_screen",
@@ -3160,7 +3475,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 489.54,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-25_review_time_screen.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-25_review_time_screen.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-22_screen_english",
@@ -3170,7 +3486,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 577.52,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-21_screen_english",
@@ -3180,7 +3497,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 676.84,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-20_screen_english",
@@ -3190,7 +3508,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 679.29,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-19_screen_english",
@@ -3200,7 +3519,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 744.18,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-19_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-19_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-15_screen_english",
@@ -3210,7 +3530,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 629.46,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-14_screen_english",
@@ -3220,7 +3541,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 625.33,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-13_screen_english",
@@ -3230,7 +3552,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 660.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-12_screen_english",
@@ -3240,7 +3563,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 660.43,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-08_screen_english",
@@ -3250,7 +3574,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 745.76,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-07_screen_english",
@@ -3260,7 +3585,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 695.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-06_screen_english",
@@ -3270,7 +3596,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 678.55,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-05_screen_english",
@@ -3280,7 +3607,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 877.99,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-10-01_screen_english",
@@ -3290,7 +3618,8 @@
       "title": "",
       "movie": "시크릿 가든 (The Secret Garden)",
       "duration_sec": 745.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-30_screen_english",
@@ -3300,7 +3629,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 596.68,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-29_screen_english",
@@ -3310,7 +3640,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 681.73,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-28_screen_english",
@@ -3320,7 +3651,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 696.08,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-24_screen_english",
@@ -3330,7 +3662,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 704.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-23_screen_english",
@@ -3340,7 +3673,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 685.71,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-22_screen_english",
@@ -3350,7 +3684,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 622.15,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-21_screen_english",
@@ -3360,7 +3695,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 658.36,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-17_screen_english",
@@ -3370,7 +3706,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 594.32,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-16_screen_english",
@@ -3380,7 +3717,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 655.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-15_screen_english",
@@ -3390,7 +3728,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 758.43,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-14_screen_english",
@@ -3400,7 +3739,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 1030.06,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-10_screen_english",
@@ -3410,7 +3750,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 917.04,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-09_screen_english",
@@ -3420,7 +3761,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 646.2,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-08_screen_english",
@@ -3430,7 +3772,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 792.43,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-07_screen_english",
@@ -3440,7 +3783,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 924.54,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-03_screen_english",
@@ -3450,7 +3794,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 648.78,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-02_screen_english",
@@ -3460,7 +3805,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 697.79,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-09-01_screen_english",
@@ -3470,7 +3816,8 @@
       "title": "",
       "movie": "에이브의 쿠킹 다이어리 (Abe)",
       "duration_sec": 853.06,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-09-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-31_screen_english",
@@ -3480,7 +3827,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 817.31,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-31_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-31_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-27_screen_english",
@@ -3490,7 +3838,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 889.66,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-26_screen_english",
@@ -3500,7 +3849,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 720.18,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-26_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-26_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-25_screen_english",
@@ -3510,7 +3860,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 854.81,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-24_screen_english",
@@ -3520,7 +3871,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 760.11,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-20_screen_english",
@@ -3530,7 +3882,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 645.42,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-19_screen_english",
@@ -3540,7 +3893,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 751.19,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-19_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-19_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-18_screen_english",
@@ -3550,7 +3904,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 815.47,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-17_screen_english",
@@ -3560,7 +3915,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 735.05,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-13_screen_english",
@@ -3570,7 +3926,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 976.41,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-12_screen_english",
@@ -3580,7 +3937,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 649.92,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-12_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-12_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-11_screen_english",
@@ -3590,7 +3948,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 776.14,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-10_screen_english",
@@ -3600,7 +3959,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 812.8,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-06_screen_english",
@@ -3610,7 +3970,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 813.33,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-05_screen_english",
@@ -3620,7 +3981,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 715.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-05_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-05_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-04_screen_english",
@@ -3630,7 +3992,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 824.56,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-08-03_screen_english",
@@ -3640,7 +4003,8 @@
       "title": "",
       "movie": "몬스터 패밀리 (Monster Family)",
       "duration_sec": 920.01,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-30_screen_english",
@@ -3650,7 +4014,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 757.26,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-29_screen_english",
@@ -3660,7 +4025,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 635.59,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-28_screen_english",
@@ -3670,7 +4036,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 888.23,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-28_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-28_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-27_screen_english",
@@ -3680,7 +4047,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 789.0,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-27_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-27_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-23_screen_english",
@@ -3690,7 +4058,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 704.02,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-22_screen_english",
@@ -3700,7 +4069,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 778.92,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-21_screen_english",
@@ -3710,7 +4080,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 752.08,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-21_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-21_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-20_screen_english",
@@ -3720,7 +4091,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 698.24,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-20_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-20_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-15_screen_english",
@@ -3730,7 +4102,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 811.63,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-14_screen_english",
@@ -3740,7 +4113,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 718.31,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-14_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-14_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-13_screen_english",
@@ -3750,7 +4124,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 694.12,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-13_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-13_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-09_screen_english",
@@ -3760,7 +4135,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 818.74,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-08_screen_english",
@@ -3770,7 +4146,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 747.94,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-07_screen_english",
@@ -3780,7 +4157,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 799.93,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-07_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-07_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-06_screen_english",
@@ -3790,7 +4168,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 609.88,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-06_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-06_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-02_screen_english",
@@ -3800,7 +4179,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 745.8,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-07-01_screen_english",
@@ -3810,7 +4190,8 @@
       "title": "",
       "movie": "미스비헤이비어 (Misbehaviour)",
       "duration_sec": 816.55,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-07-01_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-30_screen_english",
@@ -3820,7 +4201,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 724.78,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-30_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-30_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-29_screen_english",
@@ -3830,7 +4212,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 873.26,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-29_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-29_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-25_screen_english",
@@ -3840,7 +4223,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 725.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-25_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-25_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-24_screen_english",
@@ -3850,7 +4234,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 1147.8,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-24_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-24_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-23_screen_english",
@@ -3860,7 +4245,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 798.12,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-23_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-23_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-22_screen_english",
@@ -3870,7 +4256,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 782.17,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-22_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-22_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-18_screen_english",
@@ -3880,7 +4267,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 636.09,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-18_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-18_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-17_screen_english",
@@ -3890,7 +4278,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 965.75,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-17_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-17_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-16_screen_english",
@@ -3900,7 +4289,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 713.64,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-16_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-16_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-15_screen_english",
@@ -3910,7 +4300,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 474.37,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-15_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-15_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-11_screen_english",
@@ -3920,7 +4311,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 875.18,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-11_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-11_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-10_screen_english",
@@ -3930,7 +4322,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 713.19,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-10_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-10_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-09_screen_english",
@@ -3940,7 +4333,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 881.97,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-09_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-09_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-08_screen_english",
@@ -3950,7 +4344,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 848.77,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-08_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-08_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-04_screen_english",
@@ -3960,7 +4355,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 927.27,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-04_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-04_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-03_screen_english",
@@ -3970,7 +4366,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 768.44,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-03_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-03_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-02_screen_english",
@@ -3980,7 +4377,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 858.34,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-02_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-02_screen_english.mp3",
+      "artwork_generated_url": ""
     },
     {
       "id": "2020-06-01_screen_english",
@@ -3990,7 +4388,8 @@
       "title": "",
       "movie": "커런트 워 (The Current War)",
       "duration_sec": 884.98,
-      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-01_screen_english.mp3"
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-06-01_screen_english.mp3",
+      "artwork_generated_url": ""
     }
   ]
 }

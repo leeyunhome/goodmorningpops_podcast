@@ -22,3 +22,5 @@ pypdf>=4.0.0
 # Supabase Storage uploader (used by upload_supabase.py, build_player.py)
 supabase>=2.0.0
 python-dotenv>=1.0.0
+# AI artwork generation (used by generate_artwork.py)
+google-genai>=1.0.0
