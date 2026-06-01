@@ -78,12 +78,13 @@ def extract_song_info(title: str) -> tuple[str, str] | None:
 
 def build_prompt(song: str, artist: str) -> str:
     return (
-        f"A beautiful watercolor painting inspired by the mood of the song "
+        f"Japanese anime style illustration inspired by the song "
         f"'{song}' by {artist}. "
-        f"Soft pastel colors, gentle brushstrokes, dreamy atmosphere. "
-        f"Abstract emotional landscape with flowing watercolor washes. "
+        f"Studio Ghibli aesthetic, soft lighting, warm color palette. "
+        f"A single character in a cinematic scene that captures the mood of the song title. "
+        f"Detailed anime art, expressive eyes, beautiful background scenery. "
         f"No text, no letters, no words in the image. "
-        f"Artistic, gallery-quality watercolor illustration."
+        f"High quality anime key visual, 4K resolution feel."
     )
 
 

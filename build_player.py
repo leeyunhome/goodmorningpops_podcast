@@ -41,7 +41,7 @@ CORNER_LABELS = {
     "pop_song": "Pop Song",
 }
 ORIGINAL_TITLE_RE = re.compile(
-    r"^\d{4}-\d{2}-\d{2}__\d{2}_\d{2}_[월화수목금토일]_\s*(.+)\.mp3$"
+    r"^\d{4}-\d{2}-\d{2}_+\d{1,2}_\d{1,2}_[월화수목금토일]_\s*(.+)\.mp3$"
 )
 
 
