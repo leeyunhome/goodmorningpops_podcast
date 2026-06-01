@@ -16,7 +16,7 @@ build_player.py가 이 JSON을 읽어 episode JSON에 artwork_generated_url을 �
 from __future__ import annotations
 
 import argparse
-import base64
+import io
 import json
 import os
 import re
@@ -134,8 +134,25 @@ def generate_image(api_key: str, prompt: str) -> bytes:
     raise RuntimeError("No image generated from any model")
 
 
+def compress_to_jpeg(png_bytes: bytes, quality: int = 75, max_size: int = 512) -> bytes:
+    """PNG bytes -> JPEG bytes, 리사이즈 + 압축."""
+    from PIL import Image
+    img = Image.open(io.BytesIO(png_bytes))
+    if img.mode == "RGBA":
+        bg = Image.new("RGB", img.size, (15, 23, 42))  # dark bg
+        bg.paste(img, mask=img.split()[3])
+        img = bg
+    elif img.mode != "RGB":
+        img = img.convert("RGB")
+    if max(img.size) > max_size:
+        img.thumbnail((max_size, max_size), Image.LANCZOS)
+    buf = io.BytesIO()
+    img.save(buf, format="JPEG", quality=quality, optimize=True)
+    return buf.getvalue()
+
+
 def upload_to_supabase(image_bytes: bytes, remote_name: str) -> str:
-    """Supabase Storage에 PNG 업로드, public URL 반환."""
+    """Supabase Storage에 JPEG 업로드, public URL 반환."""
     try:
         from supabase import create_client
     except ImportError:
@@ -151,7 +168,7 @@ def upload_to_supabase(image_bytes: bytes, remote_name: str) -> str:
     client = create_client(url, key)
     storage = client.storage.from_(bucket)
 
-    file_options = {"content-type": "image/png", "upsert": "true"}
+    file_options = {"content-type": "image/jpeg", "upsert": "true"}
     storage.upload(f"artwork/{remote_name}", image_bytes, file_options=file_options)
     return storage.get_public_url(f"artwork/{remote_name}")
 
@@ -173,6 +190,8 @@ def main() -> int:
     p = argparse.ArgumentParser(description="곡별 수채화 AI 이미지 생성 (Imagen 3)")
     p.add_argument("input", help="corners 폴더 (SRT 기준으로 에피소드 목록 구성)")
     p.add_argument("--date", default=None, help="특정 날짜만 (YYYY-MM-DD)")
+    p.add_argument("--from", dest="from_date", default=None, help="시작 날짜 (포함)")
+    p.add_argument("--to", dest="to_date", default=None, help="종료 날짜 (포함)")
     p.add_argument("--limit", type=int, default=None, help="최대 생성 수")
     p.add_argument("--overwrite", action="store_true", help="이미 생성된 것도 다시")
     p.add_argument("--dry-run", action="store_true", help="프롬프트만 보고 생성 안 함")
@@ -203,6 +222,10 @@ def main() -> int:
             continue
         date_str = m.group(1)
         if args.date and date_str != args.date:
+            continue
+        if args.from_date and date_str < args.from_date:
+            continue
+        if args.to_date and date_str > args.to_date:
             continue
         # 제목 추출: SRT 첫 줄이 아니라 stem에서
         corner_part = srt.stem[len(date_str) + 1:]  # e.g., "pop_song" or "screen_english"
@@ -248,15 +271,19 @@ def main() -> int:
             png_bytes = generate_image(api_key, prompt)
             print(f"  OK ({len(png_bytes) // 1024} KB)")
 
+            # JPEG 압축 (1.3MB PNG -> ~50-100KB JPEG)
+            jpg_bytes = compress_to_jpeg(png_bytes, quality=75, max_size=512)
+            print(f"  compressed: {len(png_bytes)//1024}KB -> {len(jpg_bytes)//1024}KB")
+
             # 로컬 저장
             out_dir.mkdir(parents=True, exist_ok=True)
-            local_path = out_dir / f"{ep_id}.png"
-            local_path.write_bytes(png_bytes)
+            local_path = out_dir / f"{ep_id}.jpg"
+            local_path.write_bytes(jpg_bytes)
 
             # Supabase 업로드
             if not args.no_upload:
                 print(f"  uploading...")
-                public_url = upload_to_supabase(png_bytes, f"{ep_id}.png")
+                public_url = upload_to_supabase(jpg_bytes, f"{ep_id}.jpg")
                 artwork_urls[ep_id] = public_url
                 save_artwork_urls(artwork_urls, urls_path)
                 print(f"  url: {public_url[:80]}...")

@@ -3,10 +3,11 @@
   "date": "2024-06-23",
   "corner": "review_time_screen",
   "corner_label": "Review Time Screen",
-  "title": "",
+  "title": "Review Time",
   "movie": "베르히만 아일랜드 (Bergman Island)",
   "duration_sec": 786.61,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-23_review_time_screen.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

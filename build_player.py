@@ -37,6 +37,8 @@ except AttributeError:
 
 CORNER_LABELS = {
     "screen_english": "Screen English",
+    "review_time_screen": "Review Time Screen",
+    "pop_song": "Pop Song",
 }
 ORIGINAL_TITLE_RE = re.compile(
     r"^\d{4}-\d{2}-\d{2}__\d{2}_\d{2}_[월화수목금토일]_\s*(.+)\.mp3$"
@@ -92,24 +94,34 @@ def find_original_title(audio_dir: Path, date: str, corner: str) -> str:
     """audio/ 폴더에서 해당 날짜의 원본 mp3 제목 추출."""
     label = CORNER_LABELS.get(corner, corner)
     safe_label = label.lower()
+    candidates = []
     for p in audio_dir.iterdir():
         if not p.name.startswith(date):
             continue
         if not p.name.lower().endswith(".mp3"):
             continue
-        if safe_label not in p.name.lower():
-            continue
-        m = ORIGINAL_TITLE_RE.match(p.name)
+        candidates.append(p)
+
+    # 코너명으로 먼저 찾기 (Screen English, Review Time 등)
+    for p in candidates:
+        if safe_label in p.name.lower() or (corner == "pop_song"):
+            m = ORIGINAL_TITLE_RE.match(p.name)
+            if m:
+                raw = m.group(1).strip()
+                for prefix in ("Screen English -", "Screen English-",
+                               "Review Time -", "Review Time-"):
+                    if raw.startswith(prefix):
+                        raw = raw[len(prefix):].strip()
+                        break
+                raw = raw.rstrip("._ ")
+                raw = raw.replace("_", "'")
+                return raw
+
+    # 폴백: 그 날짜의 첫 mp3 제목
+    if candidates:
+        m = ORIGINAL_TITLE_RE.match(candidates[0].name)
         if m:
-            raw = m.group(1).strip()
-            # "Screen English - 어쩌고" → "어쩌고"
-            for prefix in ("Screen English -", "Screen English-"):
-                if raw.startswith(prefix):
-                    raw = raw[len(prefix):].strip()
-                    break
-            # 끝의 점/언더바 정리
-            raw = raw.rstrip("._ ")
-            # safe_name 단계에서 ' 가 _ 로 바뀌어 있을 수 있음 → 사람이 읽기 좋게
+            raw = m.group(1).strip().rstrip("._ ").replace("_", "'")
             return raw
     return ""
 

@@ -7,6 +7,7 @@
   "movie": "더 파더 (The Father)",
   "duration_sec": 883.32,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-05-14_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

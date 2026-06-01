@@ -7,6 +7,7 @@
   "movie": "파리의 도깨비 (A Monster in Paris)",
   "duration_sec": 479.98,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2022-07-17_review_time_screen.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

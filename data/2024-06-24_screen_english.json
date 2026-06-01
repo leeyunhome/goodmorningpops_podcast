@@ -3,10 +3,11 @@
   "date": "2024-06-24",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "I can_t get beyond that point",
+  "title": "I can't get beyond that point",
   "movie": "베르히만 아일랜드 (Bergman Island)",
   "duration_sec": 580.86,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-24_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

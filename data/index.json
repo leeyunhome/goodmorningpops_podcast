@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T12:57:20",
+  "generated_at": "2026-06-01T13:10:45",
   "count": 399,
   "episodes": [
     {
@@ -11,7 +11,7 @@
       "movie": "",
       "duration_sec": 599.32,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-01_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-01_pop_song.png"
     },
     {
       "id": "2026-05-29_pop_song",
@@ -22,7 +22,7 @@
       "movie": "",
       "duration_sec": 655.64,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-29_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-05-29_pop_song.png"
     },
     {
       "id": "2026-05-28_pop_song",
@@ -33,14 +33,14 @@
       "movie": "",
       "duration_sec": 661.49,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-28_pop_song.mp3",
-      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-05-28_pop_song.png"
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-05-28_pop_song.jpg"
     },
     {
       "id": "2024-06-30_review_time_screen",
       "date": "2024-06-30",
       "corner": "review_time_screen",
       "corner_label": "Review Time Screen",
-      "title": "",
+      "title": "Review Time",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 1193.25,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-30_review_time_screen.mp3",
@@ -62,7 +62,7 @@
       "date": "2024-06-26",
       "corner": "screen_english",
       "corner_label": "Screen English",
-      "title": "If you_re looking for inspiration_ I recommend in her",
+      "title": "If you're looking for inspiration' I recommend in her",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 774.99,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-26_screen_english.mp3",
@@ -73,7 +73,7 @@
       "date": "2024-06-25",
       "corner": "screen_english",
       "corner_label": "Screen English",
-      "title": "You_ve never done that before",
+      "title": "You've never done that before",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 702.33,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-25_screen_english.mp3",
@@ -84,7 +84,7 @@
       "date": "2024-06-24",
       "corner": "screen_english",
       "corner_label": "Screen English",
-      "title": "I can_t get beyond that point",
+      "title": "I can't get beyond that point",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 580.86,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-24_screen_english.mp3",
@@ -95,7 +95,7 @@
       "date": "2024-06-23",
       "corner": "review_time_screen",
       "corner_label": "Review Time Screen",
-      "title": "",
+      "title": "Review Time",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 786.61,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-23_review_time_screen.mp3",
@@ -106,7 +106,7 @@
       "date": "2024-06-20",
       "corner": "screen_english",
       "corner_label": "Screen English",
-      "title": "Don_t wanna jinx it",
+      "title": "Don't wanna jinx it",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 910.75,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-20_screen_english.mp3",
@@ -117,7 +117,7 @@
       "date": "2024-06-18",
       "corner": "screen_english",
       "corner_label": "Screen English",
-      "title": "You_ve just gotta trust yourself",
+      "title": "You've just gotta trust yourself",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 706.04,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-18_screen_english.mp3",
@@ -139,7 +139,7 @@
       "date": "2024-06-16",
       "corner": "review_time_screen",
       "corner_label": "Review Time Screen",
-      "title": "",
+      "title": "Review Time",
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 1159.11,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-16_review_time_screen.mp3",

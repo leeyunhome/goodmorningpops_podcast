@@ -7,6 +7,7 @@
   "movie": "밀리언 달러 트러블",
   "duration_sec": 1151.26,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-04-05_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

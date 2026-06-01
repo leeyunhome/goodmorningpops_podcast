@@ -3,10 +3,11 @@
   "date": "2024-06-26",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "If you_re looking for inspiration_ I recommend in her",
+  "title": "If you're looking for inspiration' I recommend in her",
   "movie": "베르히만 아일랜드 (Bergman Island)",
   "duration_sec": 774.99,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-26_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

@@ -7,6 +7,7 @@
   "movie": "치어리딩 클럽 (Poms)",
   "duration_sec": 624.74,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-05-17_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

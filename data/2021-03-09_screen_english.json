@@ -7,6 +7,7 @@
   "movie": "어디갔어, 버나뎃 (Where'd You Go, Bernadette)",
   "duration_sec": 929.36,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-03-09_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

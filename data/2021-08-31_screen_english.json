@@ -7,6 +7,7 @@
   "movie": "드림빌더 (Dreambuilders)",
   "duration_sec": 982.05,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-08-31_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

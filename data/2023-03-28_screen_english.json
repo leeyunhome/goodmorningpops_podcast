@@ -7,6 +7,7 @@
   "movie": "스톰 보이 (Storm Boy)",
   "duration_sec": 885.48,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-03-28_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

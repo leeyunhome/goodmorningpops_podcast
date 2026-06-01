@@ -7,6 +7,7 @@
   "movie": "몬스터 패밀리 (Monster Family)",
   "duration_sec": 776.14,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-08-11_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

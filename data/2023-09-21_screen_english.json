@@ -7,6 +7,7 @@
   "movie": "스펜서 (Spencer)",
   "duration_sec": 986.41,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-09-21_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

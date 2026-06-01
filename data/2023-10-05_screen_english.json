@@ -7,6 +7,7 @@
   "movie": "어떤 손님 (Guest of Honour)",
   "duration_sec": 1095.74,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2023-10-05_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

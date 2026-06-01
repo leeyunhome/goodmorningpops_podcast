@@ -7,6 +7,7 @@
   "movie": "시크릿 가든 (The Secret Garden)",
   "duration_sec": 625.33,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2020-10-14_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

@@ -7,6 +7,7 @@
   "movie": "코다 (CODA)",
   "duration_sec": 850.32,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2021-09-15_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,

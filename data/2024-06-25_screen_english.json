@@ -3,10 +3,11 @@
   "date": "2024-06-25",
   "corner": "screen_english",
   "corner_label": "Screen English",
-  "title": "You_ve never done that before",
+  "title": "You've never done that before",
   "movie": "베르히만 아일랜드 (Bergman Island)",
   "duration_sec": 702.33,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-25_screen_english.mp3",
+  "artwork_generated_url": "",
   "script": [
     {
       "start": 0.0,
