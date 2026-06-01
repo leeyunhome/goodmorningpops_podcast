@@ -163,16 +163,23 @@ main {
   overflow: hidden;
 }
 .card-thumb {
-  width: 100px;
-  min-height: 100px;
+  width: 90px;
+  min-height: 90px;
   flex-shrink: 0;
   background: var(--surface-2);
-  background-size: cover;
-  background-position: center;
-  transition: opacity 0.3s ease;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.card-thumb.has-art {
-  opacity: 1;
+.card-thumb-img {
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  display: block;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  flex-shrink: 0;
 }
 .card-body {
   padding: 16px;

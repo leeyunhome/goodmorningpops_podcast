@@ -105,7 +105,9 @@
         a.className = "card";
         a.href = `play.html?id=${encodeURIComponent(e.id)}&autoplay=1`;
         a.innerHTML = `
-          <div class="card-thumb" id="thumb-${e.id}"></div>
+          <div class="card-thumb">
+            <img class="card-thumb-img" src="" alt="" loading="lazy" />
+          </div>
           <div class="card-body">
             <div class="top">
               <span>${e.date}</span>
@@ -116,14 +118,18 @@
             <div class="duration">${formatDuration(e.duration_sec)}</div>
           </div>
         `;
-        // 비동기로 앨범아트 로딩
-        fetchArtwork(e.title, 200).then(url => {
-          const thumb = a.querySelector(".card-thumb");
-          if (url && thumb) {
-            thumb.style.backgroundImage = `url(${url})`;
-            thumb.classList.add("has-art");
-          }
-        });
+        const img = a.querySelector(".card-thumb-img");
+        // AI 생성 이미지 우선, 없으면 iTunes 앨범아트
+        const setImg = (url) => {
+          if (!url) return;
+          img.src = url;
+          img.style.opacity = "1";
+        };
+        if (e.artwork_generated_url) {
+          setImg(e.artwork_generated_url);
+        } else {
+          fetchArtwork(e.title, 200).then(setImg);
+        }
         return a;
       }
 
