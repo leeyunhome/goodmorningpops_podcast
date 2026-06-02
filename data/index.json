@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-01T13:29:23",
-  "count": 399,
+  "generated_at": "2026-06-02T15:45:11",
+  "count": 400,
   "episodes": [
+    {
+      "id": "2026-06-02_pop_song",
+      "date": "2026-06-02",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Songs In My Head - HONNE",
+      "movie": "",
+      "duration_sec": 595.08,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-02_pop_song.mp3",
+      "artwork_generated_url": ""
+    },
     {
       "id": "2026-06-01_pop_song",
       "date": "2026-06-01",
@@ -11,7 +22,7 @@
       "movie": "",
       "duration_sec": 599.32,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-01_pop_song.mp3",
-      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-01_pop_song.jpg"
+      "artwork_generated_url": ""
     },
     {
       "id": "2026-05-29_pop_song",
@@ -22,7 +33,7 @@
       "movie": "",
       "duration_sec": 655.64,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-29_pop_song.mp3",
-      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-05-29_pop_song.jpg"
+      "artwork_generated_url": ""
     },
     {
       "id": "2026-05-28_pop_song",
@@ -33,7 +44,7 @@
       "movie": "",
       "duration_sec": 661.49,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-28_pop_song.mp3",
-      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-05-28_pop_song.jpg"
+      "artwork_generated_url": ""
     },
     {
       "id": "2024-06-30_review_time_screen",

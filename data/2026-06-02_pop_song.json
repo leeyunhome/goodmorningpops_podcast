@@ -1,0 +1,1073 @@
+{
+  "id": "2026-06-02_pop_song",
+  "date": "2026-06-02",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "Songs In My Head - HONNE",
+  "movie": "",
+  "duration_sec": 595.08,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-02_pop_song.mp3",
+  "artwork_generated_url": "",
+  "script": [
+    {
+      "start": 11.76,
+      "end": 15.38,
+      "text": "팝송에 스며드는 특별한 영어시간 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.38,
+      "end": 23.34,
+      "text": "좋은 팝음악으로 아침을 상쾌하게 깨워드립니다"
+    },
+    {
+      "start": 23.34,
+      "end": 25.5,
+      "text": "굿모닝 팝스 조정현입니다"
+    },
+    {
+      "start": 25.5,
+      "end": 31.13,
+      "text": "감성적인 멜로디와 솔직한 가사에 집중해보는 시간이에요"
+    },
+    {
+      "start": 31.13,
+      "end": 34.95,
+      "text": "먼저 오늘의 미션 문장 알려드리니까요 영어 가사 예상해보세요"
+    },
+    {
+      "start": 34.95,
+      "end": 52.11,
+      "text": "첫 번째, 일어나면 할 말이 다 사라지죠"
+    },
+    {
+      "start": 52.11,
+      "end": 58.26,
+      "text": "두 번째, 내 감정을 잘 안 털어놓죠"
+    },
+    {
+      "start": 58.26,
+      "end": 62.79,
+      "text": "세 번째, 당신 때문이에요"
+    },
+    {
+      "start": 62.79,
+      "end": 77.0,
+      "text": "영국 출신 듀오 혼의 2024년 곡 Songs in my head라는 곡입니다"
+    },
+    {
+      "start": 77.0,
+      "end": 83.72,
+      "text": "Songs in my head, 내 머릿속의 노래들 정도로 먼저 해석을 해봤어요"
+    },
+    {
+      "start": 83.72,
+      "end": 85.9,
+      "text": "첫 번째 미션 문장 이거였죠"
+    },
+    {
+      "start": 85.9,
+      "end": 90.06,
+      "text": "일어나면 할 말이 다 사라지죠 라는 가사 찾아보세요"
+    },
+    {
+      "start": 99.46,
+      "end": 117.97,
+      "text": "정말 감성적으로 시작하고 있네요"
+    },
+    {
+      "start": 117.97,
+      "end": 121.77,
+      "text": "When I wake up, 깨어나면, 일어나면"
+    },
+    {
+      "start": 121.77,
+      "end": 124.39,
+      "text": "The words are all gone"
+    },
+    {
+      "start": 124.39,
+      "end": 127.01,
+      "text": "이 표현 들으셨죠? 미션 문장입니다"
+    },
+    {
+      "start": 127.01,
+      "end": 129.15,
+      "text": "그 말들은 다 사라지죠"
+    },
+    {
+      "start": 129.15,
+      "end": 131.55,
+      "text": "할 말이 다 사라지죠 라는 뜻이에요"
+    },
+    {
+      "start": 131.55,
+      "end": 134.95,
+      "text": "When I wake up, the words are all gone"
+    },
+    {
+      "start": 134.95,
+      "end": 138.11,
+      "text": "깨어나면 할 말들이 다 사라지죠"
+    },
+    {
+      "start": 138.11,
+      "end": 142.21,
+      "text": "그 다음, there's no music, 음악도 없고"
+    },
+    {
+      "start": 142.21,
+      "end": 146.35,
+      "text": "no sign of a song, 노래의 흔적도 없어요"
+    },
+    {
+      "start": 146.35,
+      "end": 153.57,
+      "text": "그러니까 깨어나기 바로 직전 꿈속에서 일어났던 일을 우리가 예상할 수 있겠죠"
+    },
+    {
+      "start": 154.17,
+      "end": 158.73,
+      "text": "꿈속에서는 그 상대방을 위한 아름다운 곡을 막 썼나 봐요"
+    },
+    {
+      "start": 158.73,
+      "end": 161.21,
+      "text": "아름다운 가사로 고백도 했나 봐요"
+    },
+    {
+      "start": 161.21,
+      "end": 166.59,
+      "text": "근데 이제 의식이 돌아오고 깨어나니까 할 말이 다 사라져버렸다"
+    },
+    {
+      "start": 166.59,
+      "end": 170.91,
+      "text": "그리고 노래의 흔적도 없다, 음악도 없다 라는 가사였습니다"
+    },
+    {
+      "start": 170.91,
+      "end": 174.57,
+      "text": "Nothing one day that we'll sing along"
+    },
+    {
+      "start": 174.57,
+      "end": 177.45,
+      "text": "Nothing one day 언젠가"
+    },
+    {
+      "start": 177.45,
+      "end": 179.39,
+      "text": "That we'll sing along"
+    },
+    {
+      "start": 179.39,
+      "end": 180.91,
+      "text": "Sing along이라고 하면"
+    },
+    {
+      "start": 180.91,
+      "end": 183.89,
+      "text": "그쵸, 같이 따라 부르다 라는 뜻이니까"
+    },
+    {
+      "start": 183.89,
+      "end": 186.91,
+      "text": "우리가 함께 따라 부를 만한 노래가"
+    },
+    {
+      "start": 186.91,
+      "end": 188.47,
+      "text": "Nothing 들으셨죠?"
+    },
+    {
+      "start": 188.81,
+      "end": 190.13,
+      "text": "아무것도 없어요"
+    },
+    {
+      "start": 190.13,
+      "end": 195.04,
+      "text": "Because I keep writing you songs all night long"
+    },
+    {
+      "start": 195.04,
+      "end": 198.42,
+      "text": "왜냐하면 내가 all night long"
+    },
+    {
+      "start": 198.42,
+      "end": 201.32,
+      "text": "밤새 I keep writing you songs"
+    },
+    {
+      "start": 201.32,
+      "end": 204.64,
+      "text": "당신에게 줄 노래를 계속 쓰니까요"
+    },
+    {
+      "start": 204.64,
+      "end": 209.14,
+      "text": "아, 내가 머릿속으로만 쓰고 있으니까"
+    },
+    {
+      "start": 209.14,
+      "end": 214.2,
+      "text": "우리가 함께 따라 부를 만한 노래가 아무것도 없다 라는 말입니다"
+    },
+    {
+      "start": 214.2,
+      "end": 218.98,
+      "text": "이렇게 마음속으로는 아름다운 말들로 쭉 고백하면서"
+    },
+    {
+      "start": 218.98,
+      "end": 224.9,
+      "text": "가사를 적어내려갔지만 실제로는 상대방에게 표현을 못한다 라는 말이겠죠"
+    },
+    {
+      "start": 224.9,
+      "end": 233.34,
+      "text": "이제 두 번째, 내 감정을 잘 안 털어놓죠 라는 미션 문장 집중해서 찾아보세요"
+    },
+    {
+      "start": 233.34,
+      "end": 256.85,
+      "text": "정말 아름다운 마치 동화 속의 한 장면을 들여다보는 것 같은 부분입니다"
+    },
+    {
+      "start": 256.85,
+      "end": 258.13,
+      "text": "멜로디가 그랬죠"
+    },
+    {
+      "start": 258.13,
+      "end": 259.87,
+      "text": "So many evenings"
+    },
+    {
+      "start": 259.87,
+      "end": 261.79,
+      "text": "많은 밤 동안"
+    },
+    {
+      "start": 261.79,
+      "end": 264.31,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 264.31,
+      "end": 265.91,
+      "text": "미션 문장이었어요"
+    },
+    {
+      "start": 265.91,
+      "end": 268.57,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 268.57,
+      "end": 272.91,
+      "text": "나는 내 감정을 잘 안 털어놓는다 라는 상황에서"
+    },
+    {
+      "start": 272.91,
+      "end": 275.23,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 275.23,
+      "end": 277.41,
+      "text": "이렇게 표현할 수 있는 거예요"
+    },
+    {
+      "start": 277.41,
+      "end": 280.65,
+      "text": "I keep them all locked up instead"
+    },
+    {
+      "start": 280.65,
+      "end": 282.93,
+      "text": "대신에 나는 어떻게 한다고요?"
+    },
+    {
+      "start": 283.27,
+      "end": 284.15,
+      "text": "I keep them"
+    },
+    {
+      "start": 284.15,
+      "end": 285.63,
+      "text": "이 them이 가리키는 것은"
+    },
+    {
+      "start": 285.63,
+      "end": 287.01,
+      "text": "my feelings가 되겠죠"
+    },
+    {
+      "start": 287.01,
+      "end": 290.19,
+      "text": "I keep them all locked up instead"
+    },
+    {
+      "start": 290.19,
+      "end": 293.77,
+      "text": "그 감정들을 내 마음속에 가둬두죠"
+    },
+    {
+      "start": 293.77,
+      "end": 297.11,
+      "text": "How can I tell you I love you to death?"
+    },
+    {
+      "start": 297.97,
+      "end": 300.31,
+      "text": "저는 이 부분의 멜로디가 너무 마음에 들더라고요"
+    },
+    {
+      "start": 300.31,
+      "end": 302.99,
+      "text": "How can I tell you I love you to death?"
+    },
+    {
+      "start": 303.55,
+      "end": 305.67,
+      "text": "당신을 너무너무 사랑한다고"
+    },
+    {
+      "start": 305.67,
+      "end": 307.13,
+      "text": "How can I tell you"
+    },
+    {
+      "start": 307.13,
+      "end": 308.81,
+      "text": "내가 어떻게 말할 수 있을까요?"
+    },
+    {
+      "start": 309.25,
+      "end": 310.51,
+      "text": "I love you to death"
+    },
+    {
+      "start": 310.51,
+      "end": 314.27,
+      "text": "죽을 만큼 사랑한다 라는 고백이기도 하죠"
+    },
+    {
+      "start": 314.27,
+      "end": 316.69,
+      "text": "If I keep writing songs in my head"
+    },
+    {
+      "start": 316.69,
+      "end": 319.77,
+      "text": "내가 계속 머릿속에서만"
+    },
+    {
+      "start": 319.77,
+      "end": 321.39,
+      "text": "I keep writing songs"
+    },
+    {
+      "start": 321.39,
+      "end": 323.33,
+      "text": "노래를 쓴다면 말이에요"
+    },
+    {
+      "start": 323.33,
+      "end": 326.77,
+      "text": "아주 자연스럽게 잘 해석이 됐죠"
+    },
+    {
+      "start": 326.77,
+      "end": 329.12,
+      "text": "이어서 세 번째 미션 문장입니다"
+    },
+    {
+      "start": 329.12,
+      "end": 333.01,
+      "text": "당신 때문이에요 라는 말 찾아보세요"
+    },
+    {
+      "start": 333.01,
+      "end": 334.33,
+      "text": "You're my passion"
+    },
+    {
+      "start": 334.33,
+      "end": 359.9,
+      "text": "You're my passion"
+    },
+    {
+      "start": 359.9,
+      "end": 361.98,
+      "text": "당신은 나의 뭐라고요?"
+    },
+    {
+      "start": 362.2,
+      "end": 364.08,
+      "text": "passion, 열정"
+    },
+    {
+      "start": 364.08,
+      "end": 366.2,
+      "text": "My fire and flame"
+    },
+    {
+      "start": 366.2,
+      "end": 368.46,
+      "text": "나의 불과 불꽃이다"
+    },
+    {
+      "start": 368.46,
+      "end": 370.58,
+      "text": "라고 빗대어서 표현을 했습니다"
+    },
+    {
+      "start": 370.58,
+      "end": 374.08,
+      "text": "I'm in love and you're to blame"
+    },
+    {
+      "start": 374.08,
+      "end": 375.98,
+      "text": "나는 사랑에 빠졌죠"
+    },
+    {
+      "start": 375.98,
+      "end": 378.1,
+      "text": "And you're to blame"
+    },
+    {
+      "start": 378.1,
+      "end": 379.28,
+      "text": "이 부분이죠"
+    },
+    {
+      "start": 379.28,
+      "end": 380.56,
+      "text": "당신 때문이에요"
+    },
+    {
+      "start": 380.56,
+      "end": 381.2,
+      "text": "라고"
+    },
+    {
+      "start": 381.2,
+      "end": 382.88,
+      "text": "You're to blame"
+    },
+    {
+      "start": 382.88,
+      "end": 385.54,
+      "text": "아 그건 다 당신 때문이에요"
+    },
+    {
+      "start": 385.54,
+      "end": 387.4,
+      "text": "I'm in love"
+    },
+    {
+      "start": 387.4,
+      "end": 388.62,
+      "text": "내가 사랑에 빠진 것은"
+    },
+    {
+      "start": 388.62,
+      "end": 390.04,
+      "text": "You're to blame"
+    },
+    {
+      "start": 390.04,
+      "end": 391.46,
+      "text": "다 당신 때문이에요"
+    },
+    {
+      "start": 391.46,
+      "end": 393.24,
+      "text": "라고 하는 맥락이었어요"
+    },
+    {
+      "start": 393.24,
+      "end": 396.36,
+      "text": "How will I know if you feel the same?"
+    },
+    {
+      "start": 397.05,
+      "end": 397.79,
+      "text": "How will I know?"
+    },
+    {
+      "start": 397.85,
+      "end": 398.75,
+      "text": "내가 어떻게 알겠어요?"
+    },
+    {
+      "start": 399.29,
+      "end": 400.39,
+      "text": "If you feel the same"
+    },
+    {
+      "start": 400.39,
+      "end": 403.25,
+      "text": "당신이 같은 마음인지"
+    },
+    {
+      "start": 403.25,
+      "end": 404.65,
+      "text": "내가 어떻게 알겠어요?"
+    },
+    {
+      "start": 405.41,
+      "end": 408.77,
+      "text": "If I keep storing new songs in my brain"
+    },
+    {
+      "start": 408.77,
+      "end": 411.51,
+      "text": "내가 계속 내 brain"
+    },
+    {
+      "start": 411.51,
+      "end": 414.81,
+      "text": "머릿속에서 당신에게 줄 노래를"
+    },
+    {
+      "start": 414.81,
+      "end": 416.85,
+      "text": "If I keep storing"
+    },
+    {
+      "start": 416.85,
+      "end": 417.51,
+      "text": "이라고 했죠"
+    },
+    {
+      "start": 417.51,
+      "end": 419.67,
+      "text": "그래서 담아둔다면"
+    },
+    {
+      "start": 419.67,
+      "end": 421.63,
+      "text": "이라고 해석하면 좋을 것 같습니다"
+    },
+    {
+      "start": 421.63,
+      "end": 423.53,
+      "text": "내가 계속 내 머릿속에서"
+    },
+    {
+      "start": 423.53,
+      "end": 425.97,
+      "text": "당신에게 줄 노래를 담아둔다면"
+    },
+    {
+      "start": 425.97,
+      "end": 427.81,
+      "text": "아 그렇죠"
+    },
+    {
+      "start": 427.81,
+      "end": 430.07,
+      "text": "그냥 좀 직접적으로"
+    },
+    {
+      "start": 430.07,
+      "end": 431.41,
+      "text": "I love you to death"
+    },
+    {
+      "start": 431.41,
+      "end": 433.75,
+      "text": "이 말만 하면 깔끔하게"
+    },
+    {
+      "start": 433.75,
+      "end": 435.71,
+      "text": "해결이 될 것 같은 상황이죠"
+    },
+    {
+      "start": 435.71,
+      "end": 437.15,
+      "text": "죽도록 사랑해"
+    },
+    {
+      "start": 437.15,
+      "end": 440.17,
+      "text": "이 말 한마디로 충분히 전달될 것 같습니다"
+    },
+    {
+      "start": 440.17,
+      "end": 442.48,
+      "text": "그럼 유용한 표현들"
+    },
+    {
+      "start": 442.48,
+      "end": 443.7,
+      "text": "리뷰 타임"
+    },
+    {
+      "start": 443.7,
+      "end": 445.8,
+      "text": "첫 번째"
+    },
+    {
+      "start": 445.8,
+      "end": 449.54,
+      "text": "일어나면 할 말이 다 사라지죠"
+    },
+    {
+      "start": 449.54,
+      "end": 451.2,
+      "text": "When I wake up"
+    },
+    {
+      "start": 451.2,
+      "end": 453.8,
+      "text": "The words are all gone"
+    },
+    {
+      "start": 453.8,
+      "end": 455.54,
+      "text": "이 표현이었습니다"
+    },
+    {
+      "start": 455.54,
+      "end": 456.48,
+      "text": "When I wake up"
+    },
+    {
+      "start": 456.48,
+      "end": 458.08,
+      "text": "The words are all gone"
+    },
+    {
+      "start": 458.08,
+      "end": 459.56,
+      "text": "이거 대신에"
+    },
+    {
+      "start": 459.56,
+      "end": 460.42,
+      "text": "When I wake up"
+    },
+    {
+      "start": 460.42,
+      "end": 463.32,
+      "text": "I lose all my words"
+    },
+    {
+      "start": 463.32,
+      "end": 465.1,
+      "text": "이렇게도 표현해 보시고요"
+    },
+    {
+      "start": 465.1,
+      "end": 466.5,
+      "text": "When I wake up"
+    },
+    {
+      "start": 466.5,
+      "end": 467.98,
+      "text": "I forget everything"
+    },
+    {
+      "start": 467.98,
+      "end": 469.32,
+      "text": "I was going to say"
+    },
+    {
+      "start": 469.32,
+      "end": 471.14,
+      "text": "내가 말하려고 했던 거를"
+    },
+    {
+      "start": 471.14,
+      "end": 472.28,
+      "text": "다 잊어버린다"
+    },
+    {
+      "start": 472.28,
+      "end": 473.28,
+      "text": "라는 문장이 되겠죠"
+    },
+    {
+      "start": 473.28,
+      "end": 474.28,
+      "text": "When I wake up"
+    },
+    {
+      "start": 474.28,
+      "end": 475.14,
+      "text": "I forget everything"
+    },
+    {
+      "start": 475.14,
+      "end": 476.32,
+      "text": "I was going to say"
+    },
+    {
+      "start": 476.32,
+      "end": 477.71,
+      "text": "두 번째"
+    },
+    {
+      "start": 477.71,
+      "end": 479.25,
+      "text": "내 감정을"
+    },
+    {
+      "start": 479.25,
+      "end": 480.69,
+      "text": "잘 안 털어놓죠"
+    },
+    {
+      "start": 480.69,
+      "end": 481.71,
+      "text": "라는 가사는요"
+    },
+    {
+      "start": 481.71,
+      "end": 484.35,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 484.35,
+      "end": 485.49,
+      "text": "이거였죠"
+    },
+    {
+      "start": 485.49,
+      "end": 487.39,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 487.39,
+      "end": 489.55,
+      "text": "I don't open up"
+    },
+    {
+      "start": 489.55,
+      "end": 491.07,
+      "text": "about my feelings"
+    },
+    {
+      "start": 491.07,
+      "end": 492.13,
+      "text": "이런 경우"
+    },
+    {
+      "start": 492.13,
+      "end": 493.07,
+      "text": "종종 있잖아요"
+    },
+    {
+      "start": 493.07,
+      "end": 495.05,
+      "text": "특히 감정 표현에"
+    },
+    {
+      "start": 495.05,
+      "end": 495.81,
+      "text": "서툰 분들"
+    },
+    {
+      "start": 495.81,
+      "end": 496.93,
+      "text": "I don't open up"
+    },
+    {
+      "start": 496.93,
+      "end": 497.93,
+      "text": "about my feelings"
+    },
+    {
+      "start": 497.93,
+      "end": 499.25,
+      "text": "I'm not good at"
+    },
+    {
+      "start": 499.25,
+      "end": 500.99,
+      "text": "expressing my emotions"
+    },
+    {
+      "start": 500.99,
+      "end": 503.17,
+      "text": "이렇게도 표현해 보시고요"
+    },
+    {
+      "start": 503.17,
+      "end": 504.21,
+      "text": "세 번째"
+    },
+    {
+      "start": 504.21,
+      "end": 505.97,
+      "text": "당신 때문이에요"
+    },
+    {
+      "start": 505.97,
+      "end": 507.21,
+      "text": "뭐라고 했죠"
+    },
+    {
+      "start": 507.21,
+      "end": 508.97,
+      "text": "You are to blame"
+    },
+    {
+      "start": 508.97,
+      "end": 509.85,
+      "text": "그렇죠"
+    },
+    {
+      "start": 509.85,
+      "end": 511.39,
+      "text": "You are to blame"
+    },
+    {
+      "start": 511.39,
+      "end": 513.09,
+      "text": "이라는 문장이었습니다"
+    },
+    {
+      "start": 513.09,
+      "end": 515.09,
+      "text": "또 가사 흐름을 살려가지고"
+    },
+    {
+      "start": 515.09,
+      "end": 517.15,
+      "text": "대체 문장을 표현을 해본다면"
+    },
+    {
+      "start": 517.15,
+      "end": 518.95,
+      "text": "It's because of you"
+    },
+    {
+      "start": 518.95,
+      "end": 520.99,
+      "text": "이것도 좋을 것 같고"
+    },
+    {
+      "start": 520.99,
+      "end": 522.17,
+      "text": "You are the reason"
+    },
+    {
+      "start": 522.17,
+      "end": 524.49,
+      "text": "이 문장도 가능할 법하죠"
+    },
+    {
+      "start": 524.49,
+      "end": 527.25,
+      "text": "그럼 리듬 타면서 복습해 볼게요"
+    },
+    {
+      "start": 527.25,
+      "end": 534.35,
+      "text": "첫 번째"
+    },
+    {
+      "start": 534.35,
+      "end": 536.87,
+      "text": "일어나면 할 말이 다 사라지죠"
+    },
+    {
+      "start": 536.87,
+      "end": 537.95,
+      "text": "When I wake up"
+    },
+    {
+      "start": 537.95,
+      "end": 539.29,
+      "text": "The words are all gone"
+    },
+    {
+      "start": 539.29,
+      "end": 540.25,
+      "text": "When I wake up"
+    },
+    {
+      "start": 540.25,
+      "end": 541.81,
+      "text": "The words are all gone"
+    },
+    {
+      "start": 541.81,
+      "end": 542.67,
+      "text": "When I wake up"
+    },
+    {
+      "start": 542.67,
+      "end": 544.25,
+      "text": "The words are all gone"
+    },
+    {
+      "start": 544.25,
+      "end": 545.11,
+      "text": "두 번째"
+    },
+    {
+      "start": 545.11,
+      "end": 546.29,
+      "text": "내 감정을"
+    },
+    {
+      "start": 546.29,
+      "end": 547.87,
+      "text": "잘 안 털어놓죠"
+    },
+    {
+      "start": 547.87,
+      "end": 550.47,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 550.47,
+      "end": 552.93,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 552.93,
+      "end": 555.25,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 555.25,
+      "end": 556.19,
+      "text": "세 번째"
+    },
+    {
+      "start": 556.19,
+      "end": 557.75,
+      "text": "당신 때문이에요"
+    },
+    {
+      "start": 557.75,
+      "end": 559.29,
+      "text": "You are to blame"
+    },
+    {
+      "start": 559.29,
+      "end": 561.51,
+      "text": "You are to blame"
+    },
+    {
+      "start": 561.51,
+      "end": 563.8,
+      "text": "You are to blame"
+    },
+    {
+      "start": 563.8,
+      "end": 572.24,
+      "text": "굿모닝 팝스 다시 듣기는"
+    },
+    {
+      "start": 572.24,
+      "end": 574.88,
+      "text": "KBS 애플리케이션 콩 오리지널 탭과"
+    },
+    {
+      "start": 574.88,
+      "end": 577.44,
+      "text": "KBS 콩 유튜브로 다시 들으실 수 있습니다"
+    },
+    {
+      "start": 577.44,
+      "end": 579.1,
+      "text": "굿모닝 팝스"
+    },
+    {
+      "start": 579.1,
+      "end": 580.48,
+      "text": "저는 조정연이었습니다"
+    },
+    {
+      "start": 580.48,
+      "end": 581.7,
+      "text": "Have a happy day"
+    },
+    {
+      "start": 581.7,
+      "end": 581.74,
+      "text": "Have a happy day"
+    },
+    {
+      "start": 581.74,
+      "end": 583.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 583.08,
+      "end": 584.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 584.08,
+      "end": 585.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 585.08,
+      "end": 586.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 586.08,
+      "end": 587.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 587.08,
+      "end": 587.54,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 587.54,
+      "end": 588.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 588.08,
+      "end": 589.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 589.08,
+      "end": 590.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 590.08,
+      "end": 591.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 591.08,
+      "end": 592.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 592.08,
+      "end": 593.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 593.08,
+      "end": 594.08,
+      "text": "I don't share my feelings"
+    },
+    {
+      "start": 594.08,
+      "end": 595.08,
+      "text": "I don't share my feelings"
+    }
+  ]
+}
