@@ -151,54 +151,58 @@
         if (label) label.textContent = idx === 0 ? "Album Art" : "AI Watercolor";
       }
 
-      async function loadArtwork(ep) {
+      function loadArtwork(ep) {
         const wrap = document.getElementById("artwork-wrap");
         const imgAlbum = document.getElementById("artwork");
         const imgGen = document.getElementById("artwork-gen");
         const dotsEl = document.getElementById("artwork-dots");
         wrap.style.display = "none";
         imgAlbum.style.display = "none";
+        imgAlbum.style.opacity = "0";
         imgGen.style.display = "none";
+        imgGen.style.opacity = "0";
         dotsEl.style.display = "none";
         artSlides = [];
         artSlideIdx = 0;
 
-        // 1) iTunes 앨범아트
-        const albumUrl = await fetchArtwork(ep.title, 600);
-        // 2) AI 생성 이미지 (build_player에서 넣어줌)
         const genUrl = ep.artwork_generated_url || null;
 
-        if (!albumUrl && !genUrl) return;
-        wrap.style.display = "";
-
-        if (albumUrl) {
-          imgAlbum.src = albumUrl;
-          imgAlbum.alt = ep.title || "";
-          imgAlbum.style.display = "";
-          artSlides.push(imgAlbum);
-        }
-        if (genUrl) {
-          imgGen.src = genUrl;
-          imgGen.alt = "AI Watercolor — " + (ep.title || "");
-          imgGen.style.display = albumUrl ? "none" : "";
-          artSlides.push(imgGen);
+        function addSlide(img, url, alt) {
+          img.src = url;
+          img.alt = alt || "";
+          img.onload = () => { img.style.opacity = "1"; };
+          img.onerror = () => { img.style.display = "none"; };
+          img.style.display = "";
+          artSlides.push(img);
+          wrap.style.display = "";
+          if (artSlides.length > 1) dotsEl.style.display = "";
+          if (artSlides.length === 1) showSlide(0);
+          else updateDots();
+          updateMediaSession(url);
         }
 
-        // 슬라이드 2개 이상이면 dots 표시
-        if (artSlides.length > 1) {
-          dotsEl.style.display = "";
+        function updateDots() {
+          const dots = document.querySelectorAll("#artwork-dots .dot");
+          dots.forEach((d, i) => d.classList.toggle("active", i === artSlideIdx));
         }
-        showSlide(0);
 
-        // MediaSession 아트워크
-        if ('mediaSession' in navigator && navigator.mediaSession.metadata) {
-          const artSrc = genUrl || albumUrl;
-          try {
-            navigator.mediaSession.metadata.artwork = [
-              { src: artSrc, sizes: "512x512", type: "image/png" },
-            ];
-          } catch {}
+        function updateMediaSession(url) {
+          if ('mediaSession' in navigator && navigator.mediaSession.metadata) {
+            try {
+              navigator.mediaSession.metadata.artwork = [
+                { src: url, sizes: "512x512", type: "image/jpeg" },
+              ];
+            } catch {}
+          }
         }
+
+        // 1) AI 생성 이미지 — 즉시 (API 호출 없음)
+        if (genUrl) addSlide(imgGen, genUrl, "AI Watercolor — " + (ep.title || ""));
+
+        // 2) iTunes 앨범아트 — 비동기 추가 (Screen English는 자동 스킵)
+        fetchArtwork(ep.title, 600).then(albumUrl => {
+          if (albumUrl) addSlide(imgAlbum, albumUrl, ep.title || "");
+        });
       }
 
       // ====== MediaSession (백그라운드/잠금화면 컨트롤) ======
