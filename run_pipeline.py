@@ -48,6 +48,7 @@ except AttributeError:
 import build_player as bp
 import extract_corner as ec
 import fetch_episode as fe
+import generate_artwork as ga
 import optimize_mp3 as om
 import transcribe as tr
 import upload_supabase as us
@@ -103,6 +104,8 @@ def process_episode(
     web_dir: Path,
     movie_map: dict,
     url_map_path: Path,
+    artwork_urls_path: Path,
+    gemini_api_key: str | None,
     args,
 ) -> str:
     """한 회차의 전체 파이프라인을 수행하고 결과 상태 문자열을 반환."""
@@ -202,13 +205,38 @@ def process_episode(
         json.dumps(url_map, ensure_ascii=False, indent=2), encoding="utf-8"
     )
 
-    # 6. Build player JSON (이 회차 + index 재생성)
-    print(f"  [6/7] build player data...")
+    # 6. AI 아트워크 생성
+    ep_id = f"{date_str}_{corner_id}"
+    artwork_urls = ga.load_artwork_urls(artwork_urls_path)
+    if gemini_api_key and (args.overwrite or ep_id not in artwork_urls):
+        print(f"  [6/8] generate artwork...")
+        song_info = ga.extract_song_info(
+            bp.find_original_title(audio_dir, date_str, corner_id)
+        )
+        if song_info:
+            try:
+                prompt = ga.build_prompt(song_info[0], song_info[1])
+                png_bytes = ga.generate_image(gemini_api_key, prompt)
+                jpg_bytes = ga.compress_to_jpeg(png_bytes)
+                art_url = ga.upload_to_supabase(jpg_bytes, f"{ep_id}.jpg")
+                artwork_urls[ep_id] = art_url
+                ga.save_artwork_urls(artwork_urls, artwork_urls_path)
+                print(f"  [6/8] artwork OK ({len(jpg_bytes)//1024}KB)")
+            except Exception as e:
+                print(f"  [6/8] artwork 실패 (계속 진행): {e}")
+        else:
+            print(f"  [6/8] artwork 스킵 (곡 정보 없음)")
+    else:
+        print(f"  [6/8] artwork 스킵 ({'이미 있음' if ep_id in artwork_urls else 'API 키 없음'})")
+
+    # 7. Build player JSON (이 회차 + index 재생성)
+    print(f"  [7/8] build player data...")
     data_dir = pages_repo / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
 
     corner_srt = out_corners / f"{date_str}_{corner_id}.srt"
-    ep_obj = bp.build_episode(corner_srt, audio_dir, url_map, movie_map)
+    artwork_urls = ga.load_artwork_urls(artwork_urls_path)
+    ep_obj = bp.build_episode(corner_srt, audio_dir, url_map, movie_map, artwork_urls)
     if ep_obj is None:
         return "build-failed"
     bp.write_episode_json(ep_obj, data_dir)
@@ -216,19 +244,19 @@ def process_episode(
     # index.json: 현재까지 corners/ 에 있는 모든 srt 기준으로 재생성
     all_episodes = []
     for srt in sorted(out_corners.glob("*.srt")):
-        e = bp.build_episode(srt, audio_dir, url_map, movie_map)
+        e = bp.build_episode(srt, audio_dir, url_map, movie_map, artwork_urls)
         if e:
             all_episodes.append(e)
     bp.write_index_json(all_episodes, data_dir)
     bp.copy_static_assets(web_dir, pages_repo)
 
-    # 7. Git push
+    # 8. Git push
     if args.no_push:
-        print(f"  [7/7] git push 스킵 (--no-push)")
+        print(f"  [8/8] git push 스킵 (--no-push)")
         return "built"
 
-    print(f"  [7/7] git push...")
-    result = git_push(pages_repo, f"deploy: {date_str} screen_english")
+    print(f"  [8/8] git push...")
+    result = git_push(pages_repo, f"deploy: {date_str} {corner_id}")
     if result == "pushed":
         return "deployed"
     if result == "nothing":
@@ -306,6 +334,7 @@ def main() -> int:
     web_dir = Path(args.web_dir)
     url_map_path = Path("supabase_urls.json")
     movie_map_path = Path("movie_mapping.json")
+    artwork_urls_path = Path("artwork_urls.json")
 
     if not pages_repo.is_dir():
         raise SystemExit(f"--repo 경로가 폴더가 아닙니다: {pages_repo}")
@@ -368,7 +397,20 @@ def main() -> int:
 
     # 영화 매핑
     movie_map = bp.load_movie_mapping(movie_map_path)
-    print(f"  영화 매핑: {len(movie_map)}개\n")
+    print(f"  영화 매핑: {len(movie_map)}개")
+
+    # Gemini API 키 (아트워크 생성용, 없으면 스킵)
+    ga.load_env()
+    gemini_api_key = (
+        os.environ.get("gemini_api_key")
+        or os.environ.get("GEMINI_API_KEY")
+        or os.environ.get("GOOGLE_API_KEY")
+    )
+    if gemini_api_key:
+        print(f"  AI 아트워크: 활성화 (Imagen 4)")
+    else:
+        print(f"  AI 아트워크: 비활성화 (.env에 gemini_api_key 없음)")
+    print()
 
     # 스트리밍 처리
     stats: dict[str, int] = {}
@@ -389,6 +431,8 @@ def main() -> int:
                 web_dir=web_dir,
                 movie_map=movie_map,
                 url_map_path=url_map_path,
+                artwork_urls_path=artwork_urls_path,
+                gemini_api_key=gemini_api_key,
                 args=args,
             )
         except Exception as e:
