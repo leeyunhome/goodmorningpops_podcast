@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-02T15:45:11",
-  "count": 400,
+  "generated_at": "2026-06-03T10:22:16",
+  "count": 401,
   "episodes": [
+    {
+      "id": "2026-06-03_pop_song",
+      "date": "2026-06-03",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Girls Night - Dot",
+      "movie": "",
+      "duration_sec": 615.76,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-03_pop_song.mp3",
+      "artwork_generated_url": ""
+    },
     {
       "id": "2026-06-02_pop_song",
       "date": "2026-06-02",
