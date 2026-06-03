@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T10:22:16",
+  "generated_at": "2026-06-03T10:27:46",
   "count": 401,
   "episodes": [
     {
@@ -11,7 +11,7 @@
       "movie": "",
       "duration_sec": 615.76,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-03_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-03_pop_song.jpg"
     },
     {
       "id": "2026-06-02_pop_song",
@@ -33,7 +33,7 @@
       "movie": "",
       "duration_sec": 599.32,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-01_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-01_pop_song.jpg"
     },
     {
       "id": "2026-05-29_pop_song",
@@ -44,7 +44,7 @@
       "movie": "",
       "duration_sec": 655.64,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-29_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-05-29_pop_song.jpg"
     },
     {
       "id": "2026-05-28_pop_song",
@@ -55,7 +55,7 @@
       "movie": "",
       "duration_sec": 661.49,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-05-28_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-05-28_pop_song.jpg"
     },
     {
       "id": "2024-06-30_review_time_screen",
