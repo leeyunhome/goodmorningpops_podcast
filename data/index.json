@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-03T10:27:46",
-  "count": 401,
+  "generated_at": "2026-06-06T19:04:13",
+  "count": 402,
   "episodes": [
+    {
+      "id": "2026-06-04_pop_song",
+      "date": "2026-06-04",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Distance - Amelia Rose and Carlos Abril",
+      "movie": "",
+      "duration_sec": 633.9,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-04_pop_song.mp3",
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-04_pop_song.jpg"
+    },
     {
       "id": "2026-06-03_pop_song",
       "date": "2026-06-03",
