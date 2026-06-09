@@ -1,0 +1,1193 @@
+{
+  "id": "2026-06-08_pop_song",
+  "date": "2026-06-08",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "Ostra - Yumi Zouma",
+  "movie": "",
+  "duration_sec": 685.14,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-08_pop_song.mp3",
+  "artwork_generated_url": "",
+  "script": [
+    {
+      "start": 11.6,
+      "end": 15.54,
+      "text": "팝송에 스며드는 특별한 영어 시간, 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.54,
+      "end": 23.83,
+      "text": "좋은 팝 음악으로 아침을 상쾌하게 깨워드립니다"
+    },
+    {
+      "start": 23.83,
+      "end": 25.99,
+      "text": "굿모닝 팝스, 조정현입니다"
+    },
+    {
+      "start": 25.99,
+      "end": 31.63,
+      "text": "오늘 약간 몽환적인 분위기의 곡을 들으면서 가사에 집중해보려고 해요"
+    },
+    {
+      "start": 31.63,
+      "end": 35.35,
+      "text": "그럼 미션 문장 들으시면서 영어 가사 예상해보세요"
+    },
+    {
+      "start": 35.35,
+      "end": 52.33,
+      "text": "첫 번째, 난 그걸 깨뜨릴 수가 없었어요"
+    },
+    {
+      "start": 52.33,
+      "end": 57.47,
+      "text": "두 번째, 확실해지면 연락해요"
+    },
+    {
+      "start": 57.47,
+      "end": 63.31,
+      "text": "세 번째, 당신의 진짜 의도를 말해줘요"
+    },
+    {
+      "start": 63.31,
+      "end": 72.44,
+      "text": "뉴질랜드 출신 밴드 유미 Zoma의 2017년 발매곡 Ostra 라는 곡입니다"
+    },
+    {
+      "start": 72.44,
+      "end": 76.84,
+      "text": "첫 번째 미션 문장부터 함께 찾아볼 건데요"
+    },
+    {
+      "start": 76.84,
+      "end": 81.6,
+      "text": "난 그걸 깨뜨릴 수가 없었어요 라는 가사 찾아보세요"
+    },
+    {
+      "start": 81.6,
+      "end": 114.97,
+      "text": "I shouted when you waited 라는 소절부터 들어봤습니다"
+    },
+    {
+      "start": 114.97,
+      "end": 120.53,
+      "text": "당신이 기다릴 때 나는 shouted, 소리쳤어요 가 되겠죠"
+    },
+    {
+      "start": 120.53,
+      "end": 124.85,
+      "text": "I saw you in a prayed up mind"
+    },
+    {
+      "start": 124.85,
+      "end": 127.13,
+      "text": "이 부분은 어떤 뜻일까요?"
+    },
+    {
+      "start": 127.61,
+      "end": 130.03,
+      "text": "I saw you in a prayed up mind"
+    },
+    {
+      "start": 130.03,
+      "end": 132.53,
+      "text": "나는 당신을 봤는데"
+    },
+    {
+      "start": 132.53,
+      "end": 134.41,
+      "text": "어떻게 봤냐면"
+    },
+    {
+      "start": 134.41,
+      "end": 137.57,
+      "text": "in a prayed up mind"
+    },
+    {
+      "start": 137.57,
+      "end": 140.75,
+      "text": "pray라는 기도하다 라는 단어 있잖아요"
+    },
+    {
+      "start": 140.75,
+      "end": 142.37,
+      "text": "그 뒤에 이디가 붙어 있어요"
+    },
+    {
+      "start": 142.37,
+      "end": 144.23,
+      "text": "A prayed up mind"
+    },
+    {
+      "start": 144.23,
+      "end": 147.31,
+      "text": "그러면 기도하는 마음으로"
+    },
+    {
+      "start": 147.31,
+      "end": 149.37,
+      "text": "기도하는 심정으로"
+    },
+    {
+      "start": 149.37,
+      "end": 151.49,
+      "text": "그만큼 간절한 마음으로"
+    },
+    {
+      "start": 151.49,
+      "end": 153.75,
+      "text": "당신을 봤다 라는 뜻입니다"
+    },
+    {
+      "start": 153.75,
+      "end": 157.59,
+      "text": "Those times when you felt blameless"
+    },
+    {
+      "start": 157.59,
+      "end": 160.29,
+      "text": "당신이 you felt blameless"
+    },
+    {
+      "start": 160.29,
+      "end": 163.41,
+      "text": "잘못 없다고 느꼈던 그 시간들"
+    },
+    {
+      "start": 163.41,
+      "end": 165.79,
+      "text": "I could never break it"
+    },
+    {
+      "start": 165.79,
+      "end": 167.05,
+      "text": "이 부분 들으셨나요?"
+    },
+    {
+      "start": 167.05,
+      "end": 168.67,
+      "text": "I could never break it"
+    },
+    {
+      "start": 168.67,
+      "end": 171.53,
+      "text": "나는 그걸 깨뜨릴 수가 없었어요"
+    },
+    {
+      "start": 171.53,
+      "end": 174.95,
+      "text": "이 부분에서 첫 번째 미션 문장 들으신 거예요"
+    },
+    {
+      "start": 174.95,
+      "end": 176.73,
+      "text": "I could never break it"
+    },
+    {
+      "start": 176.73,
+      "end": 177.31,
+      "text": "그 다음"
+    },
+    {
+      "start": 177.31,
+      "end": 179.95,
+      "text": "I could never make friends blind"
+    },
+    {
+      "start": 179.95,
+      "end": 181.41,
+      "text": "자 이번엔"
+    },
+    {
+      "start": 181.41,
+      "end": 184.59,
+      "text": "I could never make friends blind"
+    },
+    {
+      "start": 184.59,
+      "end": 185.37,
+      "text": "라고 했습니다"
+    },
+    {
+      "start": 185.37,
+      "end": 187.67,
+      "text": "그러니까 친구들이"
+    },
+    {
+      "start": 187.67,
+      "end": 192.21,
+      "text": "사람들이 못 본 척하게 할 수도 없었죠"
+    },
+    {
+      "start": 192.21,
+      "end": 193.25,
+      "text": "라는 뜻으로"
+    },
+    {
+      "start": 193.25,
+      "end": 195.51,
+      "text": "blind라는 단어를 활용을 한 거예요"
+    },
+    {
+      "start": 195.51,
+      "end": 198.89,
+      "text": "You fake the change of facing"
+    },
+    {
+      "start": 198.89,
+      "end": 201.05,
+      "text": "이 부분까지 들어보셨죠?"
+    },
+    {
+      "start": 201.05,
+      "end": 203.73,
+      "text": "You fake the change of facing"
+    },
+    {
+      "start": 203.73,
+      "end": 205.73,
+      "text": "특히 fake라는 것이"
+    },
+    {
+      "start": 205.73,
+      "end": 207.61,
+      "text": "여기서 동사적으로 활용이 된 건데"
+    },
+    {
+      "start": 207.61,
+      "end": 209.19,
+      "text": "뭐뭐인 척하다"
+    },
+    {
+      "start": 209.19,
+      "end": 211.59,
+      "text": "꾸며내다 라는 뜻입니다"
+    },
+    {
+      "start": 211.59,
+      "end": 214.31,
+      "text": "예를 들어서 fake a smile 이라고 하면"
+    },
+    {
+      "start": 214.31,
+      "end": 217.47,
+      "text": "웃는 척하다가 되는 거겠죠?"
+    },
+    {
+      "start": 218.31,
+      "end": 219.45,
+      "text": "Facing이라고 하면"
+    },
+    {
+      "start": 219.45,
+      "end": 223.25,
+      "text": "표정이나 혹은 겉모습 정도로 해석할 수 있으니까"
+    },
+    {
+      "start": 223.25,
+      "end": 226.39,
+      "text": "You fake the change of facing"
+    },
+    {
+      "start": 226.39,
+      "end": 230.31,
+      "text": "당신은 얼굴에 변화를 속이네요"
+    },
+    {
+      "start": 230.31,
+      "end": 231.99,
+      "text": "라는 지격이 가능합니다"
+    },
+    {
+      "start": 231.99,
+      "end": 235.27,
+      "text": "당신은 변한 척 하고 있네요"
+    },
+    {
+      "start": 235.27,
+      "end": 235.97,
+      "text": "라는 말이에요"
+    },
+    {
+      "start": 235.97,
+      "end": 238.57,
+      "text": "You fake facing change"
+    },
+    {
+      "start": 238.57,
+      "end": 240.23,
+      "text": "딱 이 말이 되겠습니다"
+    },
+    {
+      "start": 240.23,
+      "end": 244.18,
+      "text": "이제 두 번째 미션 문장 찾아볼 건데요"
+    },
+    {
+      "start": 244.18,
+      "end": 247.38,
+      "text": "확실해지면 연락해요 라는 가사 찾아보세요"
+    },
+    {
+      "start": 247.38,
+      "end": 275.55,
+      "text": "이렇게 동일한 멜로디 구조로 들렸는데요"
+    },
+    {
+      "start": 275.55,
+      "end": 277.35,
+      "text": "But now you see me"
+    },
+    {
+      "start": 277.35,
+      "end": 279.93,
+      "text": "하지만 이제 당신은 see me"
+    },
+    {
+      "start": 279.93,
+      "end": 280.63,
+      "text": "나를 보내요"
+    },
+    {
+      "start": 281.33,
+      "end": 283.99,
+      "text": "And I don't have faith"
+    },
+    {
+      "start": 283.99,
+      "end": 285.51,
+      "text": "이 부분도 들으셨나요?"
+    },
+    {
+      "start": 286.01,
+      "end": 287.37,
+      "text": "I don't have faith"
+    },
+    {
+      "start": 287.37,
+      "end": 289.15,
+      "text": "나는 믿음이 없다는 걸까요?"
+    },
+    {
+      "start": 289.73,
+      "end": 291.43,
+      "text": "이 상황에서의 faith는"
+    },
+    {
+      "start": 291.43,
+      "end": 293.93,
+      "text": "뭔가 신앙에 관련된 믿음이 아니고"
+    },
+    {
+      "start": 293.93,
+      "end": 297.59,
+      "text": "확신에 관련된 표현이라고 이해하시면 되겠어요"
+    },
+    {
+      "start": 297.59,
+      "end": 299.63,
+      "text": "그러면 I don't have faith"
+    },
+    {
+      "start": 299.63,
+      "end": 301.09,
+      "text": "나는 확신이 없어요"
+    },
+    {
+      "start": 301.09,
+      "end": 301.91,
+      "text": "가 되는 거죠"
+    },
+    {
+      "start": 301.91,
+      "end": 303.63,
+      "text": "I don't have faith"
+    },
+    {
+      "start": 303.63,
+      "end": 305.05,
+      "text": "확신이 없어요"
+    },
+    {
+      "start": 305.05,
+      "end": 307.79,
+      "text": "Fighting off the reasons"
+    },
+    {
+      "start": 307.79,
+      "end": 310.79,
+      "text": "이유들에 맞서 싸우죠"
+    },
+    {
+      "start": 310.79,
+      "end": 311.61,
+      "text": "라는 말입니다"
+    },
+    {
+      "start": 311.61,
+      "end": 314.75,
+      "text": "이유들을 애써서 떨쳐내는 그런 상황이래요"
+    },
+    {
+      "start": 315.36,
+      "end": 317.28,
+      "text": "That you try to claim"
+    },
+    {
+      "start": 317.28,
+      "end": 321.78,
+      "text": "당신이 주장하려 했던 이유들을 애써서 떨쳐낸다"
+    },
+    {
+      "start": 322.38,
+      "end": 323.26,
+      "text": "라는 표현입니다"
+    },
+    {
+      "start": 323.26,
+      "end": 325.92,
+      "text": "Closer pulling over"
+    },
+    {
+      "start": 325.92,
+      "end": 328.82,
+      "text": "더 가까이 pulling over"
+    },
+    {
+      "start": 328.82,
+      "end": 330.66,
+      "text": "자 pull over 이라고 하면"
+    },
+    {
+      "start": 330.66,
+      "end": 331.56,
+      "text": "맞아요"
+    },
+    {
+      "start": 331.56,
+      "end": 334.76,
+      "text": "차를 정차시키는 상황을 상상하게 되죠"
+    },
+    {
+      "start": 334.76,
+      "end": 337.32,
+      "text": "더 가까이 차를 세우고"
+    },
+    {
+      "start": 337.32,
+      "end": 339.38,
+      "text": "Call me when you know"
+    },
+    {
+      "start": 339.38,
+      "end": 341.72,
+      "text": "알게 되면 연락해요"
+    },
+    {
+      "start": 341.72,
+      "end": 342.94,
+      "text": "이 부분이 바로"
+    },
+    {
+      "start": 342.94,
+      "end": 344.86,
+      "text": "확실해지면 연락해요"
+    },
+    {
+      "start": 344.86,
+      "end": 346.02,
+      "text": "라는 미션 문장입니다"
+    },
+    {
+      "start": 346.02,
+      "end": 348.02,
+      "text": "Call me when you know"
+    },
+    {
+      "start": 348.02,
+      "end": 350.68,
+      "text": "당신이 알게 되면 나에게 연락해요"
+    },
+    {
+      "start": 350.68,
+      "end": 352.78,
+      "text": "확신이 있으면 연락해요"
+    },
+    {
+      "start": 352.78,
+      "end": 356.24,
+      "text": "I can feel the turning back to indigo"
+    },
+    {
+      "start": 356.24,
+      "end": 358.18,
+      "text": "이 부분까지 들어봤어요"
+    },
+    {
+      "start": 358.18,
+      "end": 361.16,
+      "text": "I can feel the turning back to indigo"
+    },
+    {
+      "start": 361.16,
+      "end": 364.26,
+      "text": "Indigo 라고 하면 어떤 색상을 떠올리나요?"
+    },
+    {
+      "start": 364.94,
+      "end": 365.82,
+      "text": "그쵸? 남색"
+    },
+    {
+      "start": 365.82,
+      "end": 369.06,
+      "text": "남색과 비슷한 그런 색깔을 떠올리게 됩니다"
+    },
+    {
+      "start": 369.06,
+      "end": 372.68,
+      "text": "Indigo 색상으로 다시 돌아가는 게 느껴진다"
+    },
+    {
+      "start": 372.68,
+      "end": 373.82,
+      "text": "라는 해석이 되는데"
+    },
+    {
+      "start": 373.82,
+      "end": 377.38,
+      "text": "왠지 밤을 상징하는 색깔인 것 같죠?"
+    },
+    {
+      "start": 377.38,
+      "end": 380.6,
+      "text": "다시 차가워지는 게 느껴진다"
+    },
+    {
+      "start": 380.6,
+      "end": 383.26,
+      "text": "뭔가 흐릿해지는 것 같다"
+    },
+    {
+      "start": 383.26,
+      "end": 385.84,
+      "text": "이렇게도 확장해서 이해할 수가 있습니다"
+    },
+    {
+      "start": 385.84,
+      "end": 389.14,
+      "text": "이제 세 번째 미션 문장 남아있어요"
+    },
+    {
+      "start": 389.14,
+      "end": 392.24,
+      "text": "당신의 진짜 의도를 말해줘요"
+    },
+    {
+      "start": 392.24,
+      "end": 417.6,
+      "text": "라는 가사 들어보세요"
+    },
+    {
+      "start": 417.6,
+      "end": 419.48,
+      "text": "By the time at night"
+    },
+    {
+      "start": 419.48,
+      "end": 422.2,
+      "text": "밤이 깊어질 즈음"
+    },
+    {
+      "start": 422.2,
+      "end": 424.5,
+      "text": "When you think again of sleep"
+    },
+    {
+      "start": 424.5,
+      "end": 430.12,
+      "text": "당신이 다시 잠을 생각할 때라는 소절입니다"
+    },
+    {
+      "start": 430.12,
+      "end": 433.16,
+      "text": "When you think again of sleep"
+    },
+    {
+      "start": 433.16,
+      "end": 435.82,
+      "text": "By the time이라고 하면"
+    },
+    {
+      "start": 435.82,
+      "end": 438.34,
+      "text": "뭐뭐 할 즈음에 라고 해석을 하는 거고"
+    },
+    {
+      "start": 438.34,
+      "end": 439.26,
+      "text": "그러면"
+    },
+    {
+      "start": 439.26,
+      "end": 441.34,
+      "text": "By the time at night"
+    },
+    {
+      "start": 441.34,
+      "end": 443.7,
+      "text": "When you think again of sleep"
+    },
+    {
+      "start": 443.7,
+      "end": 445.02,
+      "text": "밤이 되어서"
+    },
+    {
+      "start": 445.02,
+      "end": 449.72,
+      "text": "당신이 다시금 잠을 생각할 즈음에"
+    },
+    {
+      "start": 449.72,
+      "end": 452.48,
+      "text": "라고 자연스럽게 해석을 할 수가 있어요"
+    },
+    {
+      "start": 452.48,
+      "end": 455.35,
+      "text": "Tell me what you're really meaning"
+    },
+    {
+      "start": 455.35,
+      "end": 457.09,
+      "text": "이 문장도 들으셨죠"
+    },
+    {
+      "start": 457.09,
+      "end": 459.91,
+      "text": "Tell me what you're really meaning"
+    },
+    {
+      "start": 459.91,
+      "end": 463.13,
+      "text": "당신이 진짜로 의미하는 것이 무엇인지"
+    },
+    {
+      "start": 463.13,
+      "end": 464.93,
+      "text": "나에게 말해달라라는 말이니까"
+    },
+    {
+      "start": 464.93,
+      "end": 467.71,
+      "text": "당신의 진짜 의도를 말해줘요"
+    },
+    {
+      "start": 467.71,
+      "end": 468.31,
+      "text": "가 되겠죠"
+    },
+    {
+      "start": 468.31,
+      "end": 470.69,
+      "text": "Tell me what you're really meaning"
+    },
+    {
+      "start": 470.69,
+      "end": 472.99,
+      "text": "And I try somehow"
+    },
+    {
+      "start": 472.99,
+      "end": 475.41,
+      "text": "But I can't rewind my time"
+    },
+    {
+      "start": 475.41,
+      "end": 477.37,
+      "text": "나는 어떻게든"
+    },
+    {
+      "start": 477.37,
+      "end": 478.65,
+      "text": "I try somehow"
+    },
+    {
+      "start": 478.65,
+      "end": 480.07,
+      "text": "노력하지만"
+    },
+    {
+      "start": 480.07,
+      "end": 483.2,
+      "text": "But I can't rewind my time"
+    },
+    {
+      "start": 483.2,
+      "end": 486.58,
+      "text": "내 시간을 되돌릴 수는 없어요"
+    },
+    {
+      "start": 486.58,
+      "end": 489.02,
+      "text": "내 시간을 되돌릴 수는 없네요"
+    },
+    {
+      "start": 489.02,
+      "end": 492.4,
+      "text": "And something could leave us worthless"
+    },
+    {
+      "start": 492.4,
+      "end": 495.25,
+      "text": "자, 끝부분에 들렸던 단어"
+    },
+    {
+      "start": 495.25,
+      "end": 497.01,
+      "text": "worthless라는 정도"
+    },
+    {
+      "start": 497.01,
+      "end": 498.05,
+      "text": "이 단어는"
+    },
+    {
+      "start": 498.05,
+      "end": 501.47,
+      "text": "w-o-r-d-l-e-s-s"
+    },
+    {
+      "start": 501.47,
+      "end": 503.13,
+      "text": "라는 철자의 단어입니다"
+    },
+    {
+      "start": 503.13,
+      "end": 503.87,
+      "text": "worthless"
+    },
+    {
+      "start": 503.87,
+      "end": 505.13,
+      "text": "말을 잃은"
+    },
+    {
+      "start": 505.13,
+      "end": 507.19,
+      "text": "이 정도로 해석을 할 수가 있겠죠"
+    },
+    {
+      "start": 507.19,
+      "end": 508.83,
+      "text": "그리고 something"
+    },
+    {
+      "start": 508.83,
+      "end": 509.85,
+      "text": "무언가가"
+    },
+    {
+      "start": 509.85,
+      "end": 511.71,
+      "text": "could leave us worthless"
+    },
+    {
+      "start": 511.71,
+      "end": 514.87,
+      "text": "우리를 말문이 막히게 만들 수도 있다"
+    },
+    {
+      "start": 514.87,
+      "end": 515.77,
+      "text": "라는 표현이에요"
+    },
+    {
+      "start": 515.77,
+      "end": 519.11,
+      "text": "Something could leave us tongue-tied"
+    },
+    {
+      "start": 519.11,
+      "end": 521.11,
+      "text": "우리가 지난번에 함께 들었던"
+    },
+    {
+      "start": 521.11,
+      "end": 522.71,
+      "text": "곡 중에서도"
+    },
+    {
+      "start": 522.71,
+      "end": 524.01,
+      "text": "이 tongue-tied"
+    },
+    {
+      "start": 524.01,
+      "end": 526.19,
+      "text": "라는 표현을 기억하고 계신다면"
+    },
+    {
+      "start": 526.19,
+      "end": 528.41,
+      "text": "응용이 충분히 가능합니다"
+    },
+    {
+      "start": 528.41,
+      "end": 530.43,
+      "text": "Something could leave us tongue-tied"
+    },
+    {
+      "start": 530.43,
+      "end": 533.17,
+      "text": "네, 기억이 쏙쏙 나실 거예요"
+    },
+    {
+      "start": 533.17,
+      "end": 536.15,
+      "text": "이처럼 감정적인 거리감에 대해서"
+    },
+    {
+      "start": 536.15,
+      "end": 538.23,
+      "text": "이 가사 속에서 표현을 하고 있는 것 같습니다"
+    },
+    {
+      "start": 538.23,
+      "end": 540.04,
+      "text": "그럼 확실하게"
+    },
+    {
+      "start": 540.04,
+      "end": 541.14,
+      "text": "리뷰 타임"
+    },
+    {
+      "start": 541.14,
+      "end": 543.48,
+      "text": "첫 번째"
+    },
+    {
+      "start": 543.48,
+      "end": 546.48,
+      "text": "난 그걸 깨뜨릴 수가 없었어요"
+    },
+    {
+      "start": 546.48,
+      "end": 548.82,
+      "text": "I could never break it"
+    },
+    {
+      "start": 548.82,
+      "end": 551.42,
+      "text": "네, 물 흐르듯이 대답하고 계시죠"
+    },
+    {
+      "start": 551.42,
+      "end": 553.02,
+      "text": "I could never break it"
+    },
+    {
+      "start": 553.02,
+      "end": 554.06,
+      "text": "잘하셨어요"
+    },
+    {
+      "start": 554.06,
+      "end": 556.18,
+      "text": "I couldn't mess it up"
+    },
+    {
+      "start": 556.18,
+      "end": 558.2,
+      "text": "나는 망칠 수가 없었어요"
+    },
+    {
+      "start": 558.2,
+      "end": 561.2,
+      "text": "라는 또 다른 문장도 한번 만들어봤고"
+    },
+    {
+      "start": 561.2,
+      "end": 563.2,
+      "text": "I couldn't ruin it"
+    },
+    {
+      "start": 563.2,
+      "end": 566.16,
+      "text": "아, ruin이라는 단어도 응용할 수 있겠죠"
+    },
+    {
+      "start": 566.16,
+      "end": 567.86,
+      "text": "I couldn't ruin it"
+    },
+    {
+      "start": 567.86,
+      "end": 569.5,
+      "text": "I couldn't mess it up"
+    },
+    {
+      "start": 569.5,
+      "end": 571.46,
+      "text": "I could never break it"
+    },
+    {
+      "start": 571.46,
+      "end": 574.16,
+      "text": "네, 이처럼 다양한 문장으로 활용을 해보세요"
+    },
+    {
+      "start": 574.16,
+      "end": 575.5,
+      "text": "두 번째"
+    },
+    {
+      "start": 575.5,
+      "end": 577.5,
+      "text": "확실해지면 연락해요"
+    },
+    {
+      "start": 577.5,
+      "end": 580.0,
+      "text": "Call me when you know"
+    },
+    {
+      "start": 580.0,
+      "end": 580.8,
+      "text": "였습니다"
+    },
+    {
+      "start": 580.8,
+      "end": 582.6,
+      "text": "어려운 단어 하나도 없었죠"
+    },
+    {
+      "start": 582.6,
+      "end": 583.9,
+      "text": "Call me when you know"
+    },
+    {
+      "start": 583.9,
+      "end": 586.0,
+      "text": "Call me when you're ready"
+    },
+    {
+      "start": 586.0,
+      "end": 588.3,
+      "text": "이렇게도 표현할 수 있겠고"
+    },
+    {
+      "start": 588.3,
+      "end": 590.16,
+      "text": "Let me know once you're sure"
+    },
+    {
+      "start": 590.16,
+      "end": 592.54,
+      "text": "이 표현도 잘 통하겠죠"
+    },
+    {
+      "start": 592.54,
+      "end": 594.78,
+      "text": "Let me know once you're sure"
+    },
+    {
+      "start": 594.78,
+      "end": 596.78,
+      "text": "당신이 확실해지면"
+    },
+    {
+      "start": 596.78,
+      "end": 598.86,
+      "text": "Let me know 나에게 알려줘요"
+    },
+    {
+      "start": 598.86,
+      "end": 599.7,
+      "text": "라는 뜻이니까"
+    },
+    {
+      "start": 599.7,
+      "end": 601.04,
+      "text": "세 번째"
+    },
+    {
+      "start": 601.04,
+      "end": 603.86,
+      "text": "당신의 진짜 의도를 말해줘요"
+    },
+    {
+      "start": 603.86,
+      "end": 606.96,
+      "text": "Tell me what you're really meaning"
+    },
+    {
+      "start": 606.96,
+      "end": 609.32,
+      "text": "이렇게 가사 속에서 표현을 했어요"
+    },
+    {
+      "start": 609.32,
+      "end": 611.72,
+      "text": "Tell me what you're really meaning"
+    },
+    {
+      "start": 611.72,
+      "end": 613.2,
+      "text": "이거 대신에"
+    },
+    {
+      "start": 613.2,
+      "end": 615.92,
+      "text": "Tell me what's really on your mind"
+    },
+    {
+      "start": 615.92,
+      "end": 617.04,
+      "text": "당신 머릿속에"
+    },
+    {
+      "start": 617.68,
+      "end": 620.16,
+      "text": "진짜 무슨 뜻이 있는지"
+    },
+    {
+      "start": 620.16,
+      "end": 622.04,
+      "text": "무슨 생각이 있는지 말해줘"
+    },
+    {
+      "start": 622.68,
+      "end": 624.48,
+      "text": "대체할 수 있는 문장이죠"
+    },
+    {
+      "start": 624.48,
+      "end": 626.84,
+      "text": "Tell me what's really on your mind"
+    },
+    {
+      "start": 626.84,
+      "end": 628.04,
+      "text": "가능하겠습니다"
+    },
+    {
+      "start": 628.04,
+      "end": 631.02,
+      "text": "그럼 리듬 타면서 복습해 볼게요"
+    },
+    {
+      "start": 631.02,
+      "end": 638.08,
+      "text": "첫 번째"
+    },
+    {
+      "start": 638.08,
+      "end": 640.6,
+      "text": "난 그걸 깨뜨릴 수가 없었어요"
+    },
+    {
+      "start": 640.6,
+      "end": 642.46,
+      "text": "I could never break it"
+    },
+    {
+      "start": 642.46,
+      "end": 644.79,
+      "text": "I could never break it"
+    },
+    {
+      "start": 644.79,
+      "end": 647.14,
+      "text": "I could never break it"
+    },
+    {
+      "start": 647.14,
+      "end": 648.44,
+      "text": "두 번째"
+    },
+    {
+      "start": 648.44,
+      "end": 650.32,
+      "text": "확실해지면 연락해요"
+    },
+    {
+      "start": 650.32,
+      "end": 653.9,
+      "text": "Call me when you know"
+    },
+    {
+      "start": 653.9,
+      "end": 656.17,
+      "text": "Call me when you know"
+    },
+    {
+      "start": 656.17,
+      "end": 658.49,
+      "text": "Call me when you know"
+    },
+    {
+      "start": 658.49,
+      "end": 659.96,
+      "text": "세 번째"
+    },
+    {
+      "start": 659.96,
+      "end": 662.54,
+      "text": "당신의 진짜 의도를 말해줘요"
+    },
+    {
+      "start": 662.54,
+      "end": 665.91,
+      "text": "Tell me what you're really meaning"
+    },
+    {
+      "start": 665.91,
+      "end": 668.35,
+      "text": "Tell me what you're really meaning"
+    },
+    {
+      "start": 668.35,
+      "end": 670.89,
+      "text": "Tell me what you're really meaning"
+    },
+    {
+      "start": 670.89,
+      "end": 674.52,
+      "text": "굿모닝 팝스 다시 듣기는"
+    },
+    {
+      "start": 674.52,
+      "end": 677.16,
+      "text": "KBS 애플리케이션 콩 오리지널 탭과"
+    },
+    {
+      "start": 677.16,
+      "end": 679.9,
+      "text": "KBS 콩 유튜브로 다시 들으실 수 있습니다"
+    },
+    {
+      "start": 679.9,
+      "end": 681.6,
+      "text": "굿모닝 팝스"
+    },
+    {
+      "start": 681.6,
+      "end": 682.98,
+      "text": "저는 조정현이었습니다"
+    },
+    {
+      "start": 682.98,
+      "end": 684.14,
+      "text": "Have a happy day"
+    },
+    {
+      "start": 684.14,
+      "end": 685.14,
+      "text": "안녕히 계세요."
+    }
+  ]
+}

@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-09T22:53:00",
-  "count": 403,
+  "generated_at": "2026-06-09T22:55:08",
+  "count": 404,
   "episodes": [
+    {
+      "id": "2026-06-08_pop_song",
+      "date": "2026-06-08",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Ostra - Yumi Zouma",
+      "movie": "",
+      "duration_sec": 685.14,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-08_pop_song.mp3",
+      "artwork_generated_url": ""
+    },
     {
       "id": "2026-06-05_pop_song",
       "date": "2026-06-05",
