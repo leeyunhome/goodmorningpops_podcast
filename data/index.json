@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-10T10:39:40",
-  "count": 405,
+  "generated_at": "2026-06-10T14:57:58",
+  "count": 406,
   "episodes": [
+    {
+      "id": "2026-06-10_pop_song",
+      "date": "2026-06-10",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Golden - Cory Wong 'feat. Cody Fry",
+      "movie": "",
+      "duration_sec": 589.22,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-10_pop_song.mp3",
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-10_pop_song.jpg"
+    },
     {
       "id": "2026-06-09_pop_song",
       "date": "2026-06-09",
