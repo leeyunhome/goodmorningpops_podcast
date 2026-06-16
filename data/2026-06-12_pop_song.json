@@ -1,0 +1,1793 @@
+{
+  "id": "2026-06-12_pop_song",
+  "date": "2026-06-12",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "Suddenly I See - KT Tunstall",
+  "movie": "",
+  "duration_sec": 664.46,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-12_pop_song.mp3",
+  "artwork_generated_url": "",
+  "script": [
+    {
+      "start": 1.94,
+      "end": 15.67,
+      "text": "팝송에 스며드는 특별한 영어 시간, 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.67,
+      "end": 26.16,
+      "text": "좋은 팝 음악으로 아침을 상쾌하게 깨워드립니다. 굿모닝 팝스, 조정현입니다."
+    },
+    {
+      "start": 26.98,
+      "end": 30.06,
+      "text": "오늘 밝은 에너지가 넘치는 곡을 준비했어요."
+    },
+    {
+      "start": 30.34,
+      "end": 34.02,
+      "text": "먼저 오늘 미션 문장부터 들으시면서 영어 가사 예상해보세요."
+    },
+    {
+      "start": 34.02,
+      "end": 51.64,
+      "text": "첫 번째, 그녀 주변에 모든 것은 은빛 아우라가 있죠."
+    },
+    {
+      "start": 53.44,
+      "end": 56.08,
+      "text": "두 번째, 갑자기 깨달았어요."
+    },
+    {
+      "start": 56.08,
+      "end": 61.81,
+      "text": "세 번째, 그녀는 모든 공간을 가득 채워요."
+    },
+    {
+      "start": 64.22,
+      "end": 69.82,
+      "text": "스코틀랜드 싱어송라이터 KT 턴스탈이 2005년에 발표한 곡이에요."
+    },
+    {
+      "start": 70.24,
+      "end": 73.22,
+      "text": "아마 귀에 익숙하게 들리실 만한 곡일 텐데요."
+    },
+    {
+      "start": 73.3,
+      "end": 76.4,
+      "text": "제목이 Suddenly I See라는 곡입니다."
+    },
+    {
+      "start": 76.4,
+      "end": 83.54,
+      "text": "첫 번째 미션 문장, 그녀 주변에 모든 것은 은빛 아우라가 있죠."
+    },
+    {
+      "start": 83.76,
+      "end": 85.4,
+      "text": "라는 가사 찾아보세요."
+    },
+    {
+      "start": 85.4,
+      "end": 109.79,
+      "text": "아, 듣자마자 아마 영화 The Devil Wears Prada 라는 영화가 떠오르실 텐데요."
+    },
+    {
+      "start": 110.23,
+      "end": 113.37,
+      "text": "원의 사운드 트랙으로 많이들 기억하실 거예요."
+    },
+    {
+      "start": 113.37,
+      "end": 118.03,
+      "text": "And everything around her is a silver pool of light."
+    },
+    {
+      "start": 118.37,
+      "end": 119.67,
+      "text": "첫 소절 들으셨죠?"
+    },
+    {
+      "start": 119.67,
+      "end": 128.01,
+      "text": "그녀의 주변에 모든 것은 Everything around her is a silver pool of light."
+    },
+    {
+      "start": 128.67,
+      "end": 129.51,
+      "text": "어떤 빛이요?"
+    },
+    {
+      "start": 129.93,
+      "end": 132.01,
+      "text": "그쵸, 은빛 아우라가 있죠."
+    },
+    {
+      "start": 132.19,
+      "end": 133.49,
+      "text": "라고 해석이 되는 부분입니다."
+    },
+    {
+      "start": 134.21,
+      "end": 136.75,
+      "text": "여기서 이제 pool이라는 단어가 들렸어요."
+    },
+    {
+      "start": 136.85,
+      "end": 138.85,
+      "text": "P-O-O-L 이라는 철자인데"
+    },
+    {
+      "start": 138.85,
+      "end": 142.77,
+      "text": "이 pool이라고 하면 우리가 기본적으로 수영장을 떠올리잖아요."
+    },
+    {
+      "start": 142.77,
+      "end": 148.37,
+      "text": "근데 여기서는 수영장이 아니고 몸가가 쫙 퍼져 있는 공간으로 보시면 좋겠어요."
+    },
+    {
+      "start": 148.77,
+      "end": 154.49,
+      "text": "그래서 은빛, 그 빛이 그녀의 주변에 쫙 퍼져 있는 모습이라는 거예요."
+    },
+    {
+      "start": 154.95,
+      "end": 155.85,
+      "text": "상상이 되시죠?"
+    },
+    {
+      "start": 156.29,
+      "end": 159.71,
+      "text": "Everything around her is a silver pool of light."
+    },
+    {
+      "start": 160.25,
+      "end": 161.49,
+      "text": "이렇게 들으셨습니다."
+    },
+    {
+      "start": 161.83,
+      "end": 163.23,
+      "text": "이게 핵심적인 문장이죠."
+    },
+    {
+      "start": 163.23,
+      "end": 167.95,
+      "text": "The people who surround her feel the benefit of it."
+    },
+    {
+      "start": 168.33,
+      "end": 170.71,
+      "text": "다음 소절도 잘 기억나실 거예요."
+    },
+    {
+      "start": 171.21,
+      "end": 175.85,
+      "text": "The people who surround her, 그녀 주변에 있는 사람들은"
+    },
+    {
+      "start": 175.85,
+      "end": 178.47,
+      "text": "Feel the benefit of it."
+    },
+    {
+      "start": 178.87,
+      "end": 181.69,
+      "text": "그것에 좋은 영향을 받는다라는 가사입니다."
+    },
+    {
+      "start": 182.47,
+      "end": 184.73,
+      "text": "장점을 느낀다 정도 되겠죠?"
+    },
+    {
+      "start": 185.47,
+      "end": 186.71,
+      "text": "It makes you calm."
+    },
+    {
+      "start": 187.23,
+      "end": 189.53,
+      "text": "근데 좀 독특한 발음이었어요."
+    },
+    {
+      "start": 189.53,
+      "end": 191.25,
+      "text": "그래서 cam 이렇게 들렸는데"
+    },
+    {
+      "start": 191.25,
+      "end": 193.47,
+      "text": "come 이라고 생각하시면 되는 거고"
+    },
+    {
+      "start": 193.47,
+      "end": 196.43,
+      "text": "C-A-L-M 이라는 철자입니다."
+    },
+    {
+      "start": 196.89,
+      "end": 198.05,
+      "text": "고요한 이라는 거죠."
+    },
+    {
+      "start": 198.51,
+      "end": 200.47,
+      "text": "그건 당신을 평온하게 하죠."
+    },
+    {
+      "start": 201.37,
+      "end": 204.31,
+      "text": "She holds you captivated in her palm."
+    },
+    {
+      "start": 205.11,
+      "end": 208.59,
+      "text": "이 문장에서 hold라는 단어가 사용이 됐고"
+    },
+    {
+      "start": 208.59,
+      "end": 210.57,
+      "text": "그 다음 she holds you"
+    },
+    {
+      "start": 210.57,
+      "end": 212.37,
+      "text": "그 다음 captivated"
+    },
+    {
+      "start": 212.37,
+      "end": 216.01,
+      "text": "C-A-P-T-I-V-A-T-E-D"
+    },
+    {
+      "start": 216.01,
+      "end": 217.13,
+      "text": "이라는 철자이고"
+    },
+    {
+      "start": 217.13,
+      "end": 222.01,
+      "text": "목적어를 매료되게 하다라고 해석을 하면 되는 구조입니다."
+    },
+    {
+      "start": 222.29,
+      "end": 223.71,
+      "text": "그래서 그녀는"
+    },
+    {
+      "start": 223.71,
+      "end": 224.81,
+      "text": "In her palm"
+    },
+    {
+      "start": 224.81,
+      "end": 226.57,
+      "text": "P-A-L-M"
+    },
+    {
+      "start": 226.57,
+      "end": 227.13,
+      "text": "Palm"
+    },
+    {
+      "start": 227.13,
+      "end": 228.25,
+      "text": "이렇게 발음을 하죠."
+    },
+    {
+      "start": 228.69,
+      "end": 231.43,
+      "text": "손바닥 위에서 당신을 captivated"
+    },
+    {
+      "start": 231.43,
+      "end": 232.77,
+      "text": "매료시키죠"
+    },
+    {
+      "start": 232.77,
+      "end": 234.67,
+      "text": "라고 해석하시면 아주 좋아요."
+    },
+    {
+      "start": 235.39,
+      "end": 237.63,
+      "text": "이제 두 번째 미션 문장 찾아볼게요."
+    },
+    {
+      "start": 237.99,
+      "end": 239.31,
+      "text": "갑자기 깨달았어요"
+    },
+    {
+      "start": 239.31,
+      "end": 240.81,
+      "text": "라는 가사 찾아보세요."
+    },
+    {
+      "start": 263.86,
+      "end": 266.32,
+      "text": "들을수록 익숙한 구절이 나옵니다."
+    },
+    {
+      "start": 266.32,
+      "end": 268.14,
+      "text": "Suddenly I see"
+    },
+    {
+      "start": 268.14,
+      "end": 269.88,
+      "text": "갑자기 깨달았어요"
+    },
+    {
+      "start": 269.88,
+      "end": 270.9,
+      "text": "라는 부분입니다."
+    },
+    {
+      "start": 271.08,
+      "end": 272.06,
+      "text": "Suddenly I see"
+    },
+    {
+      "start": 272.06,
+      "end": 273.46,
+      "text": "이때의 C는"
+    },
+    {
+      "start": 273.46,
+      "end": 274.5,
+      "text": "깨달았다"
+    },
+    {
+      "start": 274.5,
+      "end": 276.54,
+      "text": "라고 생각하면 되는 단어라는 거죠."
+    },
+    {
+      "start": 277.18,
+      "end": 279.1,
+      "text": "This is what I want to be"
+    },
+    {
+      "start": 279.1,
+      "end": 279.68,
+      "text": "라고 했어요."
+    },
+    {
+      "start": 280.2,
+      "end": 281.28,
+      "text": "이 부분 어떤 뜻일까요?"
+    },
+    {
+      "start": 281.88,
+      "end": 282.12,
+      "text": "이게"
+    },
+    {
+      "start": 282.12,
+      "end": 283.08,
+      "text": "딱"
+    },
+    {
+      "start": 283.08,
+      "end": 285.4,
+      "text": "내가 되고 싶은 거란 것을요."
+    },
+    {
+      "start": 285.76,
+      "end": 285.96,
+      "text": "내가"
+    },
+    {
+      "start": 285.96,
+      "end": 287.44,
+      "text": "갑자기 깨달았어요"
+    },
+    {
+      "start": 287.44,
+      "end": 288.4,
+      "text": "라는 뜻입니다."
+    },
+    {
+      "start": 288.86,
+      "end": 289.72,
+      "text": "Suddenly I see"
+    },
+    {
+      "start": 289.72,
+      "end": 291.28,
+      "text": "This is what I want to be"
+    },
+    {
+      "start": 291.28,
+      "end": 293.32,
+      "text": "통째로도 기억하실 수 있겠죠."
+    },
+    {
+      "start": 293.32,
+      "end": 294.16,
+      "text": "그 다음"
+    },
+    {
+      "start": 294.16,
+      "end": 295.24,
+      "text": "Suddenly I see"
+    },
+    {
+      "start": 295.24,
+      "end": 297.92,
+      "text": "Why the hell it means so much to me"
+    },
+    {
+      "start": 297.92,
+      "end": 298.22,
+      "text": "라고"
+    },
+    {
+      "start": 298.22,
+      "end": 301.74,
+      "text": "좀 강조적인 표현이 들렸습니다."
+    },
+    {
+      "start": 301.98,
+      "end": 303.66,
+      "text": "극단적인 단어를 활용을 했어요."
+    },
+    {
+      "start": 304.46,
+      "end": 305.26,
+      "text": "도대체"
+    },
+    {
+      "start": 305.26,
+      "end": 306.1,
+      "text": "왜 그게"
+    },
+    {
+      "start": 306.1,
+      "end": 308.18,
+      "text": "It means so much to me"
+    },
+    {
+      "start": 308.18,
+      "end": 310.04,
+      "text": "나에게 중요한지를"
+    },
+    {
+      "start": 310.04,
+      "end": 311.54,
+      "text": "이제야 깨달았어요"
+    },
+    {
+      "start": 311.54,
+      "end": 313.12,
+      "text": "라는 부분이에요."
+    },
+    {
+      "start": 313.88,
+      "end": 314.78,
+      "text": "Suddenly I see"
+    },
+    {
+      "start": 314.78,
+      "end": 316.34,
+      "text": "This is what I want to be"
+    },
+    {
+      "start": 316.34,
+      "end": 317.52,
+      "text": "이어지는 부분에서"
+    },
+    {
+      "start": 317.52,
+      "end": 319.52,
+      "text": "또 반복적인 소절이 들렸습니다."
+    },
+    {
+      "start": 319.52,
+      "end": 320.76,
+      "text": "Suddenly I see"
+    },
+    {
+      "start": 320.76,
+      "end": 323.14,
+      "text": "Why the hell it means so much to me"
+    },
+    {
+      "start": 323.14,
+      "end": 324.84,
+      "text": "그게 왜 나에게"
+    },
+    {
+      "start": 324.84,
+      "end": 326.36,
+      "text": "중요한 것인지를"
+    },
+    {
+      "start": 326.36,
+      "end": 327.88,
+      "text": "이제야 깨달았어요."
+    },
+    {
+      "start": 328.42,
+      "end": 329.44,
+      "text": "아주 자연스럽게"
+    },
+    {
+      "start": 329.44,
+      "end": 330.46,
+      "text": "해석하실 수 있겠죠."
+    },
+    {
+      "start": 331.22,
+      "end": 331.62,
+      "text": "다음으로"
+    },
+    {
+      "start": 331.62,
+      "end": 333.1,
+      "text": "세 번째 미션 문장인데요."
+    },
+    {
+      "start": 333.76,
+      "end": 334.3,
+      "text": "그녀는"
+    },
+    {
+      "start": 334.3,
+      "end": 335.66,
+      "text": "모든 공간을"
+    },
+    {
+      "start": 335.66,
+      "end": 336.8,
+      "text": "가득 채워요"
+    },
+    {
+      "start": 336.8,
+      "end": 337.7,
+      "text": "라는 문장"
+    },
+    {
+      "start": 337.7,
+      "end": 338.84,
+      "text": "찾아보세요."
+    },
+    {
+      "start": 338.84,
+      "end": 358.86,
+      "text": "그녀는"
+    },
+    {
+      "start": 358.86,
+      "end": 359.82,
+      "text": "모든 공간을"
+    },
+    {
+      "start": 359.82,
+      "end": 360.84,
+      "text": "가득 채운다"
+    },
+    {
+      "start": 360.84,
+      "end": 361.58,
+      "text": "라는 문장을"
+    },
+    {
+      "start": 361.58,
+      "end": 362.7,
+      "text": "찾아보셨을 텐데"
+    },
+    {
+      "start": 362.7,
+      "end": 364.32,
+      "text": "그녀의 존재감이"
+    },
+    {
+      "start": 364.32,
+      "end": 365.3,
+      "text": "얼마나 큰지를"
+    },
+    {
+      "start": 365.3,
+      "end": 366.12,
+      "text": "이야기해주는"
+    },
+    {
+      "start": 366.12,
+      "end": 366.94,
+      "text": "문장이란 말이죠."
+    },
+    {
+      "start": 367.64,
+      "end": 368.98,
+      "text": "바로 들으셨을 거예요."
+    },
+    {
+      "start": 369.24,
+      "end": 370.02,
+      "text": "She fills up"
+    },
+    {
+      "start": 370.02,
+      "end": 371.18,
+      "text": "every corner"
+    },
+    {
+      "start": 371.18,
+      "end": 372.62,
+      "text": "Like she born"
+    },
+    {
+      "start": 372.62,
+      "end": 374.26,
+      "text": "in black and white"
+    },
+    {
+      "start": 374.26,
+      "end": 375.68,
+      "text": "이 소절 중에서"
+    },
+    {
+      "start": 375.68,
+      "end": 377.0,
+      "text": "She fills up"
+    },
+    {
+      "start": 377.0,
+      "end": 377.86,
+      "text": "every corner"
+    },
+    {
+      "start": 377.86,
+      "end": 378.92,
+      "text": "이 부분입니다."
+    },
+    {
+      "start": 379.36,
+      "end": 380.16,
+      "text": "She fills up"
+    },
+    {
+      "start": 380.16,
+      "end": 381.04,
+      "text": "every corner"
+    },
+    {
+      "start": 381.04,
+      "end": 382.04,
+      "text": "그녀는"
+    },
+    {
+      "start": 382.04,
+      "end": 383.54,
+      "text": "모든 공간을"
+    },
+    {
+      "start": 383.54,
+      "end": 384.82,
+      "text": "꽉 채운다"
+    },
+    {
+      "start": 384.82,
+      "end": 385.58,
+      "text": "라는 뜻이에요."
+    },
+    {
+      "start": 386.1,
+      "end": 387.0,
+      "text": "마치 그녀가"
+    },
+    {
+      "start": 387.0,
+      "end": 388.2,
+      "text": "Like she's born"
+    },
+    {
+      "start": 388.2,
+      "end": 389.4,
+      "text": "in black and white"
+    },
+    {
+      "start": 389.4,
+      "end": 391.4,
+      "text": "흑백 영화 속에서"
+    },
+    {
+      "start": 391.4,
+      "end": 392.9,
+      "text": "태어난 것처럼요."
+    },
+    {
+      "start": 393.54,
+      "end": 394.46,
+      "text": "마치 영화 속의"
+    },
+    {
+      "start": 394.46,
+      "end": 395.5,
+      "text": "주인공인 것처럼"
+    },
+    {
+      "start": 395.5,
+      "end": 396.92,
+      "text": "그만큼 존재감이"
+    },
+    {
+      "start": 396.92,
+      "end": 397.48,
+      "text": "강하다"
+    },
+    {
+      "start": 397.48,
+      "end": 398.24,
+      "text": "라는 뜻으로"
+    },
+    {
+      "start": 398.24,
+      "end": 399.08,
+      "text": "활용이 된 거예요."
+    },
+    {
+      "start": 399.7,
+      "end": 400.5,
+      "text": "She fills up"
+    },
+    {
+      "start": 400.5,
+      "end": 401.44,
+      "text": "every corner"
+    },
+    {
+      "start": 401.44,
+      "end": 402.4,
+      "text": "이 문장"
+    },
+    {
+      "start": 402.4,
+      "end": 403.64,
+      "text": "기억해보도록 하겠습니다."
+    },
+    {
+      "start": 404.14,
+      "end": 404.8,
+      "text": "She fills up"
+    },
+    {
+      "start": 404.8,
+      "end": 405.58,
+      "text": "every corner"
+    },
+    {
+      "start": 405.58,
+      "end": 406.86,
+      "text": "She fills up"
+    },
+    {
+      "start": 406.86,
+      "end": 407.8,
+      "text": "every corner"
+    },
+    {
+      "start": 407.8,
+      "end": 409.28,
+      "text": "기억하실 수 있겠죠."
+    },
+    {
+      "start": 410.02,
+      "end": 410.68,
+      "text": "Makes you"
+    },
+    {
+      "start": 410.68,
+      "end": 411.34,
+      "text": "feel"
+    },
+    {
+      "start": 411.34,
+      "end": 412.24,
+      "text": "warmer"
+    },
+    {
+      "start": 412.24,
+      "end": 413.66,
+      "text": "자, 이 부분은요."
+    },
+    {
+      "start": 414.22,
+      "end": 415.12,
+      "text": "마음을 더"
+    },
+    {
+      "start": 415.12,
+      "end": 416.14,
+      "text": "warmer"
+    },
+    {
+      "start": 416.14,
+      "end": 417.72,
+      "text": "따뜻하게 하죠"
+    },
+    {
+      "start": 417.72,
+      "end": 419.1,
+      "text": "라고 해석하시면 되고"
+    },
+    {
+      "start": 419.1,
+      "end": 420.86,
+      "text": "When you are trying"
+    },
+    {
+      "start": 420.86,
+      "end": 421.66,
+      "text": "to remember"
+    },
+    {
+      "start": 421.66,
+      "end": 422.96,
+      "text": "what you heard"
+    },
+    {
+      "start": 422.96,
+      "end": 424.04,
+      "text": "당신이"
+    },
+    {
+      "start": 424.04,
+      "end": 425.16,
+      "text": "들은 것을"
+    },
+    {
+      "start": 425.16,
+      "end": 426.44,
+      "text": "When you are trying"
+    },
+    {
+      "start": 426.44,
+      "end": 427.14,
+      "text": "to remember"
+    },
+    {
+      "start": 427.14,
+      "end": 428.84,
+      "text": "기억하려 할 때"
+    },
+    {
+      "start": 428.84,
+      "end": 431.36,
+      "text": "She likes to leave you"
+    },
+    {
+      "start": 431.36,
+      "end": 433.06,
+      "text": "hanging on her"
+    },
+    {
+      "start": 433.06,
+      "end": 434.16,
+      "text": "wire"
+    },
+    {
+      "start": 434.16,
+      "end": 435.92,
+      "text": "이렇게 보도록 하겠습니다."
+    },
+    {
+      "start": 435.92,
+      "end": 438.02,
+      "text": "She likes to leave you"
+    },
+    {
+      "start": 438.02,
+      "end": 439.64,
+      "text": "hanging on her wire"
+    },
+    {
+      "start": 439.64,
+      "end": 440.44,
+      "text": "혹은"
+    },
+    {
+      "start": 440.44,
+      "end": 441.78,
+      "text": "She likes to leave you"
+    },
+    {
+      "start": 441.78,
+      "end": 443.32,
+      "text": "hanging on a wire"
+    },
+    {
+      "start": 443.32,
+      "end": 444.5,
+      "text": "이렇게도 많이"
+    },
+    {
+      "start": 444.5,
+      "end": 445.34,
+      "text": "활용이 되거든요."
+    },
+    {
+      "start": 445.94,
+      "end": 446.52,
+      "text": "예를 들어서"
+    },
+    {
+      "start": 446.52,
+      "end": 448.06,
+      "text": "Leave someone"
+    },
+    {
+      "start": 448.06,
+      "end": 448.74,
+      "text": "hanging"
+    },
+    {
+      "start": 448.74,
+      "end": 449.82,
+      "text": "이 부분만"
+    },
+    {
+      "start": 449.82,
+      "end": 450.56,
+      "text": "우리가 먼저"
+    },
+    {
+      "start": 450.56,
+      "end": 451.72,
+      "text": "분석을 해봐도"
+    },
+    {
+      "start": 451.72,
+      "end": 452.96,
+      "text": "지난번에도"
+    },
+    {
+      "start": 452.96,
+      "end": 454.0,
+      "text": "한번 살펴봤던"
+    },
+    {
+      "start": 454.0,
+      "end": 454.64,
+      "text": "구조예요."
+    },
+    {
+      "start": 455.18,
+      "end": 456.4,
+      "text": "굉장히 자주 쓰이는"
+    },
+    {
+      "start": 456.4,
+      "end": 456.94,
+      "text": "표현이라고"
+    },
+    {
+      "start": 456.94,
+      "end": 458.58,
+      "text": "기억하실 수 있을 텐데"
+    },
+    {
+      "start": 458.58,
+      "end": 459.86,
+      "text": "애태우는 거죠."
+    },
+    {
+      "start": 460.02,
+      "end": 460.66,
+      "text": "그래서 예를 들어서"
+    },
+    {
+      "start": 460.66,
+      "end": 461.7,
+      "text": "Don't leave me"
+    },
+    {
+      "start": 461.7,
+      "end": 462.12,
+      "text": "hanging"
+    },
+    {
+      "start": 462.12,
+      "end": 462.82,
+      "text": "이라고 하면"
+    },
+    {
+      "start": 462.82,
+      "end": 463.84,
+      "text": "맞아요."
+    },
+    {
+      "start": 464.06,
+      "end": 465.12,
+      "text": "나를 애태우지 마"
+    },
+    {
+      "start": 465.12,
+      "end": 466.38,
+      "text": "라는 문장이라는 것을"
+    },
+    {
+      "start": 466.38,
+      "end": 467.18,
+      "text": "지난번에도"
+    },
+    {
+      "start": 467.18,
+      "end": 468.38,
+      "text": "언급을 했던 것 같아요."
+    },
+    {
+      "start": 468.38,
+      "end": 469.68,
+      "text": "그런데 이번에는"
+    },
+    {
+      "start": 469.68,
+      "end": 471.52,
+      "text": "She likes to leave you"
+    },
+    {
+      "start": 471.52,
+      "end": 473.56,
+      "text": "hanging on a wire"
+    },
+    {
+      "start": 473.56,
+      "end": 474.62,
+      "text": "이라고 보겠습니다."
+    },
+    {
+      "start": 475.26,
+      "end": 475.7,
+      "text": "Wire"
+    },
+    {
+      "start": 475.7,
+      "end": 477.38,
+      "text": "철사라는 단어잖아요."
+    },
+    {
+      "start": 477.7,
+      "end": 478.62,
+      "text": "철사 위에"
+    },
+    {
+      "start": 478.62,
+      "end": 479.62,
+      "text": "그녀가"
+    },
+    {
+      "start": 479.62,
+      "end": 480.48,
+      "text": "당신을"
+    },
+    {
+      "start": 480.48,
+      "end": 481.06,
+      "text": "두기를"
+    },
+    {
+      "start": 481.06,
+      "end": 481.78,
+      "text": "좋아한다."
+    },
+    {
+      "start": 482.18,
+      "end": 483.2,
+      "text": "이게 직역 버전인데"
+    },
+    {
+      "start": 483.2,
+      "end": 484.3,
+      "text": "그만큼"
+    },
+    {
+      "start": 484.3,
+      "end": 485.16,
+      "text": "긴장감 있는"
+    },
+    {
+      "start": 485.16,
+      "end": 486.08,
+      "text": "상태에 두는 것을"
+    },
+    {
+      "start": 486.08,
+      "end": 486.64,
+      "text": "좋아한다"
+    },
+    {
+      "start": 486.64,
+      "end": 487.88,
+      "text": "라고 보시면 되겠어요."
+    },
+    {
+      "start": 488.86,
+      "end": 489.18,
+      "text": "그녀는"
+    },
+    {
+      "start": 489.18,
+      "end": 489.56,
+      "text": "사람을"
+    },
+    {
+      "start": 489.56,
+      "end": 490.7,
+      "text": "아주 긴장되고"
+    },
+    {
+      "start": 490.7,
+      "end": 491.88,
+      "text": "궁금한 상태로"
+    },
+    {
+      "start": 491.88,
+      "end": 492.74,
+      "text": "남겨두기를"
+    },
+    {
+      "start": 492.74,
+      "end": 493.72,
+      "text": "좋아한다"
+    },
+    {
+      "start": 493.72,
+      "end": 494.68,
+      "text": "라는 뜻입니다."
+    },
+    {
+      "start": 495.18,
+      "end": 495.52,
+      "text": "그런데 이게"
+    },
+    {
+      "start": 495.52,
+      "end": 496.2,
+      "text": "발음상"
+    },
+    {
+      "start": 496.2,
+      "end": 496.98,
+      "text": "우리가 들어보면"
+    },
+    {
+      "start": 496.98,
+      "end": 499.02,
+      "text": "Hanging on her words"
+    },
+    {
+      "start": 499.02,
+      "end": 500.94,
+      "text": "이렇게 들릴 때도 있어요."
+    },
+    {
+      "start": 501.44,
+      "end": 502.96,
+      "text": "만약에 그렇다고 한다면"
+    },
+    {
+      "start": 502.96,
+      "end": 504.0,
+      "text": "그녀의 말을"
+    },
+    {
+      "start": 504.0,
+      "end": 506.12,
+      "text": "집중해서 듣는다"
+    },
+    {
+      "start": 506.12,
+      "end": 507.4,
+      "text": "라는 뜻이 되겠습니다."
+    },
+    {
+      "start": 507.9,
+      "end": 508.14,
+      "text": "그래서"
+    },
+    {
+      "start": 508.14,
+      "end": 509.72,
+      "text": "우리가 맥락상"
+    },
+    {
+      "start": 509.72,
+      "end": 510.9,
+      "text": "확인을 해볼 때"
+    },
+    {
+      "start": 510.9,
+      "end": 512.36,
+      "text": "Hanging on a wire"
+    },
+    {
+      "start": 512.36,
+      "end": 513.0,
+      "text": "이라고"
+    },
+    {
+      "start": 513.0,
+      "end": 514.2,
+      "text": "기억해 보시는 것이"
+    },
+    {
+      "start": 514.2,
+      "end": 515.44,
+      "text": "훨씬 적절해 보입니다."
+    },
+    {
+      "start": 515.8,
+      "end": 516.2,
+      "text": "아시겠죠?"
+    },
+    {
+      "start": 516.92,
+      "end": 517.36,
+      "text": "이렇게"
+    },
+    {
+      "start": 517.36,
+      "end": 518.76,
+      "text": "누군가를 보고"
+    },
+    {
+      "start": 518.76,
+      "end": 520.08,
+      "text": "또 동경하게"
+    },
+    {
+      "start": 520.08,
+      "end": 521.0,
+      "text": "되기도 하죠."
+    },
+    {
+      "start": 521.0,
+      "end": 521.86,
+      "text": "그럼"
+    },
+    {
+      "start": 521.86,
+      "end": 522.62,
+      "text": "힘차게"
+    },
+    {
+      "start": 522.62,
+      "end": 523.72,
+      "text": "리뷰 타임"
+    },
+    {
+      "start": 523.72,
+      "end": 525.72,
+      "text": "첫 번째"
+    },
+    {
+      "start": 525.72,
+      "end": 527.08,
+      "text": "그녀 주변에"
+    },
+    {
+      "start": 527.08,
+      "end": 527.82,
+      "text": "모든 것은"
+    },
+    {
+      "start": 527.82,
+      "end": 529.3,
+      "text": "은빛 아우라가"
+    },
+    {
+      "start": 529.3,
+      "end": 529.66,
+      "text": "있죠."
+    },
+    {
+      "start": 530.2,
+      "end": 531.08,
+      "text": "자 이 문장"
+    },
+    {
+      "start": 531.08,
+      "end": 531.7,
+      "text": "뭐였나요?"
+    },
+    {
+      "start": 532.66,
+      "end": 534.04,
+      "text": "Everything around her"
+    },
+    {
+      "start": 534.04,
+      "end": 536.3,
+      "text": "is a silver pool of light."
+    },
+    {
+      "start": 537.02,
+      "end": 538.06,
+      "text": "네 이렇게 문장을"
+    },
+    {
+      "start": 538.06,
+      "end": 539.14,
+      "text": "내뱉�자마자"
+    },
+    {
+      "start": 539.14,
+      "end": 539.98,
+      "text": "그 멜로디도"
+    },
+    {
+      "start": 539.98,
+      "end": 540.74,
+      "text": "떠오릅니다."
+    },
+    {
+      "start": 541.3,
+      "end": 543.04,
+      "text": "Everything around her"
+    },
+    {
+      "start": 543.04,
+      "end": 545.08,
+      "text": "is a silver pool of light."
+    },
+    {
+      "start": 545.34,
+      "end": 546.8,
+      "text": "이렇게 기억해 보셔도"
+    },
+    {
+      "start": 546.8,
+      "end": 547.5,
+      "text": "아주 좋겠죠."
+    },
+    {
+      "start": 547.5,
+      "end": 550.34,
+      "text": "There is a silver aura"
+    },
+    {
+      "start": 550.34,
+      "end": 552.2,
+      "text": "all around her."
+    },
+    {
+      "start": 552.2,
+      "end": 553.52,
+      "text": "이렇게도 우리가"
+    },
+    {
+      "start": 553.52,
+      "end": 554.42,
+      "text": "대체 문장으로"
+    },
+    {
+      "start": 554.42,
+      "end": 555.48,
+      "text": "떠올릴 수 있겠어요."
+    },
+    {
+      "start": 556.26,
+      "end": 556.98,
+      "text": "이제 두 번째"
+    },
+    {
+      "start": 556.98,
+      "end": 558.84,
+      "text": "갑자기 깨달았어요"
+    },
+    {
+      "start": 558.84,
+      "end": 559.96,
+      "text": "라는 문장은요."
+    },
+    {
+      "start": 560.78,
+      "end": 562.0,
+      "text": "Suddenly I see"
+    },
+    {
+      "start": 562.0,
+      "end": 562.46,
+      "text": "그렇죠."
+    },
+    {
+      "start": 562.66,
+      "end": 563.64,
+      "text": "Suddenly I see"
+    },
+    {
+      "start": 563.64,
+      "end": 564.64,
+      "text": "라는 문장입니다."
+    },
+    {
+      "start": 565.4,
+      "end": 565.68,
+      "text": "Suddenly"
+    },
+    {
+      "start": 565.68,
+      "end": 567.32,
+      "text": "it all makes sense"
+    },
+    {
+      "start": 567.32,
+      "end": 568.1,
+      "text": "갑자기"
+    },
+    {
+      "start": 568.1,
+      "end": 569.18,
+      "text": "이해가 됐어요."
+    },
+    {
+      "start": 569.24,
+      "end": 569.72,
+      "text": "갑자기"
+    },
+    {
+      "start": 569.72,
+      "end": 570.76,
+      "text": "깨달았어요."
+    },
+    {
+      "start": 571.18,
+      "end": 571.94,
+      "text": "비슷하게"
+    },
+    {
+      "start": 571.94,
+      "end": 573.28,
+      "text": "기억을 하시면 좋겠고"
+    },
+    {
+      "start": 573.28,
+      "end": 574.26,
+      "text": "세 번째"
+    },
+    {
+      "start": 574.26,
+      "end": 575.36,
+      "text": "그녀는"
+    },
+    {
+      "start": 575.36,
+      "end": 576.66,
+      "text": "모든 공간을"
+    },
+    {
+      "start": 576.66,
+      "end": 577.56,
+      "text": "가득 채워요."
+    },
+    {
+      "start": 578.42,
+      "end": 578.7,
+      "text": "이때"
+    },
+    {
+      "start": 578.7,
+      "end": 579.8,
+      "text": "존재감에 대해서"
+    },
+    {
+      "start": 579.8,
+      "end": 580.98,
+      "text": "강조를 한다고 했죠."
+    },
+    {
+      "start": 580.98,
+      "end": 582.3,
+      "text": "She fills up"
+    },
+    {
+      "start": 582.3,
+      "end": 583.52,
+      "text": "every corner"
+    },
+    {
+      "start": 583.52,
+      "end": 584.46,
+      "text": "이었습니다."
+    },
+    {
+      "start": 585.04,
+      "end": 585.74,
+      "text": "She fills up"
+    },
+    {
+      "start": 585.74,
+      "end": 586.64,
+      "text": "every corner"
+    },
+    {
+      "start": 586.64,
+      "end": 588.02,
+      "text": "대체 문장"
+    },
+    {
+      "start": 588.02,
+      "end": 588.86,
+      "text": "뭐가 좋을까요?"
+    },
+    {
+      "start": 589.4,
+      "end": 590.18,
+      "text": "She has"
+    },
+    {
+      "start": 590.18,
+      "end": 591.9,
+      "text": "a powerful presence"
+    },
+    {
+      "start": 591.9,
+      "end": 592.74,
+      "text": "아주"
+    },
+    {
+      "start": 592.74,
+      "end": 594.42,
+      "text": "강력한 존재감을"
+    },
+    {
+      "start": 594.42,
+      "end": 595.04,
+      "text": "갖고 있다."
+    },
+    {
+      "start": 595.5,
+      "end": 596.42,
+      "text": "이런 문장도"
+    },
+    {
+      "start": 596.42,
+      "end": 597.16,
+      "text": "가능하겠죠."
+    },
+    {
+      "start": 597.96,
+      "end": 598.24,
+      "text": "그럼"
+    },
+    {
+      "start": 598.24,
+      "end": 599.04,
+      "text": "리듬 타면서"
+    },
+    {
+      "start": 599.04,
+      "end": 599.62,
+      "text": "한 번 더"
+    },
+    {
+      "start": 599.62,
+      "end": 600.26,
+      "text": "복습할게요."
+    },
+    {
+      "start": 606.93,
+      "end": 607.45,
+      "text": "첫 번째"
+    },
+    {
+      "start": 607.45,
+      "end": 608.81,
+      "text": "그녀 주변에"
+    },
+    {
+      "start": 608.81,
+      "end": 609.57,
+      "text": "모든 것은"
+    },
+    {
+      "start": 609.57,
+      "end": 610.77,
+      "text": "은빛 아우라가"
+    },
+    {
+      "start": 610.77,
+      "end": 611.13,
+      "text": "있죠."
+    },
+    {
+      "start": 612.61,
+      "end": 614.09,
+      "text": "Everything around her"
+    },
+    {
+      "start": 614.09,
+      "end": 615.53,
+      "text": "is a silver pool"
+    },
+    {
+      "start": 615.53,
+      "end": 616.11,
+      "text": "of light"
+    },
+    {
+      "start": 616.11,
+      "end": 618.8,
+      "text": "Everything around her"
+    },
+    {
+      "start": 618.8,
+      "end": 620.26,
+      "text": "is a silver pool"
+    },
+    {
+      "start": 620.26,
+      "end": 620.86,
+      "text": "of light"
+    },
+    {
+      "start": 620.86,
+      "end": 623.44,
+      "text": "Everything around her"
+    },
+    {
+      "start": 623.44,
+      "end": 624.98,
+      "text": "is a silver pool"
+    },
+    {
+      "start": 624.98,
+      "end": 625.56,
+      "text": "of light"
+    },
+    {
+      "start": 625.56,
+      "end": 626.99,
+      "text": "두 번째"
+    },
+    {
+      "start": 626.99,
+      "end": 628.77,
+      "text": "갑자기 깨달았어요."
+    },
+    {
+      "start": 631.13,
+      "end": 631.53,
+      "text": "Suddenly"
+    },
+    {
+      "start": 631.53,
+      "end": 632.53,
+      "text": "I see"
+    },
+    {
+      "start": 632.53,
+      "end": 633.85,
+      "text": "Suddenly"
+    },
+    {
+      "start": 633.85,
+      "end": 635.01,
+      "text": "I see"
+    },
+    {
+      "start": 635.01,
+      "end": 636.15,
+      "text": "Suddenly"
+    },
+    {
+      "start": 636.15,
+      "end": 637.35,
+      "text": "I see"
+    },
+    {
+      "start": 637.35,
+      "end": 638.53,
+      "text": "세 번째"
+    },
+    {
+      "start": 638.53,
+      "end": 639.61,
+      "text": "그녀는"
+    },
+    {
+      "start": 639.61,
+      "end": 640.75,
+      "text": "모든 공간을"
+    },
+    {
+      "start": 640.75,
+      "end": 641.53,
+      "text": "가득 채워요."
+    },
+    {
+      "start": 641.53,
+      "end": 643.27,
+      "text": "She fills up"
+    },
+    {
+      "start": 643.27,
+      "end": 644.19,
+      "text": "every corner"
+    },
+    {
+      "start": 644.19,
+      "end": 645.61,
+      "text": "She fills up"
+    },
+    {
+      "start": 645.61,
+      "end": 646.55,
+      "text": "every corner"
+    },
+    {
+      "start": 646.55,
+      "end": 647.89,
+      "text": "She fills up"
+    },
+    {
+      "start": 647.89,
+      "end": 648.85,
+      "text": "every corner"
+    },
+    {
+      "start": 648.85,
+      "end": 652.08,
+      "text": "힘차게"
+    },
+    {
+      "start": 652.08,
+      "end": 653.28,
+      "text": "연습해봤습니다."
+    },
+    {
+      "start": 653.48,
+      "end": 654.24,
+      "text": "굿모닝 팝스"
+    },
+    {
+      "start": 654.24,
+      "end": 654.92,
+      "text": "다시 듣기는"
+    },
+    {
+      "start": 654.92,
+      "end": 656.16,
+      "text": "KBS 애플리케이션"
+    },
+    {
+      "start": 656.16,
+      "end": 657.38,
+      "text": "콩 오리지널 탭과"
+    },
+    {
+      "start": 657.38,
+      "end": 658.88,
+      "text": "KBS 콩 유튜브로"
+    },
+    {
+      "start": 658.88,
+      "end": 660.18,
+      "text": "다시 들으실 수 있습니다."
+    },
+    {
+      "start": 660.88,
+      "end": 661.82,
+      "text": "굿모닝 팝스"
+    },
+    {
+      "start": 661.82,
+      "end": 663.16,
+      "text": "저는 조정현이었습니다."
+    },
+    {
+      "start": 663.56,
+      "end": 664.46,
+      "text": "Have a happy day!"
+    }
+  ]
+}
