@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-10T14:57:58",
-  "count": 406,
+  "generated_at": "2026-06-16T22:47:27",
+  "count": 407,
   "episodes": [
+    {
+      "id": "2026-06-11_pop_song",
+      "date": "2026-06-11",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Sinking - The Smoothies",
+      "movie": "",
+      "duration_sec": 561.26,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-11_pop_song.mp3",
+      "artwork_generated_url": ""
+    },
     {
       "id": "2026-06-10_pop_song",
       "date": "2026-06-10",
