@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-17T22:54:23",
-  "count": 410,
+  "generated_at": "2026-06-18T18:50:04",
+  "count": 411,
   "episodes": [
+    {
+      "id": "2026-06-18_pop_song",
+      "date": "2026-06-18",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Radio Ga Ga - Queen",
+      "movie": "",
+      "duration_sec": 616.2,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-18_pop_song.mp3",
+      "artwork_generated_url": ""
+    },
     {
       "id": "2026-06-16_pop_song",
       "date": "2026-06-16",

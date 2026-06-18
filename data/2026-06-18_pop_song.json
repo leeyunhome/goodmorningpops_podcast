@@ -1,0 +1,1173 @@
+{
+  "id": "2026-06-18_pop_song",
+  "date": "2026-06-18",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "Radio Ga Ga - Queen",
+  "movie": "",
+  "duration_sec": 616.2,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-18_pop_song.mp3",
+  "artwork_generated_url": "",
+  "script": [
+    {
+      "start": 11.79,
+      "end": 15.65,
+      "text": "팝송에 스며드는 특별한 영어 시간 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.65,
+      "end": 23.78,
+      "text": "좋은 팝 음악으로 아침을 상쾌하게 깨워드립니다"
+    },
+    {
+      "start": 23.78,
+      "end": 25.98,
+      "text": "굿모닝 팝스 조정현입니다"
+    },
+    {
+      "start": 25.98,
+      "end": 30.36,
+      "text": "하루 종일 귓가에 맴돌만한 곡을 준비했어요"
+    },
+    {
+      "start": 30.36,
+      "end": 34.02,
+      "text": "그래서 오늘 미션 문장 들어보시고 영어 가사 예상해보세요"
+    },
+    {
+      "start": 34.02,
+      "end": 50.21,
+      "text": "첫 번째, 나는 라디오에서 들었지"
+    },
+    {
+      "start": 50.21,
+      "end": 56.77,
+      "text": "두 번째, 하지만 너에게 아직 최고의 순간은 오지 않았어"
+    },
+    {
+      "start": 56.77,
+      "end": 62.97,
+      "text": "세 번째, 누군가는 여전히 널 사랑해"
+    },
+    {
+      "start": 62.97,
+      "end": 66.57,
+      "text": "네, 과연 어떤 곡일까요?"
+    },
+    {
+      "start": 67.19,
+      "end": 73.15,
+      "text": "영국 락밴드 퀸의 1984년 발매곡 Radio Gaga입니다"
+    },
+    {
+      "start": 73.15,
+      "end": 80.07,
+      "text": "이 라디오에 대한 감정을 과연 어떻게 표현하는지 함께 들으면서 알아볼게요"
+    },
+    {
+      "start": 80.07,
+      "end": 87.27,
+      "text": "첫 번째 미션 문장, 나는 라디오에서 들었지라는 가사 집중해서 찾아보세요"
+    },
+    {
+      "start": 87.27,
+      "end": 110.4,
+      "text": "정확하게 들으셨죠? 잘 찾아내셨을 거라고 생각합니다"
+    },
+    {
+      "start": 110.4,
+      "end": 114.48,
+      "text": "I'd sit alone, 나는 혼자 앉아서"
+    },
+    {
+      "start": 114.48,
+      "end": 121.52,
+      "text": "And watch your light, 당신의 불빛을 바라보곤 했지라고 과거를 회상하고 있어요"
+    },
+    {
+      "start": 121.52,
+      "end": 125.82,
+      "text": "난 혼자 앉아서 당신의, 이때의 당신은 누굴까요?"
+    },
+    {
+      "start": 126.48,
+      "end": 129.52,
+      "text": "맞아요, radio, 라디오를 이렇게"
+    },
+    {
+      "start": 129.52,
+      "end": 134.28,
+      "text": "Your light, 라디오에 거기서 나오는 불빛을 묘사를 한 겁니다"
+    },
+    {
+      "start": 134.28,
+      "end": 135.2,
+      "text": "비유적으로"
+    },
+    {
+      "start": 135.2,
+      "end": 139.46,
+      "text": "My only friend through teenage nights"
+    },
+    {
+      "start": 139.46,
+      "end": 146.7,
+      "text": "10대의 밤들을 쭉 함께한 나의 오래된 유일한 친구라는 뜻이에요"
+    },
+    {
+      "start": 146.7,
+      "end": 149.62,
+      "text": "You were my only friend"
+    },
+    {
+      "start": 149.62,
+      "end": 151.98,
+      "text": "너는 나의 유일한 친구였다"
+    },
+    {
+      "start": 151.98,
+      "end": 155.92,
+      "text": "이처럼 you were이 앞에 생략이 된 구조라고 보시면 되겠어요"
+    },
+    {
+      "start": 155.92,
+      "end": 157.92,
+      "text": "Through teenage nights"
+    },
+    {
+      "start": 157.92,
+      "end": 161.66,
+      "text": "이게 10대 혹은 10대 시절이라고 해석이 되는 부분입니다"
+    },
+    {
+      "start": 161.66,
+      "end": 166.0,
+      "text": "그래서 10대 시절 동안, 10대의 밤동안"
+    },
+    {
+      "start": 166.0,
+      "end": 168.66,
+      "text": "너는 나의 유일한 친구였어"
+    },
+    {
+      "start": 169.24,
+      "end": 171.64,
+      "text": "And everything I had to know"
+    },
+    {
+      "start": 171.64,
+      "end": 175.16,
+      "text": "그리고 내가 알아야 할 모든 것을"
+    },
+    {
+      "start": 175.16,
+      "end": 178.54,
+      "text": "I heard it on my radio"
+    },
+    {
+      "start": 178.54,
+      "end": 179.28,
+      "text": "들으셨죠?"
+    },
+    {
+      "start": 179.66,
+      "end": 181.36,
+      "text": "I heard it on my radio"
+    },
+    {
+      "start": 181.36,
+      "end": 184.74,
+      "text": "나는 라디오에서 들었지라는 말입니다"
+    },
+    {
+      "start": 184.74,
+      "end": 188.7,
+      "text": "라디오가 얼마나 중요한 역할을 했는지 말해주고 있죠"
+    },
+    {
+      "start": 188.7,
+      "end": 191.52,
+      "text": "이제 두 번째 미션 문장"
+    },
+    {
+      "start": 191.52,
+      "end": 195.44,
+      "text": "하지만 너에게 아직 최고의 순간은 오지 않았어"
+    },
+    {
+      "start": 195.44,
+      "end": 196.86,
+      "text": "라는 문장 찾아보세요"
+    },
+    {
+      "start": 196.86,
+      "end": 232.5,
+      "text": "네, 아주 굵직한 메시지가 들렸어요"
+    },
+    {
+      "start": 232.5,
+      "end": 236.16,
+      "text": "So don't become some background noise"
+    },
+    {
+      "start": 236.16,
+      "end": 238.98,
+      "text": "자, background noise 라고 하면 무슨 뜻일까요?"
+    },
+    {
+      "start": 239.58,
+      "end": 242.92,
+      "text": "배경 소음, 배경 잡음 정도 되겠죠?"
+    },
+    {
+      "start": 243.32,
+      "end": 246.34,
+      "text": "근데 don't become some background noise 라고 했으니까"
+    },
+    {
+      "start": 246.34,
+      "end": 250.0,
+      "text": "그러니 배경의 소음 같은 존재가 되지 마라"
+    },
+    {
+      "start": 250.0,
+      "end": 251.3,
+      "text": "라는 이야기입니다"
+    },
+    {
+      "start": 251.3,
+      "end": 254.3,
+      "text": "A backdrop for the girls and boys"
+    },
+    {
+      "start": 254.3,
+      "end": 257.62,
+      "text": "이번에는 backdrop 라는 단어도 들렸어요"
+    },
+    {
+      "start": 257.62,
+      "end": 259.4,
+      "text": "이것도 배경이라는 뜻이에요"
+    },
+    {
+      "start": 259.4,
+      "end": 262.26,
+      "text": "Backdrop for the girls and boys"
+    },
+    {
+      "start": 262.26,
+      "end": 266.74,
+      "text": "이 소녀들과 소년들을 위한 배경이 되지 말라라는 거죠"
+    },
+    {
+      "start": 266.74,
+      "end": 271.64,
+      "text": "이 don't가 앞에 있는 문장과 계속 영향을 받고 있는 겁니다"
+    },
+    {
+      "start": 271.64,
+      "end": 275.39,
+      "text": "어떤 소녀들과 소년들인지"
+    },
+    {
+      "start": 275.39,
+      "end": 277.77,
+      "text": "이어지는 부분에서 또 묘사를 해주죠"
+    },
+    {
+      "start": 277.77,
+      "end": 281.47,
+      "text": "Who just don't know or just don't care"
+    },
+    {
+      "start": 281.47,
+      "end": 282.95,
+      "text": "그냥 모르거나"
+    },
+    {
+      "start": 282.95,
+      "end": 286.19,
+      "text": "그냥 신경 쓰지 않는 사람들을 위한"
+    },
+    {
+      "start": 286.19,
+      "end": 286.77,
+      "text": "또"
+    },
+    {
+      "start": 286.77,
+      "end": 290.23,
+      "text": "And just complain when you are not there"
+    },
+    {
+      "start": 290.23,
+      "end": 293.19,
+      "text": "네가 없으면 그저 complain"
+    },
+    {
+      "start": 293.19,
+      "end": 297.29,
+      "text": "불평만 하는 사람들을 위한 배경이 되지 말라라는 말입니다"
+    },
+    {
+      "start": 297.29,
+      "end": 299.63,
+      "text": "You had your time"
+    },
+    {
+      "start": 299.63,
+      "end": 302.53,
+      "text": "여기서 you had your time은 무슨 뜻일까요?"
+    },
+    {
+      "start": 302.91,
+      "end": 305.13,
+      "text": "너는 시간이 있었다가 아니고"
+    },
+    {
+      "start": 305.13,
+      "end": 308.19,
+      "text": "너에겐 전성기가 있었다라는 뜻입니다"
+    },
+    {
+      "start": 308.19,
+      "end": 310.05,
+      "text": "You had the power"
+    },
+    {
+      "start": 310.05,
+      "end": 312.05,
+      "text": "그리고 너는 힘도 있었지"
+    },
+    {
+      "start": 312.85,
+      "end": 313.83,
+      "text": "그러면서 하는 말이"
+    },
+    {
+      "start": 313.83,
+      "end": 317.49,
+      "text": "You've yet to have your finest hour"
+    },
+    {
+      "start": 317.49,
+      "end": 319.39,
+      "text": "이라고 아주 강력하게 외쳤어요"
+    },
+    {
+      "start": 319.39,
+      "end": 322.65,
+      "text": "You've yet to have your finest hour"
+    },
+    {
+      "start": 322.65,
+      "end": 326.81,
+      "text": "하지만 너에게 최고의 순간은 아직 오지 않았어"
+    },
+    {
+      "start": 326.81,
+      "end": 328.81,
+      "text": "우리가 찾아야 되는 문장입니다"
+    },
+    {
+      "start": 328.81,
+      "end": 329.69,
+      "text": "미션 문장"
+    },
+    {
+      "start": 329.69,
+      "end": 333.49,
+      "text": "이 중에 finest hour 이라는 표현이 들렸어요"
+    },
+    {
+      "start": 333.49,
+      "end": 337.87,
+      "text": "fine에다가 est 끝부분이 붙은 표현인 거죠"
+    },
+    {
+      "start": 337.87,
+      "end": 339.25,
+      "text": "finest hour"
+    },
+    {
+      "start": 339.25,
+      "end": 343.37,
+      "text": "최고의 시간, 가장 좋은 시기라고 해석하실 수 있습니다"
+    },
+    {
+      "start": 343.37,
+      "end": 347.23,
+      "text": "너에게 최고의 순간은 아직 오지 않았어"
+    },
+    {
+      "start": 347.23,
+      "end": 350.07,
+      "text": "You've yet to have your finest hour"
+    },
+    {
+      "start": 350.07,
+      "end": 352.21,
+      "text": "통째로 기억하실 수 있겠죠?"
+    },
+    {
+      "start": 352.21,
+      "end": 353.71,
+      "text": "Radio"
+    },
+    {
+      "start": 353.71,
+      "end": 354.97,
+      "text": "라고 외칩니다"
+    },
+    {
+      "start": 354.97,
+      "end": 358.21,
+      "text": "이제 세 번째 미션 문장 남아있어요"
+    },
+    {
+      "start": 358.21,
+      "end": 360.81,
+      "text": "누군가는 여전히 널 사랑해"
+    },
+    {
+      "start": 360.81,
+      "end": 362.55,
+      "text": "라는 문장 찾아보세요"
+    },
+    {
+      "start": 362.55,
+      "end": 398.4,
+      "text": "네, 현장감 있게 진짜 떼창 가능한 부분이겠죠?"
+    },
+    {
+      "start": 399.02,
+      "end": 402.24,
+      "text": "All we hear is radio ga ga"
+    },
+    {
+      "start": 402.24,
+      "end": 404.54,
+      "text": "우리가 듣는 건 오직 뭐뿐이라고요?"
+    },
+    {
+      "start": 404.98,
+      "end": 406.24,
+      "text": "Radio ga ga"
+    },
+    {
+      "start": 406.24,
+      "end": 408.24,
+      "text": "Radio goo goo"
+    },
+    {
+      "start": 408.24,
+      "end": 410.24,
+      "text": "그 다음 radio ga ga"
+    },
+    {
+      "start": 410.24,
+      "end": 411.12,
+      "text": "이렇게 들립니다"
+    },
+    {
+      "start": 411.12,
+      "end": 413.62,
+      "text": "All we hear is radio ga ga"
+    },
+    {
+      "start": 413.62,
+      "end": 414.62,
+      "text": "radio bla bla"
+    },
+    {
+      "start": 414.62,
+      "end": 415.3,
+      "text": "라고 했는데"
+    },
+    {
+      "start": 415.3,
+      "end": 418.12,
+      "text": "이 부분에서는 약간 풍자적인 느낌도 드네요"
+    },
+    {
+      "start": 418.12,
+      "end": 418.62,
+      "text": "라디오"
+    },
+    {
+      "start": 418.62,
+      "end": 419.62,
+      "text": "라디오"
+    },
+    {
+      "start": 419.62,
+      "end": 420.46,
+      "text": "What's new?"
+    },
+    {
+      "start": 420.88,
+      "end": 421.46,
+      "text": "라디오"
+    },
+    {
+      "start": 421.46,
+      "end": 422.82,
+      "text": "새해 소식은 뭐야?"
+    },
+    {
+      "start": 423.22,
+      "end": 424.58,
+      "text": "새로운 소식 뭐야?"
+    },
+    {
+      "start": 425.12,
+      "end": 426.15,
+      "text": "라디오"
+    },
+    {
+      "start": 426.15,
+      "end": 428.75,
+      "text": "Someone still loves you"
+    },
+    {
+      "start": 428.75,
+      "end": 432.65,
+      "text": "아주 가슴이 따뜻해지는 메시지가 들렸습니다"
+    },
+    {
+      "start": 432.65,
+      "end": 434.73,
+      "text": "Someone still loves you"
+    },
+    {
+      "start": 434.73,
+      "end": 435.13,
+      "text": "그쵸?"
+    },
+    {
+      "start": 435.23,
+      "end": 435.73,
+      "text": "Someone"
+    },
+    {
+      "start": 435.73,
+      "end": 436.69,
+      "text": "누군가는"
+    },
+    {
+      "start": 436.69,
+      "end": 438.23,
+      "text": "Still loves you"
+    },
+    {
+      "start": 438.23,
+      "end": 439.23,
+      "text": "여전히"
+    },
+    {
+      "start": 439.23,
+      "end": 439.99,
+      "text": "아직도"
+    },
+    {
+      "start": 439.99,
+      "end": 441.11,
+      "text": "널 사랑해"
+    },
+    {
+      "start": 441.11,
+      "end": 442.01,
+      "text": "라는 문장입니다"
+    },
+    {
+      "start": 442.01,
+      "end": 444.35,
+      "text": "Someone still loves you"
+    },
+    {
+      "start": 444.35,
+      "end": 445.87,
+      "text": "이 문장도"
+    },
+    {
+      "start": 445.87,
+      "end": 447.79,
+      "text": "아주 잘 기억해 보시면 좋겠습니다"
+    },
+    {
+      "start": 447.79,
+      "end": 449.01,
+      "text": "그래요"
+    },
+    {
+      "start": 449.01,
+      "end": 450.37,
+      "text": "우리 주변에는 지금 아주"
+    },
+    {
+      "start": 450.37,
+      "end": 452.73,
+      "text": "영상으로 가득 차 있는 세상을"
+    },
+    {
+      "start": 452.73,
+      "end": 453.55,
+      "text": "살고 있긴 한데"
+    },
+    {
+      "start": 453.55,
+      "end": 455.83,
+      "text": "우리한테 상상력을"
+    },
+    {
+      "start": 455.83,
+      "end": 457.51,
+      "text": "무한 발휘시키고"
+    },
+    {
+      "start": 457.51,
+      "end": 459.13,
+      "text": "또 위로해 주는 존재로"
+    },
+    {
+      "start": 459.13,
+      "end": 460.37,
+      "text": "라디오가 있다는 것을"
+    },
+    {
+      "start": 460.37,
+      "end": 462.63,
+      "text": "이렇게 다시금 알려주는 내용입니다"
+    },
+    {
+      "start": 462.63,
+      "end": 465.63,
+      "text": "그럼 자신있게 리뷰 타임"
+    },
+    {
+      "start": 465.63,
+      "end": 467.64,
+      "text": "첫 번째"
+    },
+    {
+      "start": 467.64,
+      "end": 470.26,
+      "text": "나는 라디오에서 들었지"
+    },
+    {
+      "start": 470.26,
+      "end": 472.84,
+      "text": "I heard it on my radio"
+    },
+    {
+      "start": 472.84,
+      "end": 475.1,
+      "text": "I heard it on my radio"
+    },
+    {
+      "start": 475.1,
+      "end": 476.14,
+      "text": "라는 문장입니다"
+    },
+    {
+      "start": 476.14,
+      "end": 477.86,
+      "text": "I heard it"
+    },
+    {
+      "start": 477.86,
+      "end": 478.46,
+      "text": "다음에"
+    },
+    {
+      "start": 478.46,
+      "end": 480.46,
+      "text": "On my radio였잖아요"
+    },
+    {
+      "start": 480.46,
+      "end": 481.42,
+      "text": "그것을"
+    },
+    {
+      "start": 481.42,
+      "end": 482.98,
+      "text": "Over the radio"
+    },
+    {
+      "start": 482.98,
+      "end": 483.92,
+      "text": "로 바꿔보겠습니다"
+    },
+    {
+      "start": 483.92,
+      "end": 486.18,
+      "text": "I heard it over the radio"
+    },
+    {
+      "start": 486.18,
+      "end": 488.22,
+      "text": "난 그걸 라디오에서 들었어"
+    },
+    {
+      "start": 488.22,
+      "end": 490.6,
+      "text": "라는 대표적인 문장을"
+    },
+    {
+      "start": 490.6,
+      "end": 493.0,
+      "text": "대체 문장으로도 소개를 해드렸습니다"
+    },
+    {
+      "start": 493.0,
+      "end": 494.22,
+      "text": "두 번째"
+    },
+    {
+      "start": 494.22,
+      "end": 495.86,
+      "text": "하지만 너에게"
+    },
+    {
+      "start": 495.86,
+      "end": 497.6,
+      "text": "아직 최고의 순간은"
+    },
+    {
+      "start": 497.6,
+      "end": 498.5,
+      "text": "오지 않았어"
+    },
+    {
+      "start": 498.5,
+      "end": 499.22,
+      "text": "라는 문장"
+    },
+    {
+      "start": 499.22,
+      "end": 500.0,
+      "text": "뭐였죠?"
+    },
+    {
+      "start": 500.96,
+      "end": 502.26,
+      "text": "You've yet to have"
+    },
+    {
+      "start": 502.26,
+      "end": 504.16,
+      "text": "your finest hour"
+    },
+    {
+      "start": 504.16,
+      "end": 505.0,
+      "text": "이 문장이었습니다"
+    },
+    {
+      "start": 505.8,
+      "end": 507.26,
+      "text": "You've yet to have"
+    },
+    {
+      "start": 507.26,
+      "end": 508.0,
+      "text": "your finest hour"
+    },
+    {
+      "start": 508.56,
+      "end": 510.84,
+      "text": "갑자기 떠오르는"
+    },
+    {
+      "start": 510.84,
+      "end": 512.34,
+      "text": "문장이 있는데"
+    },
+    {
+      "start": 512.34,
+      "end": 514.04,
+      "text": "The best is yet to come"
+    },
+    {
+      "start": 514.04,
+      "end": 515.22,
+      "text": "이라는 문장이에요"
+    },
+    {
+      "start": 515.22,
+      "end": 517.02,
+      "text": "The best is yet to come"
+    },
+    {
+      "start": 517.02,
+      "end": 517.72,
+      "text": "for you"
+    },
+    {
+      "start": 517.72,
+      "end": 518.38,
+      "text": "라고도"
+    },
+    {
+      "start": 518.38,
+      "end": 519.26,
+      "text": "for you를"
+    },
+    {
+      "start": 519.26,
+      "end": 521.04,
+      "text": "덧붙일 수 있는 문장인데"
+    },
+    {
+      "start": 521.04,
+      "end": 522.04,
+      "text": "제가"
+    },
+    {
+      "start": 522.04,
+      "end": 524.14,
+      "text": "한 2년 전쯤에"
+    },
+    {
+      "start": 524.14,
+      "end": 525.96,
+      "text": "겨울에 소개해드렸던"
+    },
+    {
+      "start": 525.96,
+      "end": 527.58,
+      "text": "best is yet to come"
+    },
+    {
+      "start": 527.58,
+      "end": 528.9,
+      "text": "이라는 제목의 곡이"
+    },
+    {
+      "start": 528.9,
+      "end": 529.54,
+      "text": "떠오릅니다"
+    },
+    {
+      "start": 529.54,
+      "end": 531.02,
+      "text": "너에게"
+    },
+    {
+      "start": 531.02,
+      "end": 532.16,
+      "text": "최고의 순간은"
+    },
+    {
+      "start": 532.16,
+      "end": 533.06,
+      "text": "아직 오지 않았어"
+    },
+    {
+      "start": 533.06,
+      "end": 534.28,
+      "text": "이런 뜻입니다"
+    },
+    {
+      "start": 534.28,
+      "end": 535.18,
+      "text": "세 번째"
+    },
+    {
+      "start": 535.18,
+      "end": 536.68,
+      "text": "누군가는"
+    },
+    {
+      "start": 536.68,
+      "end": 538.5,
+      "text": "여전히 널 사랑해"
+    },
+    {
+      "start": 538.5,
+      "end": 539.58,
+      "text": "Someone"
+    },
+    {
+      "start": 539.58,
+      "end": 540.52,
+      "text": "still"
+    },
+    {
+      "start": 540.52,
+      "end": 541.9,
+      "text": "loves you"
+    },
+    {
+      "start": 541.9,
+      "end": 543.34,
+      "text": "이렇게 표현을 했어요"
+    },
+    {
+      "start": 543.34,
+      "end": 545.02,
+      "text": "There is still someone"
+    },
+    {
+      "start": 545.02,
+      "end": 546.34,
+      "text": "who loves you"
+    },
+    {
+      "start": 546.34,
+      "end": 548.14,
+      "text": "이 표현도 가능하죠"
+    },
+    {
+      "start": 548.14,
+      "end": 548.68,
+      "text": "또"
+    },
+    {
+      "start": 548.68,
+      "end": 549.5,
+      "text": "Somebody"
+    },
+    {
+      "start": 549.5,
+      "end": 550.1,
+      "text": "still"
+    },
+    {
+      "start": 550.1,
+      "end": 551.34,
+      "text": "cares about you"
+    },
+    {
+      "start": 551.34,
+      "end": 551.84,
+      "text": "이처럼"
+    },
+    {
+      "start": 551.84,
+      "end": 553.7,
+      "text": "cares about you"
+    },
+    {
+      "start": 553.7,
+      "end": 554.58,
+      "text": "이 동사 구를"
+    },
+    {
+      "start": 554.58,
+      "end": 555.54,
+      "text": "활용해보시는 것도"
+    },
+    {
+      "start": 555.54,
+      "end": 556.34,
+      "text": "추천드립니다"
+    },
+    {
+      "start": 556.34,
+      "end": 558.32,
+      "text": "이제 리듬 타면서"
+    },
+    {
+      "start": 558.32,
+      "end": 559.64,
+      "text": "한 번 더 복습할게요"
+    },
+    {
+      "start": 559.64,
+      "end": 566.79,
+      "text": "첫 번째"
+    },
+    {
+      "start": 566.79,
+      "end": 569.05,
+      "text": "나는 라디오에서 들었지"
+    },
+    {
+      "start": 569.05,
+      "end": 571.43,
+      "text": "I heard it on my radio"
+    },
+    {
+      "start": 571.43,
+      "end": 573.77,
+      "text": "I heard it on my radio"
+    },
+    {
+      "start": 573.77,
+      "end": 576.05,
+      "text": "I heard it on my radio"
+    },
+    {
+      "start": 576.05,
+      "end": 577.15,
+      "text": "두 번째"
+    },
+    {
+      "start": 577.15,
+      "end": 578.45,
+      "text": "하지만 너에게"
+    },
+    {
+      "start": 578.45,
+      "end": 579.93,
+      "text": "아직 최고의 순간은"
+    },
+    {
+      "start": 579.93,
+      "end": 580.55,
+      "text": "오지 않았어"
+    },
+    {
+      "start": 580.55,
+      "end": 582.09,
+      "text": "You've yet to have"
+    },
+    {
+      "start": 582.09,
+      "end": 583.35,
+      "text": "your finest hour"
+    },
+    {
+      "start": 583.35,
+      "end": 584.49,
+      "text": "You've yet to have"
+    },
+    {
+      "start": 584.49,
+      "end": 585.63,
+      "text": "your finest hour"
+    },
+    {
+      "start": 585.63,
+      "end": 586.67,
+      "text": "You've yet to have"
+    },
+    {
+      "start": 586.67,
+      "end": 588.09,
+      "text": "your finest hour"
+    },
+    {
+      "start": 588.09,
+      "end": 589.17,
+      "text": "세 번째"
+    },
+    {
+      "start": 589.17,
+      "end": 590.79,
+      "text": "누군가는"
+    },
+    {
+      "start": 590.79,
+      "end": 592.15,
+      "text": "여전히 널 사랑해"
+    },
+    {
+      "start": 592.15,
+      "end": 593.15,
+      "text": "Someone"
+    },
+    {
+      "start": 593.15,
+      "end": 593.63,
+      "text": "still"
+    },
+    {
+      "start": 593.63,
+      "end": 594.59,
+      "text": "loves you"
+    },
+    {
+      "start": 594.59,
+      "end": 595.39,
+      "text": "Someone"
+    },
+    {
+      "start": 595.39,
+      "end": 595.83,
+      "text": "still"
+    },
+    {
+      "start": 595.83,
+      "end": 596.89,
+      "text": "loves you"
+    },
+    {
+      "start": 596.89,
+      "end": 597.67,
+      "text": "Someone"
+    },
+    {
+      "start": 597.67,
+      "end": 598.13,
+      "text": "still"
+    },
+    {
+      "start": 598.13,
+      "end": 599.21,
+      "text": "loves you"
+    },
+    {
+      "start": 599.21,
+      "end": 601.86,
+      "text": "네 라디오를"
+    },
+    {
+      "start": 601.86,
+      "end": 603.22,
+      "text": "사랑하는 마음을"
+    },
+    {
+      "start": 603.22,
+      "end": 604.68,
+      "text": "한껏 담아봤습니다"
+    },
+    {
+      "start": 604.68,
+      "end": 605.96,
+      "text": "굿모닝 팝스"
+    },
+    {
+      "start": 605.96,
+      "end": 606.64,
+      "text": "다시 듣기는"
+    },
+    {
+      "start": 606.64,
+      "end": 607.92,
+      "text": "KBS 애플리케이션"
+    },
+    {
+      "start": 607.92,
+      "end": 609.16,
+      "text": "콩 오리지널 탭과"
+    },
+    {
+      "start": 609.16,
+      "end": 610.56,
+      "text": "KBS 콩 유튜브로"
+    },
+    {
+      "start": 610.56,
+      "end": 611.76,
+      "text": "다시 들으실 수 있습니다"
+    },
+    {
+      "start": 611.76,
+      "end": 613.52,
+      "text": "굿모닝 팝스"
+    },
+    {
+      "start": 613.52,
+      "end": 614.92,
+      "text": "저는 조정연이었습니다"
+    },
+    {
+      "start": 614.92,
+      "end": 616.2,
+      "text": "Have a happy day"
+    }
+  ]
+}
