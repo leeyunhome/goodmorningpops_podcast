@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T18:50:04",
+  "generated_at": "2026-06-20T23:38:48",
   "count": 411,
   "episodes": [
     {
@@ -11,7 +11,7 @@
       "movie": "",
       "duration_sec": 616.2,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-18_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-18_pop_song.jpg"
     },
     {
       "id": "2026-06-16_pop_song",
@@ -22,7 +22,7 @@
       "movie": "",
       "duration_sec": 557.98,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-16_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-16_pop_song.jpg"
     },
     {
       "id": "2026-06-15_pop_song",
@@ -33,7 +33,7 @@
       "movie": "",
       "duration_sec": 553.12,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-15_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-15_pop_song.jpg"
     },
     {
       "id": "2026-06-12_pop_song",
@@ -44,7 +44,7 @@
       "movie": "",
       "duration_sec": 664.46,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-12_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-12_pop_song.jpg"
     },
     {
       "id": "2026-06-11_pop_song",
@@ -55,7 +55,7 @@
       "movie": "",
       "duration_sec": 561.26,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-11_pop_song.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-11_pop_song.jpg"
     },
     {
       "id": "2026-06-10_pop_song",

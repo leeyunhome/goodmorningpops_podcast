@@ -7,7 +7,7 @@
   "movie": "",
   "duration_sec": 616.2,
   "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-18_pop_song.mp3",
-  "artwork_generated_url": "",
+  "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-18_pop_song.jpg",
   "script": [
     {
       "start": 11.79,
