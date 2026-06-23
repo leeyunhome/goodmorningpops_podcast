@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-23T20:08:54",
-  "count": 413,
+  "generated_at": "2026-06-23T20:10:51",
+  "count": 414,
   "episodes": [
+    {
+      "id": "2026-06-23_pop_song",
+      "date": "2026-06-23",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Round ' Round - Tripov",
+      "movie": "",
+      "duration_sec": 585.3,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-23_pop_song.mp3",
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-23_pop_song.jpg"
+    },
     {
       "id": "2026-06-22_pop_song",
       "date": "2026-06-22",

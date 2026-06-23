@@ -1,0 +1,878 @@
+{
+  "id": "2026-06-23_pop_song",
+  "date": "2026-06-23",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "Round ' Round - Tripov",
+  "movie": "",
+  "duration_sec": 585.3,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-23_pop_song.mp3",
+  "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-23_pop_song.jpg",
+  "script": [
+    {
+      "start": 11.66,
+      "end": 15.5,
+      "text": "팝송에 스며드는 특별한 영어 시간, 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.5,
+      "end": 24.13,
+      "text": "좋은 팝 음악으로 아침을 상쾌하게 깨워드립니다."
+    },
+    {
+      "start": 24.43,
+      "end": 26.27,
+      "text": "굿모닝 팝스, 조정현입니다."
+    },
+    {
+      "start": 27.19,
+      "end": 30.87,
+      "text": "우리가 영어 가사에 집중해보는 즐거움이 있는 시간이죠."
+    },
+    {
+      "start": 31.31,
+      "end": 34.83,
+      "text": "먼저 오늘 미션 문장 들려드릴 테니까요, 영어로 떠올려보세요."
+    },
+    {
+      "start": 34.83,
+      "end": 51.02,
+      "text": "첫 번째, 당신은 너무 뻔해요."
+    },
+    {
+      "start": 52.56,
+      "end": 56.98,
+      "text": "두 번째, 우리에게 시간이 얼마 남지 않았어요."
+    },
+    {
+      "start": 56.98,
+      "end": 62.25,
+      "text": "세 번째, 누구의 잘못도 아니에요."
+    },
+    {
+      "start": 64.83,
+      "end": 70.41,
+      "text": "인도네시아 출신의 팝트리오, 트리퍼브의 2023년 발매곡"
+    },
+    {
+      "start": 70.41,
+      "end": 73.41,
+      "text": "Round and Round라는 제목입니다."
+    },
+    {
+      "start": 74.35,
+      "end": 76.39,
+      "text": "첫 번째 미션 문장 이거였어요."
+    },
+    {
+      "start": 76.39,
+      "end": 80.77,
+      "text": "당신은 너무 뻔해요라는 가사 집중해서 찾아보세요."
+    },
+    {
+      "start": 91.3,
+      "end": 95.78,
+      "text": "We're doing fine, just not like once before"
+    },
+    {
+      "start": 95.78,
+      "end": 100.63,
+      "text": "집중을 해보니까 어때요? 바로 들리셨죠?"
+    },
+    {
+      "start": 101.03,
+      "end": 104.15,
+      "text": "You're so predictable 이라는 소절입니다."
+    },
+    {
+      "start": 104.65,
+      "end": 105.79,
+      "text": "You're so predictable."
+    },
+    {
+      "start": 106.35,
+      "end": 108.33,
+      "text": "Predictable이라고 하면 무슨 뜻이죠?"
+    },
+    {
+      "start": 108.95,
+      "end": 111.39,
+      "text": "그렇죠. 예측 가능한 이라는 뜻입니다."
+    },
+    {
+      "start": 111.99,
+      "end": 115.99,
+      "text": "You're so predictable. 당신은 너무나도 예측 가능해요."
+    },
+    {
+      "start": 116.33,
+      "end": 118.27,
+      "text": "당신은 너무 뻔하다는 뜻이죠."
+    },
+    {
+      "start": 118.27,
+      "end": 123.03,
+      "text": "당신은 쉽게 예측할 수 있어요. 너무나도 뻔해요. 라는 의미입니다."
+    },
+    {
+      "start": 123.85,
+      "end": 129.65,
+      "text": "그 다음에는 questions you've asked me a couple months ago. 라는 소절도 들렸어요."
+    },
+    {
+      "start": 130.23,
+      "end": 135.27,
+      "text": "몇 달 전에 나에게 물었던 questions, 질문들."
+    },
+    {
+      "start": 135.73,
+      "end": 136.43,
+      "text": "이 정도 되겠죠?"
+    },
+    {
+      "start": 137.15,
+      "end": 139.01,
+      "text": "Same all answer from me."
+    },
+    {
+      "start": 139.51,
+      "end": 142.29,
+      "text": "근데 그 질문에 대해서 내가 어떻게 응답을 했었다는 거예요?"
+    },
+    {
+      "start": 142.29,
+      "end": 149.53,
+      "text": "Same all answer from me. 나에게서 늘 똑같은 대답이었지. 정도 되겠고"
+    },
+    {
+      "start": 149.53,
+      "end": 153.23,
+      "text": "Nothing new, you know? 이런 말도 들렸죠?"
+    },
+    {
+      "start": 153.67,
+      "end": 156.09,
+      "text": "새로운 건 없잖아요? 그렇죠?"
+    },
+    {
+      "start": 156.67,
+      "end": 157.33,
+      "text": "그 다음"
+    },
+    {
+      "start": 157.33,
+      "end": 160.57,
+      "text": "We're doing fine. 우리는 괜찮아요."
+    },
+    {
+      "start": 161.13,
+      "end": 162.73,
+      "text": "Just not like once before."
+    },
+    {
+      "start": 163.23,
+      "end": 167.59,
+      "text": "괜찮은 게 어떤 괜찮음인지 뒤에서 이제 부연 설명을 해줬습니다."
+    },
+    {
+      "start": 168.05,
+      "end": 170.57,
+      "text": "Just not like once before. 무슨 뜻이죠?"
+    },
+    {
+      "start": 170.57,
+      "end": 174.71,
+      "text": "그냥 예전 같지는 않을 뿐이죠. 라는 뜻입니다."
+    },
+    {
+      "start": 175.35,
+      "end": 177.87,
+      "text": "We're doing fine. just not like once before."
+    },
+    {
+      "start": 178.69,
+      "end": 181.83,
+      "text": "네, 어떠한 내용이 앞으로 전개될지 예상이 되시죠?"
+    },
+    {
+      "start": 182.55,
+      "end": 185.37,
+      "text": "이제 두 번째 미션 문장 찾아볼 건데요."
+    },
+    {
+      "start": 185.97,
+      "end": 190.07,
+      "text": "우리에게 시간이 얼마 남지 않았어요. 라는 가사 찾아보세요."
+    },
+    {
+      "start": 190.07,
+      "end": 226.27,
+      "text": "이 곡의 제목이 round and round이었는데 어떤 의도로 활용이 되었는지 아마 감잡으셨을 겁니다."
+    },
+    {
+      "start": 227.07,
+      "end": 228.61,
+      "text": "자, 차근차근 해석을 해보면"
+    },
+    {
+      "start": 228.61,
+      "end": 232.41,
+      "text": "Tell me, is this a sign? 이런 질문이 들렸어요."
+    },
+    {
+      "start": 232.67,
+      "end": 233.87,
+      "text": "Tell me, 말해줘요."
+    },
+    {
+      "start": 234.13,
+      "end": 235.31,
+      "text": "Is this a sign?"
+    },
+    {
+      "start": 235.81,
+      "end": 238.55,
+      "text": "이게 어떤 신호인 건가요? 라는 뜻이죠."
+    },
+    {
+      "start": 239.29,
+      "end": 240.89,
+      "text": "We're running out of time."
+    },
+    {
+      "start": 240.89,
+      "end": 242.65,
+      "text": "자, 이 부분입니다. 그렇죠?"
+    },
+    {
+      "start": 242.79,
+      "end": 245.83,
+      "text": "우리에게 시간이 얼마 남지 않았다. 라는 뜻이에요."
+    },
+    {
+      "start": 246.23,
+      "end": 247.73,
+      "text": "We're running out of time."
+    },
+    {
+      "start": 247.97,
+      "end": 249.73,
+      "text": "We're running out of time."
+    },
+    {
+      "start": 250.35,
+      "end": 251.99,
+      "text": "네, 익숙한 구조이기도 합니다."
+    },
+    {
+      "start": 252.21,
+      "end": 253.31,
+      "text": "Run out of time."
+    },
+    {
+      "start": 253.65,
+      "end": 257.59,
+      "text": "시간이 얼마 남지 않았다. 라는 말이 필요할 때 쓰이는 구조이죠."
+    },
+    {
+      "start": 257.59,
+      "end": 261.25,
+      "text": "Because we just go round and round."
+    },
+    {
+      "start": 262.05,
+      "end": 264.89,
+      "text": "이유에 대해서 이렇게 밝혀주고 있어요."
+    },
+    {
+      "start": 265.01,
+      "end": 267.47,
+      "text": "Because we just go round and round."
+    },
+    {
+      "start": 267.85,
+      "end": 271.95,
+      "text": "왜냐하면 우리가 계속 빙글빙글 돌기만 하니까요."
+    },
+    {
+      "start": 272.79,
+      "end": 273.87,
+      "text": "We're going down."
+    },
+    {
+      "start": 274.23,
+      "end": 275.61,
+      "text": "부정적인 상황이죠."
+    },
+    {
+      "start": 275.81,
+      "end": 276.71,
+      "text": "We're going down."
+    },
+    {
+      "start": 277.01,
+      "end": 278.47,
+      "text": "우리는 내려가고 있대요."
+    },
+    {
+      "start": 279.16,
+      "end": 280.34,
+      "text": "Fooling around."
+    },
+    {
+      "start": 280.88,
+      "end": 285.78,
+      "text": "자, 여기에서는 fool around. 라는 표현을 아신다면 좀 쉽게 해석하셨을 거예요."
+    },
+    {
+      "start": 285.78,
+      "end": 287.44,
+      "text": "fool around."
+    },
+    {
+      "start": 287.6,
+      "end": 288.78,
+      "text": "F-O-O-L."
+    },
+    {
+      "start": 289.08,
+      "end": 289.86,
+      "text": "그 다음 around."
+    },
+    {
+      "start": 290.38,
+      "end": 294.7,
+      "text": "라는 것으로 장난치거나 진지하게 행동하지 않는 상황."
+    },
+    {
+      "start": 295.22,
+      "end": 298.82,
+      "text": "혹은 빈둥거릴 때에도 이렇게 fool around. 라는 표현을 쓰잖아요."
+    },
+    {
+      "start": 299.5,
+      "end": 301.72,
+      "text": "fooling around. 장난치며."
+    },
+    {
+      "start": 302.4,
+      "end": 304.84,
+      "text": "up and down. 오르락 내리락."
+    },
+    {
+      "start": 305.3,
+      "end": 307.98,
+      "text": "round and round. 빙글빙글."
+    },
+    {
+      "start": 308.38,
+      "end": 310.96,
+      "text": "그러니까 이 상황을 좀 더 풀어서 해석을 해보면"
+    },
+    {
+      "start": 310.96,
+      "end": 315.54,
+      "text": "애매하게 굴면서 감정은 또 오르락 내리락 하기도 하고"
+    },
+    {
+      "start": 315.54,
+      "end": 319.42,
+      "text": "또 같은 자리를 계속해서 뱅뱅 맴돌고만 있다."
+    },
+    {
+      "start": 319.78,
+      "end": 321.1,
+      "text": "라는 뜻으로 보면 되겠습니다."
+    },
+    {
+      "start": 322.02,
+      "end": 324.72,
+      "text": "Lost in every way and every turn."
+    },
+    {
+      "start": 325.52,
+      "end": 326.94,
+      "text": "이 소절도 들어보셨죠?"
+    },
+    {
+      "start": 327.52,
+      "end": 328.48,
+      "text": "I feel lost."
+    },
+    {
+      "start": 328.84,
+      "end": 332.98,
+      "text": "앞에 이 I feel 정도가 생략된 거라고 보시면 될 테니까"
+    },
+    {
+      "start": 332.98,
+      "end": 336.08,
+      "text": "I feel lost. 길을 잃은 것 같아요."
+    },
+    {
+      "start": 336.97,
+      "end": 339.83,
+      "text": "그 다음에 every way and every turn."
+    },
+    {
+      "start": 340.19,
+      "end": 340.95,
+      "text": "이라고 이어졌죠."
+    },
+    {
+      "start": 341.45,
+      "end": 344.05,
+      "text": "in every way 라고 하면 모든 면에서"
+    },
+    {
+      "start": 344.05,
+      "end": 346.53,
+      "text": "여러모로 라고 해석할 수 있고"
+    },
+    {
+      "start": 346.53,
+      "end": 351.85,
+      "text": "every turn 이라고 하면 모든 갈림길 정도 되겠습니다."
+    },
+    {
+      "start": 352.33,
+      "end": 356.83,
+      "text": "그래서 여러모로 모든 갈림길에서 내가 길을 잃어버린 것 같아요."
+    },
+    {
+      "start": 356.83,
+      "end": 358.73,
+      "text": "라는 뜻이었어요."
+    },
+    {
+      "start": 358.73,
+      "end": 360.78,
+      "text": "이제 세 번째 미션 문장입니다."
+    },
+    {
+      "start": 361.54,
+      "end": 364.6,
+      "text": "누구의 잘못도 아니에요? 라는 가사 찾아보세요."
+    },
+    {
+      "start": 380.45,
+      "end": 382.89,
+      "text": "One day you will realize."
+    },
+    {
+      "start": 383.27,
+      "end": 386.23,
+      "text": "언젠가는 당신은 깨달을 거다. 라는 말이었어요."
+    },
+    {
+      "start": 386.97,
+      "end": 388.21,
+      "text": "It's no one's fault."
+    },
+    {
+      "start": 388.65,
+      "end": 390.97,
+      "text": "You are still good in my eyes."
+    },
+    {
+      "start": 391.69,
+      "end": 394.59,
+      "text": "누구의 잘못도 아니다. 라고 뭐라고 했다고요?"
+    },
+    {
+      "start": 395.13,
+      "end": 398.01,
+      "text": "It's no one's fault. 라고 표현을 했습니다."
+    },
+    {
+      "start": 398.33,
+      "end": 400.51,
+      "text": "It's no one's fault."
+    },
+    {
+      "start": 400.79,
+      "end": 401.07,
+      "text": "그쵸?"
+    },
+    {
+      "start": 401.51,
+      "end": 402.91,
+      "text": "누구의 잘못도 아니에요."
+    },
+    {
+      "start": 403.73,
+      "end": 406.27,
+      "text": "You are still good in my eyes."
+    },
+    {
+      "start": 406.75,
+      "end": 407.99,
+      "text": "이건 무슨 뜻이죠?"
+    },
+    {
+      "start": 408.49,
+      "end": 412.19,
+      "text": "당신은 여전히 내 눈에 좋아 보여요."
+    },
+    {
+      "start": 412.41,
+      "end": 414.27,
+      "text": "좋은 사람이에요. 라는 말이죠."
+    },
+    {
+      "start": 415.07,
+      "end": 416.19,
+      "text": "We grow apart."
+    },
+    {
+      "start": 416.19,
+      "end": 419.07,
+      "text": "그런데 우리는 점점 grow apart."
+    },
+    {
+      "start": 419.75,
+      "end": 420.19,
+      "text": "멀어졌고."
+    },
+    {
+      "start": 421.07,
+      "end": 422.07,
+      "text": "It is inevitable."
+    },
+    {
+      "start": 422.81,
+      "end": 425.57,
+      "text": "inevitable 익숙한 단어가 또 활용이 됐죠."
+    },
+    {
+      "start": 426.17,
+      "end": 427.95,
+      "text": "그건 피할 수 없어요."
+    },
+    {
+      "start": 428.33,
+      "end": 430.09,
+      "text": "Just the way it goes."
+    },
+    {
+      "start": 430.87,
+      "end": 432.37,
+      "text": "자, 이 부분은 어떤 뜻인가요?"
+    },
+    {
+      "start": 432.79,
+      "end": 434.17,
+      "text": "Just the way it goes."
+    },
+    {
+      "start": 434.71,
+      "end": 436.25,
+      "text": "Just the way it goes."
+    },
+    {
+      "start": 436.99,
+      "end": 440.17,
+      "text": "원래 그런 거죠. 라고 해석을 할 수 있습니다."
+    },
+    {
+      "start": 440.85,
+      "end": 442.35,
+      "text": "그러면서 nothing was personal."
+    },
+    {
+      "start": 442.59,
+      "end": 443.01,
+      "text": "라고 했어요."
+    },
+    {
+      "start": 443.51,
+      "end": 445.23,
+      "text": "Nothing was personal."
+    },
+    {
+      "start": 445.39,
+      "end": 447.21,
+      "text": "개인적인 것은 아무것도 없었다?"
+    },
+    {
+      "start": 448.07,
+      "end": 450.79,
+      "text": "개인적 감정 때문은 아니었다."
+    },
+    {
+      "start": 451.27,
+      "end": 452.19,
+      "text": "라는 설명이겠죠."
+    },
+    {
+      "start": 452.19,
+      "end": 454.95,
+      "text": "그럼 핵심 표현들 리뷰 타임."
+    },
+    {
+      "start": 456.66,
+      "end": 457.16,
+      "text": "첫 번째."
+    },
+    {
+      "start": 457.8,
+      "end": 459.66,
+      "text": "당신은 너무 뻔해요."
+    },
+    {
+      "start": 460.34,
+      "end": 464.34,
+      "text": "자, 여기에서 예측 가능한 이라는 뜻의 단어를 활용을 했었단 말이죠."
+    },
+    {
+      "start": 465.1,
+      "end": 466.46,
+      "text": "정답은 맞아요."
+    },
+    {
+      "start": 466.74,
+      "end": 468.16,
+      "text": "You are so predictable."
+    },
+    {
+      "start": 468.62,
+      "end": 469.14,
+      "text": "이라고 했습니다."
+    },
+    {
+      "start": 469.7,
+      "end": 470.82,
+      "text": "You are so predictable."
+    },
+    {
+      "start": 471.32,
+      "end": 471.74,
+      "text": "쉽죠?"
+    },
+    {
+      "start": 471.74,
+      "end": 479.62,
+      "text": "그러면 여기에서 you 대신에 it, it라는 것으로 한번 주어 부분을 메꿔 넣는 거예요."
+    },
+    {
+      "start": 479.78,
+      "end": 481.76,
+      "text": "그러면 it's so predictable."
+    },
+    {
+      "start": 482.22,
+      "end": 482.96,
+      "text": "어떤 상황이죠?"
+    },
+    {
+      "start": 483.62,
+      "end": 484.84,
+      "text": "그건 너무 뻔해."
+    },
+    {
+      "start": 485.12,
+      "end": 487.2,
+      "text": "이런 말로도 잘 쓰일 수 있겠죠."
+    },
+    {
+      "start": 488.2,
+      "end": 490.5,
+      "text": "I can read you like a book."
+    },
+    {
+      "start": 490.5,
+      "end": 493.12,
+      "text": "이 말로도 표현할 수가 있겠네요."
+    },
+    {
+      "start": 493.8,
+      "end": 494.22,
+      "text": "두 번째."
+    },
+    {
+      "start": 495.0,
+      "end": 497.34,
+      "text": "우리에게 시간이 얼마 남지 않았어요."
+    },
+    {
+      "start": 497.8,
+      "end": 498.48,
+      "text": "뭐라고 했나요?"
+    },
+    {
+      "start": 499.16,
+      "end": 501.44,
+      "text": "We are running out of time."
+    },
+    {
+      "start": 501.64,
+      "end": 502.2,
+      "text": "이라고 했습니다."
+    },
+    {
+      "start": 502.96,
+      "end": 504.44,
+      "text": "We are running out of time."
+    },
+    {
+      "start": 504.88,
+      "end": 507.02,
+      "text": "We don't have much time left."
+    },
+    {
+      "start": 507.72,
+      "end": 510.82,
+      "text": "풀어서 이처럼 대체 문장도 떠올려 보시고요."
+    },
+    {
+      "start": 511.58,
+      "end": 512.04,
+      "text": "세 번째."
+    },
+    {
+      "start": 512.76,
+      "end": 514.34,
+      "text": "누구의 잘못도 아니에요."
+    },
+    {
+      "start": 514.58,
+      "end": 515.2,
+      "text": "라는 말은요?"
+    },
+    {
+      "start": 515.2,
+      "end": 517.86,
+      "text": "It's no one's fault."
+    },
+    {
+      "start": 517.86,
+      "end": 520.08,
+      "text": "It's no one's fault."
+    },
+    {
+      "start": 520.44,
+      "end": 521.52,
+      "text": "라고 전달을 했었죠."
+    },
+    {
+      "start": 522.22,
+      "end": 523.62,
+      "text": "No one did anything wrong."
+    },
+    {
+      "start": 524.08,
+      "end": 526.8,
+      "text": "혹은 These things just happen."
+    },
+    {
+      "start": 527.32,
+      "end": 529.42,
+      "text": "이처럼도 이야기하실 수가 있습니다."
+    },
+    {
+      "start": 530.32,
+      "end": 532.56,
+      "text": "이제 리듬 타면서 한 번 더 복습할게요."
+    },
+    {
+      "start": 533.04,
+      "end": 539.86,
+      "text": "첫 번째."
+    },
+    {
+      "start": 540.46,
+      "end": 541.92,
+      "text": "당신은 너무 뻔해요."
+    },
+    {
+      "start": 542.7,
+      "end": 544.08,
+      "text": "You are so predictable."
+    },
+    {
+      "start": 545.08,
+      "end": 546.42,
+      "text": "You are so predictable."
+    },
+    {
+      "start": 547.32,
+      "end": 548.68,
+      "text": "You are so predictable."
+    },
+    {
+      "start": 548.68,
+      "end": 550.12,
+      "text": "두 번째."
+    },
+    {
+      "start": 550.74,
+      "end": 553.04,
+      "text": "우리에게 시간이 얼마 남지 않았어요."
+    },
+    {
+      "start": 553.04,
+      "end": 555.75,
+      "text": "We are running out of time."
+    },
+    {
+      "start": 556.39,
+      "end": 558.19,
+      "text": "We are running out of time."
+    },
+    {
+      "start": 558.71,
+      "end": 560.39,
+      "text": "We are running out of time."
+    },
+    {
+      "start": 561.01,
+      "end": 561.65,
+      "text": "세 번째."
+    },
+    {
+      "start": 562.33,
+      "end": 563.87,
+      "text": "누구의 잘못도 아니에요."
+    },
+    {
+      "start": 565.58,
+      "end": 566.98,
+      "text": "It's no one's fault."
+    },
+    {
+      "start": 567.89,
+      "end": 569.33,
+      "text": "It's no one's fault."
+    },
+    {
+      "start": 570.17,
+      "end": 571.71,
+      "text": "It's no one's fault."
+    },
+    {
+      "start": 573.46,
+      "end": 573.9,
+      "text": "네."
+    },
+    {
+      "start": 574.04,
+      "end": 581.0,
+      "text": "굿모닝 팝스 다시 듣기는 KBS 애플리케이션 콩 오리지널 탭과 KBS 콩 유튜브로 다시 들으실 수 있습니다."
+    },
+    {
+      "start": 581.0,
+      "end": 582.74,
+      "text": "굿모닝 팝스."
+    },
+    {
+      "start": 582.74,
+      "end": 584.16,
+      "text": "저는 조정현이었습니다."
+    },
+    {
+      "start": 584.52,
+      "end": 585.3,
+      "text": "Have a happy day."
+    }
+  ]
+}
