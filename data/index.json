@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-23T20:06:49",
-  "count": 412,
+  "generated_at": "2026-06-23T20:08:54",
+  "count": 413,
   "episodes": [
+    {
+      "id": "2026-06-22_pop_song",
+      "date": "2026-06-22",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Sweet Delusion - Bella Poarch",
+      "movie": "",
+      "duration_sec": 692.53,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-22_pop_song.mp3",
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-22_pop_song.jpg"
+    },
     {
       "id": "2026-06-19_pop_song",
       "date": "2026-06-19",
