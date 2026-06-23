@@ -78,13 +78,14 @@ def extract_song_info(title: str) -> tuple[str, str] | None:
 
 def build_prompt(song: str, artist: str) -> str:
     return (
-        f"Japanese anime style illustration inspired by the song "
-        f"'{song}' by {artist}. "
-        f"Studio Ghibli aesthetic, soft lighting, warm color palette. "
-        f"A single character in a cinematic scene that captures the mood of the song title. "
-        f"Detailed anime art, expressive eyes, beautiful background scenery. "
-        f"No text, no letters, no words in the image. "
-        f"High quality anime key visual, 4K resolution feel."
+        f"Vintage music poster illustration for the song '{song}' by {artist}. "
+        f"Retro 1970s-1980s album cover aesthetic, rich warm cinematic colors, "
+        f"painterly texture with film grain. "
+        f"Expressive figurative scene capturing the emotional world of the song — "
+        f"dramatic lighting, nostalgic mood, saturated palette. "
+        f"70s-80s concert poster feel with bold composition. "
+        f"No text, no letters, no words anywhere in the image. "
+        f"High quality illustration art."
     )
 
 
@@ -115,7 +116,9 @@ def generate_image(api_key: str, prompt: str) -> bytes:
             if response.generated_images:
                 return response.generated_images[0].image.image_bytes
         except Exception as e:
-            if "404" in str(e) or "NOT_FOUND" in str(e):
+            err = str(e)
+            if any(x in err for x in ("404", "NOT_FOUND", "503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED")):
+                print(f"  {model} 실패 ({err[:80]}), 다음 모델 시도...")
                 continue
             raise
 

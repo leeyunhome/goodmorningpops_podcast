@@ -392,4 +392,80 @@ edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that y
 ### 처방 2
 `tts.py`의 `synthesize` 함수 루프에 `try-except` 구문을 씌워 예외 처리를 보강함. 발음 불가능한 기호로 인해 `edge-tts` 엔진이 음성 수신 실패 예외를 던지더라도, 스크립트 전체가 죽지 않고 단순 경고 로그(`[경고] 합성 건너뜀...`)만 출력한 뒤 다음 청크의 합성을 안전하게 이어가도록 개선함.
 
+---
+
+## 21. Imagen 4 API — 503 / 429 에러와 모델 폴백 전략
+
+### 증상 1 — 503 UNAVAILABLE
+```
+503 UNAVAILABLE. Image generation failed with the following error:
+Fail to execute model for flow_id: flow-vertex-juno-v1-5-serving_default-uniserve_global
+```
+Google 인프라 자체 불안정. 간헐적으로 발생.
+
+### 증상 2 — 429 RESOURCE_EXHAUSTED
+```
+429 RESOURCE_EXHAUSTED. Unable to submit request because the service is temporarily out of capacity.
+```
+무료 티어 용량 초과. 연속 생성 시 자주 발생.
+
+### 원인
+`generate_image()` 내부의 모델 폴백 루프가 `404 / NOT_FOUND`만 다음 모델로 넘기고,
+503·429는 즉시 예외를 throw → Gemini Flash 폴백까지 도달하지 못함.
+
+### 처방
+```python
+# generate_artwork.py — generate_image() 내 예외 처리
+except Exception as e:
+    err = str(e)
+    if any(x in err for x in ("404", "NOT_FOUND", "503", "UNAVAILABLE", "429", "RESOURCE_EXHAUSTED")):
+        continue   # 다음 모델로 → 최종적으로 Gemini Flash 폴백
+    raise
+```
+
+폴백 순서: `imagen-4.0-generate-001` → `imagen-4.0-fast-generate-001` → `gemini-2.0-flash`
+
+---
+
+## 22. artwork_urls.json 업데이트 후 플레이어에 반영 안 됨
+
+### 증상
+`generate_artwork.py`로 아트워크를 생성하면 `artwork_urls.json`은 업데이트되지만,
+GitHub Pages(`index.json`, 각 에피소드 JSON)에는 새 URL이 반영되지 않아
+사이트에서 이미지가 여전히 보이지 않음.
+
+### 원인
+`generate_artwork.py`는 Supabase 업로드 + `artwork_urls.json` 저장만 함.
+`data/index.json` 재생성과 git push는 `build_player.py`가 담당하며,
+별도로 실행해야 함.
+
+### 처방
+`generate_artwork.py` 실행 후 반드시 아래 순서:
+```powershell
+python build_player.py --target .
+git add data/ play.html index.html app.js style.css
+git commit -m "deploy: artwork sync"
+git push
+```
+
+또는 `run_pipeline.py`를 쓰면 자동으로 처리됨 (아래 참고).
+
+---
+
+## 23. run_pipeline.py — 현재 에피소드만 아트워크 생성, 다른 날짜 누락
+
+### 증상
+`run_pipeline.py --date 2026-06-10` 실행 시 06-10 아트워크만 생성됨.
+이전에 API 오류로 실패한 다른 날짜(06-11 ~ 06-18 등)는 여전히 아트워크 없음.
+수동으로 `generate_artwork.py` 실행 + 빌드 + 푸시를 따로 해야 했음.
+
+### 처방
+`run_pipeline.py` 에피소드 루프 완료 후 `sync_missing_artwork()` 호출:
+- `corners/*.srt` 전체 스캔 → `artwork_urls.json`에 없는 에피소드 일괄 생성
+- 누락분이 있으면 `build_player.py` + git push 자동 실행
+
+이후 하나의 명령으로 모든 것이 처리됨:
+```powershell
+python run_pipeline.py 1494088127 --date 2026-06-20 --repo . --prompt "조정현, 굿모닝 팝스, KBS"
+```
 

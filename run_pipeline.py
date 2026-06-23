@@ -21,9 +21,11 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
+import time
 import traceback
 from datetime import datetime
 from pathlib import Path
@@ -53,6 +55,51 @@ import optimize_mp3 as om
 import transcribe as tr
 import upload_supabase as us
 from faster_whisper import WhisperModel
+
+
+def sync_missing_artwork(
+    out_corners: Path,
+    audio_dir: Path,
+    artwork_urls_path: Path,
+    gemini_api_key: str,
+) -> int:
+    """corners/ 안의 SRT 중 아트워크 없는 에피소드를 생성. 생성 수 반환."""
+    artwork_urls = ga.load_artwork_urls(artwork_urls_path)
+    missing = []
+    for srt in sorted(out_corners.glob("*.srt")):
+        ep_id = srt.stem
+        if ep_id in artwork_urls:
+            continue
+        m = re.match(r"^(\d{4}-\d{2}-\d{2})_(.+)$", ep_id)
+        if m:
+            missing.append((ep_id, m.group(1), m.group(2)))
+
+    if not missing:
+        return 0
+
+    print(f"\n누락 아트워크 보충: {len(missing)}개")
+    count = 0
+    for ep_id, date_str, corner_id in missing:
+        song_info = ga.extract_song_info(
+            bp.find_original_title(audio_dir, date_str, corner_id)
+        )
+        if not song_info:
+            continue
+        try:
+            prompt = ga.build_prompt(song_info[0], song_info[1])
+            png_bytes = ga.generate_image(gemini_api_key, prompt)
+            jpg_bytes = ga.compress_to_jpeg(png_bytes)
+            art_url = ga.upload_to_supabase(jpg_bytes, f"{ep_id}.jpg")
+            artwork_urls[ep_id] = art_url
+            ga.save_artwork_urls(artwork_urls, artwork_urls_path)
+            print(f"  {ep_id} OK ({len(jpg_bytes)//1024}KB)")
+            count += 1
+            time.sleep(4)
+        except Exception as e:
+            print(f"  {ep_id} 실패 (계속): {e}")
+            if "RESOURCE_EXHAUSTED" in str(e) or "429" in str(e):
+                time.sleep(60)
+    return count
 
 
 def backup_corners(audio_dir: Path) -> Path | None:
@@ -451,6 +498,26 @@ def main() -> int:
     print(f"\n=== 완료 (경과 {elapsed}) ===")
     for k, v in sorted(stats.items(), key=lambda x: -x[1]):
         print(f"  {v:3d}  {k}")
+
+    # 누락 아트워크 보충 + 최종 빌드/푸시
+    if gemini_api_key:
+        synced = sync_missing_artwork(out_corners, audio_dir, artwork_urls_path, gemini_api_key)
+        if synced > 0:
+            print(f"\n아트워크 {synced}개 추가 생성 → 최종 재빌드...")
+            artwork_urls = ga.load_artwork_urls(artwork_urls_path)
+            url_map = bp.load_url_map(url_map_path)
+            all_episodes = []
+            for srt in sorted(out_corners.glob("*.srt")):
+                e = bp.build_episode(srt, audio_dir, url_map, movie_map, artwork_urls)
+                if e:
+                    all_episodes.append(e)
+            data_dir = pages_repo / "data"
+            bp.write_index_json(all_episodes, data_dir)
+            bp.copy_static_assets(web_dir, pages_repo)
+            if not args.no_push:
+                result = git_push(pages_repo, "deploy: artwork sync")
+                print(f"  push: {result}")
+
     return 0
 
 

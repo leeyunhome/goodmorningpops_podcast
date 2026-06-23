@@ -1,0 +1,1038 @@
+{
+  "id": "2026-06-19_pop_song",
+  "date": "2026-06-19",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "Love of My Life - Queen",
+  "movie": "",
+  "duration_sec": 549.98,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-19_pop_song.mp3",
+  "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-19_pop_song.jpg",
+  "script": [
+    {
+      "start": 11.66,
+      "end": 15.5,
+      "text": "팝송에 스며드는 특별한 영어 시간, 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.5,
+      "end": 23.98,
+      "text": "좋은 팝 음악으로 아침을 상쾌하게 깨워드립니다."
+    },
+    {
+      "start": 24.24,
+      "end": 26.06,
+      "text": "굿모닝 팝스, 조정현입니다."
+    },
+    {
+      "start": 27.08,
+      "end": 30.92,
+      "text": "아름다운 노래를 들으면서 감정이입해볼 시간입니다."
+    },
+    {
+      "start": 31.56,
+      "end": 34.96,
+      "text": "먼저 오늘 미션 문장 들려드릴 테니까요, 영어로 생각해보세요."
+    },
+    {
+      "start": 34.96,
+      "end": 51.68,
+      "text": "첫 번째, 당신은 내 마음을 아프게 했죠."
+    },
+    {
+      "start": 53.44,
+      "end": 57.35,
+      "text": "두 번째, 그걸 나에게서 빼앗지 말아요."
+    },
+    {
+      "start": 57.35,
+      "end": 64.0,
+      "text": "세 번째, 내가 나이를 먹더라도 난 당신 곁에 있을 거예요."
+    },
+    {
+      "start": 66.3,
+      "end": 68.42,
+      "text": "네, 어떤 곡일지 예상하고 계신가요?"
+    },
+    {
+      "start": 68.92,
+      "end": 75.02,
+      "text": "영국 밴드 퀸의 1975년 발매곡 Love of My Life 이 제목입니다."
+    },
+    {
+      "start": 75.52,
+      "end": 79.4,
+      "text": "Love of My Life 어떤 멜로디일지도 다 알고 계실 거예요."
+    },
+    {
+      "start": 79.94,
+      "end": 83.98,
+      "text": "제목만 들어도 멜로디가 생각나는 그런 매력적인 곡입니다."
+    },
+    {
+      "start": 84.82,
+      "end": 88.78,
+      "text": "첫 번째 미션 문장, 당신은 내 마음을 아프게 했죠?"
+    },
+    {
+      "start": 88.78,
+      "end": 90.12,
+      "text": "라는 가사 찾아보세요."
+    },
+    {
+      "start": 107.06,
+      "end": 109.16,
+      "text": "아주 서정적으로 시작하고 있죠."
+    },
+    {
+      "start": 109.78,
+      "end": 112.38,
+      "text": "Love of My Life, 내 인생의 사랑."
+    },
+    {
+      "start": 113.0,
+      "end": 117.04,
+      "text": "나의 인생 중에 가장 사랑한 사람을 두고 이렇게 지칭을 한 거겠죠."
+    },
+    {
+      "start": 117.52,
+      "end": 123.12,
+      "text": "Love of My Life, 그 다음 You've Heard Me, 당신은 나를 아프게 했죠."
+    },
+    {
+      "start": 123.68,
+      "end": 127.56,
+      "text": "You've broken my heart, now you leave me."
+    },
+    {
+      "start": 127.56,
+      "end": 128.14,
+      "text": "라고 했습니다."
+    },
+    {
+      "start": 128.94,
+      "end": 130.68,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 130.68,
+      "end": 133.56,
+      "text": "당신은 내 마음을 아프게 했죠."
+    },
+    {
+      "start": 133.7,
+      "end": 134.96,
+      "text": "라는 또 다른 문장입니다."
+    },
+    {
+      "start": 135.6,
+      "end": 136.5,
+      "text": "You've hurt me."
+    },
+    {
+      "start": 136.86,
+      "end": 138.8,
+      "text": "이것도 당신은 나를 아프게 했죠."
+    },
+    {
+      "start": 139.2,
+      "end": 140.44,
+      "text": "나의 마음을 아프게 했다."
+    },
+    {
+      "start": 140.54,
+      "end": 142.18,
+      "text": "라고도 쓸 수 있는 문장이겠는데"
+    },
+    {
+      "start": 142.18,
+      "end": 145.64,
+      "text": "우리는 대표적으로 핵심 문장으로"
+    },
+    {
+      "start": 145.64,
+      "end": 147.98,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 148.52,
+      "end": 149.92,
+      "text": "이 문장을 기억해 볼 거예요."
+    },
+    {
+      "start": 150.48,
+      "end": 151.86,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 152.42,
+      "end": 153.92,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 153.92,
+      "end": 155.04,
+      "text": "연습하고 계시죠?"
+    },
+    {
+      "start": 155.52,
+      "end": 157.98,
+      "text": "당신은 내 마음을 무너뜨렸죠."
+    },
+    {
+      "start": 158.38,
+      "end": 159.9,
+      "text": "내 마음을 아프게 했죠."
+    },
+    {
+      "start": 160.02,
+      "end": 160.62,
+      "text": "라는 말입니다."
+    },
+    {
+      "start": 161.46,
+      "end": 162.96,
+      "text": "Now you leave me."
+    },
+    {
+      "start": 163.24,
+      "end": 166.22,
+      "text": "그래놓고 당신은 이제 나를 떠나네요."
+    },
+    {
+      "start": 166.6,
+      "end": 167.08,
+      "text": "라고 했습니다."
+    },
+    {
+      "start": 168.3,
+      "end": 171.58,
+      "text": "이어지는 부분, 또 미션 문장 두 번째 찾아볼 건데요."
+    },
+    {
+      "start": 171.58,
+      "end": 174.58,
+      "text": "그걸 나에게서 빼앗지 말아요."
+    },
+    {
+      "start": 174.72,
+      "end": 175.92,
+      "text": "라는 가사 찾아보세요."
+    },
+    {
+      "start": 175.92,
+      "end": 205.11,
+      "text": "네, 애절함을 담아서 가사를 아주 또렷하게 들려주고 있는 부분입니다."
+    },
+    {
+      "start": 205.83,
+      "end": 207.33,
+      "text": "정답 문장 찾으셨겠죠?"
+    },
+    {
+      "start": 207.33,
+      "end": 209.25,
+      "text": "그걸 나에게서 빼앗지 말아요."
+    },
+    {
+      "start": 209.75,
+      "end": 213.07,
+      "text": "과연 어떤 부분에서 찾으셨을지 함께 알아볼게요."
+    },
+    {
+      "start": 213.55,
+      "end": 216.23,
+      "text": "Love of my life, can't you see?"
+    },
+    {
+      "start": 216.23,
+      "end": 216.91,
+      "text": "라고 했습니다."
+    },
+    {
+      "start": 217.67,
+      "end": 220.15,
+      "text": "내 인생의 사랑, can't you see?"
+    },
+    {
+      "start": 220.69,
+      "end": 221.31,
+      "text": "모르겠어요?"
+    },
+    {
+      "start": 222.15,
+      "end": 224.51,
+      "text": "Bring it back, bring it back."
+    },
+    {
+      "start": 224.99,
+      "end": 226.09,
+      "text": "그걸 돌려줘요."
+    },
+    {
+      "start": 226.15,
+      "end": 227.55,
+      "text": "라고 두 번 이야기했습니다."
+    },
+    {
+      "start": 228.29,
+      "end": 229.83,
+      "text": "사랑을 다시 돌려달라."
+    },
+    {
+      "start": 230.03,
+      "end": 231.73,
+      "text": "라고 간청하고 있는 거겠죠."
+    },
+    {
+      "start": 232.65,
+      "end": 234.77,
+      "text": "Don't take it away from me."
+    },
+    {
+      "start": 235.23,
+      "end": 235.93,
+      "text": "이거 들으셨죠?"
+    },
+    {
+      "start": 235.93,
+      "end": 238.23,
+      "text": "Don't take it away from me."
+    },
+    {
+      "start": 238.79,
+      "end": 240.53,
+      "text": "그걸 나에게서 빼앗지 말아요."
+    },
+    {
+      "start": 240.89,
+      "end": 241.93,
+      "text": "미션 문장 해결됐습니다."
+    },
+    {
+      "start": 243.13,
+      "end": 245.17,
+      "text": "여기서 이 take it away 라는 것은"
+    },
+    {
+      "start": 245.17,
+      "end": 247.67,
+      "text": "가져가다 라는 의미로 쓰인 겁니다."
+    },
+    {
+      "start": 248.31,
+      "end": 249.99,
+      "text": "Don't take it away from me."
+    },
+    {
+      "start": 250.13,
+      "end": 252.31,
+      "text": "그걸 나에게서 빼앗지 말아주세요."
+    },
+    {
+      "start": 253.19,
+      "end": 256.33,
+      "text": "Because you don't know what it means to me."
+    },
+    {
+      "start": 256.73,
+      "end": 260.15,
+      "text": "왜냐하면 당신은 그게 what it means to me."
+    },
+    {
+      "start": 260.15,
+      "end": 263.15,
+      "text": "나에게 얼마나 큰 의미인지를 you don't know."
+    },
+    {
+      "start": 263.63,
+      "end": 264.65,
+      "text": "모르니까요."
+    },
+    {
+      "start": 265.07,
+      "end": 268.93,
+      "text": "네, 이렇게 또박또박 잘 들어봤고 또 해석도 해봤습니다."
+    },
+    {
+      "start": 268.93,
+      "end": 271.62,
+      "text": "세 번째 미션 문장 찾아볼게요."
+    },
+    {
+      "start": 272.22,
+      "end": 273.9,
+      "text": "내가 나이를 먹더라도"
+    },
+    {
+      "start": 273.9,
+      "end": 276.26,
+      "text": "난 당신 곁에 있을 거예요."
+    },
+    {
+      "start": 276.46,
+      "end": 277.66,
+      "text": "라는 가사 들어보세요."
+    },
+    {
+      "start": 277.66,
+      "end": 315.26,
+      "text": "네, 당신은 기억할 거래요."
+    },
+    {
+      "start": 315.26,
+      "end": 317.92,
+      "text": "당신은 기억할 거예요."
+    },
+    {
+      "start": 318.58,
+      "end": 320.34,
+      "text": "When this is blown over."
+    },
+    {
+      "start": 320.84,
+      "end": 325.24,
+      "text": "자, blow over 이라는 동사 구, 기본형을 기억하신다면 도움이 될 건데요."
+    },
+    {
+      "start": 325.66,
+      "end": 326.28,
+      "text": "blow over."
+    },
+    {
+      "start": 326.52,
+      "end": 327.22,
+      "text": "지나가다."
+    },
+    {
+      "start": 327.34,
+      "end": 328.64,
+      "text": "혹은 사그라들다."
+    },
+    {
+      "start": 328.76,
+      "end": 329.44,
+      "text": "라는 뜻입니다."
+    },
+    {
+      "start": 329.44,
+      "end": 331.4,
+      "text": "When this is blown over."
+    },
+    {
+      "start": 331.8,
+      "end": 333.46,
+      "text": "이게 다 지나가면"
+    },
+    {
+      "start": 333.46,
+      "end": 335.12,
+      "text": "You will remember."
+    },
+    {
+      "start": 335.22,
+      "end": 336.3,
+      "text": "당신은 기억할 거예요."
+    },
+    {
+      "start": 337.02,
+      "end": 339.5,
+      "text": "And everything's all by the way."
+    },
+    {
+      "start": 340.04,
+      "end": 342.04,
+      "text": "자, 이 가사는 과연 어떻게 해석할까요?"
+    },
+    {
+      "start": 342.84,
+      "end": 343.48,
+      "text": "모든 게"
+    },
+    {
+      "start": 343.48,
+      "end": 345.84,
+      "text": "Everything's all by the way."
+    },
+    {
+      "start": 346.5,
+      "end": 347.84,
+      "text": "여기서의 by the way는"
+    },
+    {
+      "start": 347.84,
+      "end": 348.78,
+      "text": "그런데"
+    },
+    {
+      "start": 348.78,
+      "end": 350.54,
+      "text": "라는 뜻이 아니겠죠."
+    },
+    {
+      "start": 351.4,
+      "end": 352.0,
+      "text": "이때에는"
+    },
+    {
+      "start": 352.0,
+      "end": 353.3,
+      "text": "지나가버린"
+    },
+    {
+      "start": 353.3,
+      "end": 354.92,
+      "text": "한쪽으로 밀려난"
+    },
+    {
+      "start": 354.92,
+      "end": 356.02,
+      "text": "이라는 뜻입니다."
+    },
+    {
+      "start": 356.54,
+      "end": 356.76,
+      "text": "그래서"
+    },
+    {
+      "start": 356.76,
+      "end": 359.12,
+      "text": "Everything's all by the way."
+    },
+    {
+      "start": 359.44,
+      "end": 363.74,
+      "text": "모든 게 다 지나간 일이 되었을 때라고 해석하셔야 돼요."
+    },
+    {
+      "start": 364.36,
+      "end": 366.88,
+      "text": "And everything's all by the way."
+    },
+    {
+      "start": 367.02,
+      "end": 369.1,
+      "text": "모든 게 다 지나간 일이 되었을 때."
+    },
+    {
+      "start": 370.01,
+      "end": 371.13,
+      "text": "When I grow older."
+    },
+    {
+      "start": 371.61,
+      "end": 372.75,
+      "text": "내가 나이를 먹더라도"
+    },
+    {
+      "start": 372.75,
+      "end": 375.43,
+      "text": "I will be there at your side."
+    },
+    {
+      "start": 376.21,
+      "end": 376.85,
+      "text": "찾아내셨죠?"
+    },
+    {
+      "start": 377.25,
+      "end": 378.15,
+      "text": "When I grow older."
+    },
+    {
+      "start": 378.37,
+      "end": 380.21,
+      "text": "I will be there at your side."
+    },
+    {
+      "start": 380.55,
+      "end": 382.09,
+      "text": "나는 당신 곁에 있을 거예요."
+    },
+    {
+      "start": 382.65,
+      "end": 383.91,
+      "text": "내가 나이를 먹더라도."
+    },
+    {
+      "start": 384.39,
+      "end": 384.67,
+      "text": "그쵸?"
+    },
+    {
+      "start": 384.67,
+      "end": 386.05,
+      "text": "When I grow older."
+    },
+    {
+      "start": 386.43,
+      "end": 388.09,
+      "text": "I will be there at your side."
+    },
+    {
+      "start": 388.09,
+      "end": 390.05,
+      "text": "여러 번 반복도 해봅니다."
+    },
+    {
+      "start": 390.85,
+      "end": 391.97,
+      "text": "To remind you."
+    },
+    {
+      "start": 392.33,
+      "end": 394.15,
+      "text": "당신에게 상기시켜주기 위해서."
+    },
+    {
+      "start": 394.77,
+      "end": 396.29,
+      "text": "How I still love you."
+    },
+    {
+      "start": 396.79,
+      "end": 397.63,
+      "text": "내가 당신을"
+    },
+    {
+      "start": 397.63,
+      "end": 399.37,
+      "text": "아직도 사랑한다는 걸."
+    },
+    {
+      "start": 400.07,
+      "end": 401.19,
+      "text": "I still love you."
+    },
+    {
+      "start": 401.35,
+      "end": 402.23,
+      "text": "I still love you."
+    },
+    {
+      "start": 402.51,
+      "end": 403.33,
+      "text": "내가 아직도"
+    },
+    {
+      "start": 403.33,
+      "end": 404.91,
+      "text": "당신을 사랑해요."
+    },
+    {
+      "start": 405.19,
+      "end": 406.65,
+      "text": "라고 고백하고 있습니다."
+    },
+    {
+      "start": 407.8,
+      "end": 408.5,
+      "text": "참고로"
+    },
+    {
+      "start": 408.5,
+      "end": 409.44,
+      "text": "프레디 머큐리가"
+    },
+    {
+      "start": 409.44,
+      "end": 411.02,
+      "text": "작곡한 곡이라고 하는데요."
+    },
+    {
+      "start": 411.02,
+      "end": 413.16,
+      "text": "당시의 연인이었던"
+    },
+    {
+      "start": 413.16,
+      "end": 414.44,
+      "text": "메리 어스틴으로부터"
+    },
+    {
+      "start": 414.44,
+      "end": 416.1,
+      "text": "영감을 받은 곡이라고 합니다."
+    },
+    {
+      "start": 417.02,
+      "end": 417.94,
+      "text": "그럼 집중해서"
+    },
+    {
+      "start": 417.94,
+      "end": 419.02,
+      "text": "Review Time!"
+    },
+    {
+      "start": 420.73,
+      "end": 421.21,
+      "text": "첫 번째"
+    },
+    {
+      "start": 421.21,
+      "end": 422.45,
+      "text": "당신은"
+    },
+    {
+      "start": 422.45,
+      "end": 423.95,
+      "text": "내 마음을 아프겠죠?"
+    },
+    {
+      "start": 424.95,
+      "end": 426.81,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 426.81,
+      "end": 427.81,
+      "text": "이렇게 표현했어요."
+    },
+    {
+      "start": 428.81,
+      "end": 430.01,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 430.51,
+      "end": 432.09,
+      "text": "You hurt me deeply."
+    },
+    {
+      "start": 432.93,
+      "end": 433.93,
+      "text": "이것도 가능하겠죠?"
+    },
+    {
+      "start": 434.33,
+      "end": 435.55,
+      "text": "You've hurt me deeply."
+    },
+    {
+      "start": 435.97,
+      "end": 437.13,
+      "text": "You hurt me deeply."
+    },
+    {
+      "start": 437.13,
+      "end": 438.85,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 439.81,
+      "end": 440.29,
+      "text": "두 번째"
+    },
+    {
+      "start": 440.29,
+      "end": 441.87,
+      "text": "그걸 나에게서"
+    },
+    {
+      "start": 441.87,
+      "end": 442.81,
+      "text": "빼앗지 말아요."
+    },
+    {
+      "start": 444.1,
+      "end": 447.02,
+      "text": "Don't take it away from me."
+    },
+    {
+      "start": 447.42,
+      "end": 447.68,
+      "text": "맞아요."
+    },
+    {
+      "start": 448.2,
+      "end": 450.12,
+      "text": "Don't take it away from me."
+    },
+    {
+      "start": 450.44,
+      "end": 451.54,
+      "text": "라고 이야기했습니다."
+    },
+    {
+      "start": 452.38,
+      "end": 454.48,
+      "text": "Don't take it out of my life."
+    },
+    {
+      "start": 454.48,
+      "end": 455.48,
+      "text": "내 인생에서"
+    },
+    {
+      "start": 456.08,
+      "end": 456.48,
+      "text": "빼앗지 말아달라."
+    },
+    {
+      "start": 457.5,
+      "end": 458.18,
+      "text": "라는 문장도"
+    },
+    {
+      "start": 458.18,
+      "end": 459.5,
+      "text": "만드실 수 있을 거예요."
+    },
+    {
+      "start": 460.32,
+      "end": 460.76,
+      "text": "세 번째"
+    },
+    {
+      "start": 460.76,
+      "end": 462.84,
+      "text": "내가 나이를 먹더라도"
+    },
+    {
+      "start": 462.84,
+      "end": 464.9,
+      "text": "난 당신 곁에 있을 거예요."
+    },
+    {
+      "start": 465.2,
+      "end": 465.9,
+      "text": "라는 문장은요."
+    },
+    {
+      "start": 465.9,
+      "end": 467.6,
+      "text": "When I grow older"
+    },
+    {
+      "start": 467.6,
+      "end": 470.18,
+      "text": "I will be there at your side."
+    },
+    {
+      "start": 470.74,
+      "end": 471.28,
+      "text": "이거였죠."
+    },
+    {
+      "start": 471.66,
+      "end": 472.64,
+      "text": "When I grow older"
+    },
+    {
+      "start": 472.64,
+      "end": 474.72,
+      "text": "I will be there at your side."
+    },
+    {
+      "start": 475.34,
+      "end": 476.58,
+      "text": "나이가 들더라도"
+    },
+    {
+      "start": 476.58,
+      "end": 478.12,
+      "text": "당신 곁에 딱"
+    },
+    {
+      "start": 478.12,
+      "end": 478.94,
+      "text": "있겠다"
+    },
+    {
+      "start": 478.94,
+      "end": 479.94,
+      "text": "라는 문장입니다."
+    },
+    {
+      "start": 480.66,
+      "end": 482.42,
+      "text": "I'll always be there for you."
+    },
+    {
+      "start": 482.42,
+      "end": 482.94,
+      "text": "혹은"
+    },
+    {
+      "start": 482.94,
+      "end": 485.42,
+      "text": "I'll always be there beside you."
+    },
+    {
+      "start": 485.8,
+      "end": 486.52,
+      "text": "이렇게도"
+    },
+    {
+      "start": 486.52,
+      "end": 487.72,
+      "text": "이야기해줄 수 있겠네요."
+    },
+    {
+      "start": 488.52,
+      "end": 489.52,
+      "text": "그럼 리듬 타면서"
+    },
+    {
+      "start": 489.52,
+      "end": 490.34,
+      "text": "복습할게요."
+    },
+    {
+      "start": 490.82,
+      "end": 497.56,
+      "text": "첫 번째"
+    },
+    {
+      "start": 497.56,
+      "end": 498.68,
+      "text": "당신은"
+    },
+    {
+      "start": 498.68,
+      "end": 499.92,
+      "text": "내 마음을 아프겠죠?"
+    },
+    {
+      "start": 500.24,
+      "end": 501.74,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 502.14,
+      "end": 504.04,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 504.9,
+      "end": 506.38,
+      "text": "You've broken my heart."
+    },
+    {
+      "start": 507.31,
+      "end": 507.83,
+      "text": "두 번째"
+    },
+    {
+      "start": 507.83,
+      "end": 509.23,
+      "text": "그걸 나에게서"
+    },
+    {
+      "start": 509.23,
+      "end": 510.37,
+      "text": "빼앗지 말아요."
+    },
+    {
+      "start": 511.76,
+      "end": 513.62,
+      "text": "Don't take it away from me."
+    },
+    {
+      "start": 514.12,
+      "end": 516.08,
+      "text": "Don't take it away from me."
+    },
+    {
+      "start": 516.48,
+      "end": 518.36,
+      "text": "Don't take it away from me."
+    },
+    {
+      "start": 518.36,
+      "end": 519.44,
+      "text": "세 번째"
+    },
+    {
+      "start": 519.44,
+      "end": 521.16,
+      "text": "내가 나이를 먹더라도"
+    },
+    {
+      "start": 521.16,
+      "end": 522.78,
+      "text": "난 당신 곁에 있을 거예요."
+    },
+    {
+      "start": 523.34,
+      "end": 524.26,
+      "text": "When I grow older"
+    },
+    {
+      "start": 524.26,
+      "end": 526.54,
+      "text": "I will be there at your side."
+    },
+    {
+      "start": 527.66,
+      "end": 528.9,
+      "text": "When I grow older"
+    },
+    {
+      "start": 528.9,
+      "end": 531.22,
+      "text": "I will be there at your side."
+    },
+    {
+      "start": 531.58,
+      "end": 532.12,
+      "text": "한 번 더"
+    },
+    {
+      "start": 532.12,
+      "end": 533.54,
+      "text": "When I grow older"
+    },
+    {
+      "start": 533.54,
+      "end": 535.9,
+      "text": "I will be there at your side."
+    },
+    {
+      "start": 537.86,
+      "end": 538.56,
+      "text": "네, 이처럼"
+    },
+    {
+      "start": 538.56,
+      "end": 540.02,
+      "text": "굿모닝 팝스 다시 듣기는"
+    },
+    {
+      "start": 540.02,
+      "end": 541.32,
+      "text": "KBS 애플리케이션"
+    },
+    {
+      "start": 541.32,
+      "end": 542.7,
+      "text": "콩 오리지널 탭과"
+    },
+    {
+      "start": 542.7,
+      "end": 544.08,
+      "text": "KBS 콩 유튜브로"
+    },
+    {
+      "start": 544.08,
+      "end": 545.52,
+      "text": "다시 들으실 수 있습니다."
+    },
+    {
+      "start": 546.26,
+      "end": 547.26,
+      "text": "굿모닝 팝스"
+    },
+    {
+      "start": 547.26,
+      "end": 548.6,
+      "text": "저는 조정현이었습니다."
+    },
+    {
+      "start": 549.08,
+      "end": 549.98,
+      "text": "Have a happy day!"
+    }
+  ]
+}
