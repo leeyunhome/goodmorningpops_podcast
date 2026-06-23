@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T20:10:51",
+  "generated_at": "2026-06-23T20:21:36",
   "count": 414,
   "episodes": [
     {
@@ -220,7 +220,7 @@
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 1139.19,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-27_screen_english.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2024-06-27_screen_english.jpg"
     },
     {
       "id": "2024-06-26_screen_english",
@@ -231,7 +231,7 @@
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 774.99,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-26_screen_english.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2024-06-26_screen_english.jpg"
     },
     {
       "id": "2024-06-25_screen_english",
@@ -242,7 +242,7 @@
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 702.33,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-25_screen_english.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2024-06-25_screen_english.jpg"
     },
     {
       "id": "2024-06-24_screen_english",
@@ -253,7 +253,7 @@
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 580.86,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-24_screen_english.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2024-06-24_screen_english.jpg"
     },
     {
       "id": "2024-06-23_review_time_screen",
@@ -275,7 +275,7 @@
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 910.75,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-20_screen_english.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2024-06-20_screen_english.jpg"
     },
     {
       "id": "2024-06-18_screen_english",
@@ -286,7 +286,7 @@
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 706.04,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-18_screen_english.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2024-06-18_screen_english.jpg"
     },
     {
       "id": "2024-06-17_screen_english",
@@ -297,7 +297,7 @@
       "movie": "베르히만 아일랜드 (Bergman Island)",
       "duration_sec": 799.97,
       "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2024-06-17_screen_english.mp3",
-      "artwork_generated_url": ""
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2024-06-17_screen_english.jpg"
     },
     {
       "id": "2024-06-16_review_time_screen",
