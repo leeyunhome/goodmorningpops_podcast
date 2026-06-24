@@ -1,0 +1,888 @@
+{
+  "id": "2026-06-24_pop_song",
+  "date": "2026-06-24",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "Salt Water - María Isabel",
+  "movie": "",
+  "duration_sec": 614.32,
+  "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-24_pop_song.mp3",
+  "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-24_pop_song.jpg",
+  "script": [
+    {
+      "start": 11.66,
+      "end": 15.42,
+      "text": "팝송에 스며드는 특별한 영어시간, 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.42,
+      "end": 23.8,
+      "text": "좋은 팝음악으로 아침을 상쾌하게 깨워드립니다."
+    },
+    {
+      "start": 24.08,
+      "end": 26.04,
+      "text": "굿모닝 팝스, 조정현입니다."
+    },
+    {
+      "start": 27.08,
+      "end": 32.82,
+      "text": "오늘 잔잔한 곡을 들어보면서 우리가 유용한 문장들을 알아볼 예정입니다."
+    },
+    {
+      "start": 33.32,
+      "end": 35.3,
+      "text": "먼저 오늘 미션 문장부터 들어보세요."
+    },
+    {
+      "start": 35.3,
+      "end": 51.34,
+      "text": "첫 번째, 심하게 싸우고 싶지 않아요."
+    },
+    {
+      "start": 53.18,
+      "end": 57.5,
+      "text": "두 번째, 우리에게 시간이 더 있을 줄 알았어요."
+    },
+    {
+      "start": 57.5,
+      "end": 64.02,
+      "text": "세 번째, 어떤 일들은 인생에서 두 번 일어나요."
+    },
+    {
+      "start": 66.09,
+      "end": 70.27,
+      "text": "스페인 출신 싱어송라이터 마리아 이자벨의 곡"
+    },
+    {
+      "start": 70.27,
+      "end": 72.39,
+      "text": "Salt Water이라는 곡입니다."
+    },
+    {
+      "start": 73.31,
+      "end": 75.33,
+      "text": "2020년에 발매된 곡이에요."
+    },
+    {
+      "start": 76.01,
+      "end": 78.73,
+      "text": "첫 번째 미션 문장부터 함께 찾아볼 건데요."
+    },
+    {
+      "start": 78.73,
+      "end": 82.97,
+      "text": "심하게 싸우고 싶지 않아요라는 문장 찾아보세요."
+    },
+    {
+      "start": 87.62,
+      "end": 103.47,
+      "text": "잘 찾으셨나요? 한번 차근차근 알아보겠습니다."
+    },
+    {
+      "start": 103.47,
+      "end": 107.51,
+      "text": "Salt Water Tears Falling From My Eyes"
+    },
+    {
+      "start": 107.51,
+      "end": 109.37,
+      "text": "라는 소절부터 들어보셨죠?"
+    },
+    {
+      "start": 109.81,
+      "end": 111.41,
+      "text": "Salt Water, 뭔가요?"
+    },
+    {
+      "start": 112.11,
+      "end": 116.31,
+      "text": "바닷물 혹은 소금물 이렇게 떠올리고 계시죠?"
+    },
+    {
+      "start": 116.93,
+      "end": 121.47,
+      "text": "바닷물 같은 혹은 소금물 같은 그런 짠 눈물이"
+    },
+    {
+      "start": 121.47,
+      "end": 125.07,
+      "text": "Salt Water Tears Falling From My Eyes"
+    },
+    {
+      "start": 125.07,
+      "end": 127.29,
+      "text": "근데 그 눈물이 지금 어떻게 하고 있는 거예요?"
+    },
+    {
+      "start": 127.93,
+      "end": 131.35,
+      "text": "내 눈에서 흘러내리네요 정도 되겠습니다."
+    },
+    {
+      "start": 132.36,
+      "end": 135.6,
+      "text": "그러면서 I don't wanna go to war 들으셨나요?"
+    },
+    {
+      "start": 136.12,
+      "end": 138.64,
+      "text": "그 다음 I don't wanna fight 또 들으셨죠?"
+    },
+    {
+      "start": 139.2,
+      "end": 141.54,
+      "text": "I don't wanna fight, I don't wanna go to war"
+    },
+    {
+      "start": 141.54,
+      "end": 143.9,
+      "text": "둘 다 비슷하게 활용을 할 수가 있습니다."
+    },
+    {
+      "start": 143.9,
+      "end": 146.56,
+      "text": "근데 우리가 찾아야 되는 문장은"
+    },
+    {
+      "start": 146.56,
+      "end": 150.0,
+      "text": "I don't wanna go to war 이 부분으로 골라볼게요."
+    },
+    {
+      "start": 150.58,
+      "end": 153.3,
+      "text": "심하게 싸우고 싶지 않아요라는 문장입니다."
+    },
+    {
+      "start": 154.26,
+      "end": 158.0,
+      "text": "연인 사이, 가족끼리 혹은 친구 사이에서도"
+    },
+    {
+      "start": 158.0,
+      "end": 160.22,
+      "text": "이렇게 I don't wanna go to war"
+    },
+    {
+      "start": 160.22,
+      "end": 161.64,
+      "text": "혹은 I don't wanna fight"
+    },
+    {
+      "start": 161.64,
+      "end": 164.14,
+      "text": "싸우고 싶지 않아, 심하게 싸우고 싶지 않아"
+    },
+    {
+      "start": 164.14,
+      "end": 170.04,
+      "text": "이렇게 이야기를 할 때가 종종, 가끔, 드문드문 있잖아요."
+    },
+    {
+      "start": 170.9,
+      "end": 174.36,
+      "text": "물리적인 싸움뿐 아니라 이처럼 감정적인 싸움에서도"
+    },
+    {
+      "start": 174.36,
+      "end": 178.42,
+      "text": "I don't wanna fight 이런 문장으로도 이야기를 하실 수가 있습니다."
+    },
+    {
+      "start": 179.3,
+      "end": 182.94,
+      "text": "물론 좀 더 순화된 표현으로 알고 계시는 표현이 아마 이거일 거예요."
+    },
+    {
+      "start": 182.94,
+      "end": 185.24,
+      "text": "I don't wanna argue with you"
+    },
+    {
+      "start": 185.24,
+      "end": 188.2,
+      "text": "argue라는 단어를 활용을 할 때도 있습니다."
+    },
+    {
+      "start": 188.68,
+      "end": 190.66,
+      "text": "말싸움하고 싶지 않다라는 것을"
+    },
+    {
+      "start": 190.66,
+      "end": 192.9,
+      "text": "좀 더 직접적으로 말할 때 쓸 수가 있는 거죠."
+    },
+    {
+      "start": 192.9,
+      "end": 195.78,
+      "text": "포인트는 I don't wanna go to war"
+    },
+    {
+      "start": 195.78,
+      "end": 198.16,
+      "text": "이 부분으로 한번 뽑아볼게요."
+    },
+    {
+      "start": 198.72,
+      "end": 201.54,
+      "text": "심하게 싸우고 싶지 않다라는 문장입니다."
+    },
+    {
+      "start": 202.61,
+      "end": 206.73,
+      "text": "You keep me warm. 당신은 나를 따뜻하게 해주죠."
+    },
+    {
+      "start": 207.49,
+      "end": 211.29,
+      "text": "Ain't no that you could burn me with that same light."
+    },
+    {
+      "start": 211.29,
+      "end": 213.89,
+      "text": "이 부분은 어떻게 해석할까요?"
+    },
+    {
+      "start": 214.31,
+      "end": 216.01,
+      "text": "Ain't no, 몰랐다는 거죠."
+    },
+    {
+      "start": 216.61,
+      "end": 220.95,
+      "text": "That you could burn me. 당신이 나를 태울 수도 있다는 것을."
+    },
+    {
+      "start": 221.59,
+      "end": 222.95,
+      "text": "With that same light."
+    },
+    {
+      "start": 223.03,
+      "end": 224.97,
+      "text": "그 같은 빛으로."
+    },
+    {
+      "start": 224.97,
+      "end": 231.84,
+      "text": "아, 그 같은 빛으로 나를 아프게 할 수도 있다는 것을 나는 몰랐어요."
+    },
+    {
+      "start": 232.18,
+      "end": 233.14,
+      "text": "라는 뜻이었습니다."
+    },
+    {
+      "start": 233.54,
+      "end": 233.96,
+      "text": "이해되시죠?"
+    },
+    {
+      "start": 234.8,
+      "end": 236.58,
+      "text": "이어서 두 번째 미션 문장입니다."
+    },
+    {
+      "start": 237.38,
+      "end": 239.92,
+      "text": "우리에게 시간이 더 있을 줄 알았어요."
+    },
+    {
+      "start": 240.16,
+      "end": 241.4,
+      "text": "라는 문장 찾아보세요."
+    },
+    {
+      "start": 257.11,
+      "end": 258.01,
+      "text": "바로 들으셨죠?"
+    },
+    {
+      "start": 258.25,
+      "end": 260.17,
+      "text": "Thought we had more time."
+    },
+    {
+      "start": 260.43,
+      "end": 262.85,
+      "text": "Time이라는 단어를 예상을 하셨을 거예요."
+    },
+    {
+      "start": 263.51,
+      "end": 264.95,
+      "text": "Thought we had more time."
+    },
+    {
+      "start": 264.95,
+      "end": 267.75,
+      "text": "우리에게 시간이 더 있을 줄 알았어요."
+    },
+    {
+      "start": 268.01,
+      "end": 268.85,
+      "text": "라는 가사입니다."
+    },
+    {
+      "start": 268.85,
+      "end": 272.57,
+      "text": "앞에 당연히 I가 생략이 된 상황인 거죠."
+    },
+    {
+      "start": 273.17,
+      "end": 274.45,
+      "text": "Thought we had more time."
+    },
+    {
+      "start": 274.81,
+      "end": 276.51,
+      "text": "I thought we had more time."
+    },
+    {
+      "start": 276.91,
+      "end": 279.57,
+      "text": "나는 우리에게 시간이 더 있을 줄 알았어요."
+    },
+    {
+      "start": 280.36,
+      "end": 282.64,
+      "text": "I thought we were more than a moment."
+    },
+    {
+      "start": 282.92,
+      "end": 285.16,
+      "text": "이어지는 부분도 해석하실 수 있겠죠?"
+    },
+    {
+      "start": 285.8,
+      "end": 288.56,
+      "text": "우리가 한 순간 이상이라고 생각했대요."
+    },
+    {
+      "start": 288.56,
+      "end": 291.36,
+      "text": "우리가 단순한 순간 이상이라고 생각했다."
+    },
+    {
+      "start": 292.16,
+      "end": 295.34,
+      "text": "우리가 좀 특별한 사이라고 생각했다."
+    },
+    {
+      "start": 295.72,
+      "end": 297.74,
+      "text": "라고도 해석해 보시면 좋겠습니다."
+    },
+    {
+      "start": 298.72,
+      "end": 302.26,
+      "text": "I thought we'd be two stars in the universe."
+    },
+    {
+      "start": 302.82,
+      "end": 305.54,
+      "text": "자, 이번엔 universe라는 단어까지 들렸어요."
+    },
+    {
+      "start": 305.76,
+      "end": 306.94,
+      "text": "우주가 등장을 합니다."
+    },
+    {
+      "start": 307.5,
+      "end": 309.6,
+      "text": "우리가 우주 속에"
+    },
+    {
+      "start": 309.6,
+      "end": 311.28,
+      "text": "We'd be two stars."
+    },
+    {
+      "start": 311.62,
+      "end": 314.68,
+      "text": "두 개의 별이 될 거라고 생각했어요."
+    },
+    {
+      "start": 315.1,
+      "end": 316.44,
+      "text": "라는 가사였어요."
+    },
+    {
+      "start": 316.8,
+      "end": 318.92,
+      "text": "We'd follow the same orbit."
+    },
+    {
+      "start": 319.36,
+      "end": 322.16,
+      "text": "그러면서 어떤 two stars인지를"
+    },
+    {
+      "start": 322.16,
+      "end": 324.82,
+      "text": "지금 부연 설명해주고 있는 부분이 들린 거죠."
+    },
+    {
+      "start": 325.36,
+      "end": 327.2,
+      "text": "Who'd follow the same orbit."
+    },
+    {
+      "start": 327.7,
+      "end": 328.88,
+      "text": "같은 orbit."
+    },
+    {
+      "start": 329.38,
+      "end": 330.04,
+      "text": "orbit 뭐죠?"
+    },
+    {
+      "start": 330.66,
+      "end": 331.6,
+      "text": "궤도인 거죠."
+    },
+    {
+      "start": 331.6,
+      "end": 335.44,
+      "text": "같은 궤도를 따를 존재라고 생각했어요."
+    },
+    {
+      "start": 335.92,
+      "end": 337.06,
+      "text": "라고 해석할 수 있습니다."
+    },
+    {
+      "start": 337.06,
+      "end": 340.15,
+      "text": "자, 이제 세 번째 미션 문장."
+    },
+    {
+      "start": 340.23,
+      "end": 341.91,
+      "text": "어떤 일들은 인생에서"
+    },
+    {
+      "start": 341.91,
+      "end": 343.19,
+      "text": "두 번 일어나요?"
+    },
+    {
+      "start": 343.39,
+      "end": 345.21,
+      "text": "라는 문장 집중해서 찾아보세요."
+    },
+    {
+      "start": 377.26,
+      "end": 380.68,
+      "text": "오, 한 번에 못 찾아내셨다고 할지라도"
+    },
+    {
+      "start": 380.68,
+      "end": 385.24,
+      "text": "아주 고맙게도 두 번이나 반복해서 들려줬습니다."
+    },
+    {
+      "start": 385.5,
+      "end": 386.8,
+      "text": "정답을 찾아내셨죠?"
+    },
+    {
+      "start": 386.8,
+      "end": 391.3,
+      "text": "So, some things happen twice in a lifetime"
+    },
+    {
+      "start": 391.3,
+      "end": 394.3,
+      "text": "이라는 부분을 특별히 더 강조해서"
+    },
+    {
+      "start": 394.3,
+      "end": 396.04,
+      "text": "이렇게 들려준 것 같아요."
+    },
+    {
+      "start": 396.04,
+      "end": 399.58,
+      "text": "There's love in letting someone leave."
+    },
+    {
+      "start": 400.02,
+      "end": 400.52,
+      "text": "Believe."
+    },
+    {
+      "start": 401.02,
+      "end": 402.32,
+      "text": "이 소절부터 해석을 해보면"
+    },
+    {
+      "start": 402.32,
+      "end": 403.58,
+      "text": "There's love."
+    },
+    {
+      "start": 403.88,
+      "end": 404.92,
+      "text": "사랑이 있다는 거죠."
+    },
+    {
+      "start": 405.36,
+      "end": 407.46,
+      "text": "In letting someone leave."
+    },
+    {
+      "start": 408.16,
+      "end": 410.94,
+      "text": "누군가를 떠나보내는 것에도"
+    },
+    {
+      "start": 410.94,
+      "end": 413.18,
+      "text": "누군가를 떠나보내는 데에도"
+    },
+    {
+      "start": 413.18,
+      "end": 414.54,
+      "text": "사랑이 있어요."
+    },
+    {
+      "start": 415.34,
+      "end": 415.86,
+      "text": "Believe."
+    },
+    {
+      "start": 416.38,
+      "end": 416.78,
+      "text": "믿어요."
+    },
+    {
+      "start": 417.81,
+      "end": 420.07,
+      "text": "Lost things flow back to me."
+    },
+    {
+      "start": 420.61,
+      "end": 421.41,
+      "text": "You will see."
+    },
+    {
+      "start": 421.41,
+      "end": 422.85,
+      "text": "자, 이 부분은요."
+    },
+    {
+      "start": 423.63,
+      "end": 424.63,
+      "text": "Lost things."
+    },
+    {
+      "start": 424.91,
+      "end": 427.35,
+      "text": "잃어버린 것들은 flow back to me."
+    },
+    {
+      "start": 428.03,
+      "end": 428.51,
+      "text": "무슨 뜻이죠?"
+    },
+    {
+      "start": 428.69,
+      "end": 431.25,
+      "text": "나에게 다시금 흘러오죠."
+    },
+    {
+      "start": 431.73,
+      "end": 432.39,
+      "text": "You will see."
+    },
+    {
+      "start": 433.13,
+      "end": 433.63,
+      "text": "두고 봐요."
+    },
+    {
+      "start": 434.03,
+      "end": 434.69,
+      "text": "알게 될 거예요."
+    },
+    {
+      "start": 435.92,
+      "end": 438.14,
+      "text": "Some things happen twice in a lifetime."
+    },
+    {
+      "start": 439.22,
+      "end": 441.18,
+      "text": "자, 자동적으로 해석하실 수 있겠죠?"
+    },
+    {
+      "start": 441.42,
+      "end": 442.2,
+      "text": "무슨 뜻이라고요?"
+    },
+    {
+      "start": 442.2,
+      "end": 445.34,
+      "text": "어떤 일들은 인생에서 두 번 일어나요."
+    },
+    {
+      "start": 446.0,
+      "end": 449.0,
+      "text": "Some things happen twice in a lifetime."
+    },
+    {
+      "start": 449.0,
+      "end": 450.24,
+      "text": "이라는 문장입니다."
+    },
+    {
+      "start": 451.2,
+      "end": 453.36,
+      "text": "이 동일한 문장들을요."
+    },
+    {
+      "start": 453.42,
+      "end": 454.98,
+      "text": "한 번 더 반복을 해주잖아요."
+    },
+    {
+      "start": 455.58,
+      "end": 458.2,
+      "text": "이번에 영어 버전으로만 제가 읽어드릴 테니까"
+    },
+    {
+      "start": 458.2,
+      "end": 460.06,
+      "text": "잘 해석이 되는지 들어보세요."
+    },
+    {
+      "start": 460.84,
+      "end": 463.44,
+      "text": "There's love in letting someone leave."
+    },
+    {
+      "start": 463.84,
+      "end": 464.36,
+      "text": "Believe."
+    },
+    {
+      "start": 465.14,
+      "end": 467.04,
+      "text": "Lost things flow back to me."
+    },
+    {
+      "start": 467.4,
+      "end": 468.12,
+      "text": "You will see."
+    },
+    {
+      "start": 468.12,
+      "end": 471.62,
+      "text": "Some things happen twice in a lifetime."
+    },
+    {
+      "start": 472.48,
+      "end": 473.32,
+      "text": "오, 끄덕끄덕."
+    },
+    {
+      "start": 473.62,
+      "end": 474.68,
+      "text": "잘 들리고 계시죠?"
+    },
+    {
+      "start": 474.68,
+      "end": 480.06,
+      "text": "이 곡 중간에는 이렇게 스페인어로 불러주는 가사 부분도 있습니다."
+    },
+    {
+      "start": 480.46,
+      "end": 482.04,
+      "text": "그 부분을 요약을 한다면"
+    },
+    {
+      "start": 482.04,
+      "end": 485.02,
+      "text": "당신 없이는 나는 살아가고 싶지 않아."
+    },
+    {
+      "start": 485.38,
+      "end": 487.68,
+      "text": "이런 의미의 가사가 들리기도 해요."
+    },
+    {
+      "start": 488.46,
+      "end": 490.74,
+      "text": "그럼 즐겁게 리뷰 타임!"
+    },
+    {
+      "start": 492.08,
+      "end": 495.4,
+      "text": "첫 번째, 심하게 싸우고 싶지 않아요."
+    },
+    {
+      "start": 496.26,
+      "end": 498.72,
+      "text": "비유적으로 표현한 문장이 있었단 말이죠."
+    },
+    {
+      "start": 499.56,
+      "end": 500.8,
+      "text": "I don't wanna go to war."
+    },
+    {
+      "start": 501.04,
+      "end": 501.28,
+      "text": "맞아요."
+    },
+    {
+      "start": 501.28,
+      "end": 503.58,
+      "text": "나는 전쟁에 나가고 싶지 않아."
+    },
+    {
+      "start": 503.92,
+      "end": 508.94,
+      "text": "이 말이고, 심하게 싸우고 싶지 않다라는 의미로 활용될 수가 있습니다."
+    },
+    {
+      "start": 509.74,
+      "end": 511.12,
+      "text": "I don't wanna fight with you."
+    },
+    {
+      "start": 511.6,
+      "end": 514.02,
+      "text": "이렇게 쉽게 이야기하셔도 물론 돼요."
+    },
+    {
+      "start": 514.89,
+      "end": 518.27,
+      "text": "두 번째, 우리에게 시간이 더 있을 줄 알았어요."
+    },
+    {
+      "start": 519.37,
+      "end": 521.85,
+      "text": "I thought we had more time."
+    },
+    {
+      "start": 522.37,
+      "end": 523.39,
+      "text": "이 문장 기억나시죠?"
+    },
+    {
+      "start": 524.15,
+      "end": 527.15,
+      "text": "I thought there was still time left."
+    },
+    {
+      "start": 527.91,
+      "end": 529.91,
+      "text": "이 문장도 아주 좋은 문장입니다."
+    },
+    {
+      "start": 529.91,
+      "end": 532.45,
+      "text": "I thought there was still time left."
+    },
+    {
+      "start": 533.28,
+      "end": 537.22,
+      "text": "이제 세 번째, 어떤 일들은 인생에서 두 번 일어나요."
+    },
+    {
+      "start": 538.1,
+      "end": 541.5,
+      "text": "Some things happen twice in a lifetime."
+    },
+    {
+      "start": 542.48,
+      "end": 544.16,
+      "text": "생생하게 기억하고 계실 거예요."
+    },
+    {
+      "start": 544.88,
+      "end": 547.56,
+      "text": "Some things come around more than once."
+    },
+    {
+      "start": 548.12,
+      "end": 549.3,
+      "text": "이 말과도 통하겠죠."
+    },
+    {
+      "start": 550.22,
+      "end": 552.08,
+      "text": "이제 리듬 타면서 복습해 볼게요."
+    },
+    {
+      "start": 552.08,
+      "end": 561.58,
+      "text": "첫 번째, 심하게 싸우고 싶지 않아요."
+    },
+    {
+      "start": 561.58,
+      "end": 572.76,
+      "text": "두 번째, 우리에게 시간이 더 있을 줄 알았어요."
+    },
+    {
+      "start": 573.56,
+      "end": 575.22,
+      "text": "I thought we had more time."
+    },
+    {
+      "start": 580.56,
+      "end": 584.22,
+      "text": "세 번째, 어떤 일들은 인생에서 두 번 일어나요."
+    },
+    {
+      "start": 584.22,
+      "end": 587.36,
+      "text": "Some things happen twice in a lifetime."
+    },
+    {
+      "start": 589.55,
+      "end": 592.49,
+      "text": "Some things happen twice in a lifetime."
+    },
+    {
+      "start": 592.49,
+      "end": 593.73,
+      "text": "한 번 더."
+    },
+    {
+      "start": 594.37,
+      "end": 596.77,
+      "text": "Some things happen twice in a lifetime."
+    },
+    {
+      "start": 599.14,
+      "end": 602.48,
+      "text": "네, 이렇게 호흡을 딱딱 맞춰서 연습도 해봤습니다."
+    },
+    {
+      "start": 602.48,
+      "end": 607.1,
+      "text": "굿모닝 팝스 다시 듣기는 KBS 애플리케이션 콩 오리지널 탭과"
+    },
+    {
+      "start": 607.1,
+      "end": 609.86,
+      "text": "KBS 콩 유튜브로 다시 들으실 수 있습니다."
+    },
+    {
+      "start": 610.62,
+      "end": 612.96,
+      "text": "굿모닝 팝스, 저는 조정연이었습니다."
+    },
+    {
+      "start": 613.4,
+      "end": 614.32,
+      "text": "Have a happy day!"
+    }
+  ]
+}

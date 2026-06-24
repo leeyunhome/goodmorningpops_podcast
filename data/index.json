@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-23T20:21:36",
-  "count": 414,
+  "generated_at": "2026-06-24T14:13:02",
+  "count": 415,
   "episodes": [
+    {
+      "id": "2026-06-24_pop_song",
+      "date": "2026-06-24",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Salt Water - María Isabel",
+      "movie": "",
+      "duration_sec": 614.32,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-24_pop_song.mp3",
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-24_pop_song.jpg"
+    },
     {
       "id": "2026-06-23_pop_song",
       "date": "2026-06-23",
