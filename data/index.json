@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-06-26T16:15:53",
-  "count": 415,
+  "generated_at": "2026-06-26T16:17:04",
+  "count": 416,
   "episodes": [
+    {
+      "id": "2026-06-25_pop_song",
+      "date": "2026-06-25",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "I Got You - Francesco Yates",
+      "movie": "",
+      "duration_sec": 639.86,
+      "audio_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/2026-06-25_pop_song.mp3",
+      "artwork_generated_url": "https://rtyzdyyfahddqshgyjvn.supabase.co/storage/v1/object/public/gmp-audio/artwork/2026-06-25_pop_song.jpg"
+    },
     {
       "id": "2026-06-24_pop_song",
       "date": "2026-06-24",
