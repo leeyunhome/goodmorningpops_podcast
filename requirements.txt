@@ -19,8 +19,9 @@ pypdf>=4.0.0
 # pip install pytesseract pdf2image
 # winget install UB-Mannheim.TesseractOCR
 # winget install oschwartz10612.Poppler
-# Supabase Storage uploader (used by upload_supabase.py, build_player.py)
-supabase>=2.0.0
+# Cloudflare R2 uploader - S3-compatible (replaced Supabase Storage)
+boto3>=1.34.0
 python-dotenv>=1.0.0
+# supabase>=2.0.0  # 구 Supabase Storage -- R2 마이그레이션 후 불필요
 # AI artwork generation (used by generate_artwork.py)
 google-genai>=1.0.0

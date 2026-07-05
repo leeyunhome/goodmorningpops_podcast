@@ -156,25 +156,36 @@ def compress_to_jpeg(png_bytes: bytes, quality: int = 75, max_size: int = 512) -
 
 
 def upload_to_supabase(image_bytes: bytes, remote_name: str) -> str:
-    """Supabase Storage에 JPEG 업로드, public URL 반환."""
+    """JPEG를 Cloudflare R2에 업로드하고 public URL 반환."""
     try:
-        from supabase import create_client
+        import boto3
     except ImportError:
-        raise SystemExit("supabase 패키지 필요: pip install supabase")
+        raise SystemExit("boto3 패키지 필요: pip install boto3")
 
-    url = os.environ.get("SUPABASE_URL")
-    key = os.environ.get("SUPABASE_SERVICE_KEY") or os.environ.get("SUPABASE_KEY")
-    bucket = os.environ.get("SUPABASE_BUCKET") or "gmp-audio"
+    account_id  = os.environ.get("R2_ACCOUNT_ID")
+    access_key  = os.environ.get("R2_ACCESS_KEY_ID")
+    secret_key  = os.environ.get("R2_SECRET_ACCESS_KEY")
+    bucket      = os.environ.get("R2_BUCKET_NAME", "gmp-audio")
+    public_base = os.environ.get("R2_PUBLIC_URL", "").rstrip("/")
 
-    if not url or not key:
-        raise SystemExit(".env에 SUPABASE_URL, SUPABASE_SERVICE_KEY 필요")
+    if not all([account_id, access_key, secret_key, public_base]):
+        raise SystemExit(".env에 R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_PUBLIC_URL 필요")
 
-    client = create_client(url, key)
-    storage = client.storage.from_(bucket)
+    client = boto3.client(
+        "s3",
+        endpoint_url=f"https://{account_id}.r2.cloudflarestorage.com",
+        aws_access_key_id=access_key,
+        aws_secret_access_key=secret_key,
+        region_name="auto",
+    )
 
-    file_options = {"content-type": "image/jpeg", "upsert": "true"}
-    storage.upload(f"artwork/{remote_name}", image_bytes, file_options=file_options)
-    return storage.get_public_url(f"artwork/{remote_name}")
+    import io as _io
+    r2_key = f"artwork/{remote_name}"
+    client.upload_fileobj(
+        _io.BytesIO(image_bytes), bucket, r2_key,
+        ExtraArgs={"ContentType": "image/jpeg"},
+    )
+    return f"{public_base}/{r2_key}"
 
 
 def load_artwork_urls(path: Path) -> dict[str, str]:

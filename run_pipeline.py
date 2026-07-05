@@ -144,7 +144,6 @@ def process_episode(
     ep: dict,
     *,
     model: WhisperModel,
-    sb_storage,
     audio_dir: Path,
     out_corners: Path,
     pages_repo: Path,
@@ -238,12 +237,11 @@ def process_episode(
     else:
         print(f"  [4/7] 최적화본 이미 있음")
 
-    # 5. Upload to Supabase
-    print(f"  [5/7] upload supabase...")
-    action = us.upload_one(
-        sb_storage, optimized_mp3, optimized_mp3.name, args.overwrite
-    )
-    public_url = sb_storage.get_public_url(optimized_mp3.name)
+    # 5. Upload to R2
+    print(f"  [5/8] upload R2...")
+    public_url = us.upload_one(optimized_mp3, overwrite=args.overwrite)
+    if not public_url:
+        public_url = us.get_public_url(optimized_mp3.name)
 
     # URL 매핑 누적
     url_map = bp.load_url_map(url_map_path)
@@ -265,6 +263,10 @@ def process_episode(
                 prompt = ga.build_prompt(song_info[0], song_info[1])
                 png_bytes = ga.generate_image(gemini_api_key, prompt)
                 jpg_bytes = ga.compress_to_jpeg(png_bytes)
+                # 로컬 저장 (migrate_to_r2.py가 재업로드에 사용)
+                local_art = Path("artwork") / f"{ep_id}.jpg"
+                local_art.parent.mkdir(exist_ok=True)
+                local_art.write_bytes(jpg_bytes)
                 art_url = ga.upload_to_supabase(jpg_bytes, f"{ep_id}.jpg")
                 artwork_urls[ep_id] = art_url
                 ga.save_artwork_urls(artwork_urls, artwork_urls_path)
@@ -434,13 +436,14 @@ def main() -> int:
     print(f"  디바이스: {device} ({compute_type}), 모델: {args.model}")
     model = WhisperModel(args.model, device=device, compute_type=compute_type)
 
-    # Supabase 클라이언트
-    print("Supabase 연결...")
+    # R2 연결 확인
     us.load_env()
-    bucket = os.environ.get("SUPABASE_BUCKET") or "gmp-audio"
-    sb_client = us.get_client()
-    sb_storage = sb_client.storage.from_(bucket)
-    print(f"  bucket: {bucket}")
+    bucket = os.environ.get("R2_BUCKET_NAME") or "gmp-audio"
+    public_base = os.environ.get("R2_PUBLIC_URL", "")
+    if public_base:
+        print(f"R2 스토리지: {bucket} ({public_base})")
+    else:
+        print("⚠ R2_PUBLIC_URL 없음 — .env 확인 (SUPABASE_TO_R2_MIGRATION.md 참고)")
 
     # 영화 매핑
     movie_map = bp.load_movie_mapping(movie_map_path)
@@ -471,7 +474,6 @@ def main() -> int:
             status = process_episode(
                 ep,
                 model=model,
-                sb_storage=sb_storage,
                 audio_dir=audio_dir,
                 out_corners=out_corners,
                 pages_repo=pages_repo,
