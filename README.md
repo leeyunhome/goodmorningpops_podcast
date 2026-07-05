@@ -36,12 +36,18 @@ GPU 없으면 자동으로 CPU(int8)로 동작.
 ### .env 파일 설정
 
 ```env
-SUPABASE_URL=https://xxxxxxxx.supabase.co
-SUPABASE_SERVICE_KEY=eyJhbGciOi...   # service_role 키 (업로드용)
-SUPABASE_KEY=eyJhbGciOi...           # anon public 키 (폴백)
-SUPABASE_BUCKET=gmp-audio
-gemini_api_key=AIzaSy...             # Google AI Studio API 키 (아트워크 생성용)
+# Cloudflare R2 (오디오 + 아트워크 스토리지)
+R2_ACCOUNT_ID=f5280adda1535bcb64e9ae4f9d49f8fb
+R2_ACCESS_KEY_ID=<Access Key ID>
+R2_SECRET_ACCESS_KEY=<Secret Access Key>
+R2_BUCKET_NAME=gmp-audio
+R2_PUBLIC_URL=https://pub-XXXX.r2.dev
+
+# Google AI Studio API 키 (아트워크 생성용, 없으면 스킵)
+gemini_api_key=AIzaSy...
 ```
+
+자세한 R2 설정 방법은 [SUPABASE_TO_R2_MIGRATION.md](SUPABASE_TO_R2_MIGRATION.md) 참조.
 
 `.env`는 `.gitignore`에 포함되어 있어 절대 commit되지 않음.
 
@@ -191,12 +197,15 @@ git push
 
 ## 5. 사전 준비 (처음 설정)
 
-### Supabase
+### Cloudflare R2
 
-1. https://supabase.com 가입 (무료 플랜)
-2. New project 생성 (Seoul 리전 권장)
-3. Storage → New bucket → 이름 `gmp-audio`, **Public** 체크
-4. Project Settings → API → URL·service_role 키 복사 → `.env`에 저장
+1. https://dash.cloudflare.com → R2 Object Storage → **Create bucket** (`gmp-audio`)
+2. 버킷 Settings → **Public Development URL** → Enable
+3. Settings → **CORS Policy** → `[{"AllowedOrigins":["*"],"AllowedMethods":["GET"],"AllowedHeaders":["*"]}]`
+4. R2 Overview → **Manage R2 API tokens** → Create (Object Read & Write) → Access Key ID + Secret 복사
+5. `.env`에 저장 (`.env.example` 참고)
+
+자세한 절차: [SUPABASE_TO_R2_MIGRATION.md](SUPABASE_TO_R2_MIGRATION.md)
 
 ### GitHub Pages (배포 repo)
 
