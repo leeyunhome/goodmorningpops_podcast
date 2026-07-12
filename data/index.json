@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:19:34",
+  "generated_at": "2026-07-12T22:19:52",
   "count": 427,
   "episodes": [
     {
@@ -87,8 +87,8 @@
       "title": "For The Best - Ebony Loren",
       "movie": "",
       "duration_sec": 652.45,
-      "audio_url": "",
-      "artwork_generated_url": ""
+      "audio_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/2026-07-01_pop_song.mp3",
+      "artwork_generated_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/artwork/2026-07-01_pop_song.jpg"
     },
     {
       "id": "2026-06-30_pop_song",
