@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:21:24",
+  "generated_at": "2026-07-12T22:21:44",
   "count": 427,
   "episodes": [
     {
@@ -21,8 +21,8 @@
       "title": "I Knew It' I Knew You - Taylor Swift",
       "movie": "",
       "duration_sec": 845.03,
-      "audio_url": "",
-      "artwork_generated_url": ""
+      "audio_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/2026-07-09_pop_song.mp3",
+      "artwork_generated_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/artwork/2026-07-09_pop_song.jpg"
     },
     {
       "id": "2026-07-08_pop_song",
