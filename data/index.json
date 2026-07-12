@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:20:29",
+  "generated_at": "2026-07-12T22:20:47",
   "count": 427,
   "episodes": [
     {
@@ -54,8 +54,8 @@
       "title": "Daisies - Justin Bieber",
       "movie": "",
       "duration_sec": 648.1,
-      "audio_url": "",
-      "artwork_generated_url": ""
+      "audio_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/2026-07-06_pop_song.mp3",
+      "artwork_generated_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/artwork/2026-07-06_pop_song.jpg"
     },
     {
       "id": "2026-07-03_pop_song",
