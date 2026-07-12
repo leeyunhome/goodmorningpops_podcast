@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:19:15",
+  "generated_at": "2026-07-12T22:19:34",
   "count": 427,
   "episodes": [
     {
@@ -98,8 +98,8 @@
       "title": "Beautiful - Dapz On The Map and Pheleba",
       "movie": "",
       "duration_sec": 593.45,
-      "audio_url": "",
-      "artwork_generated_url": ""
+      "audio_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/2026-06-30_pop_song.mp3",
+      "artwork_generated_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/artwork/2026-06-30_pop_song.jpg"
     },
     {
       "id": "2026-06-29_pop_song",
