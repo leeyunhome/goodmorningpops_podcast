@@ -1,0 +1,978 @@
+{
+  "id": "2026-07-17_pop_song",
+  "date": "2026-07-17",
+  "corner": "pop_song",
+  "corner_label": "Pop Song",
+  "title": "You - Elle Eliades",
+  "movie": "",
+  "duration_sec": 677.45,
+  "audio_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/2026-07-17_pop_song.mp3",
+  "artwork_generated_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/artwork/2026-07-17_pop_song.jpg",
+  "script": [
+    {
+      "start": 1.52,
+      "end": 15.72,
+      "text": "팝송에 스며드는 특별한 영어시간, 조정현의 굿모닝 팝스"
+    },
+    {
+      "start": 15.72,
+      "end": 24.48,
+      "text": "좋은 팝음악으로 아침을 상쾌하게 깨워드립니다."
+    },
+    {
+      "start": 24.84,
+      "end": 26.64,
+      "text": "굿모닝 팝스, 조정현입니다."
+    },
+    {
+      "start": 27.64,
+      "end": 32.46,
+      "text": "오늘 진솔한 가사를 함께 들으면서요, 유용한 문장까지 기억해볼까요?"
+    },
+    {
+      "start": 32.46,
+      "end": 36.68,
+      "text": "오늘 미션 문장부터 들려드리니까요, 영어로 잘 생각해보세요."
+    },
+    {
+      "start": 49.84,
+      "end": 52.66,
+      "text": "첫 번째, 난 당신 편이에요."
+    },
+    {
+      "start": 54.1,
+      "end": 58.18,
+      "text": "두 번째, 당신 시간을 낭비하고 싶지 않아요."
+    },
+    {
+      "start": 58.18,
+      "end": 64.62,
+      "text": "세 번째, 지금이 이걸 할 적절한 때여야 해요."
+    },
+    {
+      "start": 66.44,
+      "end": 72.06,
+      "text": "오늘 호주 출신 L. Eliade's가 2021년에 발표한"
+    },
+    {
+      "start": 72.06,
+      "end": 74.38,
+      "text": "You라는 곡을 함께 들어볼 거고요,"
+    },
+    {
+      "start": 74.38,
+      "end": 77.56,
+      "text": "R. L. King이 피처링한 곡입니다."
+    },
+    {
+      "start": 78.5,
+      "end": 80.98,
+      "text": "첫 번째 미션 문장 이거였어요."
+    },
+    {
+      "start": 81.2,
+      "end": 84.54,
+      "text": "난 당신 편이에요라는 가사 찾아보세요."
+    },
+    {
+      "start": 87.15,
+      "end": 116.2,
+      "text": "어떻게 들으셨나요?"
+    },
+    {
+      "start": 116.88,
+      "end": 118.8,
+      "text": "You say, 당신은 말하죠."
+    },
+    {
+      "start": 119.22,
+      "end": 121.76,
+      "text": "Take my hand. Follow me."
+    },
+    {
+      "start": 122.2,
+      "end": 124.2,
+      "text": "나의 손을 잡고 어떻게 하래요?"
+    },
+    {
+      "start": 124.52,
+      "end": 127.74,
+      "text": "Follow me. 나를 따라와요. 라고 합니다."
+    },
+    {
+      "start": 128.22,
+      "end": 129.38,
+      "text": "당신은 이렇게 말했대요."
+    },
+    {
+      "start": 129.74,
+      "end": 131.56,
+      "text": "내 손을 잡고 날 따라와요."
+    },
+    {
+      "start": 132.23,
+      "end": 133.61,
+      "text": "I'm all for you."
+    },
+    {
+      "start": 133.61,
+      "end": 134.61,
+      "text": "무슨 뜻이죠?"
+    },
+    {
+      "start": 135.15,
+      "end": 139.61,
+      "text": "나는 당신 편이에요. 라는 미션 문장이 바로 이 부분이었습니다."
+    },
+    {
+      "start": 139.61,
+      "end": 141.01,
+      "text": "I'm all for you."
+    },
+    {
+      "start": 141.01,
+      "end": 142.89,
+      "text": "I'm all for you."
+    },
+    {
+      "start": 143.21,
+      "end": 143.63,
+      "text": "이해되시죠?"
+    },
+    {
+      "start": 143.97,
+      "end": 145.95,
+      "text": "Baby, if you are for me."
+    },
+    {
+      "start": 146.75,
+      "end": 150.47,
+      "text": "대신 이렇게 조건을 덧붙였어요."
+    },
+    {
+      "start": 150.87,
+      "end": 152.01,
+      "text": "I'm all for you, baby."
+    },
+    {
+      "start": 152.15,
+      "end": 153.59,
+      "text": "If you are for me."
+    },
+    {
+      "start": 153.93,
+      "end": 155.31,
+      "text": "나는 당신 편이에요."
+    },
+    {
+      "start": 155.81,
+      "end": 157.53,
+      "text": "당신도 내 편이라면."
+    },
+    {
+      "start": 157.53,
+      "end": 160.15,
+      "text": "이처럼 해석이 되는 부분이었습니다."
+    },
+    {
+      "start": 160.15,
+      "end": 162.79,
+      "text": "그러니까 if you are for me."
+    },
+    {
+      "start": 162.79,
+      "end": 169.21,
+      "text": "에서 그 for의 역할은 우리가 기본적으로 알고 있던 무엇을 위해라는 해석이 아니고"
+    },
+    {
+      "start": 169.21,
+      "end": 175.25,
+      "text": "지지하다 혹은 편이 되다, 원하다 라는 뜻으로 쓰인 상황인 거예요."
+    },
+    {
+      "start": 175.25,
+      "end": 178.43,
+      "text": "그 다음, but I'm scared to trust."
+    },
+    {
+      "start": 178.87,
+      "end": 179.77,
+      "text": "이 가사 들으셨죠?"
+    },
+    {
+      "start": 180.27,
+      "end": 183.13,
+      "text": "하지만 나는 믿기 두려워요. 라고 했어요."
+    },
+    {
+      "start": 183.71,
+      "end": 186.47,
+      "text": "Because I'm scared, you will break it."
+    },
+    {
+      "start": 187.19,
+      "end": 191.89,
+      "text": "왜냐하면 당신이 그걸 깨뜨릴까봐 두려워요. 라고 했습니다."
+    },
+    {
+      "start": 192.83,
+      "end": 194.67,
+      "text": "상황상 우리가 추측헌데"
+    },
+    {
+      "start": 194.67,
+      "end": 199.39,
+      "text": "it가 가리키는 내용은 아마 그 믿음에 관련된 것이겠죠?"
+    },
+    {
+      "start": 199.39,
+      "end": 205.13,
+      "text": "그래서 당신이 그 믿음을 깨뜨릴까봐 두려워요. 라고 해석하면 좋을 것 같고요."
+    },
+    {
+      "start": 205.85,
+      "end": 207.01,
+      "text": "But if you don't trust."
+    },
+    {
+      "start": 207.25,
+      "end": 209.21,
+      "text": "하지만 if I don't trust."
+    },
+    {
+      "start": 209.59,
+      "end": 212.01,
+      "text": "내가 신뢰하지 않는다면"
+    },
+    {
+      "start": 212.01,
+      "end": 214.33,
+      "text": "How we ever gonna make it?"
+    },
+    {
+      "start": 215.05,
+      "end": 216.73,
+      "text": "이 부분 해석되고 계시죠?"
+    },
+    {
+      "start": 217.25,
+      "end": 220.03,
+      "text": "어떻게 우리가 해낼 수 있겠어요?"
+    },
+    {
+      "start": 220.55,
+      "end": 222.51,
+      "text": "How we ever gonna make it?"
+    },
+    {
+      "start": 222.75,
+      "end": 227.09,
+      "text": "어떻게 우리가 함께할 수 있겠어요? 라는 질문이었습니다."
+    },
+    {
+      "start": 227.09,
+      "end": 229.44,
+      "text": "이제 두 번째 미션 문장"
+    },
+    {
+      "start": 229.44,
+      "end": 233.96,
+      "text": "당신 시간을 낭비하고 싶지 않아요? 라는 가사 찾아보세요."
+    },
+    {
+      "start": 233.96,
+      "end": 265.71,
+      "text": "Maybe I'm on a mission. 나에게 임무가 있대요."
+    },
+    {
+      "start": 265.99,
+      "end": 268.75,
+      "text": "나는 임무 중이에요. 라는 뜻입니다."
+    },
+    {
+      "start": 269.29,
+      "end": 274.49,
+      "text": "근데 to show you. 당신에게 보여주려는 임무를 수행 중이래요."
+    },
+    {
+      "start": 275.17,
+      "end": 277.65,
+      "text": "What you've been missing. 이라고 했으니까"
+    },
+    {
+      "start": 277.65,
+      "end": 283.67,
+      "text": "당신이 무엇을 놓치고 있는지 보여주려는 임무 중이에요. 라고 해석하면 돼요."
+    },
+    {
+      "start": 283.67,
+      "end": 287.27,
+      "text": "Maybe I'm on a mission to show you what you've been missing."
+    },
+    {
+      "start": 288.01,
+      "end": 288.73,
+      "text": "잘 해석되시죠?"
+    },
+    {
+      "start": 289.53,
+      "end": 290.91,
+      "text": "And no, I don't."
+    },
+    {
+      "start": 291.35,
+      "end": 293.89,
+      "text": "No, I don't wanna waste your time."
+    },
+    {
+      "start": 294.29,
+      "end": 295.65,
+      "text": "이어지는 소절이었습니다."
+    },
+    {
+      "start": 296.35,
+      "end": 298.19,
+      "text": "아니요. 아니에요. 아니에요."
+    },
+    {
+      "start": 298.45,
+      "end": 299.53,
+      "text": "이 정도로 해석이 되고"
+    },
+    {
+      "start": 299.53,
+      "end": 300.41,
+      "text": "앞부분은"
+    },
+    {
+      "start": 300.41,
+      "end": 303.25,
+      "text": "I don't wanna waste your time. 이라고 했으니까"
+    },
+    {
+      "start": 303.25,
+      "end": 307.61,
+      "text": "나는 당신의 시간을 낭비하고 싶지 않다. 라는 미션 문장입니다."
+    },
+    {
+      "start": 307.61,
+      "end": 309.31,
+      "text": "I don't wanna waste your time."
+    },
+    {
+      "start": 309.57,
+      "end": 311.31,
+      "text": "I don't wanna waste your time."
+    },
+    {
+      "start": 311.85,
+      "end": 313.81,
+      "text": "어렵지 않게 표현하실 수 있을 거예요."
+    },
+    {
+      "start": 314.61,
+      "end": 316.43,
+      "text": "Show you all my love."
+    },
+    {
+      "start": 316.93,
+      "end": 318.83,
+      "text": "당신의 시간을 낭비하고 싶지 않고"
+    },
+    {
+      "start": 318.83,
+      "end": 319.97,
+      "text": "뭘 하고 싶다고요?"
+    },
+    {
+      "start": 320.37,
+      "end": 322.57,
+      "text": "I wanna show you all my love."
+    },
+    {
+      "start": 322.99,
+      "end": 323.51,
+      "text": "이 말이겠죠?"
+    },
+    {
+      "start": 323.51,
+      "end": 326.99,
+      "text": "당신에게 내 모든 사랑을 보여주고 싶어요."
+    },
+    {
+      "start": 327.81,
+      "end": 330.75,
+      "text": "Show you how it's meant to be. 라고 했습니다."
+    },
+    {
+      "start": 331.31,
+      "end": 335.01,
+      "text": "여기서의 이 meant to be 라고 구를 먼저 들어보셨는데"
+    },
+    {
+      "start": 335.01,
+      "end": 340.47,
+      "text": "운명처럼 정해진 혹은 원래 그래야 하는 정도로 해석이 되잖아요."
+    },
+    {
+      "start": 341.17,
+      "end": 342.89,
+      "text": "How it's meant to be. 라고 했으니까"
+    },
+    {
+      "start": 342.89,
+      "end": 346.49,
+      "text": "그게 원래 어떤 식이어야 하는지"
+    },
+    {
+      "start": 346.49,
+      "end": 349.77,
+      "text": "이렇게 이 덩어리 부분을 해석을 할 수가 있습니다."
+    },
+    {
+      "start": 349.77,
+      "end": 354.13,
+      "text": "그럼 I wanna show you how it's meant to be."
+    },
+    {
+      "start": 354.33,
+      "end": 356.47,
+      "text": "이 전체 문장이라고 생각할 수 있죠."
+    },
+    {
+      "start": 357.11,
+      "end": 362.05,
+      "text": "사랑이 원래 어떤 식이어야 하는지 보여주고 싶어요."
+    },
+    {
+      "start": 362.37,
+      "end": 363.27,
+      "text": "라는 가사였어요."
+    },
+    {
+      "start": 363.59,
+      "end": 363.97,
+      "text": "이해되시죠?"
+    },
+    {
+      "start": 364.63,
+      "end": 369.05,
+      "text": "그 다음에 some are e-s-p-e-c-t. 라고"
+    },
+    {
+      "start": 369.05,
+      "end": 372.97,
+      "text": "철자를 이렇게 또박또박 읽어줬습니다."
+    },
+    {
+      "start": 373.87,
+      "end": 376.65,
+      "text": "are e-s-p-e-c-t. 뭘까요?"
+    },
+    {
+      "start": 377.29,
+      "end": 378.45,
+      "text": "respect. 맞아요."
+    },
+    {
+      "start": 378.45,
+      "end": 381.51,
+      "text": "존중도 보여주고 싶어요."
+    },
+    {
+      "start": 381.93,
+      "end": 383.47,
+      "text": "라는 말로 마무리가 되었어요."
+    },
+    {
+      "start": 384.25,
+      "end": 385.45,
+      "text": "이제 세 번째 미션 문장."
+    },
+    {
+      "start": 386.35,
+      "end": 389.37,
+      "text": "지금이 이걸 할 적절한 때여야 해요."
+    },
+    {
+      "start": 389.49,
+      "end": 390.67,
+      "text": "라는 가사 찾아보세요."
+    },
+    {
+      "start": 414.81,
+      "end": 418.63,
+      "text": "템포가 우리가 또렷하게 듣기에 아주 좋았죠."
+    },
+    {
+      "start": 419.21,
+      "end": 422.85,
+      "text": "This has to be the right time to do this."
+    },
+    {
+      "start": 423.29,
+      "end": 426.01,
+      "text": "첫 소절에서 정답을 찾으셔야 하겠죠."
+    },
+    {
+      "start": 426.01,
+      "end": 429.57,
+      "text": "This has to be the right time to do this."
+    },
+    {
+      "start": 429.57,
+      "end": 433.31,
+      "text": "지금이 이걸 할 적절한 때여야 한다."
+    },
+    {
+      "start": 433.81,
+      "end": 434.91,
+      "text": "라는 미션 문장입니다."
+    },
+    {
+      "start": 435.59,
+      "end": 439.03,
+      "text": "This has to be the right time to do this."
+    },
+    {
+      "start": 439.39,
+      "end": 443.61,
+      "text": "This라는 것이 상황상 love를 지칭하겠죠."
+    },
+    {
+      "start": 444.11,
+      "end": 447.11,
+      "text": "그래서 지금이 사랑을 할 적절한 때여야 한다."
+    },
+    {
+      "start": 447.47,
+      "end": 448.35,
+      "text": "라는 가사였어요."
+    },
+    {
+      "start": 448.35,
+      "end": 452.97,
+      "text": "I want to know you're in it for my whole life."
+    },
+    {
+      "start": 452.97,
+      "end": 457.21,
+      "text": "이 부분 당신이 for my whole life."
+    },
+    {
+      "start": 457.41,
+      "end": 462.09,
+      "text": "내 평생도록 함께 할 건지를 알고 싶다."
+    },
+    {
+      "start": 462.31,
+      "end": 463.63,
+      "text": "라는 해석이 가능하거든요."
+    },
+    {
+      "start": 463.63,
+      "end": 467.29,
+      "text": "You're in it 이라는 소절이 들렸는데"
+    },
+    {
+      "start": 467.29,
+      "end": 469.59,
+      "text": "당신이 뭔가에 진심이다."
+    },
+    {
+      "start": 469.89,
+      "end": 471.45,
+      "text": "혹은 어디에 마음이 있다."
+    },
+    {
+      "start": 471.71,
+      "end": 472.15,
+      "text": "라고 할 때"
+    },
+    {
+      "start": 472.15,
+      "end": 473.83,
+      "text": "You're in it."
+    },
+    {
+      "start": 474.25,
+      "end": 476.59,
+      "text": "You're in this relationship."
+    },
+    {
+      "start": 477.15,
+      "end": 479.11,
+      "text": "이런 식으로 응용을 하실 수가 있습니다."
+    },
+    {
+      "start": 479.75,
+      "end": 481.55,
+      "text": "질문의 문장을 만들어 본다면"
+    },
+    {
+      "start": 481.55,
+      "end": 483.25,
+      "text": "Are you really in it?"
+    },
+    {
+      "start": 483.67,
+      "end": 484.99,
+      "text": "너 진심이야?"
+    },
+    {
+      "start": 485.39,
+      "end": 487.05,
+      "text": "너 정말로 마음에 있는 거야?"
+    },
+    {
+      "start": 487.45,
+      "end": 489.35,
+      "text": "이렇게도 활용을 하시면 좋겠죠."
+    },
+    {
+      "start": 489.99,
+      "end": 490.45,
+      "text": "그러니까"
+    },
+    {
+      "start": 490.45,
+      "end": 493.07,
+      "text": "You're in it for my whole life."
+    },
+    {
+      "start": 493.07,
+      "end": 496.05,
+      "text": "I want to know you're in it for my whole life."
+    },
+    {
+      "start": 496.41,
+      "end": 499.87,
+      "text": "당신이 나의 평생에 함께 할 건지"
+    },
+    {
+      "start": 499.87,
+      "end": 502.93,
+      "text": "그만큼 진심인지를 나는 알고 싶어요."
+    },
+    {
+      "start": 503.25,
+      "end": 504.23,
+      "text": "라고 해석이 되겠죠."
+    },
+    {
+      "start": 505.18,
+      "end": 507.1,
+      "text": "I'm in it for the wrong ride."
+    },
+    {
+      "start": 507.5,
+      "end": 508.26,
+      "text": "그러면서 하는 말이"
+    },
+    {
+      "start": 508.26,
+      "end": 510.76,
+      "text": "I'm in it for the long ride."
+    },
+    {
+      "start": 510.9,
+      "end": 511.26,
+      "text": "라고 했습니다."
+    },
+    {
+      "start": 511.92,
+      "end": 513.98,
+      "text": "나는 오래 갈 생각이에요."
+    },
+    {
+      "start": 514.1,
+      "end": 515.58,
+      "text": "나는 진심이에요."
+    },
+    {
+      "start": 515.88,
+      "end": 517.5,
+      "text": "난 정말로 마음이 있어요."
+    },
+    {
+      "start": 517.9,
+      "end": 519.64,
+      "text": "라고 해석하실 수 있을 거예요."
+    },
+    {
+      "start": 520.02,
+      "end": 522.06,
+      "text": "I'm in it for the long ride."
+    },
+    {
+      "start": 522.58,
+      "end": 522.68,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 523.14,
+      "end": 525.32,
+      "text": "Always be by my side."
+    },
+    {
+      "start": 525.64,
+      "end": 528.1,
+      "text": "그러면서 질문하면서 마무리가 되었죠."
+    },
+    {
+      "start": 528.6,
+      "end": 530.94,
+      "text": "언제나 내 곁에 있어 줄래요?"
+    },
+    {
+      "start": 531.28,
+      "end": 531.84,
+      "text": "라고 했습니다."
+    },
+    {
+      "start": 532.52,
+      "end": 533.82,
+      "text": "그러면 이에 대한 응답으로"
+    },
+    {
+      "start": 533.82,
+      "end": 536.76,
+      "text": "I'll always be by your side."
+    },
+    {
+      "start": 537.12,
+      "end": 538.86,
+      "text": "이런 대답 기대하겠죠."
+    },
+    {
+      "start": 539.74,
+      "end": 542.64,
+      "text": "진중한 사랑을 원하고 있는 모습입니다."
+    },
+    {
+      "start": 542.94,
+      "end": 546.04,
+      "text": "그럼 핵심 표현들 리뷰 타임!"
+    },
+    {
+      "start": 546.04,
+      "end": 549.98,
+      "text": "첫 번째, 난 당신 편이에요."
+    },
+    {
+      "start": 550.7,
+      "end": 552.24,
+      "text": "I'm all for you."
+    },
+    {
+      "start": 552.24,
+      "end": 553.98,
+      "text": "라는 가사 기억하고 계시죠?"
+    },
+    {
+      "start": 554.48,
+      "end": 555.74,
+      "text": "I'm all for you."
+    },
+    {
+      "start": 556.24,
+      "end": 558.52,
+      "text": "대체할 수 있는 문장 뭐가 생각나세요?"
+    },
+    {
+      "start": 559.12,
+      "end": 560.34,
+      "text": "I'm on your side."
+    },
+    {
+      "start": 560.8,
+      "end": 561.78,
+      "text": "물론 가능하고."
+    },
+    {
+      "start": 562.24,
+      "end": 563.24,
+      "text": "I'm here for you."
+    },
+    {
+      "start": 564.24,
+      "end": 565.58,
+      "text": "I've got your back."
+    },
+    {
+      "start": 566.12,
+      "end": 569.9,
+      "text": "이런 거 듣기만 해도 굉장히 든든해지는 문장들이었습니다."
+    },
+    {
+      "start": 569.9,
+      "end": 574.22,
+      "text": "두 번째, 당신 시간을 낭비하고 싶지 않아요."
+    },
+    {
+      "start": 575.36,
+      "end": 577.6,
+      "text": "I don't wanna waste your time."
+    },
+    {
+      "start": 577.72,
+      "end": 577.88,
+      "text": "그렇죠?"
+    },
+    {
+      "start": 578.28,
+      "end": 579.62,
+      "text": "I don't wanna waste your time."
+    },
+    {
+      "start": 579.96,
+      "end": 581.76,
+      "text": "하나도 어려운 단어가 없었어요."
+    },
+    {
+      "start": 582.46,
+      "end": 584.54,
+      "text": "I don't wanna keep you waiting."
+    },
+    {
+      "start": 585.08,
+      "end": 587.46,
+      "text": "이처럼도 표현할 수 있을 것 같습니다."
+    },
+    {
+      "start": 587.46,
+      "end": 592.36,
+      "text": "세 번째, 지금이 이걸 할 적절한 때여야 해요."
+    },
+    {
+      "start": 592.84,
+      "end": 593.54,
+      "text": "이 가사는요?"
+    },
+    {
+      "start": 594.12,
+      "end": 597.86,
+      "text": "This has to be the right time to do this."
+    },
+    {
+      "start": 598.58,
+      "end": 599.9,
+      "text": "네, 이렇게 표현을 했습니다."
+    },
+    {
+      "start": 600.7,
+      "end": 602.6,
+      "text": "This must be the right moment."
+    },
+    {
+      "start": 603.06,
+      "end": 606.06,
+      "text": "네, 이렇게 좀 더 간결하게도 표현할 수 있겠고"
+    },
+    {
+      "start": 606.06,
+      "end": 608.32,
+      "text": "I think it's time to do this."
+    },
+    {
+      "start": 608.8,
+      "end": 610.3,
+      "text": "이처럼도 표현할 수 있겠죠."
+    },
+    {
+      "start": 610.98,
+      "end": 613.48,
+      "text": "네, 편한 식으로 표현해 주시면 좋겠습니다."
+    },
+    {
+      "start": 614.28,
+      "end": 616.18,
+      "text": "그럼 리듬 타면서 복습해 볼게요."
+    },
+    {
+      "start": 616.18,
+      "end": 625.15,
+      "text": "첫 번째, 난 당신 편이에요."
+    },
+    {
+      "start": 626.11,
+      "end": 627.37,
+      "text": "I'm all for you."
+    },
+    {
+      "start": 628.22,
+      "end": 629.76,
+      "text": "I'm all for you."
+    },
+    {
+      "start": 630.47,
+      "end": 631.95,
+      "text": "I'm all for you."
+    },
+    {
+      "start": 632.17,
+      "end": 636.05,
+      "text": "두 번째, 당신 시간을 낭비하고 싶지 않아요."
+    },
+    {
+      "start": 637.82,
+      "end": 639.5,
+      "text": "I don't wanna waste your time."
+    },
+    {
+      "start": 640.22,
+      "end": 641.96,
+      "text": "I don't wanna waste your time."
+    },
+    {
+      "start": 642.54,
+      "end": 644.22,
+      "text": "I don't wanna waste your time."
+    },
+    {
+      "start": 644.82,
+      "end": 648.18,
+      "text": "세 번째, 지금이 이걸 할 적절한 때여야 해요."
+    },
+    {
+      "start": 648.6,
+      "end": 652.42,
+      "text": "This has to be the right time to do this."
+    },
+    {
+      "start": 652.42,
+      "end": 657.12,
+      "text": "This has to be the right time to do this."
+    },
+    {
+      "start": 658.7,
+      "end": 661.78,
+      "text": "This has to be the right time to do this."
+    },
+    {
+      "start": 663.47,
+      "end": 665.61,
+      "text": "네, 자신감 있게 외쳐보셨나요?"
+    },
+    {
+      "start": 666.25,
+      "end": 670.37,
+      "text": "굿모닝 팝스 다시 듣기는 KBS 애플리케이션 콩 오리지널 탭과"
+    },
+    {
+      "start": 670.37,
+      "end": 673.09,
+      "text": "KBS 콩 유튜브로 다시 들으실 수 있습니다."
+    },
+    {
+      "start": 673.85,
+      "end": 676.07,
+      "text": "굿모닝 팝스, 저는 조정현이었습니다."
+    },
+    {
+      "start": 676.07,
+      "end": 677.45,
+      "text": "Have a happy day!"
+    }
+  ]
+}
