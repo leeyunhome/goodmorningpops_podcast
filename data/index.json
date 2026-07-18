@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-18T22:15:18",
-  "count": 428,
+  "generated_at": "2026-07-18T22:16:09",
+  "count": 429,
   "episodes": [
+    {
+      "id": "2026-07-14_pop_song",
+      "date": "2026-07-14",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Good Lovin' - Golda",
+      "movie": "",
+      "duration_sec": 680.36,
+      "audio_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/2026-07-14_pop_song.mp3",
+      "artwork_generated_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/artwork/2026-07-14_pop_song.jpg"
+    },
     {
       "id": "2026-07-13_pop_song",
       "date": "2026-07-13",
