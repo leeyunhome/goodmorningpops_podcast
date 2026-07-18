@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-12T22:22:05",
-  "count": 427,
+  "generated_at": "2026-07-18T22:15:18",
+  "count": 428,
   "episodes": [
+    {
+      "id": "2026-07-13_pop_song",
+      "date": "2026-07-13",
+      "corner": "pop_song",
+      "corner_label": "Pop Song",
+      "title": "Mixer - Amber Mark",
+      "movie": "",
+      "duration_sec": 691.66,
+      "audio_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/2026-07-13_pop_song.mp3",
+      "artwork_generated_url": "https://pub-7f9ded590f88439d8f48752f6639e723.r2.dev/artwork/2026-07-13_pop_song.jpg"
+    },
     {
       "id": "2026-07-10_pop_song",
       "date": "2026-07-10",
