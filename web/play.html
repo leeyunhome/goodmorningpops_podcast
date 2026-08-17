@@ -8,6 +8,22 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <a href="https://leeyunhome.github.io/" class="lyh-hub-back" aria-label="프로젝트 허브로 돌아가기">← 허브</a>
+  <style>
+    .lyh-hub-back{display:none}
+    @media (max-width:700px){
+      .lyh-hub-back{
+        display:inline-flex;align-items:center;gap:4px;
+        position:fixed;top:10px;left:10px;z-index:9999;
+        background:rgba(15,17,23,.85);color:#e2e6f0;
+        font:600 12px/1 -apple-system,'Segoe UI',sans-serif;
+        padding:6px 12px;border-radius:20px;
+        border:1px solid rgba(255,255,255,.15);
+        text-decoration:none;-webkit-backdrop-filter:blur(4px);backdrop-filter:blur(4px);
+      }
+    }
+  </style>
+
   <div class="loader" id="loader">
     <div class="spinner"></div>
     <div style="font-size:16px; color: var(--text-dim)">로딩 중...</div>
